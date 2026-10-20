@@ -3,6 +3,138 @@
   "features": [
     {
       "type": "Feature",
+      "id": "usgs_us6000u3kg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5173,
+          18.8377
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_x5r",
+        "geohash": "x5r7p",
+        "title": "M 4.9 - Pagan region, Northern Mariana Islands",
+        "country": "Northern Mariana Islands",
+        "magnitude": 4.9,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-20T07:09:08.960000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u3ka",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.6436,
+          37.9037
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_wns",
+        "geohash": "wnsp8",
+        "title": "M 5.1 - 263 km WSW of Yanglong, China",
+        "country": "China",
+        "magnitude": 5.1,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-20T06:41:23.116000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u3k5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.5874,
+          -13.857
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_rtt",
+        "geohash": "rttc0",
+        "title": "M 5.2 - 206 km NW of Port-Olry, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 5.2,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-20T06:29:22.432000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u3k7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5048,
+          11.7067
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_wf1",
+        "geohash": "wf14x",
+        "title": "M 4.6 - 7 km SE of San Julian, Philippines",
+        "country": "Philippines",
+        "magnitude": 4.6,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-20T06:04:19.173000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u3jl",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.5892,
+          -13.9906
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "severe",
+        "cluster_id": "cluster_eq_rtt",
+        "geohash": "rttb2",
+        "title": "M 6.3 - 197 km NW of Port-Olry, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 6.3,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-20T04:20:38.737000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u3jd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0345,
+          18.2529
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_x5p",
+        "geohash": "x5pzg",
+        "title": "M 5.0 - Pagan region, Northern Mariana Islands",
+        "country": "Northern Mariana Islands",
+        "magnitude": 5.0,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-20T02:54:15.972000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_5ca01703b517515e",
       "geometry": {
         "type": "Point",

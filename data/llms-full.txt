@@ -1,7 +1,55 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-10-20T02:31:08.858434+00:00
+Generated: 2026-10-20T09:02:10.004011+00:00
 
 ## Active Incident Telemetry
+### [EARTHQUAKE] M 4.9 - Pagan region, Northern Mariana Islands
+- **Cluster ID:** `cluster_eq_x5r` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** Pagan region, Northern Mariana Islands (Northern Mariana Islands) | Geohash: `x5r7p`
+- **Coordinates:** `[18.8377, 145.5173]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 250.025 km: Pagan region, Northern Mariana Islands.
+
+### [EARTHQUAKE] M 5.1 - 263 km WSW of Yanglong, China
+- **Cluster ID:** `cluster_eq_wns` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 263 km WSW of Yanglong, China (China) | Geohash: `wnsp8`
+- **Coordinates:** `[37.9037, 95.6436]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.1 earthquake occurred at a depth of 10 km: 263 km WSW of Yanglong, China.
+
+### [EARTHQUAKE] M 5.2 - 206 km NW of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 206 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rttc0`
+- **Coordinates:** `[-13.857, 165.5874]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.2 earthquake occurred at a depth of 10 km: 206 km NW of Port-Olry, Vanuatu.
+
+### [EARTHQUAKE] M 4.6 - 7 km SE of San Julian, Philippines
+- **Cluster ID:** `cluster_eq_wf1` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 7 km SE of San Julian, Philippines (Philippines) | Geohash: `wf14x`
+- **Coordinates:** `[11.7067, 125.5048]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 10 km: 7 km SE of San Julian, Philippines.
+
+### [EARTHQUAKE] M 6.3 - 197 km NW of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `severe` | **Phase:** `escalating`
+- **Location:** 197 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rttb2`
+- **Coordinates:** `[-13.9906, 165.5892]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 6.3 earthquake occurred at a depth of 16 km: 197 km NW of Port-Olry, Vanuatu.
+
+### [EARTHQUAKE] M 5.0 - Pagan region, Northern Mariana Islands
+- **Cluster ID:** `cluster_eq_x5p` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** Pagan region, Northern Mariana Islands (Northern Mariana Islands) | Geohash: `x5pzg`
+- **Coordinates:** `[18.2529, 146.0345]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.0 earthquake occurred at a depth of 129.361 km: Pagan region, Northern Mariana Islands.
+
 ### [CYCLONE] Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.29 million .
 - **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `emerging`
 - **Location:** Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.29 million . (Global) | Geohash: `00000`

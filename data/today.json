@@ -1,10 +1,256 @@
 {
   "metadata": {
-    "generated_at": "2026-10-20T02:31:08.857991+00:00",
-    "total_active_events": 1,
+    "generated_at": "2026-10-20T09:02:10.003216+00:00",
+    "total_active_events": 7,
     "schema_version": "2.1.0"
   },
   "events": [
+    {
+      "event_id": "usgs_us6000u3kg",
+      "cluster_id": "cluster_eq_x5r",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.9 - Pagan region, Northern Mariana Islands",
+      "summary": "A magnitude 4.9 earthquake occurred at a depth of 250.025 km: Pagan region, Northern Mariana Islands.",
+      "metrics": {
+        "magnitude": 4.9,
+        "depth_km": 250.025,
+        "wind_speed_kmh": null,
+        "alert_score": 5.88
+      },
+      "location": {
+        "country": "Northern Mariana Islands",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Pagan region, Northern Mariana Islands",
+        "latitude": 18.8377,
+        "longitude": 145.5173,
+        "geohash": "x5r7p"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T07:09:08.960000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3kg",
+          "retrieved_at": "2026-10-20T08:59:55.767250+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3ka",
+      "cluster_id": "cluster_eq_wns",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.1 - 263 km WSW of Yanglong, China",
+      "summary": "A magnitude 5.1 earthquake occurred at a depth of 10 km: 263 km WSW of Yanglong, China.",
+      "metrics": {
+        "magnitude": 5.1,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.119999999999999
+      },
+      "location": {
+        "country": "China",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "263 km WSW of Yanglong, China",
+        "latitude": 37.9037,
+        "longitude": 95.6436,
+        "geohash": "wnsp8"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T06:41:23.116000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ka",
+          "retrieved_at": "2026-10-20T08:59:55.767393+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3k5",
+      "cluster_id": "cluster_eq_rtt",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.2 - 206 km NW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 5.2 earthquake occurred at a depth of 10 km: 206 km NW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 5.2,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.24
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "206 km NW of Port-Olry, Vanuatu",
+        "latitude": -13.857,
+        "longitude": 165.5874,
+        "geohash": "rttc0"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T06:29:22.432000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3k5",
+          "retrieved_at": "2026-10-20T08:59:55.767429+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3k7",
+      "cluster_id": "cluster_eq_wf1",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.6 - 7 km SE of San Julian, Philippines",
+      "summary": "A magnitude 4.6 earthquake occurred at a depth of 10 km: 7 km SE of San Julian, Philippines.",
+      "metrics": {
+        "magnitude": 4.6,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.52
+      },
+      "location": {
+        "country": "Philippines",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "7 km SE of San Julian, Philippines",
+        "latitude": 11.7067,
+        "longitude": 125.5048,
+        "geohash": "wf14x"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T06:04:19.173000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3k7",
+          "retrieved_at": "2026-10-20T08:59:55.767457+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3jl",
+      "cluster_id": "cluster_eq_rtt",
+      "lifecycle_phase": "escalating",
+      "event_type": "earthquake",
+      "severity_level": "severe",
+      "title": "M 6.3 - 197 km NW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 6.3 earthquake occurred at a depth of 16 km: 197 km NW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 6.3,
+        "depth_km": 16.0,
+        "wind_speed_kmh": null,
+        "alert_score": 7.56
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "197 km NW of Port-Olry, Vanuatu",
+        "latitude": -13.9906,
+        "longitude": 165.5892,
+        "geohash": "rttb2"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T04:20:38.737000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jl",
+          "retrieved_at": "2026-10-20T08:59:55.767489+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3jd",
+      "cluster_id": "cluster_eq_x5p",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.0 - Pagan region, Northern Mariana Islands",
+      "summary": "A magnitude 5.0 earthquake occurred at a depth of 129.361 km: Pagan region, Northern Mariana Islands.",
+      "metrics": {
+        "magnitude": 5.0,
+        "depth_km": 129.361,
+        "wind_speed_kmh": null,
+        "alert_score": 6.0
+      },
+      "location": {
+        "country": "Northern Mariana Islands",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Pagan region, Northern Mariana Islands",
+        "latitude": 18.2529,
+        "longitude": 146.0345,
+        "geohash": "x5pzg"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T02:54:15.972000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jd",
+          "retrieved_at": "2026-10-20T08:59:55.767516+00:00"
+        }
+      ]
+    },
     {
       "event_id": "gdacs_5ca01703b517515e",
       "cluster_id": "cluster_cyclone_000",
