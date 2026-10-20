@@ -1,8 +1,1648 @@
 {
   "archive_date": "2026-10-20",
-  "total_incidents": 7,
-  "updated_at": "2026-10-20T09:02:10.007014+00:00",
+  "total_incidents": 47,
+  "updated_at": "2026-10-20T15:59:51.946661+00:00",
   "events": [
+    {
+      "event_id": "gdacs_22a1300138335428",
+      "cluster_id": "cluster_earthquake_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].",
+      "summary": "On 10/20/2026 4:20:38 AM, an earthquake occurred in Vanuatu Islands potentially affecting [unknown]. The earthquake had Magnitude 6.3M, Depth:16km.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1572693",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_319c25d29bb083fd",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 19/10/2026, a forest fire started in Australia,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032959",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_e7373e91fcefc948",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 19/10/2026, a forest fire started in Australia,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032960",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_b8dc8a18d7af0fbb",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 19/10/2026, a forest fire started in Australia,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032956",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_8a9462c86e157bdf",
+      "cluster_id": "cluster_flood_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "flood",
+      "severity_level": "moderate",
+      "title": "Green flood alert in South Korea",
+      "summary": "On 18/10/2026, a flood started in South Korea, lasting until 20/10/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green flood alert in South Korea",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104240",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_ff71ca6c8c98b361",
+      "cluster_id": "cluster_flood_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "flood",
+      "severity_level": "moderate",
+      "title": "Green flood alert in Thailand",
+      "summary": "On 18/10/2026, a flood started in Thailand, lasting until 20/10/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green flood alert in Thailand",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104241",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_2ed494600e836cb6",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 18/10/2026, a forest fire started in Australia,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032961",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_72e3c4f0b2f32b82",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 18/10/2026, a forest fire started in Australia,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032968",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_595d4422e56c05e8",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Nigeria",
+      "summary": "On 18/10/2026, a forest fire started in Nigeria,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Nigeria",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032969",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_8ee0e9396d134f1b",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 17/10/2026, a forest fire started in Australia,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032962",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_eac70c0d3b91a196",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 17/10/2026, a forest fire started in Australia,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032963",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_01165598e593f4bb",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 17/10/2026, a forest fire started in Australia,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032964",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_903e662c1cc3090d",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Mozambique, Zambia",
+      "summary": "On 16/10/2026, a forest fire started in Mozambique, Zambia,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Mozambique, Zambia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032957",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_2e98b93ad4854dcb",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 16/10/2026, a forest fire started in Australia,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032965",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_a65908aa4d0e4d88",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 16/10/2026, a forest fire started in Australia,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032970",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_bdc788a0ad1258f2",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 15/10/2026, a forest fire started in Australia,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032966",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_6efa5e86ead41ca0",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Botswana, South Africa",
+      "summary": "On 15/10/2026, a forest fire started in Botswana, South Africa,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Botswana, South Africa",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032943",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_7c52a45a8f451a0e",
+      "cluster_id": "cluster_cyclone_000",
+      "lifecycle_phase": "emerging",
+      "event_type": "cyclone",
+      "severity_level": "catastrophic",
+      "title": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 7.339 million .",
+      "summary": "From 14/10/2026 to 20/10/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 287 km/h) CHAMPI-26 was active in NWPacific. The cyclone affects these countries: Guam, Northern Mariana Islands, Japan (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 7.339 million .",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 7.339 million .",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001338",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_8d17fd2fddaf1c2b",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 14/10/2026, a forest fire started in Australia,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032967",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_0ec3351e2aba0ef9",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Madagascar",
+      "summary": "On 14/10/2026, a forest fire started in Madagascar,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Madagascar",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032971",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_c58b2704aa391f33",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Chad",
+      "summary": "On 14/10/2026, a forest fire started in Chad,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Chad",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032958",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_095170dcbc33d452",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Indonesia",
+      "summary": "On 13/10/2026, a forest fire started in Indonesia,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Indonesia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032972",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_514e9bb49a4fc341",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 10/10/2026, a forest fire started in Australia,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032973",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_d5852494d0d784bb",
+      "cluster_id": "cluster_flood_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "flood",
+      "severity_level": "moderate",
+      "title": "Green flood alert in Costa Rica",
+      "summary": "On 09/10/2026, a flood started in Costa Rica, lasting until 20/10/2026 (last update). The flood caused 0 deaths and 27 displaced .",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green flood alert in Costa Rica",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104227",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_9c7842004762b74e",
+      "cluster_id": "cluster_flood_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "flood",
+      "severity_level": "moderate",
+      "title": "Green flood alert in Italy",
+      "summary": "On 07/10/2026, a flood started in Italy, lasting until 20/10/2026 (last update). The flood caused 0 deaths and 205 displaced .",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green flood alert in Italy",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104220",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_78256dd4a2d44dd2",
+      "cluster_id": "cluster_flood_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "flood",
+      "severity_level": "moderate",
+      "title": "Green flood alert in Ecuador",
+      "summary": "On 15/09/2026, a flood started in Ecuador, lasting until 20/10/2026 (last update). The flood caused 6 deaths and 7 displaced .",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green flood alert in Ecuador",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104167",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_8cc48e47a6ca00f4",
+      "cluster_id": "cluster_flood_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "flood",
+      "severity_level": "moderate",
+      "title": "Green flood alert in Mexico",
+      "summary": "On 17/08/2026, a flood started in Mexico, lasting until 18/10/2026 (last update). The flood caused 22 deaths and 1904 displaced .",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green flood alert in Mexico",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104099",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_0313ced00ad07fdb",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "emerging",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Drought is on going in Democratic Republic of Congo, Central African Republic, Cameroon, Eritrea, Ethiopia, Niger, Nigeria, Sudan, South Sudan, Chad",
+      "summary": "The  Drought notification level is Orange.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Drought is on going in Democratic Republic of Congo, Central African Republic, Cameroon, Eritrea, Ethiopia, Niger, Nigeria, Sudan, South Sudan, Chad",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1027450",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_2f21a376d3cbf0e4",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "emerging",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Drought is on going in China, Kazakhstan, Mongolia",
+      "summary": "The  Drought notification level is Green.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Drought is on going in China, Kazakhstan, Mongolia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1027491",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_97db4e4b3874845e",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "emerging",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Drought is on going in Burundi, Democratic Republic of Congo, Kenya, Rwanda, Tanzania, Uganda",
+      "summary": "The  Drought notification level is Orange.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Drought is on going in Burundi, Democratic Republic of Congo, Kenya, Rwanda, Tanzania, Uganda",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1027465",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_0e09966879a6057b",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "emerging",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Drought is on going in The Bahamas, Belize, Costa Rica, Cuba, Dominican Republic, Guatemala, Honduras, Haiti, Mexico, Nicaragua, El Salvador, United States",
+      "summary": "The  Drought notification level is Orange.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Drought is on going in The Bahamas, Belize, Costa Rica, Cuba, Dominican Republic, Guatemala, Honduras, Haiti, Mexico, Nicaragua, El Salvador, United States",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1027449",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_7c621a4e03240886",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "emerging",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Drought is on going in Brunei, Indonesia, Cambodia, Malaysia, Papua New Guinea, Philippines",
+      "summary": "The  Drought notification level is Green.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Drought is on going in Brunei, Indonesia, Cambodia, Malaysia, Papua New Guinea, Philippines",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018545",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_d9aa27e6baca4dcc",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "emerging",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Drought is on going in United States",
+      "summary": "The  Drought notification level is Green.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Drought is on going in United States",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018546",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_c9372022f1918f07",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "emerging",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Drought is on going in Brazil, French Guiana, Suriname",
+      "summary": "The  Drought notification level is Green.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Drought is on going in Brazil, French Guiana, Suriname",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1023877",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_48907dd443be73b3",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "emerging",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Drought is on going in Angola, Democratic Republic of Congo, Republic of Congo",
+      "summary": "The  Drought notification level is Green.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Drought is on going in Angola, Democratic Republic of Congo, Republic of Congo",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018344",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_7ee57d298cbaa238",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "emerging",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Drought is on going in Austria, Bosnia & Herzegovina, Belgium, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Moldova, Montenegro, Netherlands, Poland, Romania, Serbia, Sweden, Slovenia, Slovakia, Ukraine,",
+      "summary": "The  Drought notification level is Orange.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Drought is on going in Austria, Bosnia & Herzegovina, Belgium, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Moldova, Montenegro, Netherlands, Poland, Romania, Serbia, Sweden, Slovenia, Slovakia, Ukraine,",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018332",
+          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3li",
+      "cluster_id": "cluster_eq_rtt",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.9 - 184 km NW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 4.9 earthquake occurred at a depth of 10 km: 184 km NW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 4.9,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.88
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "184 km NW of Port-Olry, Vanuatu",
+        "latitude": -13.991,
+        "longitude": 165.7462,
+        "geohash": "rttb7"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T11:40:10.539000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3li",
+          "retrieved_at": "2026-10-20T15:59:48.144124+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3lf",
+      "cluster_id": "cluster_eq_b3t",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.0 - 81 km S of Sand Point, Alaska",
+      "summary": "A magnitude 5.0 earthquake occurred at a depth of 35 km: 81 km S of Sand Point, Alaska.",
+      "metrics": {
+        "magnitude": 5.0,
+        "depth_km": 35.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.0
+      },
+      "location": {
+        "country": "Alaska",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "81 km S of Sand Point, Alaska",
+        "latitude": 54.6088,
+        "longitude": -160.3291,
+        "geohash": "b3tyx"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T10:40:40.968000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3lf",
+          "retrieved_at": "2026-10-20T15:59:48.144258+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3l3",
+      "cluster_id": "cluster_eq_2j3",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.5 - 100 km SSW of Alo, Wallis and Futuna",
+      "summary": "A magnitude 4.5 earthquake occurred at a depth of 417.492 km: 100 km SSW of Alo, Wallis and Futuna.",
+      "metrics": {
+        "magnitude": 4.5,
+        "depth_km": 417.492,
+        "wind_speed_kmh": null,
+        "alert_score": 5.3999999999999995
+      },
+      "location": {
+        "country": "Wallis and Futuna",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "100 km SSW of Alo, Wallis and Futuna",
+        "latitude": -15.1536,
+        "longitude": -178.4627,
+        "geohash": "2j31f"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T08:58:37.177000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3l3",
+          "retrieved_at": "2026-10-20T15:59:48.144295+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3l0",
+      "cluster_id": "cluster_eq_rtt",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.9 - 199 km NW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 4.9 earthquake occurred at a depth of 10 km: 199 km NW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 4.9,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.88
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "199 km NW of Port-Olry, Vanuatu",
+        "latitude": -13.9692,
+        "longitude": 165.5875,
+        "geohash": "rttb8"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T08:39:56.237000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3l0",
+          "retrieved_at": "2026-10-20T15:59:48.144326+00:00"
+        }
+      ]
+    },
     {
       "event_id": "usgs_us6000u3kg",
       "cluster_id": "cluster_eq_x5r",
