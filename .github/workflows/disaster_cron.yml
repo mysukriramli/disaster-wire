@@ -46,13 +46,13 @@ jobs:
           git config user.name "disaster-wire-bot[bot]"
           git config user.email "disaster-wire-bot@users.noreply.github.com"
           
-          # Stage persistent tracking state, active endpoints, and all historical archives
-          git add data/seen_ids.txt data/today.json data/events.geojson data/llms.txt data/llms-full.txt
-          git add data/archive/
+          # Stage the entire data/ directory safely regardless of what was generated
+          git add -A data/
           
           if git diff --staged --quiet; then
             echo "No changes detected. Skipping commit."
           else
             git commit -m "chore(wire): ingest, publish endpoints, and archive history [skip ci]"
+            git pull --rebase origin main
             git push origin main
           fi
