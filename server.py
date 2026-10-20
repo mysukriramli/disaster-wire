@@ -23,7 +23,6 @@ FALLBACK_URL = "https://raw.githubusercontent.com/mysukriramli/disaster-wire/mai
 
 
 def _load_data() -> dict:
-    """Loads active disaster telemetry from local storage with remote fallback."""
     if os.path.exists(LOCAL_DATA_PATH):
         try:
             with open(LOCAL_DATA_PATH, "r", encoding="utf-8") as f:
@@ -42,7 +41,7 @@ def _load_data() -> dict:
     return {"metadata": {}, "events": []}
 
 
-# --- Tool Execution Implementations ---
+# --- Tool Handlers ---
 
 def execute_list_active_disasters(event_type=None, severity=None, country=None, limit=10) -> str:
     data = _load_data()
@@ -78,7 +77,7 @@ def execute_get_disaster_by_id(event_id: str) -> str:
 
 def execute_find_disasters_near_coordinates(latitude: float, longitude: float, radius_km: float = 500.0) -> str:
     def haversine(lat1, lon1, lat2, lon2):
-        R = 6371.0  # Earth's mean radius in km
+        R = 6371.0
         dlat = math.radians(lat2 - lat1)
         dlon = math.radians(lon2 - lon1)
         a = (math.sin(dlat / 2) ** 2 +
@@ -110,7 +109,7 @@ def execute_find_disasters_near_coordinates(latitude: float, longitude: float, r
     }, indent=2)
 
 
-# --- MCP Tool Registrations (Explicit Protocol Schema) ---
+# --- Explicit Protocol Registrations ---
 
 READ_ONLY_ANNOTATIONS = ToolAnnotations(
     readOnlyHint=True,
@@ -125,11 +124,10 @@ async def list_tools() -> list[Tool]:
         Tool(
             name="list_active_disasters",
             description=(
-                "List and filter active global natural disasters from the rolling 24-48 hour telemetry pool. "
-                "USE this tool to discover ongoing hazards, search by nation or jurisdiction, or filter by hazard type or severity level. "
-                "DO NOT USE this tool if you already possess a specific 'event_id'; use 'get_disaster_by_id' instead. "
-                "DO NOT USE this tool for coordinate-based radial proximity queries; use 'find_disasters_near_coordinates' instead. "
-                "Pure read-only operation with zero side effects. If no incidents match the criteria, returns 'matched_count': 0 with empty 'events': []."
+                "List and filter real-time global natural disasters from the active 24-48 hour monitoring pool. "
+                "Use to discover ongoing hazards, search by nation, or filter by hazard type or severity level. "
+                "Do not use if you already possess a specific event_id (use get_disaster_by_id instead) or to evaluate coordinate proximity (use find_disasters_near_coordinates instead). "
+                "Pure read-only operation with zero side effects. Returns {'matched_count': 0, 'events': []} when no incidents match filter criteria without raising errors."
             ),
             inputSchema={
                 "type": "object",
@@ -137,23 +135,23 @@ async def list_tools() -> list[Tool]:
                     "event_type": {
                         "type": "string",
                         "enum": ["earthquake", "tsunami", "flood", "cyclone", "wildfire", "volcanic_eruption", "severe_weather"],
-                        "description": "Natural hazard category. Allowed values: 'earthquake', 'tsunami', 'flood', 'cyclone', 'wildfire', 'volcanic_eruption', 'severe_weather'. Leave null for all."
+                        "description": "Natural hazard category. Allowed values: 'earthquake', 'tsunami', 'flood', 'cyclone', 'wildfire', 'volcanic_eruption', 'severe_weather'. Default is null (all types)."
                     },
                     "severity": {
                         "type": "string",
                         "enum": ["minor", "moderate", "severe", "catastrophic"],
-                        "description": "Alert severity level. Allowed values: 'minor', 'moderate', 'severe', 'catastrophic'. Leave null for all."
+                        "description": "Alert severity level. Allowed values: 'minor', 'moderate', 'severe', 'catastrophic'. Default is null (all severities)."
                     },
                     "country": {
                         "type": "string",
-                        "description": "Case-insensitive country name substring (e.g., 'Japan', 'Philippines', 'United States'). Leave null for worldwide."
+                        "description": "Case-insensitive country name substring (e.g., 'Japan', 'Philippines', 'United States'). Default is null (worldwide)."
                     },
                     "limit": {
                         "type": "integer",
                         "minimum": 1,
                         "maximum": 50,
                         "default": 10,
-                        "description": "Maximum number of incidents to return in payload (1 to 50, default: 10)."
+                        "description": "Maximum number of disaster records to return in payload (integer between 1 and 50, defaults to 10)."
                     }
                 },
                 "additionalProperties": False
@@ -163,11 +161,10 @@ async def list_tools() -> list[Tool]:
         Tool(
             name="get_disaster_by_id",
             description=(
-                "Retrieve comprehensive telemetry, impact metrics, casualty estimates, and exposed supply chain infrastructure for a specific disaster ID. "
-                "USE exclusively when you already possess a valid 'event_id' from 'list_active_disasters' or 'find_disasters_near_coordinates'. "
-                "DO NOT USE to discover or browse active disasters; call 'list_active_disasters' first. "
-                "DO NOT USE for radial proximity queries; use 'find_disasters_near_coordinates' instead. "
-                "Pure read-only lookup. If 'event_id' is not found, returns an 'error' JSON object without throwing exceptions."
+                "Retrieve comprehensive technical telemetry, impact metrics, casualty estimates, and exposed infrastructure for a specific disaster ID. "
+                "Use exclusively when you already hold a valid event_id obtained from list_active_disasters or find_disasters_near_coordinates. "
+                "Do not use to browse or discover active disasters (use list_active_disasters instead) or for coordinate proximity queries (use find_disasters_near_coordinates instead). "
+                "Pure read-only lookup. If the requested event_id is not in the active pool, returns an {'error': '...'} JSON object without raising exceptions."
             ),
             inputSchema={
                 "type": "object",
@@ -185,12 +182,10 @@ async def list_tools() -> list[Tool]:
         Tool(
             name="find_disasters_near_coordinates",
             description=(
-                "Locate active natural disasters within a radial distance from target latitude and longitude coordinates. "
-                "USE when evaluating geographic hazard exposure for specific facilities, cities, ports, or data centers at known coordinates. "
-                "DO NOT USE for country-wide queries; use 'list_active_disasters' instead. "
-                "DO NOT USE if you already have an 'event_id'; use 'get_disaster_by_id' instead. "
-                "Calculates great-circle distance via Haversine equation. Results are sorted ascending by 'distance_from_query_km'. "
-                "Returns 'matched_count': 0 and empty 'results': [] if no incidents fall within radius."
+                "Locate active natural disasters within a radial distance (km) of target latitude and longitude coordinates. "
+                "Use when evaluating geographic hazard exposure for specific facilities, cities, ports, or data centers at known coordinates. "
+                "Do not use for country-wide or categorical queries (use list_active_disasters instead) or if you already hold an event_id (use get_disaster_by_id instead). "
+                "Calculates great-circle distance via Haversine formula. Results are sorted ascending by distance_from_query_km. Returns {'matched_count': 0, 'results': []} if no incidents fall within radius."
             ),
             inputSchema={
                 "type": "object",
@@ -199,20 +194,20 @@ async def list_tools() -> list[Tool]:
                         "type": "number",
                         "minimum": -90.0,
                         "maximum": 90.0,
-                        "description": "Target location latitude in decimal degrees (-90.0 to 90.0, WGS-84 standard)."
+                        "description": "Target latitude in decimal degrees (-90.0 to 90.0, WGS-84 standard)."
                     },
                     "longitude": {
                         "type": "number",
                         "minimum": -180.0,
                         "maximum": 180.0,
-                        "description": "Target location longitude in decimal degrees (-180.0 to 180.0, WGS-84 standard)."
+                        "description": "Target longitude in decimal degrees (-180.0 to 180.0, WGS-84 standard)."
                     },
                     "radius_km": {
                         "type": "number",
                         "minimum": 1.0,
                         "maximum": 5000.0,
                         "default": 500.0,
-                        "description": "Search perimeter radius in kilometers (km), from 1.0 to 5000.0 (default: 500.0 km)."
+                        "description": "Radial search perimeter measured in kilometers (km) from target coordinates (1.0 to 5000.0, defaults to 500.0 km)."
                     }
                 },
                 "required": ["latitude", "longitude"],
