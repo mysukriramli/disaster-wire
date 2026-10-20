@@ -1,8 +1,1033 @@
 {
   "archive_date": "2026-10-20",
-  "total_incidents": 47,
-  "updated_at": "2026-10-20T15:59:51.946661+00:00",
+  "total_incidents": 74,
+  "updated_at": "2026-10-20T19:53:41.381273+00:00",
   "events": [
+    {
+      "event_id": "gdacs_8ed8fc49a6baea5a",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in South Africa, Mozambique",
+      "summary": "On 18/10/2026, a forest fire started in South Africa, Mozambique,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in South Africa, Mozambique",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T19:53:40.572982+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032974",
+          "retrieved_at": "2026-10-20T19:53:40.572982+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_a573ad1c35a600c5",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Namibia",
+      "summary": "On 18/10/2026, a forest fire started in Namibia,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Namibia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T19:53:40.572982+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032975",
+          "retrieved_at": "2026-10-20T19:53:40.572982+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_46c98cba865c3205",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Nigeria",
+      "summary": "On 17/10/2026, a forest fire started in Nigeria,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Nigeria",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T19:53:40.572982+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032976",
+          "retrieved_at": "2026-10-20T19:53:40.572982+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_66f652e039c4920b",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Sudan",
+      "summary": "On 16/10/2026, a forest fire started in Sudan,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Sudan",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T19:53:40.572982+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032977",
+          "retrieved_at": "2026-10-20T19:53:40.572982+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_292f9b2a4707cdab",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Zimbabwe",
+      "summary": "On 15/10/2026, a forest fire started in Zimbabwe,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Zimbabwe",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T19:53:40.572982+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032978",
+          "retrieved_at": "2026-10-20T19:53:40.572982+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_3f170689083c6fa4",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Zambia",
+      "summary": "On 15/10/2026, a forest fire started in Zambia,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Zambia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T19:53:40.572982+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032979",
+          "retrieved_at": "2026-10-20T19:53:40.572982+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_113d27ee613b258f",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Mozambique",
+      "summary": "On 13/10/2026, a forest fire started in Mozambique,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Mozambique",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T19:53:40.572982+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032980",
+          "retrieved_at": "2026-10-20T19:53:40.572982+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_ce19b72260f96fea",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Zambia",
+      "summary": "On 13/10/2026, a forest fire started in Zambia,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Zambia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T19:53:40.572982+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032981",
+          "retrieved_at": "2026-10-20T19:53:40.572982+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_c47f6918a494f72a",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Zambia, Zimbabwe",
+      "summary": "On 13/10/2026, a forest fire started in Zambia, Zimbabwe,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Zambia, Zimbabwe",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T19:53:40.572982+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032982",
+          "retrieved_at": "2026-10-20T19:53:40.572982+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_ff14de76e18e4c87",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Zambia",
+      "summary": "On 11/10/2026, a forest fire started in Zambia,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Zambia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T19:53:40.572982+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032983",
+          "retrieved_at": "2026-10-20T19:53:40.572982+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_8734d2075ba3da2b",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in South Sudan, Sudan",
+      "summary": "On 11/10/2026, a forest fire started in South Sudan, Sudan,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in South Sudan, Sudan",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T19:53:40.572982+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032984",
+          "retrieved_at": "2026-10-20T19:53:40.572982+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_c830ac8fed315d72",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Mozambique",
+      "summary": "On 10/10/2026, a forest fire started in Mozambique,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Mozambique",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T19:53:40.572982+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032985",
+          "retrieved_at": "2026-10-20T19:53:40.572982+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_bcd4b1c8a70fc0e9",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Madagascar",
+      "summary": "On 10/10/2026, a forest fire started in Madagascar,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Madagascar",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T19:53:40.572982+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032986",
+          "retrieved_at": "2026-10-20T19:53:40.572982+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_faab51e8a47e849c",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Mozambique",
+      "summary": "On 08/10/2026, a forest fire started in Mozambique,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Mozambique",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T19:53:40.572982+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032987",
+          "retrieved_at": "2026-10-20T19:53:40.572982+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_6b7b346b21b474ce",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Zimbabwe, Mozambique",
+      "summary": "On 07/10/2026, a forest fire started in Zimbabwe, Mozambique,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Zimbabwe, Mozambique",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T19:53:40.572982+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032988",
+          "retrieved_at": "2026-10-20T19:53:40.572982+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_9b3e841105776fda",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Mozambique",
+      "summary": "On 07/10/2026, a forest fire started in Mozambique,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Mozambique",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T19:53:40.572982+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032989",
+          "retrieved_at": "2026-10-20T19:53:40.572982+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_f53f27da5534bdb4",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Mozambique",
+      "summary": "On 07/10/2026, a forest fire started in Mozambique,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Mozambique",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T19:53:40.572982+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032990",
+          "retrieved_at": "2026-10-20T19:53:40.572982+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_a9d35e2a2d2c23b3",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Mozambique",
+      "summary": "On 07/10/2026, a forest fire started in Mozambique,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Mozambique",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T19:53:40.572982+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032991",
+          "retrieved_at": "2026-10-20T19:53:40.572982+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_7aeff62a50ed0fce",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Mozambique",
+      "summary": "On 06/10/2026, a forest fire started in Mozambique,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Mozambique",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T19:53:40.572982+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032992",
+          "retrieved_at": "2026-10-20T19:53:40.572982+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_c3879a49b9d1474e",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Mozambique",
+      "summary": "On 06/10/2026, a forest fire started in Mozambique,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Mozambique",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T19:53:40.572982+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032993",
+          "retrieved_at": "2026-10-20T19:53:40.572982+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3p1",
+      "cluster_id": "cluster_eq_eqt",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.1 - 39 km W of Mosteiros, Portugal",
+      "summary": "A magnitude 5.1 earthquake occurred at a depth of 10 km: 39 km W of Mosteiros, Portugal.",
+      "metrics": {
+        "magnitude": 5.1,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.119999999999999
+      },
+      "location": {
+        "country": "Portugal",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "39 km W of Mosteiros, Portugal",
+        "latitude": 37.9575,
+        "longitude": -26.2588,
+        "geohash": "eqtrf"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T18:07:18.131000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3p1",
+          "retrieved_at": "2026-10-20T19:53:38.105475+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3nn",
+      "cluster_id": "cluster_eq_d1j",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.5 - 215 km S of Burica, Panama",
+      "summary": "A magnitude 4.5 earthquake occurred at a depth of 10 km: 215 km S of Burica, Panama.",
+      "metrics": {
+        "magnitude": 4.5,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.3999999999999995
+      },
+      "location": {
+        "country": "Panama",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "215 km S of Burica, Panama",
+        "latitude": 6.0926,
+        "longitude": -82.6622,
+        "geohash": "d1j4w"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T17:18:36.707000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nn",
+          "retrieved_at": "2026-10-20T19:53:38.105625+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3nl",
+      "cluster_id": "cluster_eq_d1j",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.4 - 192 km S of Burica, Panama",
+      "summary": "A magnitude 5.4 earthquake occurred at a depth of 10 km: 192 km S of Burica, Panama.",
+      "metrics": {
+        "magnitude": 5.4,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.48
+      },
+      "location": {
+        "country": "Panama",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "192 km S of Burica, Panama",
+        "latitude": 6.3226,
+        "longitude": -82.5693,
+        "geohash": "d1j7c"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T17:05:48.338000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nl",
+          "retrieved_at": "2026-10-20T19:53:38.105699+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3nd",
+      "cluster_id": "cluster_eq_25d",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.8 - south of the Fiji Islands",
+      "summary": "A magnitude 4.8 earthquake occurred at a depth of 109.548 km: south of the Fiji Islands.",
+      "metrics": {
+        "magnitude": 4.8,
+        "depth_km": 109.548,
+        "wind_speed_kmh": null,
+        "alert_score": 5.76
+      },
+      "location": {
+        "country": "south of the Fiji Islands",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "south of the Fiji Islands",
+        "latitude": -24.1803,
+        "longitude": -177.0103,
+        "geohash": "25dnk"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T16:29:43.678000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nd",
+          "retrieved_at": "2026-10-20T19:53:38.105753+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3nc",
+      "cluster_id": "cluster_eq_w0s",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.0 - 21 km SW of Meulaboh, Indonesia",
+      "summary": "A magnitude 5.0 earthquake occurred at a depth of 75.876 km: 21 km SW of Meulaboh, Indonesia.",
+      "metrics": {
+        "magnitude": 5.0,
+        "depth_km": 75.876,
+        "wind_speed_kmh": null,
+        "alert_score": 6.0
+      },
+      "location": {
+        "country": "Indonesia",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "21 km SW of Meulaboh, Indonesia",
+        "latitude": 4.0005,
+        "longitude": 95.993,
+        "geohash": "w0sqb"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T16:29:38.818000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nc",
+          "retrieved_at": "2026-10-20T19:53:38.105804+00:00"
+        }
+      ]
+    },
     {
       "event_id": "gdacs_22a1300138335428",
       "cluster_id": "cluster_earthquake_000",
@@ -1476,6 +2501,88 @@
           "source_name": "GDACS",
           "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018332",
           "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3m7",
+      "cluster_id": "cluster_eq_rrh",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.5 - 111 km S of Kokopo, Papua New Guinea",
+      "summary": "A magnitude 4.5 earthquake occurred at a depth of 57.367 km: 111 km S of Kokopo, Papua New Guinea.",
+      "metrics": {
+        "magnitude": 4.5,
+        "depth_km": 57.367,
+        "wind_speed_kmh": null,
+        "alert_score": 5.3999999999999995
+      },
+      "location": {
+        "country": "Papua New Guinea",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "111 km S of Kokopo, Papua New Guinea",
+        "latitude": -5.3459,
+        "longitude": 152.1448,
+        "geohash": "rrh1w"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T14:20:49.305000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3m7",
+          "retrieved_at": "2026-10-20T19:53:38.105886+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3lx",
+      "cluster_id": "cluster_eq_rp7",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.5 - 142 km SSW of Abepura, Indonesia",
+      "summary": "A magnitude 4.5 earthquake occurred at a depth of 10 km: 142 km SSW of Abepura, Indonesia.",
+      "metrics": {
+        "magnitude": 4.5,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.3999999999999995
+      },
+      "location": {
+        "country": "Indonesia",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "142 km SSW of Abepura, Indonesia",
+        "latitude": -3.7134,
+        "longitude": 139.9987,
+        "geohash": "rp7dc"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T13:27:24.320000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3lx",
+          "retrieved_at": "2026-10-20T19:53:38.105941+00:00"
         }
       ]
     },
