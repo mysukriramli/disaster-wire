@@ -2,17 +2,18 @@ name: Autonomous Disaster Intelligence Cron
 
 on:
   schedule:
-    # Runs at minute 0 past every 4th hour (00:00, 04:00, 08:00, 12:00, 16:00, 20:00 UTC)
     - cron: '0 */4 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE20: 'true'
+
 jobs:
   run-wire:
     runs-on: ubuntu-24.04
-
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -46,7 +47,6 @@ jobs:
           git config user.name "disaster-wire-bot[bot]"
           git config user.email "disaster-wire-bot@users.noreply.github.com"
           
-          # Stage the entire data/ directory safely regardless of what was generated
           git add -A data/
           
           if git diff --staged --quiet; then
