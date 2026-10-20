@@ -1,8 +1,131 @@
 {
   "archive_date": "2026-10-20",
-  "total_incidents": 74,
-  "updated_at": "2026-10-20T19:53:41.381273+00:00",
+  "total_incidents": 77,
+  "updated_at": "2026-10-20T22:48:30.274361+00:00",
   "events": [
+    {
+      "event_id": "gdacs_124c380e51086459",
+      "cluster_id": "cluster_cyclone_000",
+      "lifecycle_phase": "emerging",
+      "event_type": "cyclone",
+      "severity_level": "catastrophic",
+      "title": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 7.023 million .",
+      "summary": "From 14/10/2026 to 20/10/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 296 km/h) CHAMPI-26 was active in NWPacific. The cyclone affects these countries: Guam, Northern Mariana Islands, Japan (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 7.023 million .",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 7.023 million .",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T22:48:29.026637+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001338",
+          "retrieved_at": "2026-10-20T22:48:29.026637+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3pq",
+      "cluster_id": "cluster_eq_rtt",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.9 - 187 km NW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 4.9 earthquake occurred at a depth of 10 km: 187 km NW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 4.9,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.88
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "187 km NW of Port-Olry, Vanuatu",
+        "latitude": -14.0479,
+        "longitude": 165.6598,
+        "geohash": "rttb1"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T20:03:26.613000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3pq",
+          "retrieved_at": "2026-10-20T22:48:24.989201+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3pm",
+      "cluster_id": "cluster_eq_z2h",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.7 - Kuril Islands",
+      "summary": "A magnitude 4.7 earthquake occurred at a depth of 28.746 km: Kuril Islands.",
+      "metrics": {
+        "magnitude": 4.7,
+        "depth_km": 28.746,
+        "wind_speed_kmh": null,
+        "alert_score": 5.64
+      },
+      "location": {
+        "country": "Kuril Islands",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Kuril Islands",
+        "latitude": 46.2196,
+        "longitude": 152.9149,
+        "geohash": "z2hwz"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T19:53:59.721000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3pm",
+          "retrieved_at": "2026-10-20T22:48:24.989373+00:00"
+        }
+      ]
+    },
     {
       "event_id": "gdacs_8ed8fc49a6baea5a",
       "cluster_id": "cluster_severe_weather_000",

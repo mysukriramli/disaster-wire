@@ -3,6 +3,72 @@
   "features": [
     {
       "type": "Feature",
+      "id": "gdacs_124c380e51086459",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "cyclone",
+        "severity_level": "catastrophic",
+        "cluster_id": "cluster_cyclone_000",
+        "geohash": "00000",
+        "title": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 7.023 million .",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-20T22:48:29.026637+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u3pq",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.6598,
+          -14.0479
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_rtt",
+        "geohash": "rttb1",
+        "title": "M 4.9 - 187 km NW of Port-Olry, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 4.9,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-20T20:03:26.613000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u3pm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9149,
+          46.2196
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_z2h",
+        "geohash": "z2hwz",
+        "title": "M 4.7 - Kuril Islands",
+        "country": "Kuril Islands",
+        "magnitude": 4.7,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-20T19:53:59.721000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_8ed8fc49a6baea5a",
       "geometry": {
         "type": "Point",

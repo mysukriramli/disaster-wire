@@ -1,7 +1,31 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-10-20T19:53:41.380904+00:00
+Generated: 2026-10-20T22:48:30.273777+00:00
 
 ## Active Incident Telemetry
+### [CYCLONE] Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 7.023 million .
+- **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `emerging`
+- **Location:** Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 7.023 million . (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** From 14/10/2026 to 20/10/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 296 km/h) CHAMPI-26 was active in NWPacific. The cyclone affects these countries: Guam, Northern Mariana Islands, Japan (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 7.023 million .
+
+### [EARTHQUAKE] M 4.9 - 187 km NW of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 187 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rttb1`
+- **Coordinates:** `[-14.0479, 165.6598]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 10 km: 187 km NW of Port-Olry, Vanuatu.
+
+### [EARTHQUAKE] M 4.7 - Kuril Islands
+- **Cluster ID:** `cluster_eq_z2h` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** Kuril Islands (Kuril Islands) | Geohash: `z2hwz`
+- **Coordinates:** `[46.2196, 152.9149]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.7 earthquake occurred at a depth of 28.746 km: Kuril Islands.
+
 ### [SEVERE_WEATHER] Green forest fire notification in South Africa, Mozambique
 - **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
 - **Location:** Green forest fire notification in South Africa, Mozambique (Global) | Geohash: `00000`
