@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Disaster Intelligence Wire - Stdio MCP Server for Glama Sandbox & Local Agents
+Disaster Intelligence Wire - Stdio MCP Server for Glama Sandbox & AI Agents
 Communicates via standard input/output (stdio) using the FastMCP framework.
 Provides high-density, hallucination-resistant natural disaster telemetry.
 """
@@ -19,6 +19,14 @@ mcp = FastMCP("disaster-wire")
 
 LOCAL_DATA_PATH = os.path.join(os.path.dirname(__file__), "data", "today.json")
 FALLBACK_URL = "https://raw.githubusercontent.com/mysukriramli/disaster-wire/main/data/today.json"
+
+# Common annotation payload for read-only query tools
+READ_ONLY_ANNOTATIONS = {
+    "readOnlyHint": True,
+    "destructiveHint": False,
+    "idempotentHint": True,
+    "openWorldHint": False
+}
 
 
 def _load_data():
@@ -43,27 +51,27 @@ def _load_data():
 
 # --- Tool 1: list_active_disasters ---
 
-@mcp.tool()
+@mcp.tool(annotations=READ_ONLY_ANNOTATIONS)
 def list_active_disasters(
     event_type: Annotated[
         Optional[Literal["earthquake", "tsunami", "flood", "cyclone", "wildfire", "volcanic_eruption", "severe_weather"]],
         Field(
             default=None,
-            description="Filter events by natural hazard category. Allowed values: 'earthquake', 'tsunami', 'flood', 'cyclone', 'wildfire', 'volcanic_eruption', 'severe_weather'. Leave null or omit to return all incident types."
+            description="Filter events by natural hazard category: 'earthquake', 'tsunami', 'flood', 'cyclone', 'wildfire', 'volcanic_eruption', 'severe_weather'. Leave null or omit to return all incident types."
         )
     ] = None,
     severity: Annotated[
         Optional[Literal["minor", "moderate", "severe", "catastrophic"]],
         Field(
             default=None,
-            description="Filter events by alert severity level. Allowed values: 'minor', 'moderate', 'severe', 'catastrophic'. Leave null or omit to include all severity levels."
+            description="Filter events by alert severity level: 'minor', 'moderate', 'severe', 'catastrophic'. Leave null or omit to include all severity levels."
         )
     ] = None,
     country: Annotated[
         Optional[str],
         Field(
             default=None,
-            description="Case-insensitive substring filter matching target country or jurisdiction (e.g., 'Japan', 'Philippines', 'United States'). Leave null or omit to return global events."
+            description="Case-insensitive substring filter matching target country name or jurisdiction (e.g., 'Japan', 'Philippines', 'United States'). Leave null or omit to return global events."
         )
     ] = None,
     limit: Annotated[
@@ -76,8 +84,7 @@ def list_active_disasters(
         )
     ] = 10
 ) -> str:
-    """
-    List and filter active global natural disasters from the rolling 24-48 hour pool.
+    """List and filter active global natural disasters from the rolling 24-48 hour pool.
 
     USAGE ROUTING:
     - USE this tool to discover ongoing disasters, search by nation or jurisdiction, or filter by hazard type or severity level.
@@ -85,15 +92,17 @@ def list_active_disasters(
     - DO NOT USE this tool for coordinate-based radial proximity queries; use 'find_disasters_near_coordinates' instead.
 
     BEHAVIORAL DISCLOSURE:
-    - Pure read-only operation with zero side effects.
-    - Data is sourced from authoritative sensors (USGS, GDACS) and dynamic news feeds, updated every 4 hours.
-    - If no incidents match the query criteria, returns JSON with 'matched_count': 0 and an empty 'events': [] array (never throws an error).
+    - Pure read-only operation with zero side effects (readOnlyHint=true).
+    - If no incidents match the query criteria, returns JSON with 'matched_count': 0 and an empty 'events': [] array without raising errors.
 
-    RETURNS:
-    JSON string containing:
-    - 'matched_count' (int): Number of incidents matching filters.
-    - 'total_active_pool' (int): Total active events currently monitored globally.
-    - 'events' (list): Array of disaster objects including 'event_id', 'title', 'severity_level', 'geohash', and 'summary'.
+    Args:
+        event_type: Natural hazard category ('earthquake', 'tsunami', 'flood', 'cyclone', 'wildfire', 'volcanic_eruption', 'severe_weather'). Default is None (all types).
+        severity: Alert severity level ('minor', 'moderate', 'severe', 'catastrophic'). Default is None (all severities).
+        country: Case-insensitive country name substring (e.g., 'Japan', 'Philippines'). Default is None (worldwide).
+        limit: Maximum number of incidents to return (integer between 1 and 50, default is 10).
+
+    Returns:
+        JSON string containing 'matched_count', 'total_active_pool', and an array of disaster objects with IDs, titles, geohashes, and summaries.
     """
     data = _load_data()
     events = data.get("events", [])
@@ -120,17 +129,16 @@ def list_active_disasters(
 
 # --- Tool 2: get_disaster_by_id ---
 
-@mcp.tool()
+@mcp.tool(annotations=READ_ONLY_ANNOTATIONS)
 def get_disaster_by_id(
     event_id: Annotated[
         str,
         Field(
-            description="The exact, unique incident identifier string (e.g., 'usgs_nc75001234', 'gdacs_1002341', or 'news_e5f6g7h8'). Obtain valid IDs by first calling 'list_active_disasters' or 'find_disasters_near_coordinates'."
+            description="The exact unique incident identifier string (e.g., 'usgs_nc75001234', 'gdacs_1002341', or 'news_e5f6g7h8'). Obtain valid IDs by first calling 'list_active_disasters' or 'find_disasters_near_coordinates'."
         )
     ]
 ) -> str:
-    """
-    Retrieve comprehensive telemetry, impact figures, and supply chain exposure for a specific disaster ID.
+    """Retrieve comprehensive telemetry, impact figures, and supply chain exposure for a specific disaster ID.
 
     USAGE ROUTING:
     - USE this tool exclusively when you already hold a valid 'event_id' and require complete technical metrics, casualty estimates, affected ports/airports, or recommended triage actions.
@@ -138,15 +146,14 @@ def get_disaster_by_id(
     - DO NOT USE this tool to check geographic perimeters; use 'find_disasters_near_coordinates' instead.
 
     BEHAVIORAL DISCLOSURE:
-    - Pure read-only lookup with zero side effects.
+    - Pure read-only lookup with zero side effects (readOnlyHint=true).
     - If the requested 'event_id' is not present in the active pool (e.g., expired or invalid), returns a JSON object with an 'error' key describing the missing ID.
 
-    RETURNS:
-    JSON string of the complete disaster record containing:
-    - 'metrics': Physical measurements ('magnitude', 'depth_km', 'wind_speed_kmh', 'alert_score').
-    - 'location': Decimal coordinates ('latitude', 'longitude', 'geohash', 'country').
-    - 'exposed_infrastructure': Critical container ports, cargo airports, and cloud regions within 150 km.
-    - 'recommended_agent_actions': Deterministic machine action directives (e.g., 'audit_maritime_berth', 'initiate_cloud_failover').
+    Args:
+        event_id: Unique incident identifier string (e.g., 'usgs_nc75001234', 'gdacs_1002341', or 'news_a1b2c3d4').
+
+    Returns:
+        JSON string of the complete disaster record containing metrics, decimal coordinates, geohashes, exposed infrastructure hubs, and recommended agent actions.
     """
     data = _load_data()
     for event in data.get("events", []):
@@ -157,7 +164,7 @@ def get_disaster_by_id(
 
 # --- Tool 3: find_disasters_near_coordinates ---
 
-@mcp.tool()
+@mcp.tool(annotations=READ_ONLY_ANNOTATIONS)
 def find_disasters_near_coordinates(
     latitude: Annotated[
         float,
@@ -181,12 +188,11 @@ def find_disasters_near_coordinates(
             default=500.0,
             ge=1.0,
             le=5000.0,
-            description="Radial search perimeter measured in kilometers (km) from the target coordinates. Must be between 1.0 and 5000.0 km. Defaults to 500.0 km."
+            description="Radial search perimeter measured in kilometers (km) from target coordinates. Must be between 1.0 and 5000.0 km. Defaults to 500.0 km."
         )
     ] = 500.0
 ) -> str:
-    """
-    Locate active natural disasters within a radial distance from target latitude/longitude coordinates.
+    """Locate active natural disasters within a radial distance from target latitude/longitude coordinates.
 
     USAGE ROUTING:
     - USE this tool whenever evaluating geographic exposure for a specific location, city, supply chain facility, or data center.
@@ -198,12 +204,13 @@ def find_disasters_near_coordinates(
     - Results are sorted in ascending order by physical distance ('distance_from_query_km'), placing closest threats first.
     - If no disasters fall within the requested radial boundary, returns JSON with 'matched_count': 0 and an empty 'results': [] array.
 
-    RETURNS:
-    JSON string containing:
-    - 'query_center': [latitude, longitude] echoing the input coordinates.
-    - 'search_radius_km' (float): The radial boundary applied in kilometers.
-    - 'matched_count' (int): Total number of incidents within the boundary.
-    - 'results' (list): Array of incident objects annotated with 'distance_from_query_km' (float rounded to 1 decimal).
+    Args:
+        latitude: Target latitude in decimal degrees between -90.0 and 90.0 (WGS-84).
+        longitude: Target longitude in decimal degrees between -180.0 and 180.0 (WGS-84).
+        radius_km: Radial search perimeter in kilometers (km), from 1.0 to 5000.0. Defaults to 500.0 km.
+
+    Returns:
+        JSON string containing 'query_center', 'search_radius_km', 'matched_count', and an array of nearby disaster objects annotated with 'distance_from_query_km'.
     """
     def haversine(lat1, lon1, lat2, lon2):
         R = 6371.0  # Earth's mean radius in km
