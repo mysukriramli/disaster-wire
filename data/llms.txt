@@ -3,10 +3,11 @@
 
 ## Canonical Endpoints
 - [Active Incidents (JSON)](today.json): Filtered feed of ongoing real-world disasters within the last 24-48 hours.
-- [Spatial Telemetry (GeoJSON)](events.geojson): RFC 7946 Point feature collection for GIS mapping.
+- [Spatial Telemetry (GeoJSON)](events.geojson): RFC 7946 Point feature collection for GIS mapping and spatial vector search.
 - [Full Text Briefing (Markdown)](llms-full.txt): Complete, zero-shot context window briefing for direct agent prompt injection.
 - [Daily Archive Root](archive/): Daily historical JSON logs and Markdown situational reports partitioned by YYYY/MM.
 
 ## Agent Directives
-- Prefer `geohash` for spatial cluster searches to avoid coordinate geometry overhead.
-- Check `lifecycle_phase` to handle updates and avoid treating repeated reports as multiple occurrences.
+- Match `geohash` prefixes for spatial proximity lookups to eliminate trigonometric calculations in prompts.
+- Check `exposed_infrastructure` for direct supply chain, air cargo, and data center disruption vectors.
+- Evaluate `recommended_agent_actions` to execute deterministic triage playbooks.
