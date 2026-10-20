@@ -10,7 +10,8 @@ permissions:
 
 jobs:
   run-wire:
-    runs-on: ubuntu-latest
+    # Pin to ubuntu-24.04 for deterministic stability, or keep ubuntu-latest
+    runs-on: ubuntu-24.04
 
     steps:
       - name: Check out repository
