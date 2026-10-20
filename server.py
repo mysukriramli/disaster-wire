@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Disaster Intelligence Wire - Stdio MCP Server for Glama Sandbox & Local CLI
-Communicates via standard input/output (stdio) using the FastMCP framework.
+Disaster Intelligence Wire - Stdio MCP Server for Glama Sandbox
+Communicates via standard input/output (stdio) using FastMCP.
 """
 
 import os
@@ -20,7 +20,6 @@ FALLBACK_URL = "https://raw.githubusercontent.com/mysukriramli/disaster-wire/mai
 
 
 def _load_data():
-    # 1. Prefer local repository data (instant, works offline in sandboxes)
     if os.path.exists(LOCAL_DATA_PATH):
         try:
             with open(LOCAL_DATA_PATH, "r", encoding="utf-8") as f:
@@ -28,7 +27,6 @@ def _load_data():
         except Exception:
             pass
 
-    # 2. Fall back to remote fetch if executed externally
     try:
         import requests
         res = requests.get(FALLBACK_URL, timeout=8)
@@ -47,9 +45,7 @@ def list_active_disasters(
     country: Optional[str] = None,
     limit: int = 10
 ) -> str:
-    """
-    List ongoing natural disasters filtered by type, severity, or geographic jurisdiction.
-    """
+    """List ongoing natural disasters filtered by type, severity, or geographic jurisdiction."""
     data = _load_data()
     events = data.get("events", [])
     filtered = []
@@ -75,9 +71,7 @@ def list_active_disasters(
 
 @mcp.tool()
 def get_disaster_by_id(event_id: str) -> str:
-    """
-    Fetch exact telemetry, coordinates, and agent directives for an incident ID.
-    """
+    """Fetch exact telemetry, coordinates, and agent directives for an incident ID."""
     data = _load_data()
     for event in data.get("events", []):
         if event.get("event_id") == event_id.strip():
@@ -91,9 +85,7 @@ def find_disasters_near_coordinates(
     longitude: float,
     radius_km: float = 500.0
 ) -> str:
-    """
-    Locate active disasters within a radial boundary using the Haversine equation.
-    """
+    """Locate active disasters within a radial boundary using the Haversine equation."""
     def haversine(lat1, lon1, lat2, lon2):
         R = 6371.0
         dlat = math.radians(lat2 - lat1)
@@ -128,5 +120,4 @@ def find_disasters_near_coordinates(
 
 
 if __name__ == "__main__":
-    # Glama's mcp-proxy expects communication over stdio
     mcp.run(transport="stdio")
