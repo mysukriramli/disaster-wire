@@ -1,7 +1,103 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-10-20T22:48:30.273777+00:00
+Generated: 2026-10-21T02:27:43.972015+00:00
 
 ## Active Incident Telemetry
+### [SEVERE_WEATHER] Green forest fire notification in Australia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 20/10/2026, a forest fire started in Australia,  until 20/10/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Australia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 20/10/2026, a forest fire started in Australia,  until 20/10/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Australia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 19/10/2026, a forest fire started in Australia,  until 20/10/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Mozambique, South Africa
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Mozambique, South Africa (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 18/10/2026, a forest fire started in Mozambique, South Africa,  until 20/10/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Australia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 17/10/2026, a forest fire started in Australia,  until 20/10/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Chad, Nigeria, Cameroon
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Chad, Nigeria, Cameroon (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 15/10/2026, a forest fire started in Chad, Nigeria, Cameroon,  until 20/10/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Papua New Guinea
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Papua New Guinea (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 11/10/2026, a forest fire started in Papua New Guinea,  until 20/10/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Indonesia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Indonesia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 08/10/2026, a forest fire started in Indonesia,  until 20/10/2026.
+
+### [EARTHQUAKE] M 5.0 - south of Panama
+- **Cluster ID:** `cluster_eq_d0v` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** south of Panama (south of Panama) | Geohash: `d0v4n`
+- **Coordinates:** `[4.5985, -82.7031]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.0 earthquake occurred at a depth of 10 km: south of Panama.
+
+### [EARTHQUAKE] M 4.5 - 2 km N of Honchō, Japan
+- **Cluster ID:** `cluster_eq_xn7` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 2 km N of Honchō, Japan (Japan) | Geohash: `xn7e1`
+- **Coordinates:** `[35.7245, 139.9836]`
+- **Exposed Infrastructure:** Port of Tokyo / Yokohama (15.3km), Tokyo Narita Cargo Gateway (36.6km), Tokyo Cloud Region (ap-northeast-1) (26.6km)
+- **Recommended Agent Actions:** audit_maritime_berth_JPTYO, check_air_cargo_delay_NRT, initiate_cloud_failover_AP-TYO, reroute_container_freight
+- **Summary:** A magnitude 4.5 earthquake occurred at a depth of 90.274 km: 2 km N of Honchō, Japan.
+
+### [EARTHQUAKE] M 4.9 - south of the Fiji Islands
+- **Cluster ID:** `cluster_eq_rgr` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** south of the Fiji Islands (south of the Fiji Islands) | Geohash: `rgrwy`
+- **Coordinates:** `[-25.502, 179.592]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 529.781 km: south of the Fiji Islands.
+
+### [EARTHQUAKE] M 4.6 - 115 km NNE of Barishal, Pakistan
+- **Cluster ID:** `cluster_eq_twt` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 115 km NNE of Barishal, Pakistan (Pakistan) | Geohash: `twtkj`
+- **Coordinates:** `[37.3012, 75.121]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 65.601 km: 115 km NNE of Barishal, Pakistan.
+
 ### [CYCLONE] Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 7.023 million .
 - **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `emerging`
 - **Location:** Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 7.023 million . (Global) | Geohash: `00000`

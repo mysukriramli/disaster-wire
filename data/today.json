@@ -1,10 +1,527 @@
 {
   "metadata": {
-    "generated_at": "2026-10-20T22:48:30.268290+00:00",
-    "total_active_events": 77,
+    "generated_at": "2026-10-21T02:27:43.965960+00:00",
+    "total_active_events": 89,
     "schema_version": "2.1.0"
   },
   "events": [
+    {
+      "event_id": "gdacs_28fae13eb081666f",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 20/10/2026, a forest fire started in Australia,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-21T02:27:43.139689+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032994",
+          "retrieved_at": "2026-10-21T02:27:43.139689+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_272cd562a3af206d",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 20/10/2026, a forest fire started in Australia,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-21T02:27:43.139689+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032995",
+          "retrieved_at": "2026-10-21T02:27:43.139689+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_e63e19d72b568b60",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 19/10/2026, a forest fire started in Australia,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-21T02:27:43.139689+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032996",
+          "retrieved_at": "2026-10-21T02:27:43.139689+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_4c71c7e1fa5a9518",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Mozambique, South Africa",
+      "summary": "On 18/10/2026, a forest fire started in Mozambique, South Africa,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Mozambique, South Africa",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-21T02:27:43.139689+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032974",
+          "retrieved_at": "2026-10-21T02:27:43.139689+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_64099446d5f7c1bf",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 17/10/2026, a forest fire started in Australia,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-21T02:27:43.139689+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032997",
+          "retrieved_at": "2026-10-21T02:27:43.139689+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_921336642afa5eb7",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Chad, Nigeria, Cameroon",
+      "summary": "On 15/10/2026, a forest fire started in Chad, Nigeria, Cameroon,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Chad, Nigeria, Cameroon",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-21T02:27:43.139689+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032998",
+          "retrieved_at": "2026-10-21T02:27:43.139689+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_ceb0782b3e10b728",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Papua New Guinea",
+      "summary": "On 11/10/2026, a forest fire started in Papua New Guinea,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Papua New Guinea",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-21T02:27:43.139689+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032999",
+          "retrieved_at": "2026-10-21T02:27:43.139689+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_b24590ad9c3f36d5",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Indonesia",
+      "summary": "On 08/10/2026, a forest fire started in Indonesia,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Indonesia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-21T02:27:43.139689+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033000",
+          "retrieved_at": "2026-10-21T02:27:43.139689+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3rr",
+      "cluster_id": "cluster_eq_d0v",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.0 - south of Panama",
+      "summary": "A magnitude 5.0 earthquake occurred at a depth of 10 km: south of Panama.",
+      "metrics": {
+        "magnitude": 5.0,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.0
+      },
+      "location": {
+        "country": "south of Panama",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "south of Panama",
+        "latitude": 4.5985,
+        "longitude": -82.7031,
+        "geohash": "d0v4n"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-21T01:20:02.961000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3rr",
+          "retrieved_at": "2026-10-21T02:27:39.513775+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3rn",
+      "cluster_id": "cluster_eq_xn7",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.5 - 2 km N of Honch\u014d, Japan",
+      "summary": "A magnitude 4.5 earthquake occurred at a depth of 90.274 km: 2 km N of Honch\u014d, Japan.",
+      "metrics": {
+        "magnitude": 4.5,
+        "depth_km": 90.274,
+        "wind_speed_kmh": null,
+        "alert_score": 5.3999999999999995
+      },
+      "location": {
+        "country": "Japan",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "2 km N of Honch\u014d, Japan",
+        "latitude": 35.7245,
+        "longitude": 139.9836,
+        "geohash": "xn7e1"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [
+        {
+          "name": "Port of Tokyo / Yokohama",
+          "type": "port",
+          "code": "JPTYO",
+          "country": "Japan",
+          "distance_km": 15.3
+        },
+        {
+          "name": "Tokyo Narita Cargo Gateway",
+          "type": "airport",
+          "code": "NRT",
+          "country": "Japan",
+          "distance_km": 36.6
+        },
+        {
+          "name": "Tokyo Cloud Region (ap-northeast-1)",
+          "type": "datacenter",
+          "code": "AP-TYO",
+          "country": "Japan",
+          "distance_km": 26.6
+        }
+      ],
+      "recommended_agent_actions": [
+        "audit_maritime_berth_JPTYO",
+        "check_air_cargo_delay_NRT",
+        "initiate_cloud_failover_AP-TYO",
+        "reroute_container_freight"
+      ],
+      "timestamp_utc": "2026-10-21T01:04:29.196000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3rn",
+          "retrieved_at": "2026-10-21T02:27:39.513949+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3r3",
+      "cluster_id": "cluster_eq_rgr",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.9 - south of the Fiji Islands",
+      "summary": "A magnitude 4.9 earthquake occurred at a depth of 529.781 km: south of the Fiji Islands.",
+      "metrics": {
+        "magnitude": 4.9,
+        "depth_km": 529.781,
+        "wind_speed_kmh": null,
+        "alert_score": 5.88
+      },
+      "location": {
+        "country": "south of the Fiji Islands",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "south of the Fiji Islands",
+        "latitude": -25.502,
+        "longitude": 179.592,
+        "geohash": "rgrwy"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T23:24:27.101000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3r3",
+          "retrieved_at": "2026-10-21T02:27:39.514031+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3r1",
+      "cluster_id": "cluster_eq_twt",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.6 - 115 km NNE of Barishal, Pakistan",
+      "summary": "A magnitude 4.6 earthquake occurred at a depth of 65.601 km: 115 km NNE of Barishal, Pakistan.",
+      "metrics": {
+        "magnitude": 4.6,
+        "depth_km": 65.601,
+        "wind_speed_kmh": null,
+        "alert_score": 5.52
+      },
+      "location": {
+        "country": "Pakistan",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "115 km NNE of Barishal, Pakistan",
+        "latitude": 37.3012,
+        "longitude": 75.121,
+        "geohash": "twtkj"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-20T23:16:43.934000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3r1",
+          "retrieved_at": "2026-10-21T02:27:39.514090+00:00"
+        }
+      ]
+    },
     {
       "event_id": "gdacs_124c380e51086459",
       "cluster_id": "cluster_cyclone_000",
