@@ -1,7 +1,95 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-10-21T16:17:12.822331+00:00
+Generated: 2026-10-21T22:53:25.940571+00:00
 
 ## Active Incident Telemetry
+### [CYCLONE] Green notification for tropical cyclone JOSEPHINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (7.514 million in Tropical Storm).
+- **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `stabilizing`
+- **Location:** Green notification for tropical cyclone JOSEPHINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (7.514 million in Tropical Storm). (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** From 21/10/2026 to 21/10/2026, a Tropical Storm (maximum wind speed of 130 km/h) JOSEPHINE-26 was active in Atlantic. The cyclone affects these countries: United States, Canada, Saint Pierre and Miquelon (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (7.514 million in tropical storm).
+
+### [CYCLONE] Green notification for tropical cyclone VANCE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `stabilizing`
+- **Location:** Green notification for tropical cyclone VANCE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm). (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** From 21/10/2026 to 21/10/2026, a Tropical Storm (maximum wind speed of 194 km/h) VANCE-26 was active in Atlantic. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).
+
+### [CYCLONE] Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.231 million .
+- **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `emerging`
+- **Location:** Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.231 million . (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** From 14/10/2026 to 21/10/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 296 km/h) CHAMPI-26 was active in NWPacific. The cyclone affects these countries: Philippines, Guam, Northern Mariana Islands, Japan, Taiwan (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0.231 million .
+
+### [EARTHQUAKE] M 5.0 - Reykjanes Ridge
+- **Cluster ID:** `cluster_eq_g4p` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** Reykjanes Ridge (Reykjanes Ridge) | Geohash: `g4per`
+- **Coordinates:** `[56.863, -34.1306]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.0 earthquake occurred at a depth of 10 km: Reykjanes Ridge.
+
+### [EARTHQUAKE] M 5.3 - Reykjanes Ridge
+- **Cluster ID:** `cluster_eq_g4p` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** Reykjanes Ridge (Reykjanes Ridge) | Geohash: `g4pen`
+- **Coordinates:** `[56.8137, -34.1689]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.3 earthquake occurred at a depth of 10 km: Reykjanes Ridge.
+
+### [EARTHQUAKE] M 4.9 - 68 km NNW of Khorixas, Namibia
+- **Cluster ID:** `cluster_eq_kk6` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 68 km NNW of Khorixas, Namibia (Namibia) | Geohash: `kk6rr`
+- **Coordinates:** `[-19.7855, 14.7284]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 10 km: 68 km NNW of Khorixas, Namibia.
+
+### [EARTHQUAKE] M 5.0 - Reykjanes Ridge
+- **Cluster ID:** `cluster_eq_g4p` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** Reykjanes Ridge (Reykjanes Ridge) | Geohash: `g4pv4`
+- **Coordinates:** `[57.1591, -33.9973]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.0 earthquake occurred at a depth of 10 km: Reykjanes Ridge.
+
+### [EARTHQUAKE] M 5.0 - 198 km WNW of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtm` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 198 km WNW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtmxm`
+- **Coordinates:** `[-14.1796, 165.4616]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.0 earthquake occurred at a depth of 10 km: 198 km WNW of Port-Olry, Vanuatu.
+
+### [EARTHQUAKE] M 4.7 - 202 km WNW of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtm` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 202 km WNW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtmxk`
+- **Coordinates:** `[-14.1592, 165.431]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.7 earthquake occurred at a depth of 10 km: 202 km WNW of Port-Olry, Vanuatu.
+
+### [EARTHQUAKE] M 5.1 - south of Africa
+- **Cluster ID:** `cluster_eq_hwe` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** south of Africa (south of Africa) | Geohash: `hwee6`
+- **Coordinates:** `[-52.8338, 27.5329]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.1 earthquake occurred at a depth of 10 km: south of Africa.
+
+### [EARTHQUAKE] M 4.6 - 208 km SE of Severo-Kuril’sk, Russia
+- **Cluster ID:** `cluster_eq_z8b` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 208 km SE of Severo-Kuril’sk, Russia (Russia) | Geohash: `z8b2h`
+- **Coordinates:** `[49.2528, 158.0282]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 10 km: 208 km SE of Severo-Kuril’sk, Russia.
+
 ### [CYCLONE] Green notification for tropical cyclone TWENTY-TWO-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `stabilizing`
 - **Location:** Green notification for tropical cyclone TWENTY-TWO-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm). (Global) | Geohash: `00000`
@@ -170,6 +258,14 @@ Generated: 2026-10-21T16:17:12.822331+00:00
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 10/10/2026, a forest fire started in Australia,  until 21/10/2026.
 
+### [EARTHQUAKE] M 4.9 - 208 km WNW of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtm` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 208 km WNW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtmxe`
+- **Coordinates:** `[-14.1338, 165.3793]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 10 km: 208 km WNW of Port-Olry, Vanuatu.
+
 ### [EARTHQUAKE] M 5.0 - 194 km WNW of Port-Olry, Vanuatu
 - **Cluster ID:** `cluster_eq_rtm` | **Severity:** `moderate` | **Phase:** `emerging`
 - **Location:** 194 km WNW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtmxy`
@@ -177,6 +273,22 @@ Generated: 2026-10-21T16:17:12.822331+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** A magnitude 5.0 earthquake occurred at a depth of 10 km: 194 km WNW of Port-Olry, Vanuatu.
+
+### [EARTHQUAKE] M 4.7 - 33 km NE of Shizunai-furukawachō, Japan
+- **Cluster ID:** `cluster_eq_xpt` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 33 km NE of Shizunai-furukawachō, Japan (Japan) | Geohash: `xpt6j`
+- **Coordinates:** `[42.573, 142.6247]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.7 earthquake occurred at a depth of 94.112 km: 33 km NE of Shizunai-furukawachō, Japan.
+
+### [EARTHQUAKE] M 4.9 - 207 km WNW of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 207 km WNW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtt8m`
+- **Coordinates:** `[-14.0069, 165.4684]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 10 km: 207 km WNW of Port-Olry, Vanuatu.
 
 ### [EARTHQUAKE] M 4.5 - 158 km S of False Pass, Alaska
 - **Cluster ID:** `cluster_eq_b37` | **Severity:** `minor` | **Phase:** `emerging`
@@ -689,116 +801,4 @@ Generated: 2026-10-21T16:17:12.822331+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** From 14/10/2026 to 20/10/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 287 km/h) CHAMPI-26 was active in NWPacific. The cyclone affects these countries: Guam, Northern Mariana Islands, Japan (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 7.339 million .
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 14/10/2026, a forest fire started in Australia,  until 20/10/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Madagascar
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Madagascar (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 14/10/2026, a forest fire started in Madagascar,  until 20/10/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Chad
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Chad (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 14/10/2026, a forest fire started in Chad,  until 20/10/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Indonesia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Indonesia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 13/10/2026, a forest fire started in Indonesia,  until 20/10/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 10/10/2026, a forest fire started in Australia,  until 20/10/2026.
-
-### [FLOOD] Green flood alert in Costa Rica
-- **Cluster ID:** `cluster_flood_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green flood alert in Costa Rica (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 09/10/2026, a flood started in Costa Rica, lasting until 20/10/2026 (last update). The flood caused 0 deaths and 27 displaced .
-
-### [FLOOD] Green flood alert in Italy
-- **Cluster ID:** `cluster_flood_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green flood alert in Italy (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 07/10/2026, a flood started in Italy, lasting until 20/10/2026 (last update). The flood caused 0 deaths and 205 displaced .
-
-### [FLOOD] Green flood alert in Ecuador
-- **Cluster ID:** `cluster_flood_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green flood alert in Ecuador (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 15/09/2026, a flood started in Ecuador, lasting until 20/10/2026 (last update). The flood caused 6 deaths and 7 displaced .
-
-### [FLOOD] Green flood alert in Mexico
-- **Cluster ID:** `cluster_flood_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green flood alert in Mexico (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 17/08/2026, a flood started in Mexico, lasting until 18/10/2026 (last update). The flood caused 22 deaths and 1904 displaced .
-
-### [SEVERE_WEATHER] Drought is on going in Democratic Republic of Congo, Central African Republic, Cameroon, Eritrea, Ethiopia, Niger, Nigeria, Sudan, South Sudan, Chad
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** Drought is on going in Democratic Republic of Congo, Central African Republic, Cameroon, Eritrea, Ethiopia, Niger, Nigeria, Sudan, South Sudan, Chad (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** The  Drought notification level is Orange.
-
-### [SEVERE_WEATHER] Drought is on going in China, Kazakhstan, Mongolia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** Drought is on going in China, Kazakhstan, Mongolia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** The  Drought notification level is Green.
-
-### [SEVERE_WEATHER] Drought is on going in Burundi, Democratic Republic of Congo, Kenya, Rwanda, Tanzania, Uganda
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** Drought is on going in Burundi, Democratic Republic of Congo, Kenya, Rwanda, Tanzania, Uganda (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** The  Drought notification level is Orange.
-
-### [SEVERE_WEATHER] Drought is on going in The Bahamas, Belize, Costa Rica, Cuba, Dominican Republic, Guatemala, Honduras, Haiti, Mexico, Nicaragua, El Salvador, United States
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** Drought is on going in The Bahamas, Belize, Costa Rica, Cuba, Dominican Republic, Guatemala, Honduras, Haiti, Mexico, Nicaragua, El Salvador, United States (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** The  Drought notification level is Orange.
-
-### [SEVERE_WEATHER] Drought is on going in Brunei, Indonesia, Cambodia, Malaysia, Papua New Guinea, Philippines
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** Drought is on going in Brunei, Indonesia, Cambodia, Malaysia, Papua New Guinea, Philippines (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** The  Drought notification level is Green.
 

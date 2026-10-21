@@ -1,10 +1,461 @@
 {
   "metadata": {
-    "generated_at": "2026-10-21T16:17:12.815770+00:00",
+    "generated_at": "2026-10-21T22:53:25.936508+00:00",
     "total_active_events": 100,
     "schema_version": "2.1.0"
   },
   "events": [
+    {
+      "event_id": "gdacs_ffaff343ad2702d7",
+      "cluster_id": "cluster_cyclone_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "cyclone",
+      "severity_level": "catastrophic",
+      "title": "Green notification for tropical cyclone JOSEPHINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (7.514 million in Tropical Storm).",
+      "summary": "From 21/10/2026 to 21/10/2026, a Tropical Storm (maximum wind speed of 130 km/h) JOSEPHINE-26 was active in Atlantic. The cyclone affects these countries: United States, Canada, Saint Pierre and Miquelon (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (7.514 million in tropical storm).",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green notification for tropical cyclone JOSEPHINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (7.514 million in Tropical Storm).",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-21T22:53:25.075851+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001342",
+          "retrieved_at": "2026-10-21T22:53:25.075851+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_91d43e8f8c00c358",
+      "cluster_id": "cluster_cyclone_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "cyclone",
+      "severity_level": "catastrophic",
+      "title": "Green notification for tropical cyclone VANCE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+      "summary": "From 21/10/2026 to 21/10/2026, a Tropical Storm (maximum wind speed of 194 km/h) VANCE-26 was active in Atlantic. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green notification for tropical cyclone VANCE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-21T22:53:25.075851+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001341",
+          "retrieved_at": "2026-10-21T22:53:25.075851+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_cec17d77ac6c3435",
+      "cluster_id": "cluster_cyclone_000",
+      "lifecycle_phase": "emerging",
+      "event_type": "cyclone",
+      "severity_level": "catastrophic",
+      "title": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.231 million .",
+      "summary": "From 14/10/2026 to 21/10/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 296 km/h) CHAMPI-26 was active in NWPacific. The cyclone affects these countries: Philippines, Guam, Northern Mariana Islands, Japan, Taiwan (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0.231 million .",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.231 million .",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-21T22:53:25.075851+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001338",
+          "retrieved_at": "2026-10-21T22:53:25.075851+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3yp",
+      "cluster_id": "cluster_eq_g4p",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.0 - Reykjanes Ridge",
+      "summary": "A magnitude 5.0 earthquake occurred at a depth of 10 km: Reykjanes Ridge.",
+      "metrics": {
+        "magnitude": 5.0,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.0
+      },
+      "location": {
+        "country": "Reykjanes Ridge",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Reykjanes Ridge",
+        "latitude": 56.863,
+        "longitude": -34.1306,
+        "geohash": "g4per"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-21T21:58:48.618000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3yp",
+          "retrieved_at": "2026-10-21T22:53:22.167497+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3yj",
+      "cluster_id": "cluster_eq_g4p",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.3 - Reykjanes Ridge",
+      "summary": "A magnitude 5.3 earthquake occurred at a depth of 10 km: Reykjanes Ridge.",
+      "metrics": {
+        "magnitude": 5.3,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.359999999999999
+      },
+      "location": {
+        "country": "Reykjanes Ridge",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Reykjanes Ridge",
+        "latitude": 56.8137,
+        "longitude": -34.1689,
+        "geohash": "g4pen"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-21T21:38:55.441000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3yj",
+          "retrieved_at": "2026-10-21T22:53:22.167609+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3y1",
+      "cluster_id": "cluster_eq_kk6",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.9 - 68 km NNW of Khorixas, Namibia",
+      "summary": "A magnitude 4.9 earthquake occurred at a depth of 10 km: 68 km NNW of Khorixas, Namibia.",
+      "metrics": {
+        "magnitude": 4.9,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.88
+      },
+      "location": {
+        "country": "Namibia",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "68 km NNW of Khorixas, Namibia",
+        "latitude": -19.7855,
+        "longitude": 14.7284,
+        "geohash": "kk6rr"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-21T20:34:50.454000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3y1",
+          "retrieved_at": "2026-10-21T22:53:22.167638+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3x2",
+      "cluster_id": "cluster_eq_g4p",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.0 - Reykjanes Ridge",
+      "summary": "A magnitude 5.0 earthquake occurred at a depth of 10 km: Reykjanes Ridge.",
+      "metrics": {
+        "magnitude": 5.0,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.0
+      },
+      "location": {
+        "country": "Reykjanes Ridge",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Reykjanes Ridge",
+        "latitude": 57.1591,
+        "longitude": -33.9973,
+        "geohash": "g4pv4"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-21T19:06:06.706000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3x2",
+          "retrieved_at": "2026-10-21T22:53:22.167670+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3xx",
+      "cluster_id": "cluster_eq_rtm",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.0 - 198 km WNW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 5.0 earthquake occurred at a depth of 10 km: 198 km WNW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 5.0,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.0
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "198 km WNW of Port-Olry, Vanuatu",
+        "latitude": -14.1796,
+        "longitude": 165.4616,
+        "geohash": "rtmxm"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-21T18:41:04.974000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3xx",
+          "retrieved_at": "2026-10-21T22:53:22.167693+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3ws",
+      "cluster_id": "cluster_eq_rtm",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.7 - 202 km WNW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 4.7 earthquake occurred at a depth of 10 km: 202 km WNW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 4.7,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.64
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "202 km WNW of Port-Olry, Vanuatu",
+        "latitude": -14.1592,
+        "longitude": 165.431,
+        "geohash": "rtmxk"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-21T18:40:31.851000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ws",
+          "retrieved_at": "2026-10-21T22:53:22.167718+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3wh",
+      "cluster_id": "cluster_eq_hwe",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.1 - south of Africa",
+      "summary": "A magnitude 5.1 earthquake occurred at a depth of 10 km: south of Africa.",
+      "metrics": {
+        "magnitude": 5.1,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.119999999999999
+      },
+      "location": {
+        "country": "south of Africa",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "south of Africa",
+        "latitude": -52.8338,
+        "longitude": 27.5329,
+        "geohash": "hwee6"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-21T18:12:35.440000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3wh",
+          "retrieved_at": "2026-10-21T22:53:22.167741+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3w6",
+      "cluster_id": "cluster_eq_z8b",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.6 - 208 km SE of Severo-Kuril\u2019sk, Russia",
+      "summary": "A magnitude 4.6 earthquake occurred at a depth of 10 km: 208 km SE of Severo-Kuril\u2019sk, Russia.",
+      "metrics": {
+        "magnitude": 4.6,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.52
+      },
+      "location": {
+        "country": "Russia",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "208 km SE of Severo-Kuril\u2019sk, Russia",
+        "latitude": 49.2528,
+        "longitude": 158.0282,
+        "geohash": "z8b2h"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-21T17:19:33.362000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3w6",
+          "retrieved_at": "2026-10-21T22:53:22.167768+00:00"
+        }
+      ]
+    },
     {
       "event_id": "gdacs_c9fd5e2d2a9167b4",
       "cluster_id": "cluster_cyclone_000",
@@ -867,6 +1318,47 @@
       ]
     },
     {
+      "event_id": "usgs_us6000u3uk",
+      "cluster_id": "cluster_eq_rtm",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.9 - 208 km WNW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 4.9 earthquake occurred at a depth of 10 km: 208 km WNW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 4.9,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.88
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "208 km WNW of Port-Olry, Vanuatu",
+        "latitude": -14.1338,
+        "longitude": 165.3793,
+        "geohash": "rtmxe"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-21T15:22:33.566000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3uk",
+          "retrieved_at": "2026-10-21T22:53:22.167797+00:00"
+        }
+      ]
+    },
+    {
       "event_id": "usgs_us6000u3ue",
       "cluster_id": "cluster_eq_rtm",
       "lifecycle_phase": "emerging",
@@ -904,6 +1396,88 @@
           "source_name": "USGS Earthquake Hazards Program",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ue",
           "retrieved_at": "2026-10-21T16:17:08.362490+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3uc",
+      "cluster_id": "cluster_eq_xpt",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.7 - 33 km NE of Shizunai-furukawach\u014d, Japan",
+      "summary": "A magnitude 4.7 earthquake occurred at a depth of 94.112 km: 33 km NE of Shizunai-furukawach\u014d, Japan.",
+      "metrics": {
+        "magnitude": 4.7,
+        "depth_km": 94.112,
+        "wind_speed_kmh": null,
+        "alert_score": 5.64
+      },
+      "location": {
+        "country": "Japan",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "33 km NE of Shizunai-furukawach\u014d, Japan",
+        "latitude": 42.573,
+        "longitude": 142.6247,
+        "geohash": "xpt6j"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-21T14:40:50.748000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3uc",
+          "retrieved_at": "2026-10-21T22:53:22.167822+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3ub",
+      "cluster_id": "cluster_eq_rtt",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.9 - 207 km WNW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 4.9 earthquake occurred at a depth of 10 km: 207 km WNW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 4.9,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.88
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "207 km WNW of Port-Olry, Vanuatu",
+        "latitude": -14.0069,
+        "longitude": 165.4684,
+        "geohash": "rtt8m"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-21T14:35:51.111000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ub",
+          "retrieved_at": "2026-10-21T22:53:22.167844+00:00"
         }
       ]
     },
@@ -3552,580 +4126,6 @@
         {
           "source_name": "GDACS",
           "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001338",
-          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_8d17fd2fddaf1c2b",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in Australia",
-      "summary": "On 14/10/2026, a forest fire started in Australia,  until 20/10/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in Australia",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032967",
-          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_0ec3351e2aba0ef9",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in Madagascar",
-      "summary": "On 14/10/2026, a forest fire started in Madagascar,  until 20/10/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in Madagascar",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032971",
-          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_c58b2704aa391f33",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in Chad",
-      "summary": "On 14/10/2026, a forest fire started in Chad,  until 20/10/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in Chad",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032958",
-          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_095170dcbc33d452",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in Indonesia",
-      "summary": "On 13/10/2026, a forest fire started in Indonesia,  until 20/10/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in Indonesia",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032972",
-          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_514e9bb49a4fc341",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in Australia",
-      "summary": "On 10/10/2026, a forest fire started in Australia,  until 20/10/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in Australia",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032973",
-          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_d5852494d0d784bb",
-      "cluster_id": "cluster_flood_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "flood",
-      "severity_level": "moderate",
-      "title": "Green flood alert in Costa Rica",
-      "summary": "On 09/10/2026, a flood started in Costa Rica, lasting until 20/10/2026 (last update). The flood caused 0 deaths and 27 displaced .",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green flood alert in Costa Rica",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104227",
-          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_9c7842004762b74e",
-      "cluster_id": "cluster_flood_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "flood",
-      "severity_level": "moderate",
-      "title": "Green flood alert in Italy",
-      "summary": "On 07/10/2026, a flood started in Italy, lasting until 20/10/2026 (last update). The flood caused 0 deaths and 205 displaced .",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green flood alert in Italy",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104220",
-          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_78256dd4a2d44dd2",
-      "cluster_id": "cluster_flood_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "flood",
-      "severity_level": "moderate",
-      "title": "Green flood alert in Ecuador",
-      "summary": "On 15/09/2026, a flood started in Ecuador, lasting until 20/10/2026 (last update). The flood caused 6 deaths and 7 displaced .",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green flood alert in Ecuador",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104167",
-          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_8cc48e47a6ca00f4",
-      "cluster_id": "cluster_flood_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "flood",
-      "severity_level": "moderate",
-      "title": "Green flood alert in Mexico",
-      "summary": "On 17/08/2026, a flood started in Mexico, lasting until 18/10/2026 (last update). The flood caused 22 deaths and 1904 displaced .",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green flood alert in Mexico",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104099",
-          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_0313ced00ad07fdb",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "emerging",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Drought is on going in Democratic Republic of Congo, Central African Republic, Cameroon, Eritrea, Ethiopia, Niger, Nigeria, Sudan, South Sudan, Chad",
-      "summary": "The  Drought notification level is Orange.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Drought is on going in Democratic Republic of Congo, Central African Republic, Cameroon, Eritrea, Ethiopia, Niger, Nigeria, Sudan, South Sudan, Chad",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1027450",
-          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_2f21a376d3cbf0e4",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "emerging",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Drought is on going in China, Kazakhstan, Mongolia",
-      "summary": "The  Drought notification level is Green.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Drought is on going in China, Kazakhstan, Mongolia",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1027491",
-          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_97db4e4b3874845e",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "emerging",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Drought is on going in Burundi, Democratic Republic of Congo, Kenya, Rwanda, Tanzania, Uganda",
-      "summary": "The  Drought notification level is Orange.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Drought is on going in Burundi, Democratic Republic of Congo, Kenya, Rwanda, Tanzania, Uganda",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1027465",
-          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_0e09966879a6057b",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "emerging",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Drought is on going in The Bahamas, Belize, Costa Rica, Cuba, Dominican Republic, Guatemala, Honduras, Haiti, Mexico, Nicaragua, El Salvador, United States",
-      "summary": "The  Drought notification level is Orange.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Drought is on going in The Bahamas, Belize, Costa Rica, Cuba, Dominican Republic, Guatemala, Honduras, Haiti, Mexico, Nicaragua, El Salvador, United States",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1027449",
-          "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_7c621a4e03240886",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "emerging",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Drought is on going in Brunei, Indonesia, Cambodia, Malaysia, Papua New Guinea, Philippines",
-      "summary": "The  Drought notification level is Green.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Drought is on going in Brunei, Indonesia, Cambodia, Malaysia, Papua New Guinea, Philippines",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-20T15:59:50.940822+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018545",
           "retrieved_at": "2026-10-20T15:59:50.940822+00:00"
         }
       ]

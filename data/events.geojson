@@ -3,6 +3,248 @@
   "features": [
     {
       "type": "Feature",
+      "id": "gdacs_ffaff343ad2702d7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "cyclone",
+        "severity_level": "catastrophic",
+        "cluster_id": "cluster_cyclone_000",
+        "geohash": "00000",
+        "title": "Green notification for tropical cyclone JOSEPHINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (7.514 million in Tropical Storm).",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-21T22:53:25.075851+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_91d43e8f8c00c358",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "cyclone",
+        "severity_level": "catastrophic",
+        "cluster_id": "cluster_cyclone_000",
+        "geohash": "00000",
+        "title": "Green notification for tropical cyclone VANCE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-21T22:53:25.075851+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_cec17d77ac6c3435",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "cyclone",
+        "severity_level": "catastrophic",
+        "cluster_id": "cluster_cyclone_000",
+        "geohash": "00000",
+        "title": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.231 million .",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-21T22:53:25.075851+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u3yp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.1306,
+          56.863
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_g4p",
+        "geohash": "g4per",
+        "title": "M 5.0 - Reykjanes Ridge",
+        "country": "Reykjanes Ridge",
+        "magnitude": 5.0,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-21T21:58:48.618000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u3yj",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.1689,
+          56.8137
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_g4p",
+        "geohash": "g4pen",
+        "title": "M 5.3 - Reykjanes Ridge",
+        "country": "Reykjanes Ridge",
+        "magnitude": 5.3,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-21T21:38:55.441000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u3y1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7284,
+          -19.7855
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_kk6",
+        "geohash": "kk6rr",
+        "title": "M 4.9 - 68 km NNW of Khorixas, Namibia",
+        "country": "Namibia",
+        "magnitude": 4.9,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-21T20:34:50.454000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u3x2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9973,
+          57.1591
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_g4p",
+        "geohash": "g4pv4",
+        "title": "M 5.0 - Reykjanes Ridge",
+        "country": "Reykjanes Ridge",
+        "magnitude": 5.0,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-21T19:06:06.706000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u3xx",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.4616,
+          -14.1796
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_rtm",
+        "geohash": "rtmxm",
+        "title": "M 5.0 - 198 km WNW of Port-Olry, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 5.0,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-21T18:41:04.974000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u3ws",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.431,
+          -14.1592
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_rtm",
+        "geohash": "rtmxk",
+        "title": "M 4.7 - 202 km WNW of Port-Olry, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 4.7,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-21T18:40:31.851000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u3wh",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5329,
+          -52.8338
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_hwe",
+        "geohash": "hwee6",
+        "title": "M 5.1 - south of Africa",
+        "country": "south of Africa",
+        "magnitude": 5.1,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-21T18:12:35.440000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u3w6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.0282,
+          49.2528
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_z8b",
+        "geohash": "z8b2h",
+        "title": "M 4.6 - 208 km SE of Severo-Kuril\u2019sk, Russia",
+        "country": "Russia",
+        "magnitude": 4.6,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-21T17:19:33.362000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_c9fd5e2d2a9167b4",
       "geometry": {
         "type": "Point",
@@ -465,6 +707,28 @@
     },
     {
       "type": "Feature",
+      "id": "usgs_us6000u3uk",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.3793,
+          -14.1338
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_rtm",
+        "geohash": "rtmxe",
+        "title": "M 4.9 - 208 km WNW of Port-Olry, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 4.9,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-21T15:22:33.566000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "usgs_us6000u3ue",
       "geometry": {
         "type": "Point",
@@ -483,6 +747,50 @@
         "magnitude": 5.0,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-10-21T14:56:27.447000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u3uc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6247,
+          42.573
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_xpt",
+        "geohash": "xpt6j",
+        "title": "M 4.7 - 33 km NE of Shizunai-furukawach\u014d, Japan",
+        "country": "Japan",
+        "magnitude": 4.7,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-21T14:40:50.748000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u3ub",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.4684,
+          -14.0069
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_rtt",
+        "geohash": "rtt8m",
+        "title": "M 4.9 - 207 km WNW of Port-Olry, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 4.9,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-21T14:35:51.111000+00:00"
       }
     },
     {
@@ -1887,314 +2195,6 @@
         "cluster_id": "cluster_cyclone_000",
         "geohash": "00000",
         "title": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 7.339 million .",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-20T15:59:50.940822+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_8d17fd2fddaf1c2b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Australia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-20T15:59:50.940822+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_0ec3351e2aba0ef9",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Madagascar",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-20T15:59:50.940822+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_c58b2704aa391f33",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Chad",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-20T15:59:50.940822+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_095170dcbc33d452",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Indonesia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-20T15:59:50.940822+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_514e9bb49a4fc341",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Australia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-20T15:59:50.940822+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_d5852494d0d784bb",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "flood",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_flood_000",
-        "geohash": "00000",
-        "title": "Green flood alert in Costa Rica",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-20T15:59:50.940822+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_9c7842004762b74e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "flood",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_flood_000",
-        "geohash": "00000",
-        "title": "Green flood alert in Italy",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-20T15:59:50.940822+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_78256dd4a2d44dd2",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "flood",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_flood_000",
-        "geohash": "00000",
-        "title": "Green flood alert in Ecuador",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-20T15:59:50.940822+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_8cc48e47a6ca00f4",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "flood",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_flood_000",
-        "geohash": "00000",
-        "title": "Green flood alert in Mexico",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-20T15:59:50.940822+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_0313ced00ad07fdb",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Drought is on going in Democratic Republic of Congo, Central African Republic, Cameroon, Eritrea, Ethiopia, Niger, Nigeria, Sudan, South Sudan, Chad",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-20T15:59:50.940822+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_2f21a376d3cbf0e4",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Drought is on going in China, Kazakhstan, Mongolia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-20T15:59:50.940822+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_97db4e4b3874845e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Drought is on going in Burundi, Democratic Republic of Congo, Kenya, Rwanda, Tanzania, Uganda",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-20T15:59:50.940822+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_0e09966879a6057b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Drought is on going in The Bahamas, Belize, Costa Rica, Cuba, Dominican Republic, Guatemala, Honduras, Haiti, Mexico, Nicaragua, El Salvador, United States",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-20T15:59:50.940822+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_7c621a4e03240886",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Drought is on going in Brunei, Indonesia, Cambodia, Malaysia, Papua New Guinea, Philippines",
         "country": "Global",
         "magnitude": null,
         "exposed_infrastructure_count": 0,
