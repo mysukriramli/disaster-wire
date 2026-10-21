@@ -3,6 +3,116 @@
   "features": [
     {
       "type": "Feature",
+      "id": "gdacs_92df3c137cb02e7a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Indonesia",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-21T08:58:30.610629+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_68c91040b67f2632",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Nigeria, Chad",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-21T08:58:30.610629+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u3t6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5898,
+          13.0297
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_wf3",
+        "geohash": "wf361",
+        "title": "M 5.2 - 68 km NE of Cabatuan, Philippines",
+        "country": "Philippines",
+        "magnitude": 5.2,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-21T08:37:41.317000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u3t4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.1355,
+          -7.5619
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_qye",
+        "geohash": "qyehg",
+        "title": "M 5.1 - 164 km NE of Lospalos, Timor Leste",
+        "country": "Timor Leste",
+        "magnitude": 5.1,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-21T07:44:16.055000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u3sj",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.8331,
+          -14.035
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_rtt",
+        "geohash": "rttbj",
+        "title": "M 4.7 - 173 km NW of Port-Olry, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 4.7,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-21T04:23:28.083000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_28fae13eb081666f",
       "geometry": {
         "type": "Point",

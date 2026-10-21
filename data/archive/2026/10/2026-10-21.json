@@ -1,8 +1,213 @@
 {
   "archive_date": "2026-10-21",
-  "total_incidents": 89,
-  "updated_at": "2026-10-21T02:27:43.972535+00:00",
+  "total_incidents": 94,
+  "updated_at": "2026-10-21T08:58:31.480260+00:00",
   "events": [
+    {
+      "event_id": "gdacs_92df3c137cb02e7a",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Indonesia",
+      "summary": "On 13/10/2026, a forest fire started in Indonesia,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Indonesia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-21T08:58:30.610629+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033001",
+          "retrieved_at": "2026-10-21T08:58:30.610629+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_68c91040b67f2632",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Nigeria, Chad",
+      "summary": "On 07/10/2026, a forest fire started in Nigeria, Chad,  until 20/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Nigeria, Chad",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-21T08:58:30.610629+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032835",
+          "retrieved_at": "2026-10-21T08:58:30.610629+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3t6",
+      "cluster_id": "cluster_eq_wf3",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.2 - 68 km NE of Cabatuan, Philippines",
+      "summary": "A magnitude 5.2 earthquake occurred at a depth of 10 km: 68 km NE of Cabatuan, Philippines.",
+      "metrics": {
+        "magnitude": 5.2,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.24
+      },
+      "location": {
+        "country": "Philippines",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "68 km NE of Cabatuan, Philippines",
+        "latitude": 13.0297,
+        "longitude": 125.5898,
+        "geohash": "wf361"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-21T08:37:41.317000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t6",
+          "retrieved_at": "2026-10-21T08:58:28.168748+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3t4",
+      "cluster_id": "cluster_eq_qye",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.1 - 164 km NE of Lospalos, Timor Leste",
+      "summary": "A magnitude 5.1 earthquake occurred at a depth of 122.687 km: 164 km NE of Lospalos, Timor Leste.",
+      "metrics": {
+        "magnitude": 5.1,
+        "depth_km": 122.687,
+        "wind_speed_kmh": null,
+        "alert_score": 6.119999999999999
+      },
+      "location": {
+        "country": "Timor Leste",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "164 km NE of Lospalos, Timor Leste",
+        "latitude": -7.5619,
+        "longitude": 128.1355,
+        "geohash": "qyehg"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-21T07:44:16.055000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t4",
+          "retrieved_at": "2026-10-21T08:58:28.168905+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u3sj",
+      "cluster_id": "cluster_eq_rtt",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.7 - 173 km NW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 4.7 earthquake occurred at a depth of 10 km: 173 km NW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 4.7,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.64
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "173 km NW of Port-Olry, Vanuatu",
+        "latitude": -14.035,
+        "longitude": 165.8331,
+        "geohash": "rttbj"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-21T04:23:28.083000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3sj",
+          "retrieved_at": "2026-10-21T08:58:28.168948+00:00"
+        }
+      ]
+    },
     {
       "event_id": "gdacs_28fae13eb081666f",
       "cluster_id": "cluster_severe_weather_000",

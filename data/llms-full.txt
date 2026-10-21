@@ -1,7 +1,47 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-10-21T02:27:43.972015+00:00
+Generated: 2026-10-21T08:58:31.479591+00:00
 
 ## Active Incident Telemetry
+### [SEVERE_WEATHER] Green forest fire notification in Indonesia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Indonesia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 13/10/2026, a forest fire started in Indonesia,  until 20/10/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Nigeria, Chad
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Nigeria, Chad (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 07/10/2026, a forest fire started in Nigeria, Chad,  until 20/10/2026.
+
+### [EARTHQUAKE] M 5.2 - 68 km NE of Cabatuan, Philippines
+- **Cluster ID:** `cluster_eq_wf3` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 68 km NE of Cabatuan, Philippines (Philippines) | Geohash: `wf361`
+- **Coordinates:** `[13.0297, 125.5898]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.2 earthquake occurred at a depth of 10 km: 68 km NE of Cabatuan, Philippines.
+
+### [EARTHQUAKE] M 5.1 - 164 km NE of Lospalos, Timor Leste
+- **Cluster ID:** `cluster_eq_qye` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 164 km NE of Lospalos, Timor Leste (Timor Leste) | Geohash: `qyehg`
+- **Coordinates:** `[-7.5619, 128.1355]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.1 earthquake occurred at a depth of 122.687 km: 164 km NE of Lospalos, Timor Leste.
+
+### [EARTHQUAKE] M 4.7 - 173 km NW of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 173 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rttbj`
+- **Coordinates:** `[-14.035, 165.8331]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.7 earthquake occurred at a depth of 10 km: 173 km NW of Port-Olry, Vanuatu.
+
 ### [SEVERE_WEATHER] Green forest fire notification in Australia
 - **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
 - **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
