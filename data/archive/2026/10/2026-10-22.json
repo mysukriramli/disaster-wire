@@ -1,8 +1,910 @@
 {
   "archive_date": "2026-10-22",
-  "total_incidents": 220,
-  "updated_at": "2026-10-22T16:15:55.923985+00:00",
+  "total_incidents": 243,
+  "updated_at": "2026-10-22T22:51:17.049267+00:00",
   "events": [
+    {
+      "event_id": "gdacs_d8c5221b53da8071",
+      "cluster_id": "cluster_earthquake_000",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "catastrophic",
+      "title": "Red earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 10 thousand (in MMI>=VII).",
+      "summary": "On 10/22/2026 2:33:40 PM, an earthquake occurred in China potentially affecting 10 thousand (in MMI>=VII). The earthquake had Magnitude 7M, Depth:18km.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Red earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 10 thousand (in MMI>=VII).",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-22T22:51:16.193394+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573141",
+          "retrieved_at": "2026-10-22T22:51:16.193394+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_e146a4f95e79061c",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Mozambique",
+      "summary": "On 19/10/2026, a forest fire started in Mozambique,  until 22/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Mozambique",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-22T22:51:16.193394+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033055",
+          "retrieved_at": "2026-10-22T22:51:16.193394+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_9aff1b8be5bef75c",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in South Sudan, Sudan",
+      "summary": "On 19/10/2026, a forest fire started in South Sudan, Sudan,  until 22/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in South Sudan, Sudan",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-22T22:51:16.193394+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033056",
+          "retrieved_at": "2026-10-22T22:51:16.193394+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_68b2c38b19262e02",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in South Sudan",
+      "summary": "On 19/10/2026, a forest fire started in South Sudan,  until 22/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in South Sudan",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-22T22:51:16.193394+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033057",
+          "retrieved_at": "2026-10-22T22:51:16.193394+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_f9121079055ef745",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in South Sudan",
+      "summary": "On 18/10/2026, a forest fire started in South Sudan,  until 22/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in South Sudan",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-22T22:51:16.193394+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033058",
+          "retrieved_at": "2026-10-22T22:51:16.193394+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_237cd73f568fe3d5",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Botswana",
+      "summary": "On 17/10/2026, a forest fire started in Botswana,  until 22/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Botswana",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-22T22:51:16.193394+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033059",
+          "retrieved_at": "2026-10-22T22:51:16.193394+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_e4e81f1aab9e8263",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Zimbabwe, Mozambique, Zambia",
+      "summary": "On 16/10/2026, a forest fire started in Zimbabwe, Mozambique, Zambia,  until 22/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Zimbabwe, Mozambique, Zambia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-22T22:51:16.193394+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032957",
+          "retrieved_at": "2026-10-22T22:51:16.193394+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_149f561aaba887e4",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Mozambique",
+      "summary": "On 16/10/2026, a forest fire started in Mozambique,  until 22/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Mozambique",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-22T22:51:16.193394+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033060",
+          "retrieved_at": "2026-10-22T22:51:16.193394+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_05ac048bc550b0a8",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in South Sudan, Sudan",
+      "summary": "On 15/10/2026, a forest fire started in South Sudan, Sudan,  until 22/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in South Sudan, Sudan",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-22T22:51:16.193394+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033061",
+          "retrieved_at": "2026-10-22T22:51:16.193394+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_4943c022748b34c4",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Mozambique",
+      "summary": "On 15/10/2026, a forest fire started in Mozambique,  until 22/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Mozambique",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-22T22:51:16.193394+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033062",
+          "retrieved_at": "2026-10-22T22:51:16.193394+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_ddc7983f420676ca",
+      "cluster_id": "cluster_cyclone_000",
+      "lifecycle_phase": "emerging",
+      "event_type": "cyclone",
+      "severity_level": "catastrophic",
+      "title": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.192 million .",
+      "summary": "From 14/10/2026 to 22/10/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 296 km/h) CHAMPI-26 was active in NWPacific. The cyclone affects these countries: Philippines, Guam, Northern Mariana Islands, Japan, Taiwan (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0.192 million .",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.192 million .",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-22T22:51:16.193394+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001338",
+          "retrieved_at": "2026-10-22T22:51:16.193394+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_765396436600ff01",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Sudan",
+      "summary": "On 14/10/2026, a forest fire started in Sudan,  until 22/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Sudan",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-22T22:51:16.193394+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033063",
+          "retrieved_at": "2026-10-22T22:51:16.193394+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_c038775d38158900",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Mozambique",
+      "summary": "On 12/10/2026, a forest fire started in Mozambique,  until 22/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Mozambique",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-22T22:51:16.193394+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033064",
+          "retrieved_at": "2026-10-22T22:51:16.193394+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u473",
+      "cluster_id": "cluster_eq_rqu",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.0 - 153 km S of Kokopo, Papua New Guinea",
+      "summary": "A magnitude 5.0 earthquake occurred at a depth of 10 km: 153 km S of Kokopo, Papua New Guinea.",
+      "metrics": {
+        "magnitude": 5.0,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.0
+      },
+      "location": {
+        "country": "Papua New Guinea",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "153 km S of Kokopo, Papua New Guinea",
+        "latitude": -5.728,
+        "longitude": 152.2646,
+        "geohash": "rqur2"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-22T20:05:04.207000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u473",
+          "retrieved_at": "2026-10-22T22:51:13.786805+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u46r",
+      "cluster_id": "cluster_eq_2jk",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.9 - 104 km NNE of Hihifo, Tonga",
+      "summary": "A magnitude 4.9 earthquake occurred at a depth of 23.411 km: 104 km NNE of Hihifo, Tonga.",
+      "metrics": {
+        "magnitude": 4.9,
+        "depth_km": 23.411,
+        "wind_speed_kmh": null,
+        "alert_score": 5.88
+      },
+      "location": {
+        "country": "Tonga",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "104 km NNE of Hihifo, Tonga",
+        "latitude": -15.1269,
+        "longitude": -173.3304,
+        "geohash": "2jk9z"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-22T19:06:56.074000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u46r",
+          "retrieved_at": "2026-10-22T22:51:13.786987+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u45j",
+      "cluster_id": "cluster_eq_wjf",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.0 - 207 km ENE of Nagqu, China",
+      "summary": "A magnitude 5.0 earthquake occurred at a depth of 10 km: 207 km ENE of Nagqu, China.",
+      "metrics": {
+        "magnitude": 5.0,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.0
+      },
+      "location": {
+        "country": "China",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "207 km ENE of Nagqu, China",
+        "latitude": 32.3707,
+        "longitude": 93.9886,
+        "geohash": "wjfb4"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-22T18:06:44.294000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u45j",
+          "retrieved_at": "2026-10-22T22:51:13.787047+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u45f",
+      "cluster_id": "cluster_eq_xrb",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.8 - 39 km NE of Shikotan, Russia",
+      "summary": "A magnitude 4.8 earthquake occurred at a depth of 76.309 km: 39 km NE of Shikotan, Russia.",
+      "metrics": {
+        "magnitude": 4.8,
+        "depth_km": 76.309,
+        "wind_speed_kmh": null,
+        "alert_score": 5.76
+      },
+      "location": {
+        "country": "Russia",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "39 km NE of Shikotan, Russia",
+        "latitude": 44.035,
+        "longitude": 147.0825,
+        "geohash": "xrbdd"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-22T17:21:26.780000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u45f",
+          "retrieved_at": "2026-10-22T22:51:13.787096+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u45a",
+      "cluster_id": "cluster_eq_wjd",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.7 - 190 km ENE of Nagqu, China",
+      "summary": "A magnitude 4.7 earthquake occurred at a depth of 10 km: 190 km ENE of Nagqu, China.",
+      "metrics": {
+        "magnitude": 4.7,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.64
+      },
+      "location": {
+        "country": "China",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "190 km ENE of Nagqu, China",
+        "latitude": 32.3207,
+        "longitude": 93.8055,
+        "geohash": "wjdxy"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-22T16:57:53.999000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u45a",
+          "retrieved_at": "2026-10-22T22:51:13.787139+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u459",
+      "cluster_id": "cluster_eq_25g",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.8 - 144 km SSW of \u2018Ohonua, Tonga",
+      "summary": "A magnitude 4.8 earthquake occurred at a depth of 35 km: 144 km SSW of \u2018Ohonua, Tonga.",
+      "metrics": {
+        "magnitude": 4.8,
+        "depth_km": 35.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.76
+      },
+      "location": {
+        "country": "Tonga",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "144 km SSW of \u2018Ohonua, Tonga",
+        "latitude": -22.564,
+        "longitude": -175.4438,
+        "geohash": "25gpx"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-22T16:51:21.365000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u459",
+          "retrieved_at": "2026-10-22T22:51:13.787190+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u458",
+      "cluster_id": "cluster_eq_wjf",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.5 - 203 km ENE of Nagqu, China",
+      "summary": "A magnitude 4.5 earthquake occurred at a depth of 10 km: 203 km ENE of Nagqu, China.",
+      "metrics": {
+        "magnitude": 4.5,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.3999999999999995
+      },
+      "location": {
+        "country": "China",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "203 km ENE of Nagqu, China",
+        "latitude": 32.4493,
+        "longitude": 93.8798,
+        "geohash": "wjfb8"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-22T16:50:16.850000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u458",
+          "retrieved_at": "2026-10-22T22:51:13.787232+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u455",
+      "cluster_id": "cluster_eq_wjf",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.6 - 193 km NE of Nagqu, China",
+      "summary": "A magnitude 4.6 earthquake occurred at a depth of 10 km: 193 km NE of Nagqu, China.",
+      "metrics": {
+        "magnitude": 4.6,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.52
+      },
+      "location": {
+        "country": "China",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "193 km NE of Nagqu, China",
+        "latitude": 32.4691,
+        "longitude": 93.7403,
+        "geohash": "wjf8t"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-22T16:45:00.942000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u455",
+          "retrieved_at": "2026-10-22T22:51:13.787280+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u451",
+      "cluster_id": "cluster_eq_wjf",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.9 - 210 km ENE of Nagqu, China",
+      "summary": "A magnitude 4.9 earthquake occurred at a depth of 10 km: 210 km ENE of Nagqu, China.",
+      "metrics": {
+        "magnitude": 4.9,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.88
+      },
+      "location": {
+        "country": "China",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "210 km ENE of Nagqu, China",
+        "latitude": 32.4918,
+        "longitude": 93.9447,
+        "geohash": "wjfbc"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-22T16:21:33.822000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u451",
+          "retrieved_at": "2026-10-22T22:51:13.787325+00:00"
+        }
+      ]
+    },
     {
       "event_id": "gdacs_2c29fc5e792ae473",
       "cluster_id": "cluster_earthquake_000",
@@ -615,6 +1517,47 @@
           "source_name": "USGS Earthquake Hazards Program",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u44w",
           "retrieved_at": "2026-10-22T16:15:52.583675+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u44u",
+      "cluster_id": "cluster_eq_txp",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.7 - 139 km ENE of Kashgar, China",
+      "summary": "A magnitude 4.7 earthquake occurred at a depth of 10 km: 139 km ENE of Kashgar, China.",
+      "metrics": {
+        "magnitude": 4.7,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.64
+      },
+      "location": {
+        "country": "China",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "139 km ENE of Kashgar, China",
+        "latitude": 40.1472,
+        "longitude": 77.3556,
+        "geohash": "txph2"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-22T15:27:48.445000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u44u",
+          "retrieved_at": "2026-10-22T22:51:13.787367+00:00"
         }
       ]
     },
