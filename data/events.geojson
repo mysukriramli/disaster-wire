@@ -3,6 +3,94 @@
   "features": [
     {
       "type": "Feature",
+      "id": "gdacs_a0f3ff4c04de2cb2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Australia",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-23T08:55:41.470337+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_d537f22faf0a948e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Burkina Faso",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-23T08:55:41.470337+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_e3410aeaf212559d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "cyclone",
+        "severity_level": "catastrophic",
+        "cluster_id": "cluster_cyclone_000",
+        "geohash": "00000",
+        "title": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.181 million .",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-23T08:55:41.470337+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u49c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5795,
+          -21.3469
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_6s0",
+        "geohash": "6s0ws",
+        "title": "M 4.5 - 58 km SW of Atocha, Bolivia",
+        "country": "Bolivia",
+        "magnitude": 4.5,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-23T02:45:41.183000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_934ce0c2f1acec96",
       "geometry": {
         "type": "Point",
@@ -439,6 +527,28 @@
         "magnitude": null,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-10-23T02:29:06.006963+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u49a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6189,
+          27.9986
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_whz",
+        "geohash": "whzx3",
+        "title": "M 4.5 - 18 km NNW of Yongning, China",
+        "country": "China",
+        "magnitude": 4.5,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-23T02:17:01.507000+00:00"
       }
     },
     {
@@ -2072,116 +2182,6 @@
     {
       "type": "Feature",
       "id": "gdacs_ec325de6fc4a1eaf",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Australia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-22T09:01:01.338670+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_95842dd5ccf57950",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Australia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-22T09:01:01.338670+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_81add679b892bc70",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Australia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-22T09:01:01.338670+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_e2ee7af99495f686",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Australia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-22T09:01:01.338670+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_ff2ce95fad4718aa",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Australia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-22T09:01:01.338670+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_9567ae601cfb5112",
       "geometry": {
         "type": "Point",
         "coordinates": [
