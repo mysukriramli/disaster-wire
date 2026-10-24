@@ -3,6 +3,138 @@
   "features": [
     {
       "type": "Feature",
+      "id": "gdacs_c85e48901418e3d6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Senegal",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-24T02:26:57.329973+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_f988d35403783e34",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Australia",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-24T02:26:57.329973+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_4bd367a33ed7323d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Australia",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-24T02:26:57.329973+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_fe84abf45a3a7ad2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Australia",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-24T02:26:57.329973+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u4ib",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.6177,
+          -13.9871
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_rtt",
+        "geohash": "rttb2",
+        "title": "M 4.5 - 195 km NW of Port-Olry, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 4.5,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-24T00:27:44.940000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u4i8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.9004,
+          32.5271
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_wjf",
+        "geohash": "wjfc0",
+        "title": "M 4.9 - 209 km ENE of Nagqu, China",
+        "country": "China",
+        "magnitude": 4.9,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-24T00:07:56.787000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_be18432d851ddaa6",
       "geometry": {
         "type": "Point",
@@ -593,6 +725,50 @@
         "magnitude": null,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-10-23T22:44:41.509465+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u4hr",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.2523,
+          -15.4328
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_rtr",
+        "geohash": "rtr8h",
+        "title": "M 4.9 - 115 km NE of Norsup, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 4.9,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-23T22:42:51.088000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u4hi",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.2951,
+          54.2668
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_vct",
+        "geohash": "vctke",
+        "title": "M 4.8 - 6 km ENE of Starobachaty, Russia",
+        "country": "Russia",
+        "magnitude": 4.8,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-23T22:24:16.303000+00:00"
       }
     },
     {
@@ -2023,182 +2199,6 @@
         "magnitude": null,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-10-22T22:51:16.193394+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_4943c022748b34c4",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Mozambique",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-22T22:51:16.193394+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_ddc7983f420676ca",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "cyclone",
-        "severity_level": "catastrophic",
-        "cluster_id": "cluster_cyclone_000",
-        "geohash": "00000",
-        "title": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.192 million .",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-22T22:51:16.193394+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_765396436600ff01",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Sudan",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-22T22:51:16.193394+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_c038775d38158900",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Mozambique",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-22T22:51:16.193394+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u47n",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -68.3401,
-          -21.6653
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_6kp",
-        "geohash": "6kpks",
-        "title": "M 4.6 - 49 km S of Ollag\u00fce, Chile",
-        "country": "Chile",
-        "magnitude": 4.6,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-22T21:37:56.543000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u47l",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          154.9209,
-          48.3802
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_z2w",
-        "geohash": "z2w5j",
-        "title": "M 4.8 - 269 km SSW of Severo-Kuril\u2019sk, Russia",
-        "country": "Russia",
-        "magnitude": 4.8,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-22T21:09:59.090000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u473",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.2646,
-          -5.728
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_rqu",
-        "geohash": "rqur2",
-        "title": "M 5.0 - 153 km S of Kokopo, Papua New Guinea",
-        "country": "Papua New Guinea",
-        "magnitude": 5.0,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-22T20:05:04.207000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u46r",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -173.3304,
-          -15.1269
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_2jk",
-        "geohash": "2jk9z",
-        "title": "M 4.9 - 104 km NNE of Hihifo, Tonga",
-        "country": "Tonga",
-        "magnitude": 4.9,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-22T19:06:56.074000+00:00"
       }
     }
   ]
