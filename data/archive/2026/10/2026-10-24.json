@@ -1,8 +1,1116 @@
 {
   "archive_date": "2026-10-24",
-  "total_incidents": 100,
-  "updated_at": "2026-10-24T02:26:58.101885+00:00",
+  "total_incidents": 127,
+  "updated_at": "2026-10-24T08:29:34.919805+00:00",
   "events": [
+    {
+      "event_id": "gdacs_f832333bbee95f06",
+      "cluster_id": "cluster_earthquake_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "Green earthquake (Magnitude 5.5M, Depth:194.632km) in Vanuatu 24/10/2026 06:43 UTC, 60 thousand in MMI III.",
+      "summary": "On 10/24/2026 6:43:09 AM, an earthquake occurred in Vanuatu potentially affecting 60 thousand in MMI III. The earthquake had Magnitude 5.5M, Depth:194.632km.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green earthquake (Magnitude 5.5M, Depth:194.632km) in Vanuatu 24/10/2026 06:43 UTC, 60 thousand in MMI III.",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-24T08:29:34.108774+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573554",
+          "retrieved_at": "2026-10-24T08:29:34.108774+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_d37ad81018ca23b4",
+      "cluster_id": "cluster_earthquake_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 24/10/2026 05:23 UTC, 2 thousand in MMI>=III.",
+      "summary": "On 10/24/2026 5:23:40 AM, an earthquake occurred in Vanuatu potentially affecting 2 thousand in MMI>=III. The earthquake had Magnitude 5.8M, Depth:10km.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 24/10/2026 05:23 UTC, 2 thousand in MMI>=III.",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-24T08:29:34.108774+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573536",
+          "retrieved_at": "2026-10-24T08:29:34.108774+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_e887ed5861fb4507",
+      "cluster_id": "cluster_earthquake_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu Islands 24/10/2026 04:12 UTC, [unknown].",
+      "summary": "On 10/24/2026 4:12:05 AM, an earthquake occurred in Vanuatu Islands potentially affecting [unknown]. The earthquake had Magnitude 5.8M, Depth:10km.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu Islands 24/10/2026 04:12 UTC, [unknown].",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-24T08:29:34.108774+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573528",
+          "retrieved_at": "2026-10-24T08:29:34.108774+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_65094acf41161f97",
+      "cluster_id": "cluster_earthquake_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 24/10/2026 04:05 UTC, [unknown].",
+      "summary": "On 10/24/2026 4:05:36 AM, an earthquake occurred in Vanuatu Islands potentially affecting [unknown]. The earthquake had Magnitude 5.7M, Depth:10km.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 24/10/2026 04:05 UTC, [unknown].",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-24T08:29:34.108774+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573526",
+          "retrieved_at": "2026-10-24T08:29:34.108774+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_ef8067dacf1788b2",
+      "cluster_id": "cluster_earthquake_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "Green earthquake (Magnitude 6.3M, Depth:10km) in Vanuatu 24/10/2026 02:35 UTC, 4 thousand in MMI IV.",
+      "summary": "On 10/24/2026 2:35:57 AM, an earthquake occurred in Vanuatu potentially affecting 4 thousand in MMI IV. The earthquake had Magnitude 6.3M, Depth:10km.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green earthquake (Magnitude 6.3M, Depth:10km) in Vanuatu 24/10/2026 02:35 UTC, 4 thousand in MMI IV.",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-24T08:29:34.108774+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573517",
+          "retrieved_at": "2026-10-24T08:29:34.108774+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_9ca78455e4433180",
+      "cluster_id": "cluster_earthquake_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "Green earthquake (Magnitude 6.9M, Depth:10km) in Vanuatu 24/10/2026 02:31 UTC, 40 thousand in MMI IV.",
+      "summary": "On 10/24/2026 2:31:28 AM, an earthquake occurred in Vanuatu potentially affecting 40 thousand in MMI IV. The earthquake had Magnitude 6.9M, Depth:10km.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green earthquake (Magnitude 6.9M, Depth:10km) in Vanuatu 24/10/2026 02:31 UTC, 40 thousand in MMI IV.",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-24T08:29:34.108774+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573515",
+          "retrieved_at": "2026-10-24T08:29:34.108774+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_3c1dac622d11c17f",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Mauritania, Mali",
+      "summary": "On 23/10/2026, a forest fire started in Mauritania, Mali,  until 23/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Mauritania, Mali",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-24T08:29:34.108774+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033101",
+          "retrieved_at": "2026-10-24T08:29:34.108774+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_61e5428a5d6fcc58",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in South Africa",
+      "summary": "On 20/10/2026, a forest fire started in South Africa,  until 23/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in South Africa",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-24T08:29:34.108774+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033131",
+          "retrieved_at": "2026-10-24T08:29:34.108774+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4kw",
+      "cluster_id": "cluster_eq_rtt",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.7 - 195 km NW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 4.7 earthquake occurred at a depth of 10 km: 195 km NW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 4.7,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.64
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "195 km NW of Port-Olry, Vanuatu",
+        "latitude": -13.8532,
+        "longitude": 165.7268,
+        "geohash": "rttc5"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-24T06:58:03.586000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kw",
+          "retrieved_at": "2026-10-24T08:29:31.180033+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4ku",
+      "cluster_id": "cluster_eq_rtt",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.0 - 219 km NW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 5.0 earthquake occurred at a depth of 10 km: 219 km NW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 5.0,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.0
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "219 km NW of Port-Olry, Vanuatu",
+        "latitude": -13.8777,
+        "longitude": 165.4237,
+        "geohash": "rtt9h"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-24T06:52:04.142000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ku",
+          "retrieved_at": "2026-10-24T08:29:31.180159+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4kq",
+      "cluster_id": "cluster_eq_rtq",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.5 - 55 km NNE of Port-Olry, Vanuatu",
+      "summary": "A magnitude 5.5 earthquake occurred at a depth of 194.632 km: 55 km NNE of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 5.5,
+        "depth_km": 194.632,
+        "wind_speed_kmh": null,
+        "alert_score": 6.6
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "55 km NNE of Port-Olry, Vanuatu",
+        "latitude": -14.5918,
+        "longitude": 167.3063,
+        "geohash": "rtquz"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-24T06:43:09.602000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kq",
+          "retrieved_at": "2026-10-24T08:29:31.180189+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4kt",
+      "cluster_id": "cluster_eq_rtt",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.6 - 206 km NW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 4.6 earthquake occurred at a depth of 10 km: 206 km NW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 4.6,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.52
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "206 km NW of Port-Olry, Vanuatu",
+        "latitude": -13.8228,
+        "longitude": 165.6213,
+        "geohash": "rttc2"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-24T06:20:56.869000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kt",
+          "retrieved_at": "2026-10-24T08:29:31.180219+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4kj",
+      "cluster_id": "cluster_eq_rtm",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.3 - 174 km NW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 5.3 earthquake occurred at a depth of 10 km: 174 km NW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 5.3,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.359999999999999
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "174 km NW of Port-Olry, Vanuatu",
+        "latitude": -14.1278,
+        "longitude": 165.7535,
+        "geohash": "rtmze"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-24T06:04:16.367000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kj",
+          "retrieved_at": "2026-10-24T08:29:31.180243+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4kh",
+      "cluster_id": "cluster_eq_rtt",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.5 - 175 km NW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 4.5 earthquake occurred at a depth of 10 km: 175 km NW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 4.5,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.3999999999999995
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "175 km NW of Port-Olry, Vanuatu",
+        "latitude": -14.051,
+        "longitude": 165.8047,
+        "geohash": "rttbh"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-24T05:37:46.052000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kh",
+          "retrieved_at": "2026-10-24T08:29:31.180267+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4ke",
+      "cluster_id": "cluster_eq_rtt",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.5 - 184 km NW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 4.5 earthquake occurred at a depth of 10 km: 184 km NW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 4.5,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.3999999999999995
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "184 km NW of Port-Olry, Vanuatu",
+        "latitude": -13.9786,
+        "longitude": 165.7483,
+        "geohash": "rttb7"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-24T05:35:54.921000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ke",
+          "retrieved_at": "2026-10-24T08:29:31.180288+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4k6",
+      "cluster_id": "cluster_eq_rtm",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.8 - 182 km NW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 5.8 earthquake occurred at a depth of 10 km: 182 km NW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 5.8,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.96
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "182 km NW of Port-Olry, Vanuatu",
+        "latitude": -14.0833,
+        "longitude": 165.6982,
+        "geohash": "rtmzf"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-24T05:23:40.747000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6",
+          "retrieved_at": "2026-10-24T08:29:31.180316+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4k5",
+      "cluster_id": "cluster_eq_rtt",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.8 - 219 km WNW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 4.8 earthquake occurred at a depth of 10 km: 219 km WNW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 4.8,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.76
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "219 km WNW of Port-Olry, Vanuatu",
+        "latitude": -14.0054,
+        "longitude": 165.3365,
+        "geohash": "rtt86"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-24T05:10:34.753000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k5",
+          "retrieved_at": "2026-10-24T08:29:31.180347+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4k1",
+      "cluster_id": "cluster_eq_rtt",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.1 - 217 km NW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 5.1 earthquake occurred at a depth of 10 km: 217 km NW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 5.1,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.119999999999999
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "217 km NW of Port-Olry, Vanuatu",
+        "latitude": -13.8521,
+        "longitude": 165.4673,
+        "geohash": "rtt9j"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-24T04:49:21.707000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k1",
+          "retrieved_at": "2026-10-24T08:29:31.180370+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4k2",
+      "cluster_id": "cluster_eq_rtm",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.0 - 161 km NW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 5.0 earthquake occurred at a depth of 10 km: 161 km NW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 5.0,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.0
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "161 km NW of Port-Olry, Vanuatu",
+        "latitude": -14.165,
+        "longitude": 165.8739,
+        "geohash": "rtmzq"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-24T04:44:45.324000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k2",
+          "retrieved_at": "2026-10-24T08:29:31.180392+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4jy",
+      "cluster_id": "cluster_eq_rtt",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.3 - 216 km W of Sola, Vanuatu",
+      "summary": "A magnitude 5.3 earthquake occurred at a depth of 10 km: 216 km W of Sola, Vanuatu.",
+      "metrics": {
+        "magnitude": 5.3,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.359999999999999
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "216 km W of Sola, Vanuatu",
+        "latitude": -13.7325,
+        "longitude": 165.551,
+        "geohash": "rtt9z"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-24T04:19:38.628000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jy",
+          "retrieved_at": "2026-10-24T08:29:31.180413+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4jw",
+      "cluster_id": "cluster_eq_rtt",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.8 - 203 km NW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 5.8 earthquake occurred at a depth of 10 km: 203 km NW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 5.8,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.96
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "203 km NW of Port-Olry, Vanuatu",
+        "latitude": -13.9017,
+        "longitude": 165.5967,
+        "geohash": "rttbb"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-24T04:12:05.337000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jw",
+          "retrieved_at": "2026-10-24T08:29:31.180435+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4ju",
+      "cluster_id": "cluster_eq_rtt",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.7 - 205 km NW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 5.7 earthquake occurred at a depth of 10 km: 205 km NW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 5.7,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.84
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "205 km NW of Port-Olry, Vanuatu",
+        "latitude": -13.9084,
+        "longitude": 165.5627,
+        "geohash": "rtt8z"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-24T04:05:36.800000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ju",
+          "retrieved_at": "2026-10-24T08:29:31.180457+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4jr",
+      "cluster_id": "cluster_eq_rtm",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.9 - 186 km WNW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 4.9 earthquake occurred at a depth of 10 km: 186 km WNW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 4.9,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.88
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "186 km WNW of Port-Olry, Vanuatu",
+        "latitude": -14.1222,
+        "longitude": 165.625,
+        "geohash": "rtmz8"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-24T03:51:35.267000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jr",
+          "retrieved_at": "2026-10-24T08:29:31.180480+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4jl",
+      "cluster_id": "cluster_eq_rtt",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.2 - 202 km NW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 5.2 earthquake occurred at a depth of 10 km: 202 km NW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 5.2,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.24
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "202 km NW of Port-Olry, Vanuatu",
+        "latitude": -13.8805,
+        "longitude": 165.6161,
+        "geohash": "rttc0"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-24T03:17:55.755000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jl",
+          "retrieved_at": "2026-10-24T08:29:31.180500+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4ji",
+      "cluster_id": "cluster_eq_rtm",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.1 - 170 km NW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 5.1 earthquake occurred at a depth of 10 km: 170 km NW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 5.1,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.119999999999999
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "170 km NW of Port-Olry, Vanuatu",
+        "latitude": -14.1211,
+        "longitude": 165.8052,
+        "geohash": "rtmzs"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-24T03:08:45.463000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ji",
+          "retrieved_at": "2026-10-24T08:29:31.180632+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4jb",
+      "cluster_id": "cluster_eq_rtt",
+      "lifecycle_phase": "escalating",
+      "event_type": "earthquake",
+      "severity_level": "severe",
+      "title": "M 6.3 - 170 km NW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 6.3 earthquake occurred at a depth of 10 km: 170 km NW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 6.3,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 7.56
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "170 km NW of Port-Olry, Vanuatu",
+        "latitude": -14.0424,
+        "longitude": 165.8666,
+        "geohash": "rttbn"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-24T02:35:57.362000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jb",
+          "retrieved_at": "2026-10-24T08:29:31.180660+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4j2",
+      "cluster_id": "cluster_eq_rtt",
+      "lifecycle_phase": "escalating",
+      "event_type": "earthquake",
+      "severity_level": "severe",
+      "title": "M 6.9 - 197 km WNW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 6.9 earthquake occurred at a depth of 10 km: 197 km WNW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 6.9,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 8.28
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "197 km WNW of Port-Olry, Vanuatu",
+        "latitude": -14.0558,
+        "longitude": 165.5455,
+        "geohash": "rtt8p"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "inspect_maritime_tsunami_bulletins",
+        "monitor_aftershocks"
+      ],
+      "timestamp_utc": "2026-10-24T02:31:28.641000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2",
+          "retrieved_at": "2026-10-24T08:29:31.180684+00:00"
+        }
+      ]
+    },
     {
       "event_id": "gdacs_c85e48901418e3d6",
       "cluster_id": "cluster_severe_weather_000",
