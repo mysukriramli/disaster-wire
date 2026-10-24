@@ -1,7 +1,79 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-10-24T15:02:40.739430+00:00
+Generated: 2026-10-24T18:26:47.669945+00:00
 
 ## Active Incident Telemetry
+### [EARTHQUAKE] Green earthquake (Magnitude 5.8M, Depth:12.486km) in Bouvet Island Region 24/10/2026 15:24 UTC, [unknown].
+- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green earthquake (Magnitude 5.8M, Depth:12.486km) in Bouvet Island Region 24/10/2026 15:24 UTC, [unknown]. (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 10/24/2026 3:24:19 PM, an earthquake occurred in Bouvet Island Region potentially affecting [unknown]. The earthquake had Magnitude 5.8M, Depth:12.486km.
+
+### [SEVERE_WEATHER] Green forest fire notification in Australia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 23/10/2026, a forest fire started in Australia,  until 24/10/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Australia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 23/10/2026, a forest fire started in Australia,  until 24/10/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Nigeria
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Nigeria (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 21/10/2026, a forest fire started in Nigeria,  until 24/10/2026.
+
+### [EARTHQUAKE] M 4.8 - 153 km NW of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtm` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 153 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtmzp`
+- **Coordinates:** `[-14.2056, 165.9365]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 10 km: 153 km NW of Port-Olry, Vanuatu.
+
+### [EARTHQUAKE] M 4.7 - 238 km WNW of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 238 km WNW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtt2w`
+- **Coordinates:** `[-13.9412, 165.1696]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.7 earthquake occurred at a depth of 10 km: 238 km WNW of Port-Olry, Vanuatu.
+
+### [EARTHQUAKE] M 5.8 - Bouvet Island region
+- **Cluster ID:** `cluster_eq_hnk` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** Bouvet Island region (Bouvet Island region) | Geohash: `hnkux`
+- **Coordinates:** `[-54.0304, 7.0149]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.8 earthquake occurred at a depth of 12.486 km: Bouvet Island region.
+
+### [EARTHQUAKE] M 4.9 - 217 km NW of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 217 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtt9j`
+- **Coordinates:** `[-13.8535, 165.4608]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 10 km: 217 km NW of Port-Olry, Vanuatu.
+
+### [EARTHQUAKE] M 4.8 - 215 km NW of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 215 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtt9q`
+- **Coordinates:** `[-13.8267, 165.5148]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 10 km: 215 km NW of Port-Olry, Vanuatu.
+
 ### [EARTHQUAKE] Green earthquake (Magnitude 5.9M, Depth:10km) in Vanuatu 24/10/2026 08:56 UTC, Few people affected in MMI III.
 - **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
 - **Location:** Green earthquake (Magnitude 5.9M, Depth:10km) in Vanuatu 24/10/2026 08:56 UTC, Few people affected in MMI III. (Global) | Geohash: `00000`
@@ -113,6 +185,22 @@ Generated: 2026-10-24T15:02:40.739430+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 16/10/2026, a forest fire started in Botswana,  until 24/10/2026.
+
+### [EARTHQUAKE] M 4.8 - 216 km NW of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 216 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtt9w`
+- **Coordinates:** `[-13.7777, 165.5398]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 10 km: 216 km NW of Port-Olry, Vanuatu.
+
+### [EARTHQUAKE] M 4.6 - 195 km NE of Nagqu, China
+- **Cluster ID:** `cluster_eq_wjf` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 195 km NE of Nagqu, China (China) | Geohash: `wjf9h`
+- **Coordinates:** `[32.5629, 93.694]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 10 km: 195 km NE of Nagqu, China.
 
 ### [EARTHQUAKE] M 4.7 - 72 km S of Basco, Philippines
 - **Cluster ID:** `cluster_eq_wew` | **Severity:** `minor` | **Phase:** `emerging`
@@ -713,92 +801,4 @@ Generated: 2026-10-24T15:02:40.739430+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** A magnitude 4.8 earthquake occurred at a depth of 10 km: 6 km ENE of Starobachaty, Russia.
-
-### [EARTHQUAKE] M 5.1 - 203 km NW of Port-Olry, Vanuatu
-- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** 203 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rttc0`
-- **Coordinates:** `[-13.8764, 165.6172]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.1 earthquake occurred at a depth of 10 km: 203 km NW of Port-Olry, Vanuatu.
-
-### [EARTHQUAKE] M 4.6 - 73 km ENE of Kinablangan, Philippines
-- **Cluster ID:** `cluster_eq_wc6` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 73 km ENE of Kinablangan, Philippines (Philippines) | Geohash: `wc6mn`
-- **Coordinates:** `[7.9163, 127.1813]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 10 km: 73 km ENE of Kinablangan, Philippines.
-
-### [EARTHQUAKE] M 4.9 - 35 km ESE of Hualien City, Taiwan
-- **Cluster ID:** `cluster_eq_wsn` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 35 km ESE of Hualien City, Taiwan (Taiwan) | Geohash: `wsnxw`
-- **Coordinates:** `[23.8528, 121.929]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 13.817 km: 35 km ESE of Hualien City, Taiwan.
-
-### [EARTHQUAKE] M 4.8 - 209 km ENE of Nagqu, China
-- **Cluster ID:** `cluster_eq_wjf` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 209 km ENE of Nagqu, China (China) | Geohash: `wjfb9`
-- **Coordinates:** `[32.4693, 93.943]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 10 km: 209 km ENE of Nagqu, China.
-
-### [EARTHQUAKE] M 4.6 - 91 km ESE of Tuensang, India
-- **Cluster ID:** `cluster_eq_whs` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 91 km ESE of Tuensang, India (India) | Geohash: `whs58`
-- **Coordinates:** `[25.9295, 95.6545]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 116.703 km: 91 km ESE of Tuensang, India.
-
-### [EARTHQUAKE] M 5.1 - 72 km ENE of Noda, Japan
-- **Cluster ID:** `cluster_eq_xpj` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** 72 km ENE of Noda, Japan (Japan) | Geohash: `xpjmu`
-- **Coordinates:** `[40.4159, 142.572]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.1 earthquake occurred at a depth of 38.138 km: 72 km ENE of Noda, Japan.
-
-### [EARTHQUAKE] Green earthquake (Magnitude 5.7M, Depth:10km) in Italy 23/10/2026 10:19 UTC, 40 thousand in MMI IV.
-- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green earthquake (Magnitude 5.7M, Depth:10km) in Italy 23/10/2026 10:19 UTC, 40 thousand in MMI IV. (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 10/23/2026 10:19:16 AM, an earthquake occurred in Italy potentially affecting 40 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:10km.
-
-### [SEVERE_WEATHER] Green forest fire notification in Russia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Russia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 22/10/2026, a forest fire started in Russia,  until 23/10/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 21/10/2026, a forest fire started in Australia,  until 23/10/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 21/10/2026, a forest fire started in Australia,  until 23/10/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 21/10/2026, a forest fire started in Australia,  until 23/10/2026.
 

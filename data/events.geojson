@@ -3,6 +3,204 @@
   "features": [
     {
       "type": "Feature",
+      "id": "gdacs_5417ad93afe7980d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_earthquake_000",
+        "geohash": "00000",
+        "title": "Green earthquake (Magnitude 5.8M, Depth:12.486km) in Bouvet Island Region 24/10/2026 15:24 UTC, [unknown].",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-24T18:26:46.780842+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_b316e96d2d8fe56f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Australia",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-24T18:26:46.780842+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_e311e52ce91f81a7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Australia",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-24T18:26:46.780842+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_c02abbb7e1aa44e4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Nigeria",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-24T18:26:46.780842+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u4n8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.9365,
+          -14.2056
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_rtm",
+        "geohash": "rtmzp",
+        "title": "M 4.8 - 153 km NW of Port-Olry, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 4.8,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-24T16:54:15.523000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u4my",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.1696,
+          -13.9412
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_rtt",
+        "geohash": "rtt2w",
+        "title": "M 4.7 - 238 km WNW of Port-Olry, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 4.7,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-24T15:45:47.533000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u4mn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0149,
+          -54.0304
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_hnk",
+        "geohash": "hnkux",
+        "title": "M 5.8 - Bouvet Island region",
+        "country": "Bouvet Island region",
+        "magnitude": 5.8,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-24T15:24:19.882000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u4mm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.4608,
+          -13.8535
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_rtt",
+        "geohash": "rtt9j",
+        "title": "M 4.9 - 217 km NW of Port-Olry, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 4.9,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-24T15:19:25.185000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u4ml",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.5148,
+          -13.8267
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_rtt",
+        "geohash": "rtt9q",
+        "title": "M 4.8 - 215 km NW of Port-Olry, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 4.8,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-24T15:07:40.810000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_e912e42f9161b607",
       "geometry": {
         "type": "Point",
@@ -307,6 +505,50 @@
         "magnitude": null,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-10-24T15:02:39.820485+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u4mi",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.5398,
+          -13.7777
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_rtt",
+        "geohash": "rtt9w",
+        "title": "M 4.8 - 216 km NW of Port-Olry, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 4.8,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-24T13:53:00.775000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u4mg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.694,
+          32.5629
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_wjf",
+        "geohash": "wjf9h",
+        "title": "M 4.6 - 195 km NE of Nagqu, China",
+        "country": "China",
+        "magnitude": 4.6,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-24T13:26:34.296000+00:00"
       }
     },
     {
@@ -1957,248 +2199,6 @@
         "magnitude": 4.8,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-10-23T22:24:16.303000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4h7",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          165.6172,
-          -13.8764
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_rtt",
-        "geohash": "rttc0",
-        "title": "M 5.1 - 203 km NW of Port-Olry, Vanuatu",
-        "country": "Vanuatu",
-        "magnitude": 5.1,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-23T22:05:10.711000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4h0",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.1813,
-          7.9163
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_wc6",
-        "geohash": "wc6mn",
-        "title": "M 4.6 - 73 km ENE of Kinablangan, Philippines",
-        "country": "Philippines",
-        "magnitude": 4.6,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-23T21:41:04.400000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4gm",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.929,
-          23.8528
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_wsn",
-        "geohash": "wsnxw",
-        "title": "M 4.9 - 35 km ESE of Hualien City, Taiwan",
-        "country": "Taiwan",
-        "magnitude": 4.9,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-23T20:48:16.356000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4gj",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.943,
-          32.4693
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_wjf",
-        "geohash": "wjfb9",
-        "title": "M 4.8 - 209 km ENE of Nagqu, China",
-        "country": "China",
-        "magnitude": 4.8,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-23T20:37:41.989000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4f5",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.6545,
-          25.9295
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_whs",
-        "geohash": "whs58",
-        "title": "M 4.6 - 91 km ESE of Tuensang, India",
-        "country": "India",
-        "magnitude": 4.6,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-23T17:06:25.116000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4e2",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          142.572,
-          40.4159
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_xpj",
-        "geohash": "xpjmu",
-        "title": "M 5.1 - 72 km ENE of Noda, Japan",
-        "country": "Japan",
-        "magnitude": 5.1,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-23T16:07:51.754000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_742a20815273548e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_earthquake_000",
-        "geohash": "00000",
-        "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in Italy 23/10/2026 10:19 UTC, 40 thousand in MMI IV.",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-23T16:05:43.353899+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_e733737b660e6956",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Russia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-23T16:05:43.353899+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_227d84ab14cb96b1",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Australia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-23T16:05:43.353899+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_98207fdc81ded34b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Australia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-23T16:05:43.353899+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_70d735567e8ffb8f",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Australia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-23T16:05:43.353899+00:00"
       }
     }
   ]
