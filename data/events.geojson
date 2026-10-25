@@ -3,6 +3,270 @@
   "features": [
     {
       "type": "Feature",
+      "id": "gdacs_8b7efc836c78c796",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_earthquake_000",
+        "geohash": "00000",
+        "title": "Green earthquake (Magnitude 6.1M, Depth:116km) in Vanuatu 25/10/2026 02:24 UTC, 110 thousand in MMI IV.",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-25T08:48:38.442359+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_054160d1daa3730a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_earthquake_000",
+        "geohash": "00000",
+        "title": "Green earthquake (Magnitude 6.5M, Depth:492.376km) in Bonin Islands, Japan Region 25/10/2026 02:09 UTC, No people affected in 100km.",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-25T08:48:38.442359+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_7d20752885f9a3a1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Botswana",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-25T08:48:38.442359+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_f7abafd6978e73ae",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in China",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-25T08:48:38.442359+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_618f06903604d143",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Australia",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-25T08:48:38.442359+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u4t8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -165.1559,
+          53.4937
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_b3d",
+        "geohash": "b3d83",
+        "title": "M 4.6 - 82 km SSE of Akutan, Alaska",
+        "country": "Alaska",
+        "magnitude": 4.6,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-25T07:44:32.506000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u4t4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.747,
+          -16.0676
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_6m4",
+        "geohash": "6m4ue",
+        "title": "M 4.6 - 50 km SW of Atiquipa, Peru",
+        "country": "Peru",
+        "magnitude": 4.6,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-25T07:11:49.640000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u4sv",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.8415,
+          37.849
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_xns",
+        "geohash": "xnsz7",
+        "title": "M 4.5 - 74 km SSE of Onagawa Ch\u014d, Japan",
+        "country": "Japan",
+        "magnitude": 4.5,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-25T06:04:22.644000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u4sm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0112,
+          37.6512
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_sqw",
+        "geohash": "sqwyn",
+        "title": "M 4.9 - 17 km SE of Ambel\u00f3kipoi, Greece",
+        "country": "Greece",
+        "magnitude": 4.9,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-25T05:15:44.196000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u4s5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1659,
+          -6.1737
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_rqb",
+        "geohash": "rqbsu",
+        "title": "M 5.2 - 63 km NNE of Lae, Papua New Guinea",
+        "country": "Papua New Guinea",
+        "magnitude": 5.2,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-25T03:29:10.551000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u4rr",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7389,
+          27.6872
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_xhg",
+        "geohash": "xhgme",
+        "title": "M 4.8 - Bonin Islands, Japan region",
+        "country": "Japan region",
+        "magnitude": 4.8,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-25T02:36:32.787000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u4rf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.3039,
+          -14.9964
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "severe",
+        "cluster_id": "cluster_eq_rtq",
+        "geohash": "rtqfx",
+        "title": "M 6.1 - 25 km ENE of Port-Olry, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 6.1,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-25T02:24:00.476000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_583bfdfa61106170",
       "geometry": {
         "type": "Point",
@@ -219,6 +483,50 @@
         "magnitude": null,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-10-25T02:14:05.787737+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u4r9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6184,
+          27.7953
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "severe",
+        "cluster_id": "cluster_eq_xhg",
+        "geohash": "xhgq1",
+        "title": "M 6.5 - Bonin Islands, Japan region",
+        "country": "Japan region",
+        "magnitude": 6.5,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-25T02:09:23.818000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u4r7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.7028,
+          -14.4542
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_rtm",
+        "geohash": "rtmvf",
+        "title": "M 5.1 - 161 km WNW of Port-Olry, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 5.1,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-25T02:06:10.299000+00:00"
       }
     },
     {
@@ -1891,314 +2199,6 @@
         "magnitude": 4.5,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-10-24T05:35:54.921000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4k6",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          165.6982,
-          -14.0833
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_rtm",
-        "geohash": "rtmzf",
-        "title": "M 5.8 - 182 km NW of Port-Olry, Vanuatu",
-        "country": "Vanuatu",
-        "magnitude": 5.8,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T05:23:40.747000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4k5",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          165.3365,
-          -14.0054
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_rtt",
-        "geohash": "rtt86",
-        "title": "M 4.8 - 219 km WNW of Port-Olry, Vanuatu",
-        "country": "Vanuatu",
-        "magnitude": 4.8,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T05:10:34.753000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4k1",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          165.4673,
-          -13.8521
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_rtt",
-        "geohash": "rtt9j",
-        "title": "M 5.1 - 217 km NW of Port-Olry, Vanuatu",
-        "country": "Vanuatu",
-        "magnitude": 5.1,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T04:49:21.707000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4k2",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          165.8739,
-          -14.165
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_rtm",
-        "geohash": "rtmzq",
-        "title": "M 5.0 - 161 km NW of Port-Olry, Vanuatu",
-        "country": "Vanuatu",
-        "magnitude": 5.0,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T04:44:45.324000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4jy",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          165.551,
-          -13.7325
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_rtt",
-        "geohash": "rtt9z",
-        "title": "M 5.3 - 216 km W of Sola, Vanuatu",
-        "country": "Vanuatu",
-        "magnitude": 5.3,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T04:19:38.628000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4jw",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          165.5967,
-          -13.9017
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_rtt",
-        "geohash": "rttbb",
-        "title": "M 5.8 - 203 km NW of Port-Olry, Vanuatu",
-        "country": "Vanuatu",
-        "magnitude": 5.8,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T04:12:05.337000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4ju",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          165.5627,
-          -13.9084
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_rtt",
-        "geohash": "rtt8z",
-        "title": "M 5.7 - 205 km NW of Port-Olry, Vanuatu",
-        "country": "Vanuatu",
-        "magnitude": 5.7,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T04:05:36.800000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4jr",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          165.625,
-          -14.1222
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_rtm",
-        "geohash": "rtmz8",
-        "title": "M 4.9 - 186 km WNW of Port-Olry, Vanuatu",
-        "country": "Vanuatu",
-        "magnitude": 4.9,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T03:51:35.267000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4jl",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          165.6161,
-          -13.8805
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_rtt",
-        "geohash": "rttc0",
-        "title": "M 5.2 - 202 km NW of Port-Olry, Vanuatu",
-        "country": "Vanuatu",
-        "magnitude": 5.2,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T03:17:55.755000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4ji",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          165.8052,
-          -14.1211
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_rtm",
-        "geohash": "rtmzs",
-        "title": "M 5.1 - 170 km NW of Port-Olry, Vanuatu",
-        "country": "Vanuatu",
-        "magnitude": 5.1,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T03:08:45.463000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4jb",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          165.8666,
-          -14.0424
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "severe",
-        "cluster_id": "cluster_eq_rtt",
-        "geohash": "rttbn",
-        "title": "M 6.3 - 170 km NW of Port-Olry, Vanuatu",
-        "country": "Vanuatu",
-        "magnitude": 6.3,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T02:35:57.362000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4j2",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          165.5455,
-          -14.0558
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "severe",
-        "cluster_id": "cluster_eq_rtt",
-        "geohash": "rtt8p",
-        "title": "M 6.9 - 197 km WNW of Port-Olry, Vanuatu",
-        "country": "Vanuatu",
-        "magnitude": 6.9,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T02:31:28.641000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_c85e48901418e3d6",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Senegal",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T02:26:57.329973+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_f988d35403783e34",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Australia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T02:26:57.329973+00:00"
       }
     }
   ]

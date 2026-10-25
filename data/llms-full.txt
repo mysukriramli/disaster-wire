@@ -1,7 +1,103 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-10-25T02:14:06.620410+00:00
+Generated: 2026-10-25T08:48:48.146278+00:00
 
 ## Active Incident Telemetry
+### [EARTHQUAKE] Green earthquake (Magnitude 6.1M, Depth:116km) in Vanuatu 25/10/2026 02:24 UTC, 110 thousand in MMI IV.
+- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green earthquake (Magnitude 6.1M, Depth:116km) in Vanuatu 25/10/2026 02:24 UTC, 110 thousand in MMI IV. (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 10/25/2026 2:24:02 AM, an earthquake occurred in Vanuatu potentially affecting 110 thousand in MMI IV. The earthquake had Magnitude 6.1M, Depth:116km.
+
+### [EARTHQUAKE] Green earthquake (Magnitude 6.5M, Depth:492.376km) in Bonin Islands, Japan Region 25/10/2026 02:09 UTC, No people affected in 100km.
+- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green earthquake (Magnitude 6.5M, Depth:492.376km) in Bonin Islands, Japan Region 25/10/2026 02:09 UTC, No people affected in 100km. (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 10/25/2026 2:09:23 AM, an earthquake occurred in Bonin Islands, Japan Region potentially affecting No people affected in 100km. The earthquake had Magnitude 6.5M, Depth:492.376km.
+
+### [SEVERE_WEATHER] Green forest fire notification in Botswana
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Botswana (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 23/10/2026, a forest fire started in Botswana,  until 25/10/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in China
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in China (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 22/10/2026, a forest fire started in China,  until 25/10/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Australia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 21/10/2026, a forest fire started in Australia,  until 25/10/2026.
+
+### [EARTHQUAKE] M 4.6 - 82 km SSE of Akutan, Alaska
+- **Cluster ID:** `cluster_eq_b3d` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 82 km SSE of Akutan, Alaska (Alaska) | Geohash: `b3d83`
+- **Coordinates:** `[53.4937, -165.1559]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 35.068 km: 82 km SSE of Akutan, Alaska.
+
+### [EARTHQUAKE] M 4.6 - 50 km SW of Atiquipa, Peru
+- **Cluster ID:** `cluster_eq_6m4` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 50 km SW of Atiquipa, Peru (Peru) | Geohash: `6m4ue`
+- **Coordinates:** `[-16.0676, -74.747]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 26.454 km: 50 km SW of Atiquipa, Peru.
+
+### [EARTHQUAKE] M 4.5 - 74 km SSE of Onagawa Chō, Japan
+- **Cluster ID:** `cluster_eq_xns` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 74 km SSE of Onagawa Chō, Japan (Japan) | Geohash: `xnsz7`
+- **Coordinates:** `[37.849, 141.8415]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.5 earthquake occurred at a depth of 52.782 km: 74 km SSE of Onagawa Chō, Japan.
+
+### [EARTHQUAKE] M 4.9 - 17 km SE of Ambelókipoi, Greece
+- **Cluster ID:** `cluster_eq_sqw` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 17 km SE of Ambelókipoi, Greece (Greece) | Geohash: `sqwyn`
+- **Coordinates:** `[37.6512, 21.0112]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 10 km: 17 km SE of Ambelókipoi, Greece.
+
+### [EARTHQUAKE] M 5.2 - 63 km NNE of Lae, Papua New Guinea
+- **Cluster ID:** `cluster_eq_rqb` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 63 km NNE of Lae, Papua New Guinea (Papua New Guinea) | Geohash: `rqbsu`
+- **Coordinates:** `[-6.1737, 147.1659]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.2 earthquake occurred at a depth of 80.779 km: 63 km NNE of Lae, Papua New Guinea.
+
+### [EARTHQUAKE] M 4.8 - Bonin Islands, Japan region
+- **Cluster ID:** `cluster_eq_xhg` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** Bonin Islands, Japan region (Japan region) | Geohash: `xhgme`
+- **Coordinates:** `[27.6872, 139.7389]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 498.883 km: Bonin Islands, Japan region.
+
+### [EARTHQUAKE] M 6.1 - 25 km ENE of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtq` | **Severity:** `severe` | **Phase:** `escalating`
+- **Location:** 25 km ENE of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtqfx`
+- **Coordinates:** `[-14.9964, 167.3039]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 6.1 earthquake occurred at a depth of 116 km: 25 km ENE of Port-Olry, Vanuatu.
+
 ### [SEVERE_WEATHER] Green forest fire notification in Australia
 - **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
 - **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
@@ -81,6 +177,22 @@ Generated: 2026-10-25T02:14:06.620410+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 18/10/2026, a forest fire started in Tanzania,  until 24/10/2026.
+
+### [EARTHQUAKE] M 6.5 - Bonin Islands, Japan region
+- **Cluster ID:** `cluster_eq_xhg` | **Severity:** `severe` | **Phase:** `escalating`
+- **Location:** Bonin Islands, Japan region (Japan region) | Geohash: `xhgq1`
+- **Coordinates:** `[27.7953, 139.6184]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** inspect_maritime_tsunami_bulletins, monitor_aftershocks
+- **Summary:** A magnitude 6.5 earthquake occurred at a depth of 492.376 km: Bonin Islands, Japan region.
+
+### [EARTHQUAKE] M 5.1 - 161 km WNW of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtm` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 161 km WNW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtmvf`
+- **Coordinates:** `[-14.4542, 165.7028]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.1 earthquake occurred at a depth of 10 km: 161 km WNW of Port-Olry, Vanuatu.
 
 ### [EARTHQUAKE] M 5.1 - 166 km WNW of Port-Olry, Vanuatu
 - **Cluster ID:** `cluster_eq_rtm` | **Severity:** `moderate` | **Phase:** `emerging`
@@ -689,116 +801,4 @@ Generated: 2026-10-25T02:14:06.620410+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** A magnitude 4.5 earthquake occurred at a depth of 10 km: 184 km NW of Port-Olry, Vanuatu.
-
-### [EARTHQUAKE] M 5.8 - 182 km NW of Port-Olry, Vanuatu
-- **Cluster ID:** `cluster_eq_rtm` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** 182 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtmzf`
-- **Coordinates:** `[-14.0833, 165.6982]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.8 earthquake occurred at a depth of 10 km: 182 km NW of Port-Olry, Vanuatu.
-
-### [EARTHQUAKE] M 4.8 - 219 km WNW of Port-Olry, Vanuatu
-- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 219 km WNW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtt86`
-- **Coordinates:** `[-14.0054, 165.3365]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 10 km: 219 km WNW of Port-Olry, Vanuatu.
-
-### [EARTHQUAKE] M 5.1 - 217 km NW of Port-Olry, Vanuatu
-- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** 217 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtt9j`
-- **Coordinates:** `[-13.8521, 165.4673]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.1 earthquake occurred at a depth of 10 km: 217 km NW of Port-Olry, Vanuatu.
-
-### [EARTHQUAKE] M 5.0 - 161 km NW of Port-Olry, Vanuatu
-- **Cluster ID:** `cluster_eq_rtm` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** 161 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtmzq`
-- **Coordinates:** `[-14.165, 165.8739]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.0 earthquake occurred at a depth of 10 km: 161 km NW of Port-Olry, Vanuatu.
-
-### [EARTHQUAKE] M 5.3 - 216 km W of Sola, Vanuatu
-- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** 216 km W of Sola, Vanuatu (Vanuatu) | Geohash: `rtt9z`
-- **Coordinates:** `[-13.7325, 165.551]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.3 earthquake occurred at a depth of 10 km: 216 km W of Sola, Vanuatu.
-
-### [EARTHQUAKE] M 5.8 - 203 km NW of Port-Olry, Vanuatu
-- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** 203 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rttbb`
-- **Coordinates:** `[-13.9017, 165.5967]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.8 earthquake occurred at a depth of 10 km: 203 km NW of Port-Olry, Vanuatu.
-
-### [EARTHQUAKE] M 5.7 - 205 km NW of Port-Olry, Vanuatu
-- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** 205 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtt8z`
-- **Coordinates:** `[-13.9084, 165.5627]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.7 earthquake occurred at a depth of 10 km: 205 km NW of Port-Olry, Vanuatu.
-
-### [EARTHQUAKE] M 4.9 - 186 km WNW of Port-Olry, Vanuatu
-- **Cluster ID:** `cluster_eq_rtm` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 186 km WNW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtmz8`
-- **Coordinates:** `[-14.1222, 165.625]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 10 km: 186 km WNW of Port-Olry, Vanuatu.
-
-### [EARTHQUAKE] M 5.2 - 202 km NW of Port-Olry, Vanuatu
-- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** 202 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rttc0`
-- **Coordinates:** `[-13.8805, 165.6161]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.2 earthquake occurred at a depth of 10 km: 202 km NW of Port-Olry, Vanuatu.
-
-### [EARTHQUAKE] M 5.1 - 170 km NW of Port-Olry, Vanuatu
-- **Cluster ID:** `cluster_eq_rtm` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** 170 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtmzs`
-- **Coordinates:** `[-14.1211, 165.8052]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.1 earthquake occurred at a depth of 10 km: 170 km NW of Port-Olry, Vanuatu.
-
-### [EARTHQUAKE] M 6.3 - 170 km NW of Port-Olry, Vanuatu
-- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `severe` | **Phase:** `escalating`
-- **Location:** 170 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rttbn`
-- **Coordinates:** `[-14.0424, 165.8666]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 6.3 earthquake occurred at a depth of 10 km: 170 km NW of Port-Olry, Vanuatu.
-
-### [EARTHQUAKE] M 6.9 - 197 km WNW of Port-Olry, Vanuatu
-- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `severe` | **Phase:** `escalating`
-- **Location:** 197 km WNW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtt8p`
-- **Coordinates:** `[-14.0558, 165.5455]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** inspect_maritime_tsunami_bulletins, monitor_aftershocks
-- **Summary:** A magnitude 6.9 earthquake occurred at a depth of 10 km: 197 km WNW of Port-Olry, Vanuatu.
-
-### [SEVERE_WEATHER] Green forest fire notification in Senegal
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Senegal (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 22/10/2026, a forest fire started in Senegal,  until 23/10/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 22/10/2026, a forest fire started in Australia,  until 23/10/2026.
 

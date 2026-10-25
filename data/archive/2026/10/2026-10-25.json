@@ -1,8 +1,500 @@
 {
   "archive_date": "2026-10-25",
-  "total_incidents": 100,
-  "updated_at": "2026-10-25T02:14:06.620716+00:00",
+  "total_incidents": 114,
+  "updated_at": "2026-10-25T08:48:48.146855+00:00",
   "events": [
+    {
+      "event_id": "gdacs_8b7efc836c78c796",
+      "cluster_id": "cluster_earthquake_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "Green earthquake (Magnitude 6.1M, Depth:116km) in Vanuatu 25/10/2026 02:24 UTC, 110 thousand in MMI IV.",
+      "summary": "On 10/25/2026 2:24:02 AM, an earthquake occurred in Vanuatu potentially affecting 110 thousand in MMI IV. The earthquake had Magnitude 6.1M, Depth:116km.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green earthquake (Magnitude 6.1M, Depth:116km) in Vanuatu 25/10/2026 02:24 UTC, 110 thousand in MMI IV.",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-25T08:48:38.442359+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573712",
+          "retrieved_at": "2026-10-25T08:48:38.442359+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_054160d1daa3730a",
+      "cluster_id": "cluster_earthquake_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "Green earthquake (Magnitude 6.5M, Depth:492.376km) in Bonin Islands, Japan Region 25/10/2026 02:09 UTC, No people affected in 100km.",
+      "summary": "On 10/25/2026 2:09:23 AM, an earthquake occurred in Bonin Islands, Japan Region potentially affecting No people affected in 100km. The earthquake had Magnitude 6.5M, Depth:492.376km.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green earthquake (Magnitude 6.5M, Depth:492.376km) in Bonin Islands, Japan Region 25/10/2026 02:09 UTC, No people affected in 100km.",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-25T08:48:38.442359+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573709",
+          "retrieved_at": "2026-10-25T08:48:38.442359+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_7d20752885f9a3a1",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Botswana",
+      "summary": "On 23/10/2026, a forest fire started in Botswana,  until 25/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Botswana",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-25T08:48:38.442359+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033172",
+          "retrieved_at": "2026-10-25T08:48:38.442359+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_f7abafd6978e73ae",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in China",
+      "summary": "On 22/10/2026, a forest fire started in China,  until 25/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in China",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-25T08:48:38.442359+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033173",
+          "retrieved_at": "2026-10-25T08:48:38.442359+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_618f06903604d143",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 21/10/2026, a forest fire started in Australia,  until 25/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-25T08:48:38.442359+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033174",
+          "retrieved_at": "2026-10-25T08:48:38.442359+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4t8",
+      "cluster_id": "cluster_eq_b3d",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.6 - 82 km SSE of Akutan, Alaska",
+      "summary": "A magnitude 4.6 earthquake occurred at a depth of 35.068 km: 82 km SSE of Akutan, Alaska.",
+      "metrics": {
+        "magnitude": 4.6,
+        "depth_km": 35.068,
+        "wind_speed_kmh": null,
+        "alert_score": 5.52
+      },
+      "location": {
+        "country": "Alaska",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "82 km SSE of Akutan, Alaska",
+        "latitude": 53.4937,
+        "longitude": -165.1559,
+        "geohash": "b3d83"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-25T07:44:32.506000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4t8",
+          "retrieved_at": "2026-10-25T08:48:35.624967+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4t4",
+      "cluster_id": "cluster_eq_6m4",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.6 - 50 km SW of Atiquipa, Peru",
+      "summary": "A magnitude 4.6 earthquake occurred at a depth of 26.454 km: 50 km SW of Atiquipa, Peru.",
+      "metrics": {
+        "magnitude": 4.6,
+        "depth_km": 26.454,
+        "wind_speed_kmh": null,
+        "alert_score": 5.52
+      },
+      "location": {
+        "country": "Peru",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "50 km SW of Atiquipa, Peru",
+        "latitude": -16.0676,
+        "longitude": -74.747,
+        "geohash": "6m4ue"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-25T07:11:49.640000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4t4",
+          "retrieved_at": "2026-10-25T08:48:35.625137+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4sv",
+      "cluster_id": "cluster_eq_xns",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.5 - 74 km SSE of Onagawa Ch\u014d, Japan",
+      "summary": "A magnitude 4.5 earthquake occurred at a depth of 52.782 km: 74 km SSE of Onagawa Ch\u014d, Japan.",
+      "metrics": {
+        "magnitude": 4.5,
+        "depth_km": 52.782,
+        "wind_speed_kmh": null,
+        "alert_score": 5.3999999999999995
+      },
+      "location": {
+        "country": "Japan",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "74 km SSE of Onagawa Ch\u014d, Japan",
+        "latitude": 37.849,
+        "longitude": 141.8415,
+        "geohash": "xnsz7"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-25T06:04:22.644000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4sv",
+          "retrieved_at": "2026-10-25T08:48:35.625191+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4sm",
+      "cluster_id": "cluster_eq_sqw",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.9 - 17 km SE of Ambel\u00f3kipoi, Greece",
+      "summary": "A magnitude 4.9 earthquake occurred at a depth of 10 km: 17 km SE of Ambel\u00f3kipoi, Greece.",
+      "metrics": {
+        "magnitude": 4.9,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.88
+      },
+      "location": {
+        "country": "Greece",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "17 km SE of Ambel\u00f3kipoi, Greece",
+        "latitude": 37.6512,
+        "longitude": 21.0112,
+        "geohash": "sqwyn"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-25T05:15:44.196000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4sm",
+          "retrieved_at": "2026-10-25T08:48:35.625244+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4s5",
+      "cluster_id": "cluster_eq_rqb",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.2 - 63 km NNE of Lae, Papua New Guinea",
+      "summary": "A magnitude 5.2 earthquake occurred at a depth of 80.779 km: 63 km NNE of Lae, Papua New Guinea.",
+      "metrics": {
+        "magnitude": 5.2,
+        "depth_km": 80.779,
+        "wind_speed_kmh": null,
+        "alert_score": 6.24
+      },
+      "location": {
+        "country": "Papua New Guinea",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "63 km NNE of Lae, Papua New Guinea",
+        "latitude": -6.1737,
+        "longitude": 147.1659,
+        "geohash": "rqbsu"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-25T03:29:10.551000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4s5",
+          "retrieved_at": "2026-10-25T08:48:35.625291+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4rr",
+      "cluster_id": "cluster_eq_xhg",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.8 - Bonin Islands, Japan region",
+      "summary": "A magnitude 4.8 earthquake occurred at a depth of 498.883 km: Bonin Islands, Japan region.",
+      "metrics": {
+        "magnitude": 4.8,
+        "depth_km": 498.883,
+        "wind_speed_kmh": null,
+        "alert_score": 5.76
+      },
+      "location": {
+        "country": "Japan region",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Bonin Islands, Japan region",
+        "latitude": 27.6872,
+        "longitude": 139.7389,
+        "geohash": "xhgme"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-25T02:36:32.787000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rr",
+          "retrieved_at": "2026-10-25T08:48:35.625334+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4rf",
+      "cluster_id": "cluster_eq_rtq",
+      "lifecycle_phase": "escalating",
+      "event_type": "earthquake",
+      "severity_level": "severe",
+      "title": "M 6.1 - 25 km ENE of Port-Olry, Vanuatu",
+      "summary": "A magnitude 6.1 earthquake occurred at a depth of 116 km: 25 km ENE of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 6.1,
+        "depth_km": 116.0,
+        "wind_speed_kmh": null,
+        "alert_score": 7.319999999999999
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "25 km ENE of Port-Olry, Vanuatu",
+        "latitude": -14.9964,
+        "longitude": 167.3039,
+        "geohash": "rtqfx"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-25T02:24:00.476000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf",
+          "retrieved_at": "2026-10-25T08:48:35.625373+00:00"
+        }
+      ]
+    },
     {
       "event_id": "gdacs_583bfdfa61106170",
       "cluster_id": "cluster_severe_weather_000",
@@ -410,6 +902,89 @@
           "source_name": "GDACS",
           "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033171",
           "retrieved_at": "2026-10-25T02:14:05.787737+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4r9",
+      "cluster_id": "cluster_eq_xhg",
+      "lifecycle_phase": "escalating",
+      "event_type": "earthquake",
+      "severity_level": "severe",
+      "title": "M 6.5 - Bonin Islands, Japan region",
+      "summary": "A magnitude 6.5 earthquake occurred at a depth of 492.376 km: Bonin Islands, Japan region.",
+      "metrics": {
+        "magnitude": 6.5,
+        "depth_km": 492.376,
+        "wind_speed_kmh": null,
+        "alert_score": 7.8
+      },
+      "location": {
+        "country": "Japan region",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Bonin Islands, Japan region",
+        "latitude": 27.7953,
+        "longitude": 139.6184,
+        "geohash": "xhgq1"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "inspect_maritime_tsunami_bulletins",
+        "monitor_aftershocks"
+      ],
+      "timestamp_utc": "2026-10-25T02:09:23.818000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9",
+          "retrieved_at": "2026-10-25T08:48:35.625416+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4r7",
+      "cluster_id": "cluster_eq_rtm",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.1 - 161 km WNW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 5.1 earthquake occurred at a depth of 10 km: 161 km WNW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 5.1,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.119999999999999
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "161 km WNW of Port-Olry, Vanuatu",
+        "latitude": -14.4542,
+        "longitude": 165.7028,
+        "geohash": "rtmvf"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-25T02:06:10.299000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r7",
+          "retrieved_at": "2026-10-25T08:48:35.625463+00:00"
         }
       ]
     },
