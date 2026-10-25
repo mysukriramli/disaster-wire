@@ -1,7 +1,47 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-10-25T15:14:07.027082+00:00
+Generated: 2026-10-25T18:37:00.436253+00:00
 
 ## Active Incident Telemetry
+### [CYCLONE] Green notification for tropical cyclone THREE-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `stabilizing`
+- **Location:** Green notification for tropical cyclone THREE-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm). (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** From 25/10/2026 to 25/10/2026, a Tropical Depression (maximum wind speed of 65 km/h) THREE-C-26 was active in CentralPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).
+
+### [SEVERE_WEATHER] Green forest fire notification in Tanzania
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Tanzania (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 19/10/2026, a forest fire started in Tanzania,  until 25/10/2026.
+
+### [EARTHQUAKE] M 4.6 - 153 km WNW of Adak, Alaska
+- **Cluster ID:** `cluster_eq_b12` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 153 km WNW of Adak, Alaska (Alaska) | Geohash: `b12bg`
+- **Coordinates:** `[52.1923, -178.8056]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 152.896 km: 153 km WNW of Adak, Alaska.
+
+### [EARTHQUAKE] M 5.2 - 59 km SW of Ashkāsham, Afghanistan
+- **Cluster ID:** `cluster_eq_tw6` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 59 km SW of Ashkāsham, Afghanistan (Afghanistan) | Geohash: `tw6w3`
+- **Coordinates:** `[36.274, 71.1025]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.2 earthquake occurred at a depth of 110.025 km: 59 km SW of Ashkāsham, Afghanistan.
+
+### [EARTHQUAKE] M 4.7 - 19 km NE of Atico, Peru
+- **Cluster ID:** `cluster_eq_6m5` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 19 km NE of Atico, Peru (Peru) | Geohash: `6m5u2`
+- **Coordinates:** `[-16.0993, -73.4741]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.7 earthquake occurred at a depth of 62.095 km: 19 km NE of Atico, Peru.
+
 ### [EARTHQUAKE] Green earthquake (Magnitude 5.9M, Depth:7km) in China 25/10/2026 11:25 UTC, 10 thousand in MMI>=V.
 - **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
 - **Location:** Green earthquake (Magnitude 5.9M, Depth:7km) in China 25/10/2026 11:25 UTC, 10 thousand in MMI>=V. (Global) | Geohash: `00000`
@@ -761,44 +801,4 @@ Generated: 2026-10-25T15:14:07.027082+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** A magnitude 4.9 earthquake occurred at a depth of 10 km: 196 km W of Sola, Vanuatu.
-
-### [EARTHQUAKE] M 4.9 - 169 km NW of Port-Olry, Vanuatu
-- **Cluster ID:** `cluster_eq_rtm` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 169 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtmzs`
-- **Coordinates:** `[-14.1348, 165.8048]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 10 km: 169 km NW of Port-Olry, Vanuatu.
-
-### [EARTHQUAKE] M 5.0 - 219 km WNW of Port-Olry, Vanuatu
-- **Cluster ID:** `cluster_eq_rtm` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** 219 km WNW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtmxb`
-- **Coordinates:** `[-14.1064, 165.2758]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.0 earthquake occurred at a depth of 10 km: 219 km WNW of Port-Olry, Vanuatu.
-
-### [EARTHQUAKE] M 5.9 - 196 km NW of Port-Olry, Vanuatu
-- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** 196 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rttb9`
-- **Coordinates:** `[-13.9418, 165.6471]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.9 earthquake occurred at a depth of 10 km: 196 km NW of Port-Olry, Vanuatu.
-
-### [EARTHQUAKE] M 4.7 - 187 km NW of Port-Olry, Vanuatu
-- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 187 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rttb6`
-- **Coordinates:** `[-13.9869, 165.7108]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.7 earthquake occurred at a depth of 10 km: 187 km NW of Port-Olry, Vanuatu.
-
-### [EARTHQUAKE] M 5.3 - 223 km ENE of Nagqu, China
-- **Cluster ID:** `cluster_eq_wjf` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** 223 km ENE of Nagqu, China (China) | Geohash: `wjfch`
-- **Coordinates:** `[32.5629, 94.048]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.3 earthquake occurred at a depth of 10 km: 223 km ENE of Nagqu, China.
 

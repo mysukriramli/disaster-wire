@@ -3,6 +3,116 @@
   "features": [
     {
       "type": "Feature",
+      "id": "gdacs_15767da448799aa1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "cyclone",
+        "severity_level": "catastrophic",
+        "cluster_id": "cluster_cyclone_000",
+        "geohash": "00000",
+        "title": "Green notification for tropical cyclone THREE-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-25T18:36:59.641732+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_4d86b1f8050b68e4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Tanzania",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-25T18:36:59.641732+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u4vb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -178.8056,
+          52.1923
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_b12",
+        "geohash": "b12bg",
+        "title": "M 4.6 - 153 km WNW of Adak, Alaska",
+        "country": "Alaska",
+        "magnitude": 4.6,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-25T17:49:58.419000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u4va",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.1025,
+          36.274
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_tw6",
+        "geohash": "tw6w3",
+        "title": "M 5.2 - 59 km SW of Ashk\u0101sham, Afghanistan",
+        "country": "Afghanistan",
+        "magnitude": 5.2,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-25T17:44:23.735000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u4v1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4741,
+          -16.0993
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_6m5",
+        "geohash": "6m5u2",
+        "title": "M 4.7 - 19 km NE of Atico, Peru",
+        "country": "Peru",
+        "magnitude": 4.7,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-25T17:11:49.932000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_605c4b16c1e4b89d",
       "geometry": {
         "type": "Point",
@@ -2089,116 +2199,6 @@
         "magnitude": 4.9,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-10-24T11:14:00.121000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4lr",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          165.8048,
-          -14.1348
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_rtm",
-        "geohash": "rtmzs",
-        "title": "M 4.9 - 169 km NW of Port-Olry, Vanuatu",
-        "country": "Vanuatu",
-        "magnitude": 4.9,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T09:38:49.138000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4lp",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          165.2758,
-          -14.1064
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_rtm",
-        "geohash": "rtmxb",
-        "title": "M 5.0 - 219 km WNW of Port-Olry, Vanuatu",
-        "country": "Vanuatu",
-        "magnitude": 5.0,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T09:07:00.782000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4lm",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          165.6471,
-          -13.9418
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_rtt",
-        "geohash": "rttb9",
-        "title": "M 5.9 - 196 km NW of Port-Olry, Vanuatu",
-        "country": "Vanuatu",
-        "magnitude": 5.9,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T08:56:28.815000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4ll",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          165.7108,
-          -13.9869
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_rtt",
-        "geohash": "rttb6",
-        "title": "M 4.7 - 187 km NW of Port-Olry, Vanuatu",
-        "country": "Vanuatu",
-        "magnitude": 4.7,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T08:45:55.500000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4lg",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.048,
-          32.5629
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_wjf",
-        "geohash": "wjfch",
-        "title": "M 5.3 - 223 km ENE of Nagqu, China",
-        "country": "China",
-        "magnitude": 5.3,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T08:39:53.139000+00:00"
       }
     }
   ]

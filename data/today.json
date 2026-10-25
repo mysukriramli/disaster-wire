@@ -1,10 +1,215 @@
 {
   "metadata": {
-    "generated_at": "2026-10-25T15:14:07.020383+00:00",
+    "generated_at": "2026-10-25T18:37:00.432042+00:00",
     "total_active_events": 100,
     "schema_version": "2.1.0"
   },
   "events": [
+    {
+      "event_id": "gdacs_15767da448799aa1",
+      "cluster_id": "cluster_cyclone_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "cyclone",
+      "severity_level": "catastrophic",
+      "title": "Green notification for tropical cyclone THREE-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+      "summary": "From 25/10/2026 to 25/10/2026, a Tropical Depression (maximum wind speed of 65 km/h) THREE-C-26 was active in CentralPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green notification for tropical cyclone THREE-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-25T18:36:59.641732+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001344",
+          "retrieved_at": "2026-10-25T18:36:59.641732+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_4d86b1f8050b68e4",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Tanzania",
+      "summary": "On 19/10/2026, a forest fire started in Tanzania,  until 25/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Tanzania",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-25T18:36:59.641732+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033187",
+          "retrieved_at": "2026-10-25T18:36:59.641732+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4vb",
+      "cluster_id": "cluster_eq_b12",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.6 - 153 km WNW of Adak, Alaska",
+      "summary": "A magnitude 4.6 earthquake occurred at a depth of 152.896 km: 153 km WNW of Adak, Alaska.",
+      "metrics": {
+        "magnitude": 4.6,
+        "depth_km": 152.896,
+        "wind_speed_kmh": null,
+        "alert_score": 5.52
+      },
+      "location": {
+        "country": "Alaska",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "153 km WNW of Adak, Alaska",
+        "latitude": 52.1923,
+        "longitude": -178.8056,
+        "geohash": "b12bg"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-25T17:49:58.419000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4vb",
+          "retrieved_at": "2026-10-25T18:36:56.454600+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4va",
+      "cluster_id": "cluster_eq_tw6",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.2 - 59 km SW of Ashk\u0101sham, Afghanistan",
+      "summary": "A magnitude 5.2 earthquake occurred at a depth of 110.025 km: 59 km SW of Ashk\u0101sham, Afghanistan.",
+      "metrics": {
+        "magnitude": 5.2,
+        "depth_km": 110.025,
+        "wind_speed_kmh": null,
+        "alert_score": 6.24
+      },
+      "location": {
+        "country": "Afghanistan",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "59 km SW of Ashk\u0101sham, Afghanistan",
+        "latitude": 36.274,
+        "longitude": 71.1025,
+        "geohash": "tw6w3"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-25T17:44:23.735000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4va",
+          "retrieved_at": "2026-10-25T18:36:56.454739+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000u4v1",
+      "cluster_id": "cluster_eq_6m5",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.7 - 19 km NE of Atico, Peru",
+      "summary": "A magnitude 4.7 earthquake occurred at a depth of 62.095 km: 19 km NE of Atico, Peru.",
+      "metrics": {
+        "magnitude": 4.7,
+        "depth_km": 62.095,
+        "wind_speed_kmh": null,
+        "alert_score": 5.64
+      },
+      "location": {
+        "country": "Peru",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "19 km NE of Atico, Peru",
+        "latitude": -16.0993,
+        "longitude": -73.4741,
+        "geohash": "6m5u2"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-25T17:11:49.932000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4v1",
+          "retrieved_at": "2026-10-25T18:36:56.454776+00:00"
+        }
+      ]
+    },
     {
       "event_id": "gdacs_605c4b16c1e4b89d",
       "cluster_id": "cluster_earthquake_000",
@@ -3898,211 +4103,6 @@
           "source_name": "USGS Earthquake Hazards Program",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m5",
           "retrieved_at": "2026-10-24T15:02:36.682138+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us6000u4lr",
-      "cluster_id": "cluster_eq_rtm",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "minor",
-      "title": "M 4.9 - 169 km NW of Port-Olry, Vanuatu",
-      "summary": "A magnitude 4.9 earthquake occurred at a depth of 10 km: 169 km NW of Port-Olry, Vanuatu.",
-      "metrics": {
-        "magnitude": 4.9,
-        "depth_km": 10.0,
-        "wind_speed_kmh": null,
-        "alert_score": 5.88
-      },
-      "location": {
-        "country": "Vanuatu",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "169 km NW of Port-Olry, Vanuatu",
-        "latitude": -14.1348,
-        "longitude": 165.8048,
-        "geohash": "rtmzs"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-24T09:38:49.138000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lr",
-          "retrieved_at": "2026-10-24T15:02:36.682179+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us6000u4lp",
-      "cluster_id": "cluster_eq_rtm",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "moderate",
-      "title": "M 5.0 - 219 km WNW of Port-Olry, Vanuatu",
-      "summary": "A magnitude 5.0 earthquake occurred at a depth of 10 km: 219 km WNW of Port-Olry, Vanuatu.",
-      "metrics": {
-        "magnitude": 5.0,
-        "depth_km": 10.0,
-        "wind_speed_kmh": null,
-        "alert_score": 6.0
-      },
-      "location": {
-        "country": "Vanuatu",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "219 km WNW of Port-Olry, Vanuatu",
-        "latitude": -14.1064,
-        "longitude": 165.2758,
-        "geohash": "rtmxb"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-24T09:07:00.782000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lp",
-          "retrieved_at": "2026-10-24T15:02:36.682218+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us6000u4lm",
-      "cluster_id": "cluster_eq_rtt",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "moderate",
-      "title": "M 5.9 - 196 km NW of Port-Olry, Vanuatu",
-      "summary": "A magnitude 5.9 earthquake occurred at a depth of 10 km: 196 km NW of Port-Olry, Vanuatu.",
-      "metrics": {
-        "magnitude": 5.9,
-        "depth_km": 10.0,
-        "wind_speed_kmh": null,
-        "alert_score": 7.08
-      },
-      "location": {
-        "country": "Vanuatu",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "196 km NW of Port-Olry, Vanuatu",
-        "latitude": -13.9418,
-        "longitude": 165.6471,
-        "geohash": "rttb9"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-24T08:56:28.815000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lm",
-          "retrieved_at": "2026-10-24T15:02:36.682260+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us6000u4ll",
-      "cluster_id": "cluster_eq_rtt",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "minor",
-      "title": "M 4.7 - 187 km NW of Port-Olry, Vanuatu",
-      "summary": "A magnitude 4.7 earthquake occurred at a depth of 10 km: 187 km NW of Port-Olry, Vanuatu.",
-      "metrics": {
-        "magnitude": 4.7,
-        "depth_km": 10.0,
-        "wind_speed_kmh": null,
-        "alert_score": 5.64
-      },
-      "location": {
-        "country": "Vanuatu",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "187 km NW of Port-Olry, Vanuatu",
-        "latitude": -13.9869,
-        "longitude": 165.7108,
-        "geohash": "rttb6"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-24T08:45:55.500000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ll",
-          "retrieved_at": "2026-10-24T15:02:36.682296+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us6000u4lg",
-      "cluster_id": "cluster_eq_wjf",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "moderate",
-      "title": "M 5.3 - 223 km ENE of Nagqu, China",
-      "summary": "A magnitude 5.3 earthquake occurred at a depth of 10 km: 223 km ENE of Nagqu, China.",
-      "metrics": {
-        "magnitude": 5.3,
-        "depth_km": 10.0,
-        "wind_speed_kmh": null,
-        "alert_score": 6.359999999999999
-      },
-      "location": {
-        "country": "China",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "223 km ENE of Nagqu, China",
-        "latitude": 32.5629,
-        "longitude": 94.048,
-        "geohash": "wjfch"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-24T08:39:53.139000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lg",
-          "retrieved_at": "2026-10-24T15:02:36.682337+00:00"
         }
       ]
     }
