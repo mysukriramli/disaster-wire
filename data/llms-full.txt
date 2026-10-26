@@ -1,7 +1,95 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-10-26T02:14:34.247222+00:00
+Generated: 2026-10-26T09:28:52.594354+00:00
 
 ## Active Incident Telemetry
+### [CYCLONE] Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 3.049 million .
+- **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `emerging`
+- **Location:** Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 3.049 million . (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** From 26/10/2026 to 26/10/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 204 km/h) ARNAB-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 3.049 million .
+
+### [SEVERE_WEATHER] Green forest fire notification in Botswana
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Botswana (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 24/10/2026, a forest fire started in Botswana,  until 26/10/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Botswana, South Africa
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Botswana, South Africa (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 24/10/2026, a forest fire started in Botswana, South Africa,  until 26/10/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in China
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in China (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 22/10/2026, a forest fire started in China,  until 26/10/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in South Africa, Mozambique
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in South Africa, Mozambique (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 20/10/2026, a forest fire started in South Africa, Mozambique,  until 26/10/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Brazil
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Brazil (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 17/10/2026, a forest fire started in Brazil,  until 26/10/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Papua New Guinea
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Papua New Guinea (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 14/10/2026, a forest fire started in Papua New Guinea,  until 26/10/2026.
+
+### [EARTHQUAKE] M 4.5 - 107 km WNW of Tumxuk, China
+- **Cluster ID:** `cluster_eq_txp` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 107 km WNW of Tumxuk, China (China) | Geohash: `txpmj`
+- **Coordinates:** `[40.2886, 77.9297]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.5 earthquake occurred at a depth of 10 km: 107 km WNW of Tumxuk, China.
+
+### [EARTHQUAKE] M 5.0 - 45 km NNW of Ende, Indonesia
+- **Cluster ID:** `cluster_eq_qwq` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 45 km NNW of Ende, Indonesia (Indonesia) | Geohash: `qwqry`
+- **Coordinates:** `[-8.443, 121.5729]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.0 earthquake occurred at a depth of 10 km: 45 km NNW of Ende, Indonesia.
+
+### [EARTHQUAKE] M 4.8 - 182 km NW of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtm` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 182 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtmzf`
+- **Coordinates:** `[-14.0694, 165.6991]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 10 km: 182 km NW of Port-Olry, Vanuatu.
+
+### [EARTHQUAKE] M 4.8 - 41 km WNW of Kupang, Indonesia
+- **Cluster ID:** `cluster_eq_qwp` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 41 km WNW of Kupang, Indonesia (Indonesia) | Geohash: `qwpwu`
+- **Coordinates:** `[-10.0437, 123.2505]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 35 km: 41 km WNW of Kupang, Indonesia.
+
 ### [CYCLONE] Orange notification for tropical cyclone TWO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.356 million .
 - **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `emerging`
 - **Location:** Orange notification for tropical cyclone TWO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.356 million . (Global) | Geohash: `00000`
@@ -713,92 +801,4 @@ Generated: 2026-10-26T02:14:34.247222+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 20/10/2026, a forest fire started in Chad,  until 24/10/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in South Sudan
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in South Sudan (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 19/10/2026, a forest fire started in South Sudan,  until 24/10/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Mozambique
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Mozambique (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 18/10/2026, a forest fire started in Mozambique,  until 24/10/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Mozambique
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Mozambique (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 18/10/2026, a forest fire started in Mozambique,  until 24/10/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Tanzania
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Tanzania (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 18/10/2026, a forest fire started in Tanzania,  until 24/10/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Sudan
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Sudan (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 16/10/2026, a forest fire started in Sudan,  until 24/10/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Chad
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Chad (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 16/10/2026, a forest fire started in Chad,  until 24/10/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Zambia, Malawi
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Zambia, Malawi (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 15/10/2026, a forest fire started in Zambia, Malawi,  until 24/10/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Tanzania
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Tanzania (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 15/10/2026, a forest fire started in Tanzania,  until 24/10/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Mozambique
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Mozambique (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 15/10/2026, a forest fire started in Mozambique,  until 24/10/2026.
-
-### [EARTHQUAKE] M 4.9 - 53 km NNW of Fef, Indonesia
-- **Cluster ID:** `cluster_eq_qzy` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 53 km NNW of Fef, Indonesia (Indonesia) | Geohash: `qzyjc`
-- **Coordinates:** `[-0.3574, 132.2541]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 10 km: 53 km NNW of Fef, Indonesia.
-
-### [EARTHQUAKE] M 5.3 - 101 km SSE of Vilyuchinsk, Russia
-- **Cluster ID:** `cluster_eq_z93` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** 101 km SSE of Vilyuchinsk, Russia (Russia) | Geohash: `z930w`
-- **Coordinates:** `[52.1565, 159.1963]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.3 earthquake occurred at a depth of 70.184 km: 101 km SSE of Vilyuchinsk, Russia.
 

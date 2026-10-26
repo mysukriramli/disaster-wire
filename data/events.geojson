@@ -3,6 +3,248 @@
   "features": [
     {
       "type": "Feature",
+      "id": "gdacs_132e5df19fd3e341",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "cyclone",
+        "severity_level": "catastrophic",
+        "cluster_id": "cluster_cyclone_000",
+        "geohash": "00000",
+        "title": "Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 3.049 million .",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-26T09:28:51.875921+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_9ac6894a477f4424",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Botswana",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-26T09:28:51.875921+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_eb6dd6c3074e4b31",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Botswana, South Africa",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-26T09:28:51.875921+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_68533334b740e01a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in China",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-26T09:28:51.875921+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_c3fd85bf5c4cf4a7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in South Africa, Mozambique",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-26T09:28:51.875921+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_24e7abd524f39761",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Brazil",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-26T09:28:51.875921+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_68d24fdf0e3d6590",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Papua New Guinea",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-26T09:28:51.875921+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u4yi",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9297,
+          40.2886
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_txp",
+        "geohash": "txpmj",
+        "title": "M 4.5 - 107 km WNW of Tumxuk, China",
+        "country": "China",
+        "magnitude": 4.5,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-26T07:48:16.240000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u4y1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5729,
+          -8.443
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_qwq",
+        "geohash": "qwqry",
+        "title": "M 5.0 - 45 km NNW of Ende, Indonesia",
+        "country": "Indonesia",
+        "magnitude": 5.0,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-26T04:53:40.479000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u4y2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.6991,
+          -14.0694
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_rtm",
+        "geohash": "rtmzf",
+        "title": "M 4.8 - 182 km NW of Port-Olry, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 4.8,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-26T04:53:35.102000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000u4xp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.2505,
+          -10.0437
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_qwp",
+        "geohash": "qwpwu",
+        "title": "M 4.8 - 41 km WNW of Kupang, Indonesia",
+        "country": "Indonesia",
+        "magnitude": 4.8,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-26T03:59:22.208000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_f23a459bc652a259",
       "geometry": {
         "type": "Point",
@@ -1957,248 +2199,6 @@
         "magnitude": null,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-10-24T22:05:53.484202+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_06c987a04000a2a5",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in South Sudan",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T22:05:53.484202+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_4029ba3282c21cb2",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Mozambique",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T22:05:53.484202+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_2d6d29131e9455a4",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Mozambique",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T22:05:53.484202+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_01fdbaf07328f278",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Tanzania",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T22:05:53.484202+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_0de87868d2ac0aeb",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Sudan",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T22:05:53.484202+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_c79424bda97b84ed",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Chad",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T22:05:53.484202+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_89fa31f10cdc9dcf",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Zambia, Malawi",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T22:05:53.484202+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_9347c1edb73d4ba7",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Tanzania",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T22:05:53.484202+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_74528477a6ea7d8a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Mozambique",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T22:05:53.484202+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4pw",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          132.2541,
-          -0.3574
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_qzy",
-        "geohash": "qzyjc",
-        "title": "M 4.9 - 53 km NNW of Fef, Indonesia",
-        "country": "Indonesia",
-        "magnitude": 4.9,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T21:41:51.565000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4pa",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          159.1963,
-          52.1565
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_z93",
-        "geohash": "z930w",
-        "title": "M 5.3 - 101 km SSE of Vilyuchinsk, Russia",
-        "country": "Russia",
-        "magnitude": 5.3,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-24T20:35:04.576000+00:00"
       }
     }
   ]
