@@ -1,7 +1,71 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-10-26T23:27:25.082926+00:00
+Generated: 2026-10-27T02:50:45.085734+00:00
 
 ## Active Incident Telemetry
+### [SEVERE_WEATHER] Green forest fire notification in Australia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 26/10/2026, a forest fire started in Australia,  until 26/10/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Niger, Burkina Faso
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Niger, Burkina Faso (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 24/10/2026, a forest fire started in Niger, Burkina Faso,  until 26/10/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Australia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 23/10/2026, a forest fire started in Australia,  until 26/10/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Australia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 22/10/2026, a forest fire started in Australia,  until 26/10/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Mali
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Mali (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 22/10/2026, a forest fire started in Mali,  until 26/10/2026.
+
+### [EARTHQUAKE] M 4.9 - 69 km WSW of Kirakira, Solomon Islands
+- **Cluster ID:** `cluster_eq_rw4` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 69 km WSW of Kirakira, Solomon Islands (Solomon Islands) | Geohash: `rw4eq`
+- **Coordinates:** `[-10.6683, 161.3189]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 35 km: 69 km WSW of Kirakira, Solomon Islands.
+
+### [EARTHQUAKE] M 4.6 - 203 km SSE of Tateyama, Japan
+- **Cluster ID:** `cluster_eq_xju` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 203 km SSE of Tateyama, Japan (Japan) | Geohash: `xjuj3`
+- **Coordinates:** `[33.2845, 140.7128]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 66.715 km: 203 km SSE of Tateyama, Japan.
+
+### [EARTHQUAKE] M 4.8 - 54 km E of Tomioka, Japan
+- **Cluster ID:** `cluster_eq_xns` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 54 km E of Tomioka, Japan (Japan) | Geohash: `xnssw`
+- **Coordinates:** `[37.3869, 141.625]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 48.93 km: 54 km E of Tomioka, Japan.
+
 ### [CYCLONE] Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 6.028 million .
 - **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `emerging`
 - **Location:** Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 6.028 million . (Global) | Geohash: `00000`
@@ -113,6 +177,14 @@ Generated: 2026-10-26T23:27:25.082926+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 12/10/2026, a forest fire started in Mozambique,  until 26/10/2026.
+
+### [EARTHQUAKE] M 4.5 - 98 km NNW of Tobelo, Indonesia
+- **Cluster ID:** `cluster_eq_wb6` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 98 km NNW of Tobelo, Indonesia (Indonesia) | Geohash: `wb6yd`
+- **Coordinates:** `[2.5777, 127.7372]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.5 earthquake occurred at a depth of 88.651 km: 98 km NNW of Tobelo, Indonesia.
 
 ### [EARTHQUAKE] M 4.5 - 91 km ENE of Pamandzi, Mayotte
 - **Cluster ID:** `cluster_eq_mjb` | **Severity:** `minor` | **Phase:** `emerging`
@@ -729,76 +801,4 @@ Generated: 2026-10-26T23:27:25.082926+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** A magnitude 5.2 earthquake occurred at a depth of 110.025 km: 59 km SW of Ashkāsham, Afghanistan.
-
-### [EARTHQUAKE] M 4.7 - 19 km NE of Atico, Peru
-- **Cluster ID:** `cluster_eq_6m5` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 19 km NE of Atico, Peru (Peru) | Geohash: `6m5u2`
-- **Coordinates:** `[-16.0993, -73.4741]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.7 earthquake occurred at a depth of 62.095 km: 19 km NE of Atico, Peru.
-
-### [EARTHQUAKE] Green earthquake (Magnitude 5.9M, Depth:7km) in China 25/10/2026 11:25 UTC, 10 thousand in MMI>=V.
-- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green earthquake (Magnitude 5.9M, Depth:7km) in China 25/10/2026 11:25 UTC, 10 thousand in MMI>=V. (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 10/25/2026 11:25:57 AM, an earthquake occurred in China potentially affecting 10 thousand in MMI>=V. The earthquake had Magnitude 5.9M, Depth:7km.
-
-### [CYCLONE] Green notification for tropical cyclone IN-FA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `stabilizing`
-- **Location:** Green notification for tropical cyclone IN-FA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm). (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** From 25/10/2026 to 25/10/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 231 km/h) IN-FA-26 was active in NWPacific. The cyclone affects these countries: Marshall Islands (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).
-
-### [SEVERE_WEATHER] Green forest fire notification in China
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in China (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 25/10/2026, a forest fire started in China,  until 25/10/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 24/10/2026, a forest fire started in Australia,  until 25/10/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in China
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in China (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 24/10/2026, a forest fire started in China,  until 25/10/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 24/10/2026, a forest fire started in Australia,  until 25/10/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 23/10/2026, a forest fire started in Australia,  until 25/10/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 23/10/2026, a forest fire started in Australia,  until 25/10/2026.
 
