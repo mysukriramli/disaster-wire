@@ -3,6 +3,72 @@
   "features": [
     {
       "type": "Feature",
+      "id": "gdacs_c71bbb061561edc3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_earthquake_000",
+        "geohash": "00000",
+        "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 27/10/2026 08:55 UTC, No people affected in 100km.",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-27T09:26:17.551661+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_d88cba054d6068fd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "cyclone",
+        "severity_level": "catastrophic",
+        "cluster_id": "cluster_cyclone_000",
+        "geohash": "00000",
+        "title": "Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 7.447 million .",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-27T09:26:17.551661+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000ttfb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.6262,
+          -13.8962
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_rtt",
+        "geohash": "rttbb",
+        "title": "M 5.8 - 200 km NW of Port-Olry, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 5.8,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-27T08:55:23.352000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_58be14bfd89989b1",
       "geometry": {
         "type": "Point",
@@ -2133,72 +2199,6 @@
         "magnitude": null,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-10-25T18:36:59.641732+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_4d86b1f8050b68e4",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Tanzania",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-25T18:36:59.641732+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4vb",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -178.8056,
-          52.1923
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_b12",
-        "geohash": "b12bg",
-        "title": "M 4.6 - 153 km WNW of Adak, Alaska",
-        "country": "Alaska",
-        "magnitude": 4.6,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-25T17:49:58.419000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4va",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          71.1025,
-          36.274
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_tw6",
-        "geohash": "tw6w3",
-        "title": "M 5.2 - 59 km SW of Ashk\u0101sham, Afghanistan",
-        "country": "Afghanistan",
-        "magnitude": 5.2,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-25T17:44:23.735000+00:00"
       }
     }
   ]
