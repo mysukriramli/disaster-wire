@@ -1,7 +1,71 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-10-27T23:19:29.490909+00:00
+Generated: 2026-10-28T02:58:18.405779+00:00
 
 ## Active Incident Telemetry
+### [EARTHQUAKE] Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu Islands 28/10/2026 02:21 UTC, No people affected in 100km.
+- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu Islands 28/10/2026 02:21 UTC, No people affected in 100km. (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 10/28/2026 2:21:45 AM, an earthquake occurred in Vanuatu Islands potentially affecting No people affected in 100km. The earthquake had Magnitude 6M, Depth:10km.
+
+### [EARTHQUAKE] Green earthquake (Magnitude 5.5M, Depth:10km) in Vanuatu Islands 28/10/2026 01:39 UTC, [unknown].
+- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green earthquake (Magnitude 5.5M, Depth:10km) in Vanuatu Islands 28/10/2026 01:39 UTC, [unknown]. (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 10/28/2026 1:39:11 AM, an earthquake occurred in Vanuatu Islands potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:10km.
+
+### [EARTHQUAKE] M 6.0 - 214 km NW of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `severe` | **Phase:** `escalating`
+- **Location:** 214 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtt8s`
+- **Coordinates:** `[-13.9312, 165.446]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 6.0 earthquake occurred at a depth of 10 km: 214 km NW of Port-Olry, Vanuatu.
+
+### [EARTHQUAKE] M 5.2 - 220 km NW of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 220 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtt9m`
+- **Coordinates:** `[-13.8123, 165.4612]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.2 earthquake occurred at a depth of 10 km: 220 km NW of Port-Olry, Vanuatu.
+
+### [EARTHQUAKE] M 4.8 - 217 km NW of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 217 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtt8u`
+- **Coordinates:** `[-13.8902, 165.4403]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 10 km: 217 km NW of Port-Olry, Vanuatu.
+
+### [EARTHQUAKE] M 5.5 - 221 km NW of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 221 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtt8g`
+- **Coordinates:** `[-13.8946, 165.389]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.5 earthquake occurred at a depth of 10 km: 221 km NW of Port-Olry, Vanuatu.
+
+### [EARTHQUAKE] M 5.2 - 6 km NW of Balangonan, Philippines
+- **Cluster ID:** `cluster_eq_wbc` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 6 km NW of Balangonan, Philippines (Philippines) | Geohash: `wbcpg`
+- **Coordinates:** `[5.6079, 125.3054]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.2 earthquake occurred at a depth of 45.941 km: 6 km NW of Balangonan, Philippines.
+
+### [EARTHQUAKE] M 5.1 - 7 km N of Balangonan, Philippines
+- **Cluster ID:** `cluster_eq_wc1` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 7 km N of Balangonan, Philippines (Philippines) | Geohash: `wc10h`
+- **Coordinates:** `[5.6402, 125.3536]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.1 earthquake occurred at a depth of 57.848 km: 7 km N of Balangonan, Philippines.
+
 ### [CYCLONE] Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 5.427 million .
 - **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `emerging`
 - **Location:** Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 5.427 million . (Global) | Geohash: `00000`
@@ -89,6 +153,14 @@ Generated: 2026-10-27T23:19:29.490909+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 18/10/2026, a forest fire started in Tanzania,  until 27/10/2026.
+
+### [EARTHQUAKE] M 5.4 - 193 km WSW of Merizo Village, Guam
+- **Cluster ID:** `cluster_eq_x4m` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 193 km WSW of Merizo Village, Guam (Guam) | Geohash: `x4m8j`
+- **Coordinates:** `[12.6676, 142.9938]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.4 earthquake occurred at a depth of 100.998 km: 193 km WSW of Merizo Village, Guam.
 
 ### [EARTHQUAKE] M 5.4 - 210 km ENE of Nagqu, China
 - **Cluster ID:** `cluster_eq_wjf` | **Severity:** `moderate` | **Phase:** `emerging`
@@ -729,76 +801,4 @@ Generated: 2026-10-27T23:19:29.490909+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** A magnitude 4.8 earthquake occurred at a depth of 3.1 km: 87 km SSE of Akutan, Alaska.
-
-### [EARTHQUAKE] M 5.0 - 218 km NW of Port-Olry, Vanuatu
-- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** 218 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtt8e`
-- **Coordinates:** `[-13.9396, 165.3858]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.0 earthquake occurred at a depth of 10 km: 218 km NW of Port-Olry, Vanuatu.
-
-### [EARTHQUAKE] M 4.8 - South Sandwich Islands region
-- **Cluster ID:** `cluster_eq_5mk` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** South Sandwich Islands region (South Sandwich Islands region) | Geohash: `5mk79`
-- **Coordinates:** `[-59.8141, -27.7087]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 173.493 km: South Sandwich Islands region.
-
-### [EARTHQUAKE] M 5.5 - 283 km E of Levuka, Fiji
-- **Cluster ID:** `cluster_eq_2h9` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** 283 km E of Levuka, Fiji (Fiji) | Geohash: `2h9rv`
-- **Coordinates:** `[-18.283, -178.0109]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.5 earthquake occurred at a depth of 641.812 km: 283 km E of Levuka, Fiji.
-
-### [CYCLONE] Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 3.049 million .
-- **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `emerging`
-- **Location:** Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 3.049 million . (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** From 26/10/2026 to 26/10/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 204 km/h) ARNAB-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 3.049 million .
-
-### [SEVERE_WEATHER] Green forest fire notification in Botswana
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Botswana (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 24/10/2026, a forest fire started in Botswana,  until 26/10/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Botswana, South Africa
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Botswana, South Africa (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 24/10/2026, a forest fire started in Botswana, South Africa,  until 26/10/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in China
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in China (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 22/10/2026, a forest fire started in China,  until 26/10/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in South Africa, Mozambique
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in South Africa, Mozambique (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 20/10/2026, a forest fire started in South Africa, Mozambique,  until 26/10/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Brazil
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Brazil (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 17/10/2026, a forest fire started in Brazil,  until 26/10/2026.
 

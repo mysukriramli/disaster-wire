@@ -3,6 +3,182 @@
   "features": [
     {
       "type": "Feature",
+      "id": "gdacs_d8483e1a38f33e59",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_earthquake_000",
+        "geohash": "00000",
+        "title": "Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu Islands 28/10/2026 02:21 UTC, No people affected in 100km.",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-28T02:58:17.499290+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_1389fc4295217c98",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_earthquake_000",
+        "geohash": "00000",
+        "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Vanuatu Islands 28/10/2026 01:39 UTC, [unknown].",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-28T02:58:17.499290+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000ttlm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.446,
+          -13.9312
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "severe",
+        "cluster_id": "cluster_eq_rtt",
+        "geohash": "rtt8s",
+        "title": "M 6.0 - 214 km NW of Port-Olry, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 6.0,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-28T02:21:45.806000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000ttlk",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.4612,
+          -13.8123
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_rtt",
+        "geohash": "rtt9m",
+        "title": "M 5.2 - 220 km NW of Port-Olry, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 5.2,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-28T02:17:15.975000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000ttli",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.4403,
+          -13.8902
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_rtt",
+        "geohash": "rtt8u",
+        "title": "M 4.8 - 217 km NW of Port-Olry, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 4.8,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-28T02:13:55.226000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000ttld",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.389,
+          -13.8946
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_rtt",
+        "geohash": "rtt8g",
+        "title": "M 5.5 - 221 km NW of Port-Olry, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 5.5,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-28T01:39:11.004000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000ttlc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3054,
+          5.6079
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_wbc",
+        "geohash": "wbcpg",
+        "title": "M 5.2 - 6 km NW of Balangonan, Philippines",
+        "country": "Philippines",
+        "magnitude": 5.2,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-28T01:11:54.979000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000ttkk",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3536,
+          5.6402
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_wc1",
+        "geohash": "wc10h",
+        "title": "M 5.1 - 7 km N of Balangonan, Philippines",
+        "country": "Philippines",
+        "magnitude": 5.1,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-27T23:43:51.480000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_1d2057f308773f99",
       "geometry": {
         "type": "Point",
@@ -241,6 +417,28 @@
         "magnitude": null,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-10-27T23:19:28.722378+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000ttke",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.9938,
+          12.6676
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_x4m",
+        "geohash": "x4m8j",
+        "title": "M 5.4 - 193 km WSW of Merizo Village, Guam",
+        "country": "Guam",
+        "magnitude": 5.4,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-27T23:14:17.420000+00:00"
       }
     },
     {
@@ -2001,204 +2199,6 @@
         "magnitude": 4.8,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-10-26T11:38:04.221000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4z6",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          165.3858,
-          -13.9396
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_rtt",
-        "geohash": "rtt8e",
-        "title": "M 5.0 - 218 km NW of Port-Olry, Vanuatu",
-        "country": "Vanuatu",
-        "magnitude": 5.0,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-26T11:17:55.055000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4z3",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -27.7087,
-          -59.8141
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_5mk",
-        "geohash": "5mk79",
-        "title": "M 4.8 - South Sandwich Islands region",
-        "country": "South Sandwich Islands region",
-        "magnitude": 4.8,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-26T11:01:55.933000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4yr",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -178.0109,
-          -18.283
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_2h9",
-        "geohash": "2h9rv",
-        "title": "M 5.5 - 283 km E of Levuka, Fiji",
-        "country": "Fiji",
-        "magnitude": 5.5,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-26T10:13:01.234000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_132e5df19fd3e341",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "cyclone",
-        "severity_level": "catastrophic",
-        "cluster_id": "cluster_cyclone_000",
-        "geohash": "00000",
-        "title": "Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 3.049 million .",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-26T09:28:51.875921+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_9ac6894a477f4424",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Botswana",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-26T09:28:51.875921+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_eb6dd6c3074e4b31",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Botswana, South Africa",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-26T09:28:51.875921+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_68533334b740e01a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in China",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-26T09:28:51.875921+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_c3fd85bf5c4cf4a7",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in South Africa, Mozambique",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-26T09:28:51.875921+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_24e7abd524f39761",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Brazil",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-26T09:28:51.875921+00:00"
       }
     }
   ]
