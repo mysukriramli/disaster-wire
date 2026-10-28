@@ -3,6 +3,182 @@
   "features": [
     {
       "type": "Feature",
+      "id": "gdacs_c17ddc020b7876c1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_earthquake_000",
+        "geohash": "00000",
+        "title": "Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu 28/10/2026 02:59 UTC, 3 thousand in MMI III.",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-28T10:08:00.305661+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_7d539a2aeeb9467a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_earthquake_000",
+        "geohash": "00000",
+        "title": "Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu Islands 28/10/2026 02:21 UTC, [unknown].",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-28T10:08:00.305661+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_22aba25070c3d761",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "cyclone",
+        "severity_level": "catastrophic",
+        "cluster_id": "cluster_cyclone_000",
+        "geohash": "00000",
+        "title": "Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 4.008 million .",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-28T10:08:00.305661+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000ttmz",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3884,
+          5.1505
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_wbc",
+        "geohash": "wbcjm",
+        "title": "M 4.8 - 29 km SSW of Sarangani, Philippines",
+        "country": "Philippines",
+        "magnitude": 4.8,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-28T09:32:56.341000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000ttmh",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.5684,
+          -30.9564
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_6d3",
+        "geohash": "6d3rg",
+        "title": "M 4.7 - 39 km SSW of Serrezuela, Argentina",
+        "country": "Argentina",
+        "magnitude": 4.7,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-28T07:02:12.084000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000ttmb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.5373,
+          51.2258
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_z91",
+        "geohash": "z917q",
+        "title": "M 5.0 - 205 km SSE of Vilyuchinsk, Russia",
+        "country": "Russia",
+        "magnitude": 5.0,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-28T06:12:47.777000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000ttm2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.7007,
+          -13.7421
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_rtt",
+        "geohash": "rttcf",
+        "title": "M 5.0 - 200 km W of Sola, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 5.0,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-28T04:31:04.089000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000ttlt",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.8001,
+          -14.0693
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_rtm",
+        "geohash": "rtmzu",
+        "title": "M 5.6 - 174 km NW of Port-Olry, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 5.6,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-28T02:59:48.387000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_d8483e1a38f33e59",
       "geometry": {
         "type": "Point",
@@ -2023,182 +2199,6 @@
         "magnitude": null,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-10-26T17:52:09.644670+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_ffc8305825a25c1e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in China",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-26T17:52:09.644670+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_42ab5535c27e2bd4",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in China",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-26T17:52:09.644670+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_f90649dcd334ea3b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Ethiopia, South Sudan",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-26T17:52:09.644670+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_febc75ea5730d481",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Australia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-26T17:52:09.644670+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000ttby",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          165.9223,
-          -14.2093
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_rtm",
-        "geohash": "rtmzp",
-        "title": "M 4.6 - 154 km NW of Port-Olry, Vanuatu",
-        "country": "Vanuatu",
-        "magnitude": 4.6,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-26T15:08:25.118000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4zb",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          165.6029,
-          -13.8613
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_rtt",
-        "geohash": "rttc0",
-        "title": "M 5.2 - 205 km NW of Port-Olry, Vanuatu",
-        "country": "Vanuatu",
-        "magnitude": 5.2,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-26T12:13:30.652000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000u4z7",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -165.1239,
-          53.5071
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_b3d",
-        "geohash": "b3d86",
-        "title": "M 4.6 - 81 km SSE of Akutan, Alaska",
-        "country": "Alaska",
-        "magnitude": 4.6,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-26T11:38:06.778000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_aka2026vfhvld",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -165.093,
-          53.461
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_b3d",
-        "geohash": "b3d85",
-        "title": "M 4.8 - 87 km SSE of Akutan, Alaska",
-        "country": "Alaska",
-        "magnitude": 4.8,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-26T11:38:04.221000+00:00"
       }
     }
   ]

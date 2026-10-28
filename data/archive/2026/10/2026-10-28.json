@@ -1,8 +1,336 @@
 {
   "archive_date": "2026-10-28",
-  "total_incidents": 100,
-  "updated_at": "2026-10-28T02:58:18.406186+00:00",
+  "total_incidents": 108,
+  "updated_at": "2026-10-28T10:08:01.181720+00:00",
   "events": [
+    {
+      "event_id": "gdacs_c17ddc020b7876c1",
+      "cluster_id": "cluster_earthquake_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu 28/10/2026 02:59 UTC, 3 thousand in MMI III.",
+      "summary": "On 10/28/2026 2:59:48 AM, an earthquake occurred in Vanuatu potentially affecting 3 thousand in MMI III. The earthquake had Magnitude 5.6M, Depth:10km.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu 28/10/2026 02:59 UTC, 3 thousand in MMI III.",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-28T10:08:00.305661+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574271",
+          "retrieved_at": "2026-10-28T10:08:00.305661+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_7d539a2aeeb9467a",
+      "cluster_id": "cluster_earthquake_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu Islands 28/10/2026 02:21 UTC, [unknown].",
+      "summary": "On 10/28/2026 2:21:45 AM, an earthquake occurred in Vanuatu Islands potentially affecting [unknown]. The earthquake had Magnitude 6M, Depth:10km.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu Islands 28/10/2026 02:21 UTC, [unknown].",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-28T10:08:00.305661+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574265",
+          "retrieved_at": "2026-10-28T10:08:00.305661+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_22aba25070c3d761",
+      "cluster_id": "cluster_cyclone_000",
+      "lifecycle_phase": "emerging",
+      "event_type": "cyclone",
+      "severity_level": "catastrophic",
+      "title": "Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 4.008 million .",
+      "summary": "From 26/10/2026 to 28/10/2026, a Tropical Storm (maximum wind speed of 222 km/h) ARNAB-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 4.008 million .",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 4.008 million .",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-28T10:08:00.305661+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001345",
+          "retrieved_at": "2026-10-28T10:08:00.305661+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000ttmz",
+      "cluster_id": "cluster_eq_wbc",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.8 - 29 km SSW of Sarangani, Philippines",
+      "summary": "A magnitude 4.8 earthquake occurred at a depth of 84.25 km: 29 km SSW of Sarangani, Philippines.",
+      "metrics": {
+        "magnitude": 4.8,
+        "depth_km": 84.25,
+        "wind_speed_kmh": null,
+        "alert_score": 5.76
+      },
+      "location": {
+        "country": "Philippines",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "29 km SSW of Sarangani, Philippines",
+        "latitude": 5.1505,
+        "longitude": 125.3884,
+        "geohash": "wbcjm"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-28T09:32:56.341000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmz",
+          "retrieved_at": "2026-10-28T10:07:56.759029+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000ttmh",
+      "cluster_id": "cluster_eq_6d3",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.7 - 39 km SSW of Serrezuela, Argentina",
+      "summary": "A magnitude 4.7 earthquake occurred at a depth of 186.301 km: 39 km SSW of Serrezuela, Argentina.",
+      "metrics": {
+        "magnitude": 4.7,
+        "depth_km": 186.301,
+        "wind_speed_kmh": null,
+        "alert_score": 5.64
+      },
+      "location": {
+        "country": "Argentina",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "39 km SSW of Serrezuela, Argentina",
+        "latitude": -30.9564,
+        "longitude": -65.5684,
+        "geohash": "6d3rg"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-28T07:02:12.084000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmh",
+          "retrieved_at": "2026-10-28T10:07:56.759158+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000ttmb",
+      "cluster_id": "cluster_eq_z91",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.0 - 205 km SSE of Vilyuchinsk, Russia",
+      "summary": "A magnitude 5.0 earthquake occurred at a depth of 10 km: 205 km SSE of Vilyuchinsk, Russia.",
+      "metrics": {
+        "magnitude": 5.0,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.0
+      },
+      "location": {
+        "country": "Russia",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "205 km SSE of Vilyuchinsk, Russia",
+        "latitude": 51.2258,
+        "longitude": 159.5373,
+        "geohash": "z917q"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-28T06:12:47.777000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmb",
+          "retrieved_at": "2026-10-28T10:07:56.759203+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000ttm2",
+      "cluster_id": "cluster_eq_rtt",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.0 - 200 km W of Sola, Vanuatu",
+      "summary": "A magnitude 5.0 earthquake occurred at a depth of 10 km: 200 km W of Sola, Vanuatu.",
+      "metrics": {
+        "magnitude": 5.0,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.0
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "200 km W of Sola, Vanuatu",
+        "latitude": -13.7421,
+        "longitude": 165.7007,
+        "geohash": "rttcf"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-28T04:31:04.089000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttm2",
+          "retrieved_at": "2026-10-28T10:07:56.759245+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000ttlt",
+      "cluster_id": "cluster_eq_rtm",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.6 - 174 km NW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 5.6 earthquake occurred at a depth of 10 km: 174 km NW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 5.6,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.72
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "174 km NW of Port-Olry, Vanuatu",
+        "latitude": -14.0693,
+        "longitude": 165.8001,
+        "geohash": "rtmzu"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-28T02:59:48.387000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlt",
+          "retrieved_at": "2026-10-28T10:07:56.759281+00:00"
+        }
+      ]
+    },
     {
       "event_id": "gdacs_d8483e1a38f33e59",
       "cluster_id": "cluster_earthquake_000",
