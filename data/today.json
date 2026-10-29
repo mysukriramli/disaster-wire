@@ -1,10 +1,625 @@
 {
   "metadata": {
-    "generated_at": "2026-10-28T23:43:05.633641+00:00",
+    "generated_at": "2026-10-29T03:25:10.546264+00:00",
     "total_active_events": 100,
     "schema_version": "2.1.0"
   },
   "events": [
+    {
+      "event_id": "gdacs_81f98ff3bd93f330",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Nigeria",
+      "summary": "On 28/10/2026, a forest fire started in Nigeria,  until 28/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Nigeria",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-29T03:25:09.783430+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033275",
+          "retrieved_at": "2026-10-29T03:25:09.783430+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_750576c941991e64",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Botswana",
+      "summary": "On 27/10/2026, a forest fire started in Botswana,  until 28/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Botswana",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-29T03:25:09.783430+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033276",
+          "retrieved_at": "2026-10-29T03:25:09.783430+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_4e3b90ee922e3182",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Burkina Faso",
+      "summary": "On 26/10/2026, a forest fire started in Burkina Faso,  until 28/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Burkina Faso",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-29T03:25:09.783430+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033277",
+          "retrieved_at": "2026-10-29T03:25:09.783430+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_f6eaaa06ca412e7b",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in China",
+      "summary": "On 25/10/2026, a forest fire started in China,  until 28/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in China",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-29T03:25:09.783430+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033278",
+          "retrieved_at": "2026-10-29T03:25:09.783430+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_61e241979dde3f3d",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Botswana",
+      "summary": "On 23/10/2026, a forest fire started in Botswana,  until 28/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Botswana",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-29T03:25:09.783430+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033279",
+          "retrieved_at": "2026-10-29T03:25:09.783430+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_9d8c2e58637448d8",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Brazil",
+      "summary": "On 22/10/2026, a forest fire started in Brazil,  until 28/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Brazil",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-29T03:25:09.783430+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033280",
+          "retrieved_at": "2026-10-29T03:25:09.783430+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_a0a7665a5803b644",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Zambia, Malawi",
+      "summary": "On 22/10/2026, a forest fire started in Zambia, Malawi,  until 28/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Zambia, Malawi",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-29T03:25:09.783430+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033281",
+          "retrieved_at": "2026-10-29T03:25:09.783430+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_dd746fd112e4a3b4",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Zimbabwe",
+      "summary": "On 22/10/2026, a forest fire started in Zimbabwe,  until 28/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Zimbabwe",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-29T03:25:09.783430+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033282",
+          "retrieved_at": "2026-10-29T03:25:09.783430+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_d893e8e010076259",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Senegal, Mali",
+      "summary": "On 22/10/2026, a forest fire started in Senegal, Mali,  until 28/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Senegal, Mali",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-29T03:25:09.783430+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033283",
+          "retrieved_at": "2026-10-29T03:25:09.783430+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_b7c973cc076460f1",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in China",
+      "summary": "On 22/10/2026, a forest fire started in China,  until 28/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in China",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-29T03:25:09.783430+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033284",
+          "retrieved_at": "2026-10-29T03:25:09.783430+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_0a112daa071212fc",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Tanzania",
+      "summary": "On 20/10/2026, a forest fire started in Tanzania,  until 28/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Tanzania",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-29T03:25:09.783430+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033285",
+          "retrieved_at": "2026-10-29T03:25:09.783430+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000ttvy",
+      "cluster_id": "cluster_eq_x4q",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.8 - 36 km SSW of Merizo Village, Guam",
+      "summary": "A magnitude 4.8 earthquake occurred at a depth of 70.237 km: 36 km SSW of Merizo Village, Guam.",
+      "metrics": {
+        "magnitude": 4.8,
+        "depth_km": 70.237,
+        "wind_speed_kmh": null,
+        "alert_score": 5.76
+      },
+      "location": {
+        "country": "Guam",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "36 km SSW of Merizo Village, Guam",
+        "latitude": 12.9476,
+        "longitude": 144.5819,
+        "geohash": "x4qcd"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-29T02:18:21.049000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvy",
+          "retrieved_at": "2026-10-29T03:25:06.351901+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000ttvs",
+      "cluster_id": "cluster_eq_pp5",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.8 - western Indian-Antarctic Ridge",
+      "summary": "A magnitude 4.8 earthquake occurred at a depth of 10 km: western Indian-Antarctic Ridge.",
+      "metrics": {
+        "magnitude": 4.8,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.76
+      },
+      "location": {
+        "country": "western Indian-Antarctic Ridge",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "western Indian-Antarctic Ridge",
+        "latitude": -50.2688,
+        "longitude": 139.4087,
+        "geohash": "pp54h"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-29T01:07:04.538000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvs",
+          "retrieved_at": "2026-10-29T03:25:06.352079+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000ttvn",
+      "cluster_id": "cluster_eq_rtr",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.9 - 117 km E of Port-Olry, Vanuatu",
+      "summary": "A magnitude 4.9 earthquake occurred at a depth of 10 km: 117 km E of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 4.9,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.88
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "117 km E of Port-Olry, Vanuatu",
+        "latitude": -15.0234,
+        "longitude": 168.1637,
+        "geohash": "rtrdd"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-29T00:57:36.802000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvn",
+          "retrieved_at": "2026-10-29T03:25:06.352132+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000ttvf",
+      "cluster_id": "cluster_eq_rtr",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.4 - 109 km ENE of Luganville, Vanuatu",
+      "summary": "A magnitude 5.4 earthquake occurred at a depth of 10 km: 109 km ENE of Luganville, Vanuatu.",
+      "metrics": {
+        "magnitude": 5.4,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.48
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "109 km ENE of Luganville, Vanuatu",
+        "latitude": -15.1213,
+        "longitude": 168.0994,
+        "geohash": "rtr9c"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-29T00:08:20.933000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvf",
+          "retrieved_at": "2026-10-29T03:25:06.352183+00:00"
+        }
+      ]
+    },
     {
       "event_id": "gdacs_796c95f47b2261ce",
       "cluster_id": "cluster_earthquake_000",
@@ -453,6 +1068,47 @@
           "source_name": "USGS Earthquake Hazards Program",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttv1",
           "retrieved_at": "2026-10-28T23:42:56.357685+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000ttuq",
+      "cluster_id": "cluster_eq_tzf",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.6 - 80 km SE of Bole, China",
+      "summary": "A magnitude 4.6 earthquake occurred at a depth of 10 km: 80 km SE of Bole, China.",
+      "metrics": {
+        "magnitude": 4.6,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.52
+      },
+      "location": {
+        "country": "China",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "80 km SE of Bole, China",
+        "latitude": 44.3448,
+        "longitude": 82.7252,
+        "geohash": "tzfu6"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-28T22:42:54.821000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttuq",
+          "retrieved_at": "2026-10-29T03:25:06.352226+00:00"
         }
       ]
     },
@@ -3496,662 +4152,6 @@
           "source_name": "USGS Earthquake Hazards Program",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfx",
           "retrieved_at": "2026-10-27T16:59:52.198007+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us7000ttfs",
-      "cluster_id": "cluster_eq_6eb",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "minor",
-      "title": "M 4.6 - 100 km W of El Aguilar, Argentina",
-      "summary": "A magnitude 4.6 earthquake occurred at a depth of 206.259 km: 100 km W of El Aguilar, Argentina.",
-      "metrics": {
-        "magnitude": 4.6,
-        "depth_km": 206.259,
-        "wind_speed_kmh": null,
-        "alert_score": 5.52
-      },
-      "location": {
-        "country": "Argentina",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "100 km W of El Aguilar, Argentina",
-        "latitude": -23.1819,
-        "longitude": -66.6616,
-        "geohash": "6ebs5"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-27T11:41:22.141000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfs",
-          "retrieved_at": "2026-10-27T16:59:52.198034+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us7000ttfk",
-      "cluster_id": "cluster_eq_rtt",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "moderate",
-      "title": "M 5.2 - 191 km NW of Port-Olry, Vanuatu",
-      "summary": "A magnitude 5.2 earthquake occurred at a depth of 10 km: 191 km NW of Port-Olry, Vanuatu.",
-      "metrics": {
-        "magnitude": 5.2,
-        "depth_km": 10.0,
-        "wind_speed_kmh": null,
-        "alert_score": 6.24
-      },
-      "location": {
-        "country": "Vanuatu",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "191 km NW of Port-Olry, Vanuatu",
-        "latitude": -14.0067,
-        "longitude": 165.6479,
-        "geohash": "rttb3"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-27T10:50:35.418000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfk",
-          "retrieved_at": "2026-10-27T16:59:52.198061+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us7000ttfj",
-      "cluster_id": "cluster_eq_rtt",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "moderate",
-      "title": "M 5.0 - 184 km NW of Port-Olry, Vanuatu",
-      "summary": "A magnitude 5.0 earthquake occurred at a depth of 10 km: 184 km NW of Port-Olry, Vanuatu.",
-      "metrics": {
-        "magnitude": 5.0,
-        "depth_km": 10.0,
-        "wind_speed_kmh": null,
-        "alert_score": 6.0
-      },
-      "location": {
-        "country": "Vanuatu",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "184 km NW of Port-Olry, Vanuatu",
-        "latitude": -13.9437,
-        "longitude": 165.7876,
-        "geohash": "rttbs"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-27T10:06:31.916000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfj",
-          "retrieved_at": "2026-10-27T16:59:52.198091+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_c71bbb061561edc3",
-      "cluster_id": "cluster_earthquake_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "earthquake",
-      "severity_level": "moderate",
-      "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 27/10/2026 08:55 UTC, No people affected in 100km.",
-      "summary": "On 10/27/2026 8:55:23 AM, an earthquake occurred in Vanuatu potentially affecting No people affected in 100km. The earthquake had Magnitude 5.8M, Depth:10km.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 27/10/2026 08:55 UTC, No people affected in 100km.",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-27T09:26:17.551661+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574115",
-          "retrieved_at": "2026-10-27T09:26:17.551661+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_d88cba054d6068fd",
-      "cluster_id": "cluster_cyclone_000",
-      "lifecycle_phase": "emerging",
-      "event_type": "cyclone",
-      "severity_level": "catastrophic",
-      "title": "Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 7.447 million .",
-      "summary": "From 26/10/2026 to 27/10/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 222 km/h) ARNAB-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 7.447 million .",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 7.447 million .",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-27T09:26:17.551661+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001345",
-          "retrieved_at": "2026-10-27T09:26:17.551661+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us7000ttfe",
-      "cluster_id": "cluster_eq_rtt",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "moderate",
-      "title": "M 5.0 - 206 km NW of Port-Olry, Vanuatu",
-      "summary": "A magnitude 5.0 earthquake occurred at a depth of 10 km: 206 km NW of Port-Olry, Vanuatu.",
-      "metrics": {
-        "magnitude": 5.0,
-        "depth_km": 10.0,
-        "wind_speed_kmh": null,
-        "alert_score": 6.0
-      },
-      "location": {
-        "country": "Vanuatu",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "206 km NW of Port-Olry, Vanuatu",
-        "latitude": -13.9006,
-        "longitude": 165.5556,
-        "geohash": "rtt8z"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-27T09:20:55.730000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfe",
-          "retrieved_at": "2026-10-27T16:59:52.198123+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us7000ttfc",
-      "cluster_id": "cluster_eq_2jk",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "moderate",
-      "title": "M 5.0 - 95 km NNE of Hihifo, Tonga",
-      "summary": "A magnitude 5.0 earthquake occurred at a depth of 10 km: 95 km NNE of Hihifo, Tonga.",
-      "metrics": {
-        "magnitude": 5.0,
-        "depth_km": 10.0,
-        "wind_speed_kmh": null,
-        "alert_score": 6.0
-      },
-      "location": {
-        "country": "Tonga",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "95 km NNE of Hihifo, Tonga",
-        "latitude": -15.1739,
-        "longitude": -173.4094,
-        "geohash": "2jk9t"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-27T09:07:45.122000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfc",
-          "retrieved_at": "2026-10-27T16:59:52.198151+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us7000ttfb",
-      "cluster_id": "cluster_eq_rtt",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "moderate",
-      "title": "M 5.8 - 200 km NW of Port-Olry, Vanuatu",
-      "summary": "A magnitude 5.8 earthquake occurred at a depth of 10 km: 200 km NW of Port-Olry, Vanuatu.",
-      "metrics": {
-        "magnitude": 5.8,
-        "depth_km": 10.0,
-        "wind_speed_kmh": null,
-        "alert_score": 6.96
-      },
-      "location": {
-        "country": "Vanuatu",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "200 km NW of Port-Olry, Vanuatu",
-        "latitude": -13.8962,
-        "longitude": 165.6262,
-        "geohash": "rttbb"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-27T08:55:23.352000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfb",
-          "retrieved_at": "2026-10-27T09:26:11.339261+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_58be14bfd89989b1",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in Australia",
-      "summary": "On 26/10/2026, a forest fire started in Australia,  until 26/10/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in Australia",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-27T02:50:44.441988+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033244",
-          "retrieved_at": "2026-10-27T02:50:44.441988+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_52fdb5eabd264dc3",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in Niger, Burkina Faso",
-      "summary": "On 24/10/2026, a forest fire started in Niger, Burkina Faso,  until 26/10/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in Niger, Burkina Faso",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-27T02:50:44.441988+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033245",
-          "retrieved_at": "2026-10-27T02:50:44.441988+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_0ab7b2ef34d76967",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in Australia",
-      "summary": "On 23/10/2026, a forest fire started in Australia,  until 26/10/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in Australia",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-27T02:50:44.441988+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033246",
-          "retrieved_at": "2026-10-27T02:50:44.441988+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_1fc4e5a356101a02",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in Australia",
-      "summary": "On 22/10/2026, a forest fire started in Australia,  until 26/10/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in Australia",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-27T02:50:44.441988+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033247",
-          "retrieved_at": "2026-10-27T02:50:44.441988+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_3c5d33442f938e21",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in Mali",
-      "summary": "On 22/10/2026, a forest fire started in Mali,  until 26/10/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in Mali",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-27T02:50:44.441988+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033248",
-          "retrieved_at": "2026-10-27T02:50:44.441988+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us7000tte4",
-      "cluster_id": "cluster_eq_rw4",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "minor",
-      "title": "M 4.9 - 69 km WSW of Kirakira, Solomon Islands",
-      "summary": "A magnitude 4.9 earthquake occurred at a depth of 35 km: 69 km WSW of Kirakira, Solomon Islands.",
-      "metrics": {
-        "magnitude": 4.9,
-        "depth_km": 35.0,
-        "wind_speed_kmh": null,
-        "alert_score": 5.88
-      },
-      "location": {
-        "country": "Solomon Islands",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "69 km WSW of Kirakira, Solomon Islands",
-        "latitude": -10.6683,
-        "longitude": 161.3189,
-        "geohash": "rw4eq"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-27T02:02:55.847000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte4",
-          "retrieved_at": "2026-10-27T02:50:41.659095+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us7000tte0",
-      "cluster_id": "cluster_eq_xju",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "minor",
-      "title": "M 4.6 - 203 km SSE of Tateyama, Japan",
-      "summary": "A magnitude 4.6 earthquake occurred at a depth of 66.715 km: 203 km SSE of Tateyama, Japan.",
-      "metrics": {
-        "magnitude": 4.6,
-        "depth_km": 66.715,
-        "wind_speed_kmh": null,
-        "alert_score": 5.52
-      },
-      "location": {
-        "country": "Japan",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "203 km SSE of Tateyama, Japan",
-        "latitude": 33.2845,
-        "longitude": 140.7128,
-        "geohash": "xjuj3"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-27T01:17:53.898000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte0",
-          "retrieved_at": "2026-10-27T02:50:41.659250+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us7000ttdt",
-      "cluster_id": "cluster_eq_xns",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "minor",
-      "title": "M 4.8 - 54 km E of Tomioka, Japan",
-      "summary": "A magnitude 4.8 earthquake occurred at a depth of 48.93 km: 54 km E of Tomioka, Japan.",
-      "metrics": {
-        "magnitude": 4.8,
-        "depth_km": 48.93,
-        "wind_speed_kmh": null,
-        "alert_score": 5.76
-      },
-      "location": {
-        "country": "Japan",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "54 km E of Tomioka, Japan",
-        "latitude": 37.3869,
-        "longitude": 141.625,
-        "geohash": "xnssw"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-27T00:25:08.167000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttdt",
-          "retrieved_at": "2026-10-27T02:50:41.659306+00:00"
         }
       ]
     }
