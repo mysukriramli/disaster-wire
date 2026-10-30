@@ -1,7 +1,31 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-10-29T23:42:09.732516+00:00
+Generated: 2026-10-30T03:27:00.857633+00:00
 
 ## Active Incident Telemetry
+### [EARTHQUAKE] Green earthquake (Magnitude 5.5M, Depth:41.356km) in Japan 28/10/2026 15:07 UTC, 190 thousand in MMI V.
+- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green earthquake (Magnitude 5.5M, Depth:41.356km) in Japan 28/10/2026 15:07 UTC, 190 thousand in MMI V. (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 10/28/2026 3:07:52 PM, an earthquake occurred in Japan potentially affecting 190 thousand in MMI V. The earthquake had Magnitude 5.5M, Depth:41.356km.
+
+### [SEVERE_WEATHER] Green forest fire notification in Brazil
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Brazil (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 24/10/2026, a forest fire started in Brazil,  until 29/10/2026.
+
+### [EARTHQUAKE] M 5.1 - 97 km NNE of Finschhafen, Papua New Guinea
+- **Cluster ID:** `cluster_eq_rqc` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 97 km NNE of Finschhafen, Papua New Guinea (Papua New Guinea) | Geohash: `rqcqy`
+- **Coordinates:** `[-5.8137, 148.3151]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.1 earthquake occurred at a depth of 116.297 km: 97 km NNE of Finschhafen, Papua New Guinea.
+
 ### [EARTHQUAKE] Green earthquake (Magnitude 6.2M, Depth:142.833km) in Vanuatu 29/10/2026 21:46 UTC, 120 thousand in MMI IV.
 - **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
 - **Location:** Green earthquake (Magnitude 6.2M, Depth:142.833km) in Vanuatu 29/10/2026 21:46 UTC, 120 thousand in MMI IV. (Global) | Geohash: `00000`
@@ -177,6 +201,14 @@ Generated: 2026-10-29T23:42:09.732516+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 15/10/2026, a forest fire started in Malawi,  until 29/10/2026.
+
+### [EARTHQUAKE] M 4.6 - 59 km SW of Port-Vila, Vanuatu
+- **Cluster ID:** `cluster_eq_rsz` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 59 km SW of Port-Vila, Vanuatu (Vanuatu) | Geohash: `rsz2v`
+- **Coordinates:** `[-18.1317, 167.9345]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 10 km: 59 km SW of Port-Vila, Vanuatu.
 
 ### [EARTHQUAKE] M 6.2 - 43 km ESE of Port-Olry, Vanuatu
 - **Cluster ID:** `cluster_eq_rtr` | **Severity:** `severe` | **Phase:** `escalating`
@@ -769,36 +801,4 @@ Generated: 2026-10-29T23:42:09.732516+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** The  Drought notification level is Orange.
-
-### [SEVERE_WEATHER] Drought is on going in Belize, Costa Rica, Cuba, Dominican Republic, Guatemala, Honduras, Haiti, Mexico, Nicaragua, El Salvador, United States
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** Drought is on going in Belize, Costa Rica, Cuba, Dominican Republic, Guatemala, Honduras, Haiti, Mexico, Nicaragua, El Salvador, United States (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** The  Drought notification level is Orange.
-
-### [SEVERE_WEATHER] Drought is on going in Andorra, Albania, Austria, Bosnia & Herzegovina, Belgium, Bulgaria, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Moldova, Montenegro, Netherlands, Poland, Romania, Serbia, Sweden, Slovenia, Slovakia, Ukraine,
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** Drought is on going in Andorra, Albania, Austria, Bosnia & Herzegovina, Belgium, Bulgaria, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Moldova, Montenegro, Netherlands, Poland, Romania, Serbia, Sweden, Slovenia, Slovakia, Ukraine, (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** The  Drought notification level is Orange.
-
-### [SEVERE_WEATHER] Drought is on going in Aruba, , Brazil, Colombia, Costa Rica, , French Guiana, Guyana, Panama, Suriname, Venezuela
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** Drought is on going in Aruba, , Brazil, Colombia, Costa Rica, , French Guiana, Guyana, Panama, Suriname, Venezuela (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** The  Drought notification level is Green.
-
-### [EARTHQUAKE] M 4.6 - 17 km N of Kushiro, Japan
-- **Cluster ID:** `cluster_eq_xpw` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 17 km N of Kushiro, Japan (Japan) | Geohash: `xpwtm`
-- **Coordinates:** `[43.1303, 144.3697]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 130.142 km: 17 km N of Kushiro, Japan.
 

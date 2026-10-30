@@ -3,6 +3,72 @@
   "features": [
     {
       "type": "Feature",
+      "id": "gdacs_82502f25acf53816",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_earthquake_000",
+        "geohash": "00000",
+        "title": "Green earthquake (Magnitude 5.5M, Depth:41.356km) in Japan 28/10/2026 15:07 UTC, 190 thousand in MMI V.",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-30T03:27:00.131093+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_f34d03354d3ffd43",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Brazil",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-30T03:27:00.131093+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000tu5q",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.3151,
+          -5.8137
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_rqc",
+        "geohash": "rqcqy",
+        "title": "M 5.1 - 97 km NNE of Finschhafen, Papua New Guinea",
+        "country": "Papua New Guinea",
+        "magnitude": 5.1,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-30T03:04:17.406000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_f3a6c4c114fa0460",
       "geometry": {
         "type": "Point",
@@ -483,6 +549,28 @@
         "magnitude": null,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-10-29T23:42:08.794553+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000tu4z",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.9345,
+          -18.1317
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_rsz",
+        "geohash": "rsz2v",
+        "title": "M 4.6 - 59 km SW of Port-Vila, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 4.6,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-29T23:04:49.300000+00:00"
       }
     },
     {
@@ -2111,94 +2199,6 @@
         "magnitude": null,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-10-28T23:43:04.634006+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_fff77eaf565604b2",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Drought is on going in Belize, Costa Rica, Cuba, Dominican Republic, Guatemala, Honduras, Haiti, Mexico, Nicaragua, El Salvador, United States",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-28T23:43:04.634006+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_25afdb5945073c3b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Drought is on going in Andorra, Albania, Austria, Bosnia & Herzegovina, Belgium, Bulgaria, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Moldova, Montenegro, Netherlands, Poland, Romania, Serbia, Sweden, Slovenia, Slovakia, Ukraine,",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-28T23:43:04.634006+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_7694cd67f870c085",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Drought is on going in Aruba, , Brazil, Colombia, Costa Rica, , French Guiana, Guyana, Panama, Suriname, Venezuela",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-28T23:43:04.634006+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000ttv1",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          144.3697,
-          43.1303
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_xpw",
-        "geohash": "xpwtm",
-        "title": "M 4.6 - 17 km N of Kushiro, Japan",
-        "country": "Japan",
-        "magnitude": 4.6,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-28T23:13:50.764000+00:00"
       }
     }
   ]
