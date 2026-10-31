@@ -1,8 +1,213 @@
 {
   "archive_date": "2026-10-31",
-  "total_incidents": 100,
-  "updated_at": "2026-10-31T03:11:46.586476+00:00",
+  "total_incidents": 105,
+  "updated_at": "2026-10-31T10:02:15.856732+00:00",
   "events": [
+    {
+      "event_id": "gdacs_2fa13799282635b4",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Nigeria, Cameroon",
+      "summary": "On 30/10/2026, a forest fire started in Nigeria, Cameroon,  until 31/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Nigeria, Cameroon",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-31T10:02:14.999659+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033360",
+          "retrieved_at": "2026-10-31T10:02:14.999659+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_ec92337ca88b0dda",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Brazil",
+      "summary": "On 20/10/2026, a forest fire started in Brazil,  until 30/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Brazil",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-31T10:02:14.999659+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033359",
+          "retrieved_at": "2026-10-31T10:02:14.999659+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000tuht",
+      "cluster_id": "cluster_eq_rtt",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.9 - 236 km NW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 4.9 earthquake occurred at a depth of 10 km: 236 km NW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 4.9,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.88
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "236 km NW of Port-Olry, Vanuatu",
+        "latitude": -13.7894,
+        "longitude": 165.2951,
+        "geohash": "rtt99"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-31T09:18:32.051000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuht",
+          "retrieved_at": "2026-10-31T10:02:12.188595+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000tuhs",
+      "cluster_id": "cluster_eq_rtt",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.9 - 213 km W of Sola, Vanuatu",
+      "summary": "A magnitude 4.9 earthquake occurred at a depth of 10 km: 213 km W of Sola, Vanuatu.",
+      "metrics": {
+        "magnitude": 4.9,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.88
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "213 km W of Sola, Vanuatu",
+        "latitude": -13.7683,
+        "longitude": 165.5833,
+        "geohash": "rtt9x"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-31T09:15:52.568000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuhs",
+          "retrieved_at": "2026-10-31T10:02:12.188741+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000tugv",
+      "cluster_id": "cluster_eq_xjm",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.6 - Izu Islands, Japan region",
+      "summary": "A magnitude 4.6 earthquake occurred at a depth of 10 km: Izu Islands, Japan region.",
+      "metrics": {
+        "magnitude": 4.6,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.52
+      },
+      "location": {
+        "country": "Japan region",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Izu Islands, Japan region",
+        "latitude": 30.9098,
+        "longitude": 142.5186,
+        "geohash": "xjmrg"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-31T03:14:13.580000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugv",
+          "retrieved_at": "2026-10-31T10:02:12.188773+00:00"
+        }
+      ]
+    },
     {
       "event_id": "usgs_us7000tugs",
       "cluster_id": "cluster_eq_e1r",

@@ -3,6 +3,116 @@
   "features": [
     {
       "type": "Feature",
+      "id": "gdacs_2fa13799282635b4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Nigeria, Cameroon",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-31T10:02:14.999659+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_ec92337ca88b0dda",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Brazil",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-31T10:02:14.999659+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000tuht",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.2951,
+          -13.7894
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_rtt",
+        "geohash": "rtt99",
+        "title": "M 4.9 - 236 km NW of Port-Olry, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 4.9,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-31T09:18:32.051000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000tuhs",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.5833,
+          -13.7683
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_rtt",
+        "geohash": "rtt9x",
+        "title": "M 4.9 - 213 km W of Sola, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 4.9,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-31T09:15:52.568000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000tugv",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5186,
+          30.9098
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_xjm",
+        "geohash": "xjmrg",
+        "title": "M 4.6 - Izu Islands, Japan region",
+        "country": "Japan region",
+        "magnitude": 4.6,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-31T03:14:13.580000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "usgs_us7000tugs",
       "geometry": {
         "type": "Point",
@@ -2089,116 +2199,6 @@
         "magnitude": 4.5,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-10-29T17:37:01.805000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000ttyw",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.6309,
-          7.5923
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_d1q",
-        "geohash": "d1qej",
-        "title": "M 4.7 - 6 km SE of Pitaloza Arriba, Panama",
-        "country": "Panama",
-        "magnitude": 4.7,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-29T13:42:57.953000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000ttyk",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          130.0224,
-          -7.5288
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_qys",
-        "geohash": "qysmn",
-        "title": "M 4.6 - Pulau Pulau Tanimbar, Indonesia",
-        "country": "Indonesia",
-        "magnitude": 4.6,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-29T11:38:24.162000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_89ba7bd185fb2c88",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_earthquake_000",
-        "geohash": "00000",
-        "title": "Green earthquake (Magnitude 6.4M, Depth:10km) in Southeast Of Easter Island 29/10/2026 07:49 UTC, [unknown].",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-29T10:33:41.289375+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_8b9594f3e1ae32d6",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_earthquake_000",
-        "geohash": "00000",
-        "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in Papua New Guinea 29/10/2026 03:26 UTC, Few people affected (in MMI>=VII).",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-29T10:33:41.289375+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_320518353d2f0d81",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_earthquake_000",
-        "geohash": "00000",
-        "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Philippines 29/10/2026 03:19 UTC, 7 thousand in MMI IV.",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-29T10:33:41.289375+00:00"
       }
     }
   ]

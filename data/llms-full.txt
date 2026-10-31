@@ -1,7 +1,47 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-10-31T03:11:46.585933+00:00
+Generated: 2026-10-31T10:02:15.856466+00:00
 
 ## Active Incident Telemetry
+### [SEVERE_WEATHER] Green forest fire notification in Nigeria, Cameroon
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Nigeria, Cameroon (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 30/10/2026, a forest fire started in Nigeria, Cameroon,  until 31/10/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Brazil
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Brazil (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 20/10/2026, a forest fire started in Brazil,  until 30/10/2026.
+
+### [EARTHQUAKE] M 4.9 - 236 km NW of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 236 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtt99`
+- **Coordinates:** `[-13.7894, 165.2951]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 10 km: 236 km NW of Port-Olry, Vanuatu.
+
+### [EARTHQUAKE] M 4.9 - 213 km W of Sola, Vanuatu
+- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 213 km W of Sola, Vanuatu (Vanuatu) | Geohash: `rtt9x`
+- **Coordinates:** `[-13.7683, 165.5833]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 10 km: 213 km W of Sola, Vanuatu.
+
+### [EARTHQUAKE] M 4.6 - Izu Islands, Japan region
+- **Cluster ID:** `cluster_eq_xjm` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** Izu Islands, Japan region (Japan region) | Geohash: `xjmrg`
+- **Coordinates:** `[30.9098, 142.5186]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 10 km: Izu Islands, Japan region.
+
 ### [EARTHQUAKE] M 4.5 - central Mid-Atlantic Ridge
 - **Cluster ID:** `cluster_eq_e1r` | **Severity:** `minor` | **Phase:** `emerging`
 - **Location:** central Mid-Atlantic Ridge (central Mid-Atlantic Ridge) | Geohash: `e1r26`
@@ -761,44 +801,4 @@ Generated: 2026-10-31T03:11:46.585933+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** A magnitude 4.5 earthquake occurred at a depth of 35 km: 141 km E of Miyako, Japan.
-
-### [EARTHQUAKE] M 4.7 - 6 km SE of Pitaloza Arriba, Panama
-- **Cluster ID:** `cluster_eq_d1q` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 6 km SE of Pitaloza Arriba, Panama (Panama) | Geohash: `d1qej`
-- **Coordinates:** `[7.5923, -80.6309]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.7 earthquake occurred at a depth of 10 km: 6 km SE of Pitaloza Arriba, Panama.
-
-### [EARTHQUAKE] M 4.6 - Pulau Pulau Tanimbar, Indonesia
-- **Cluster ID:** `cluster_eq_qys` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** Pulau Pulau Tanimbar, Indonesia (Indonesia) | Geohash: `qysmn`
-- **Coordinates:** `[-7.5288, 130.0224]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 10 km: Pulau Pulau Tanimbar, Indonesia.
-
-### [EARTHQUAKE] Green earthquake (Magnitude 6.4M, Depth:10km) in Southeast Of Easter Island 29/10/2026 07:49 UTC, [unknown].
-- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green earthquake (Magnitude 6.4M, Depth:10km) in Southeast Of Easter Island 29/10/2026 07:49 UTC, [unknown]. (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 10/29/2026 7:49:50 AM, an earthquake occurred in Southeast Of Easter Island potentially affecting [unknown]. The earthquake had Magnitude 6.4M, Depth:10km.
-
-### [EARTHQUAKE] Green earthquake (Magnitude 5.7M, Depth:10km) in Papua New Guinea 29/10/2026 03:26 UTC, Few people affected (in MMI>=VII).
-- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green earthquake (Magnitude 5.7M, Depth:10km) in Papua New Guinea 29/10/2026 03:26 UTC, Few people affected (in MMI>=VII). (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 10/29/2026 3:26:42 AM, an earthquake occurred in Papua New Guinea potentially affecting Few people affected (in MMI>=VII). The earthquake had Magnitude 5.7M, Depth:10km.
-
-### [EARTHQUAKE] Green earthquake (Magnitude 5.8M, Depth:10km) in Philippines 29/10/2026 03:19 UTC, 7 thousand in MMI IV.
-- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green earthquake (Magnitude 5.8M, Depth:10km) in Philippines 29/10/2026 03:19 UTC, 7 thousand in MMI IV. (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 10/29/2026 3:19:05 AM, an earthquake occurred in Philippines potentially affecting 7 thousand in MMI IV. The earthquake had Magnitude 5.8M, Depth:10km.
 
