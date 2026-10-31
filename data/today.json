@@ -1,10 +1,133 @@
 {
   "metadata": {
-    "generated_at": "2026-10-30T23:21:36.368106+00:00",
+    "generated_at": "2026-10-31T03:11:46.579221+00:00",
     "total_active_events": 100,
     "schema_version": "2.1.0"
   },
   "events": [
+    {
+      "event_id": "usgs_us7000tugs",
+      "cluster_id": "cluster_eq_e1r",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.5 - central Mid-Atlantic Ridge",
+      "summary": "A magnitude 4.5 earthquake occurred at a depth of 10 km: central Mid-Atlantic Ridge.",
+      "metrics": {
+        "magnitude": 4.5,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.3999999999999995
+      },
+      "location": {
+        "country": "central Mid-Atlantic Ridge",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "central Mid-Atlantic Ridge",
+        "latitude": 7.087,
+        "longitude": -34.6828,
+        "geohash": "e1r26"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-31T02:37:19.894000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugs",
+          "retrieved_at": "2026-10-31T03:11:43.439604+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000tugf",
+      "cluster_id": "cluster_eq_xju",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.5 - 223 km SE of Katsuura, Japan",
+      "summary": "A magnitude 4.5 earthquake occurred at a depth of 10 km: 223 km SE of Katsuura, Japan.",
+      "metrics": {
+        "magnitude": 4.5,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.3999999999999995
+      },
+      "location": {
+        "country": "Japan",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "223 km SE of Katsuura, Japan",
+        "latitude": 33.5548,
+        "longitude": 141.8118,
+        "geohash": "xjuyg"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-31T00:32:46.687000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugf",
+          "retrieved_at": "2026-10-31T03:11:43.439736+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000tugd",
+      "cluster_id": "cluster_eq_rtr",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.8 - 97 km ENE of Port-Olry, Vanuatu",
+      "summary": "A magnitude 4.8 earthquake occurred at a depth of 10 km: 97 km ENE of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 4.8,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.76
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "97 km ENE of Port-Olry, Vanuatu",
+        "latitude": -14.8091,
+        "longitude": 167.9478,
+        "geohash": "rtr7v"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-31T00:26:35.699000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugd",
+          "retrieved_at": "2026-10-31T03:11:43.439796+00:00"
+        }
+      ]
+    },
     {
       "event_id": "gdacs_accbe86e395f6183",
       "cluster_id": "cluster_severe_weather_000",
@@ -781,6 +904,47 @@
           "source_name": "USGS Earthquake Hazards Program",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tufp",
           "retrieved_at": "2026-10-30T23:21:33.069449+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000tufc",
+      "cluster_id": "cluster_eq_rtt",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.7 - 222 km NW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 4.7 earthquake occurred at a depth of 10 km: 222 km NW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 4.7,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.64
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "222 km NW of Port-Olry, Vanuatu",
+        "latitude": -13.8288,
+        "longitude": 165.4282,
+        "geohash": "rtt9k"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-30T22:14:55.008000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tufc",
+          "retrieved_at": "2026-10-31T03:11:43.439853+00:00"
         }
       ]
     },
@@ -3937,170 +4101,6 @@
         {
           "source_name": "GDACS",
           "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574466",
-          "retrieved_at": "2026-10-29T10:33:41.289375+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_62b693fb4c397ac1",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in Nigeria",
-      "summary": "On 28/10/2026, a forest fire started in Nigeria,  until 28/10/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in Nigeria",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-29T10:33:41.289375+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033286",
-          "retrieved_at": "2026-10-29T10:33:41.289375+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_e259e4cb80b83e43",
-      "cluster_id": "cluster_flood_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "flood",
-      "severity_level": "moderate",
-      "title": "Green flood alert in Romania",
-      "summary": "On 27/10/2026, a flood started in Romania, lasting until 29/10/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green flood alert in Romania",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-29T10:33:41.289375+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104260",
-          "retrieved_at": "2026-10-29T10:33:41.289375+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_ebb9ece832f03de3",
-      "cluster_id": "cluster_flood_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "flood",
-      "severity_level": "moderate",
-      "title": "Green flood alert in Israel",
-      "summary": "On 27/10/2026, a flood started in Israel, lasting until 29/10/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green flood alert in Israel",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-29T10:33:41.289375+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104261",
-          "retrieved_at": "2026-10-29T10:33:41.289375+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_d0827cc56b6cb08e",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in China",
-      "summary": "On 25/10/2026, a forest fire started in China,  until 28/10/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in China",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-10-29T10:33:41.289375+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033287",
           "retrieved_at": "2026-10-29T10:33:41.289375+00:00"
         }
       ]

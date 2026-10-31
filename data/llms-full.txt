@@ -1,7 +1,31 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-10-30T23:21:36.374845+00:00
+Generated: 2026-10-31T03:11:46.585933+00:00
 
 ## Active Incident Telemetry
+### [EARTHQUAKE] M 4.5 - central Mid-Atlantic Ridge
+- **Cluster ID:** `cluster_eq_e1r` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** central Mid-Atlantic Ridge (central Mid-Atlantic Ridge) | Geohash: `e1r26`
+- **Coordinates:** `[7.087, -34.6828]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.5 earthquake occurred at a depth of 10 km: central Mid-Atlantic Ridge.
+
+### [EARTHQUAKE] M 4.5 - 223 km SE of Katsuura, Japan
+- **Cluster ID:** `cluster_eq_xju` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 223 km SE of Katsuura, Japan (Japan) | Geohash: `xjuyg`
+- **Coordinates:** `[33.5548, 141.8118]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.5 earthquake occurred at a depth of 10 km: 223 km SE of Katsuura, Japan.
+
+### [EARTHQUAKE] M 4.8 - 97 km ENE of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtr` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 97 km ENE of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtr7v`
+- **Coordinates:** `[-14.8091, 167.9478]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 10 km: 97 km ENE of Port-Olry, Vanuatu.
+
 ### [SEVERE_WEATHER] Green forest fire notification in Mozambique
 - **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
 - **Location:** Green forest fire notification in Mozambique (Global) | Geohash: `00000`
@@ -153,6 +177,14 @@ Generated: 2026-10-30T23:21:36.374845+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** A magnitude 4.6 earthquake occurred at a depth of 194.807 km: 33 km NE of Mazo Cruz, Peru.
+
+### [EARTHQUAKE] M 4.7 - 222 km NW of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 222 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtt9k`
+- **Coordinates:** `[-13.8288, 165.4282]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.7 earthquake occurred at a depth of 10 km: 222 km NW of Port-Olry, Vanuatu.
 
 ### [EARTHQUAKE] M 4.5 - 236 km ESE of Zyryanka, Russia
 - **Cluster ID:** `cluster_eq_z7w` | **Severity:** `minor` | **Phase:** `emerging`
@@ -769,36 +801,4 @@ Generated: 2026-10-30T23:21:36.374845+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 10/29/2026 3:19:05 AM, an earthquake occurred in Philippines potentially affecting 7 thousand in MMI IV. The earthquake had Magnitude 5.8M, Depth:10km.
-
-### [SEVERE_WEATHER] Green forest fire notification in Nigeria
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Nigeria (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 28/10/2026, a forest fire started in Nigeria,  until 28/10/2026.
-
-### [FLOOD] Green flood alert in Romania
-- **Cluster ID:** `cluster_flood_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green flood alert in Romania (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 27/10/2026, a flood started in Romania, lasting until 29/10/2026 (last update). The flood caused 0 deaths and 0 displaced .
-
-### [FLOOD] Green flood alert in Israel
-- **Cluster ID:** `cluster_flood_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green flood alert in Israel (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 27/10/2026, a flood started in Israel, lasting until 29/10/2026 (last update). The flood caused 0 deaths and 0 displaced .
-
-### [SEVERE_WEATHER] Green forest fire notification in China
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in China (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 25/10/2026, a forest fire started in China,  until 28/10/2026.
 
