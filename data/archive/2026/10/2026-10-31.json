@@ -1,8 +1,541 @@
 {
   "archive_date": "2026-10-31",
-  "total_incidents": 126,
-  "updated_at": "2026-10-31T16:29:31.946829+00:00",
+  "total_incidents": 139,
+  "updated_at": "2026-10-31T22:55:13.148837+00:00",
   "events": [
+    {
+      "event_id": "gdacs_b6ac3ff71cc54c86",
+      "cluster_id": "cluster_earthquake_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "Green earthquake (Magnitude 6M, Depth:352.449km) in Japan 31/10/2026 22:15 UTC, 60 thousand in MMI III.",
+      "summary": "On 10/31/2026 10:15:02 PM, an earthquake occurred in Japan potentially affecting 60 thousand in MMI III. The earthquake had Magnitude 6M, Depth:352.449km.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green earthquake (Magnitude 6M, Depth:352.449km) in Japan 31/10/2026 22:15 UTC, 60 thousand in MMI III.",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-31T22:55:12.493836+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574997",
+          "retrieved_at": "2026-10-31T22:55:12.493836+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_9bfeadc1a6f19b3a",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Botswana",
+      "summary": "On 31/10/2026, a forest fire started in Botswana,  until 31/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Botswana",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-31T22:55:12.493836+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033379",
+          "retrieved_at": "2026-10-31T22:55:12.493836+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_3af2f8e3e6b90164",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Nigeria, Cameroon",
+      "summary": "On 30/10/2026, a forest fire started in Nigeria, Cameroon,  until 31/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Nigeria, Cameroon",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-31T22:55:12.493836+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033380",
+          "retrieved_at": "2026-10-31T22:55:12.493836+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_33165c433bc832a8",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Botswana",
+      "summary": "On 30/10/2026, a forest fire started in Botswana,  until 31/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Botswana",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-31T22:55:12.493836+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033381",
+          "retrieved_at": "2026-10-31T22:55:12.493836+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_81b4dba7c82618fc",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Botswana, Namibia",
+      "summary": "On 29/10/2026, a forest fire started in Botswana, Namibia,  until 31/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Botswana, Namibia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-31T22:55:12.493836+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033382",
+          "retrieved_at": "2026-10-31T22:55:12.493836+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_4720bef113c08d4b",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Burkina Faso",
+      "summary": "On 29/10/2026, a forest fire started in Burkina Faso,  until 31/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Burkina Faso",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-31T22:55:12.493836+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033383",
+          "retrieved_at": "2026-10-31T22:55:12.493836+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_f288c0b31680d7c4",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Chad",
+      "summary": "On 27/10/2026, a forest fire started in Chad,  until 31/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Chad",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-31T22:55:12.493836+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033384",
+          "retrieved_at": "2026-10-31T22:55:12.493836+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_7bcbb16e764fd525",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Zimbabwe",
+      "summary": "On 21/10/2026, a forest fire started in Zimbabwe,  until 31/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Zimbabwe",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-31T22:55:12.493836+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033385",
+          "retrieved_at": "2026-10-31T22:55:12.493836+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_447abe5c6b511536",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Sudan, Ethiopia",
+      "summary": "On 20/10/2026, a forest fire started in Sudan, Ethiopia,  until 31/10/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Sudan, Ethiopia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-31T22:55:12.493836+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033378",
+          "retrieved_at": "2026-10-31T22:55:12.493836+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000tuku",
+      "cluster_id": "cluster_eq_xn1",
+      "lifecycle_phase": "escalating",
+      "event_type": "earthquake",
+      "severity_level": "severe",
+      "title": "M 6.0 - 58 km SSE of Shima, Japan",
+      "summary": "A magnitude 6.0 earthquake occurred at a depth of 352.449 km: 58 km SSE of Shima, Japan.",
+      "metrics": {
+        "magnitude": 6.0,
+        "depth_km": 352.449,
+        "wind_speed_kmh": null,
+        "alert_score": 7.199999999999999
+      },
+      "location": {
+        "country": "Japan",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "58 km SSE of Shima, Japan",
+        "latitude": 33.822,
+        "longitude": 136.9854,
+        "geohash": "xn12m"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-31T22:15:02.901000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuku",
+          "retrieved_at": "2026-10-31T22:55:09.563279+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000tukm",
+      "cluster_id": "cluster_eq_thu",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.0 - 115 km SE of Bushehr, Iran",
+      "summary": "A magnitude 5.0 earthquake occurred at a depth of 10 km: 115 km SE of Bushehr, Iran.",
+      "metrics": {
+        "magnitude": 5.0,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.0
+      },
+      "location": {
+        "country": "Iran",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "115 km SE of Bushehr, Iran",
+        "latitude": 28.114,
+        "longitude": 51.5076,
+        "geohash": "thuxu"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-31T21:20:39.173000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tukm",
+          "retrieved_at": "2026-10-31T22:55:09.563431+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000tuk4",
+      "cluster_id": "cluster_eq_b1j",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.5 - 111 km ESE of Atka, Alaska",
+      "summary": "A magnitude 4.5 earthquake occurred at a depth of 44.87 km: 111 km ESE of Atka, Alaska.",
+      "metrics": {
+        "magnitude": 4.5,
+        "depth_km": 44.87,
+        "wind_speed_kmh": null,
+        "alert_score": 5.3999999999999995
+      },
+      "location": {
+        "country": "Alaska",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "111 km ESE of Atka, Alaska",
+        "latitude": 51.6994,
+        "longitude": -172.7931,
+        "geohash": "b1jn5"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-31T18:51:02.721000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuk4",
+          "retrieved_at": "2026-10-31T22:55:09.563494+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_aka2026vpcige",
+      "cluster_id": "cluster_eq_b1j",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.5 - 121 km SE of Atka, Alaska",
+      "summary": "A magnitude 4.5 earthquake occurred at a depth of 1 km: 121 km SE of Atka, Alaska.",
+      "metrics": {
+        "magnitude": 4.5,
+        "depth_km": 1.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.3999999999999995
+      },
+      "location": {
+        "country": "Alaska",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "121 km SE of Atka, Alaska",
+        "latitude": 51.521,
+        "longitude": -172.815,
+        "geohash": "b1jj5"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-10-31T18:50:58.577000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vpcige",
+          "retrieved_at": "2026-10-31T22:55:09.563551+00:00"
+        }
+      ]
+    },
     {
       "event_id": "gdacs_7c6a8657ee53c57c",
       "cluster_id": "cluster_flood_000",
