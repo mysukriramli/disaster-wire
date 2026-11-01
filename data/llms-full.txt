@@ -1,7 +1,79 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-11-01T03:08:26.758770+00:00
+Generated: 2026-11-01T10:53:41.513870+00:00
 
 ## Active Incident Telemetry
+### [CYCLONE] Red notification for tropical cyclone FOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.156 million .
+- **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `emerging`
+- **Location:** Red notification for tropical cyclone FOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.156 million . (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** From 01/11/2026 to 01/11/2026, a Tropical Storm (maximum wind speed of 120 km/h) FOUR-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 1.156 million .
+
+### [SEVERE_WEATHER] Green forest fire notification in Burkina Faso
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Burkina Faso (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 30/10/2026, a forest fire started in Burkina Faso,  until 01/11/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Brazil
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Brazil (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 30/10/2026, a forest fire started in Brazil,  until 01/11/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Ethiopia, Sudan
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Ethiopia, Sudan (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 20/10/2026, a forest fire started in Ethiopia, Sudan,  until 31/10/2026.
+
+### [EARTHQUAKE] M 4.8 - 33 km SE of Jiufen, Taiwan
+- **Cluster ID:** `cluster_eq_wsq` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 33 km SE of Jiufen, Taiwan (Taiwan) | Geohash: `wsqv9`
+- **Coordinates:** `[24.8805, 122.0621]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 118.799 km: 33 km SE of Jiufen, Taiwan.
+
+### [EARTHQUAKE] M 4.7 - 191 km NW of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 191 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rttb3`
+- **Coordinates:** `[-13.9872, 165.6642]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.7 earthquake occurred at a depth of 10 km: 191 km NW of Port-Olry, Vanuatu.
+
+### [EARTHQUAKE] M 5.1 - 201 km NW of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 201 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rttc1`
+- **Coordinates:** `[-13.8611, 165.6455]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.1 earthquake occurred at a depth of 10 km: 201 km NW of Port-Olry, Vanuatu.
+
+### [EARTHQUAKE] M 5.4 - 203 km NW of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 203 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rttc0`
+- **Coordinates:** `[-13.8672, 165.6167]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.4 earthquake occurred at a depth of 10 km: 203 km NW of Port-Olry, Vanuatu.
+
+### [EARTHQUAKE] M 4.8 - 71 km NNW of San Antonio de los Cobres, Argentina
+- **Cluster ID:** `cluster_eq_6eb` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 71 km NNW of San Antonio de los Cobres, Argentina (Argentina) | Geohash: `6eb9e`
+- **Coordinates:** `[-23.6386, -66.6315]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 202.07 km: 71 km NNW of San Antonio de los Cobres, Argentina.
+
 ### [CYCLONE] Green notification for tropical cyclone FOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `stabilizing`
 - **Location:** Green notification for tropical cyclone FOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm). (Global) | Geohash: `00000`
@@ -313,6 +385,14 @@ Generated: 2026-11-01T03:08:26.758770+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** A magnitude 5.2 earthquake occurred at a depth of 10 km: 4 km S of Bajo Corral, Panama.
+
+### [EARTHQUAKE] M 4.5 - 295 km ESE of Tadine, New Caledonia
+- **Cluster ID:** `cluster_eq_rgc` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 295 km ESE of Tadine, New Caledonia (New Caledonia) | Geohash: `rgcnm`
+- **Coordinates:** `[-22.8, 170.4074]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.5 earthquake occurred at a depth of 10 km: 295 km ESE of Tadine, New Caledonia.
 
 ### [EARTHQUAKE] M 5.0 - 196 km NW of Port-Olry, Vanuatu
 - **Cluster ID:** `cluster_eq_rtt` | **Severity:** `moderate` | **Phase:** `emerging`
@@ -721,84 +801,4 @@ Generated: 2026-11-01T03:08:26.758770+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 26/10/2026, a forest fire started in South Africa,  until 30/10/2026.
-
-### [CYCLONE] Green notification for tropical cyclone IN-FA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 2127 .
-- **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `stabilizing`
-- **Location:** Green notification for tropical cyclone IN-FA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 2127 . (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** From 25/10/2026 to 30/10/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 241 km/h) IN-FA-26 was active in NWPacific. The cyclone affects these countries: Japan (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 2127 .
-
-### [SEVERE_WEATHER] Green forest fire notification in China
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in China (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 25/10/2026, a forest fire started in China,  until 30/10/2026.
-
-### [FLOOD] Green flood alert in India
-- **Cluster ID:** `cluster_flood_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green flood alert in India (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 20/10/2026, a flood started in India, lasting until 30/10/2026 (last update). The flood caused 2 deaths and 0 displaced .
-
-### [SEVERE_WEATHER] Green forest fire notification in Pakistan
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Pakistan (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 17/10/2026, a forest fire started in Pakistan,  until 29/10/2026.
-
-### [EARTHQUAKE] M 4.5 - 104 km ENE of Barcelona, Philippines
-- **Cluster ID:** `cluster_eq_wc6` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 104 km ENE of Barcelona, Philippines (Philippines) | Geohash: `wc6xd`
-- **Coordinates:** `[8.3731, 127.3616]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.5 earthquake occurred at a depth of 10 km: 104 km ENE of Barcelona, Philippines.
-
-### [EARTHQUAKE] M 5.1 - Balleny Islands region
-- **Cluster ID:** `cluster_eq_pky` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** Balleny Islands region (Balleny Islands region) | Geohash: `pkykv`
-- **Coordinates:** `[-62.4457, 155.2618]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.1 earthquake occurred at a depth of 10 km: Balleny Islands region.
-
-### [EARTHQUAKE] M 4.6 - 64 km SSW of Shikotan, Russia
-- **Cluster ID:** `cluster_eq_xr8` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 64 km SSW of Shikotan, Russia (Russia) | Geohash: `xr8n5`
-- **Coordinates:** `[43.2605, 146.4242]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 43.625 km: 64 km SSW of Shikotan, Russia.
-
-### [EARTHQUAKE] M 4.8 - Fiji region
-- **Cluster ID:** `cluster_eq_2hf` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** Fiji region (Fiji region) | Geohash: `2hf0e`
-- **Coordinates:** `[-18.1766, -177.0471]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 371.793 km: Fiji region.
-
-### [EARTHQUAKE] M 4.6 - 51 km ENE of Noda, Japan
-- **Cluster ID:** `cluster_eq_xpj` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 51 km ENE of Noda, Japan (Japan) | Geohash: `xpjjr`
-- **Coordinates:** `[40.3108, 142.3621]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 56.598 km: 51 km ENE of Noda, Japan.
-
-### [EARTHQUAKE] Green earthquake (Magnitude 5.5M, Depth:41.356km) in Japan 28/10/2026 15:07 UTC, 190 thousand in MMI V.
-- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green earthquake (Magnitude 5.5M, Depth:41.356km) in Japan 28/10/2026 15:07 UTC, 190 thousand in MMI V. (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 10/28/2026 3:07:52 PM, an earthquake occurred in Japan potentially affecting 190 thousand in MMI V. The earthquake had Magnitude 5.5M, Depth:41.356km.
 
