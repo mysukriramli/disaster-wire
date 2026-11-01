@@ -3,6 +3,116 @@
   "features": [
     {
       "type": "Feature",
+      "id": "gdacs_d207a1657c70c799",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "cyclone",
+        "severity_level": "catastrophic",
+        "cluster_id": "cluster_cyclone_000",
+        "geohash": "00000",
+        "title": "Green notification for tropical cyclone FOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-01T03:08:25.922084+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_6284ffb3cd452e17",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Australia",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-01T03:08:25.922084+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_ef290b2c8134acbc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Brazil",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-01T03:08:25.922084+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000tuly",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.435,
+          -21.698
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_6kp",
+        "geohash": "6kpkd",
+        "title": "M 4.5 - 55 km SSW of Ollag\u00fce, Chile",
+        "country": "Chile",
+        "magnitude": 4.5,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-01T01:24:52.448000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000tule",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.6627,
+          -13.8748
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_rtt",
+        "geohash": "rttc1",
+        "title": "M 4.8 - 199 km NW of Port-Olry, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 4.8,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-31T23:57:55.354000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_b6ac3ff71cc54c86",
       "geometry": {
         "type": "Point",
@@ -197,6 +307,28 @@
         "magnitude": null,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-10-31T22:55:12.493836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000tuky",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.6456,
+          -13.8729
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_rtt",
+        "geohash": "rttc1",
+        "title": "M 5.2 - 200 km NW of Port-Olry, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 5.2,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-10-31T22:42:39.540000+00:00"
       }
     },
     {
@@ -2067,138 +2199,6 @@
         "magnitude": null,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-10-30T03:27:00.131093+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_f34d03354d3ffd43",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Brazil",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-30T03:27:00.131093+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000tu5q",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.3151,
-          -5.8137
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_rqc",
-        "geohash": "rqcqy",
-        "title": "M 5.1 - 97 km NNE of Finschhafen, Papua New Guinea",
-        "country": "Papua New Guinea",
-        "magnitude": 5.1,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-30T03:04:17.406000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_f3a6c4c114fa0460",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_earthquake_000",
-        "geohash": "00000",
-        "title": "Green earthquake (Magnitude 6.2M, Depth:142.833km) in Vanuatu 29/10/2026 21:46 UTC, 120 thousand in MMI IV.",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-29T23:42:08.794553+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_a43eed884e6823d2",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Botswana",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-29T23:42:08.794553+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_eaac1d3f7a206221",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Nigeria",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-29T23:42:08.794553+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_ce77a050a6c74aea",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Nigeria",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-29T23:42:08.794553+00:00"
       }
     }
   ]

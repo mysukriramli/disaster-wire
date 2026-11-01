@@ -1,7 +1,47 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-10-31T22:55:13.148311+00:00
+Generated: 2026-11-01T03:08:26.758770+00:00
 
 ## Active Incident Telemetry
+### [CYCLONE] Green notification for tropical cyclone FOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `stabilizing`
+- **Location:** Green notification for tropical cyclone FOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm). (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** From 01/11/2026 to 01/11/2026, a Tropical Storm (maximum wind speed of 93 km/h) FOUR-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).
+
+### [SEVERE_WEATHER] Green forest fire notification in Australia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 30/10/2026, a forest fire started in Australia,  until 31/10/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Brazil
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Brazil (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 20/10/2026, a forest fire started in Brazil,  until 31/10/2026.
+
+### [EARTHQUAKE] M 4.5 - 55 km SSW of Ollagüe, Chile
+- **Cluster ID:** `cluster_eq_6kp` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 55 km SSW of Ollagüe, Chile (Chile) | Geohash: `6kpkd`
+- **Coordinates:** `[-21.698, -68.435]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.5 earthquake occurred at a depth of 120.437 km: 55 km SSW of Ollagüe, Chile.
+
+### [EARTHQUAKE] M 4.8 - 199 km NW of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 199 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rttc1`
+- **Coordinates:** `[-13.8748, 165.6627]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 10 km: 199 km NW of Port-Olry, Vanuatu.
+
 ### [EARTHQUAKE] Green earthquake (Magnitude 6M, Depth:352.449km) in Japan 31/10/2026 22:15 UTC, 60 thousand in MMI III.
 - **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
 - **Location:** Green earthquake (Magnitude 6M, Depth:352.449km) in Japan 31/10/2026 22:15 UTC, 60 thousand in MMI III. (Global) | Geohash: `00000`
@@ -73,6 +113,14 @@ Generated: 2026-10-31T22:55:13.148311+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 20/10/2026, a forest fire started in Sudan, Ethiopia,  until 31/10/2026.
+
+### [EARTHQUAKE] M 5.2 - 200 km NW of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 200 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rttc1`
+- **Coordinates:** `[-13.8729, 165.6456]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.2 earthquake occurred at a depth of 10 km: 200 km NW of Port-Olry, Vanuatu.
 
 ### [EARTHQUAKE] M 6.0 - 58 km SSE of Shima, Japan
 - **Cluster ID:** `cluster_eq_xn1` | **Severity:** `severe` | **Phase:** `escalating`
@@ -753,52 +801,4 @@ Generated: 2026-10-31T22:55:13.148311+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 10/28/2026 3:07:52 PM, an earthquake occurred in Japan potentially affecting 190 thousand in MMI V. The earthquake had Magnitude 5.5M, Depth:41.356km.
-
-### [SEVERE_WEATHER] Green forest fire notification in Brazil
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Brazil (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 24/10/2026, a forest fire started in Brazil,  until 29/10/2026.
-
-### [EARTHQUAKE] M 5.1 - 97 km NNE of Finschhafen, Papua New Guinea
-- **Cluster ID:** `cluster_eq_rqc` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** 97 km NNE of Finschhafen, Papua New Guinea (Papua New Guinea) | Geohash: `rqcqy`
-- **Coordinates:** `[-5.8137, 148.3151]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.1 earthquake occurred at a depth of 116.297 km: 97 km NNE of Finschhafen, Papua New Guinea.
-
-### [EARTHQUAKE] Green earthquake (Magnitude 6.2M, Depth:142.833km) in Vanuatu 29/10/2026 21:46 UTC, 120 thousand in MMI IV.
-- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green earthquake (Magnitude 6.2M, Depth:142.833km) in Vanuatu 29/10/2026 21:46 UTC, 120 thousand in MMI IV. (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 10/29/2026 9:46:44 PM, an earthquake occurred in Vanuatu potentially affecting 120 thousand in MMI IV. The earthquake had Magnitude 6.2M, Depth:142.833km.
-
-### [SEVERE_WEATHER] Green forest fire notification in Botswana
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Botswana (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 28/10/2026, a forest fire started in Botswana,  until 29/10/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Nigeria
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Nigeria (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 28/10/2026, a forest fire started in Nigeria,  until 29/10/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Nigeria
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Nigeria (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 27/10/2026, a forest fire started in Nigeria,  until 29/10/2026.
 
