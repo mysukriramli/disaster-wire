@@ -3,6 +3,160 @@
   "features": [
     {
       "type": "Feature",
+      "id": "gdacs_c3515a99aacf56bb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "cyclone",
+        "severity_level": "catastrophic",
+        "cluster_id": "cluster_cyclone_000",
+        "geohash": "00000",
+        "title": "Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 2.104 million .",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-02T11:49:21.657715+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_4dd4f86e9afb68f1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in South Sudan",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-02T11:49:21.657715+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000tuv8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.528,
+          34.3232
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_sw4",
+        "geohash": "sw4g7",
+        "title": "M 4.7 - 100 km SSE of Palekastro, Greece",
+        "country": "Greece",
+        "magnitude": 4.7,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-02T08:59:22.968000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000tuv5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1252,
+          19.8007
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_wew",
+        "geohash": "wew0s",
+        "title": "M 4.7 - 113 km SW of Basco, Philippines",
+        "country": "Philippines",
+        "magnitude": 4.7,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-02T08:42:47.228000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000tuuy",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6476,
+          1.392
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_wb0",
+        "geohash": "wb0xu",
+        "title": "M 5.1 - 19 km WNW of Tomohon, Indonesia",
+        "country": "Indonesia",
+        "magnitude": 5.1,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-02T08:13:14.014000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000tuu0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.088,
+          -5.5626
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_rrj",
+        "geohash": "rrj86",
+        "title": "M 4.9 - 175 km WNW of Panguna, Papua New Guinea",
+        "country": "Papua New Guinea",
+        "magnitude": 4.9,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-02T05:19:50.104000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000tutv",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.5786,
+          46.6019
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_z26",
+        "geohash": "z2635",
+        "title": "M 4.6 - 201 km NE of Kuril\u2019sk, Russia",
+        "country": "Russia",
+        "magnitude": 4.6,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-02T04:45:48.110000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_9b82e5d397fa1db8",
       "geometry": {
         "type": "Point",
@@ -87,6 +241,72 @@
         "magnitude": null,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-11-02T03:18:22.386172+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000tuts",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0792,
+          -35.9577
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_m9x",
+        "geohash": "m9xe2",
+        "title": "M 4.7 - Mid-Indian Ridge",
+        "country": "Mid-Indian Ridge",
+        "magnitude": 4.7,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-02T02:43:47.892000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000tute",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.4573,
+          -2.9446
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_rr2",
+        "geohash": "rr2ph",
+        "title": "M 4.5 - 135 km SW of Lorengau, Papua New Guinea",
+        "country": "Papua New Guinea",
+        "magnitude": 4.5,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-02T02:24:03.097000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000tutf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.1775,
+          24.322
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_wsq",
+        "geohash": "wsqfk",
+        "title": "M 4.5 - 64 km SE of Yilan, Taiwan",
+        "country": "Taiwan",
+        "magnitude": 4.5,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-02T02:23:08.566000+00:00"
       }
     },
     {
@@ -1979,226 +2199,6 @@
         "magnitude": 5.2,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-10-31T15:50:18.909000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000tumt",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          170.4074,
-          -22.8
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_rgc",
-        "geohash": "rgcnm",
-        "title": "M 4.5 - 295 km ESE of Tadine, New Caledonia",
-        "country": "New Caledonia",
-        "magnitude": 4.5,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-31T13:56:59.106000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000tuif",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          165.6759,
-          -13.9069
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_rtt",
-        "geohash": "rttbf",
-        "title": "M 5.0 - 196 km NW of Port-Olry, Vanuatu",
-        "country": "Vanuatu",
-        "magnitude": 5.0,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-31T11:31:12.352000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_2fa13799282635b4",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Nigeria, Cameroon",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-31T10:02:14.999659+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_ec92337ca88b0dda",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Brazil",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-31T10:02:14.999659+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000tuht",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          165.2951,
-          -13.7894
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_rtt",
-        "geohash": "rtt99",
-        "title": "M 4.9 - 236 km NW of Port-Olry, Vanuatu",
-        "country": "Vanuatu",
-        "magnitude": 4.9,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-31T09:18:32.051000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000tuhs",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          165.5833,
-          -13.7683
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_rtt",
-        "geohash": "rtt9x",
-        "title": "M 4.9 - 213 km W of Sola, Vanuatu",
-        "country": "Vanuatu",
-        "magnitude": 4.9,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-31T09:15:52.568000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000tugv",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          142.5186,
-          30.9098
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_xjm",
-        "geohash": "xjmrg",
-        "title": "M 4.6 - Izu Islands, Japan region",
-        "country": "Japan region",
-        "magnitude": 4.6,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-31T03:14:13.580000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000tugs",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -34.6828,
-          7.087
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_e1r",
-        "geohash": "e1r26",
-        "title": "M 4.5 - central Mid-Atlantic Ridge",
-        "country": "central Mid-Atlantic Ridge",
-        "magnitude": 4.5,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-31T02:37:19.894000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000tugf",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.8118,
-          33.5548
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_xju",
-        "geohash": "xjuyg",
-        "title": "M 4.5 - 223 km SE of Katsuura, Japan",
-        "country": "Japan",
-        "magnitude": 4.5,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-31T00:32:46.687000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000tugd",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          167.9478,
-          -14.8091
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_rtr",
-        "geohash": "rtr7v",
-        "title": "M 4.8 - 97 km ENE of Port-Olry, Vanuatu",
-        "country": "Vanuatu",
-        "magnitude": 4.8,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-10-31T00:26:35.699000+00:00"
       }
     }
   ]
