@@ -1,7 +1,47 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-11-02T21:01:49.992048+00:00
+Generated: 2026-11-03T04:30:52.346961+00:00
 
 ## Active Incident Telemetry
+### [CYCLONE] Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.935 million .
+- **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `emerging`
+- **Location:** Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.935 million . (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** From 01/11/2026 to 03/11/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 157 km/h) MURASU-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 1.935 million .
+
+### [SEVERE_WEATHER] Green forest fire notification in Australia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 31/10/2026, a forest fire started in Australia,  until 02/11/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Tanzania
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Tanzania (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 28/10/2026, a forest fire started in Tanzania,  until 02/11/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Bolivia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Bolivia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 26/10/2026, a forest fire started in Bolivia,  until 02/11/2026.
+
+### [EARTHQUAKE] M 4.7 - 74 km E of Petropavlovsk-Kamchatsky, Russia
+- **Cluster ID:** `cluster_eq_z93` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 74 km E of Petropavlovsk-Kamchatsky, Russia (Russia) | Geohash: `z93td`
+- **Coordinates:** `[53.0409, 159.7384]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.7 earthquake occurred at a depth of 75.58 km: 74 km E of Petropavlovsk-Kamchatsky, Russia.
+
 ### [SEVERE_WEATHER] Green forest fire notification in Australia
 - **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
 - **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
@@ -265,6 +305,14 @@ Generated: 2026-11-02T21:01:49.992048+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 20/10/2026, a forest fire started in South Sudan,  until 02/11/2026.
+
+### [EARTHQUAKE] M 4.6 - 226 km NW of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 226 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtt97`
+- **Coordinates:** `[-13.8072, 165.3938]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 10 km: 226 km NW of Port-Olry, Vanuatu.
 
 ### [EARTHQUAKE] M 4.5 - 168 km SE of San Jose Village, Northern Mariana Islands
 - **Cluster ID:** `cluster_eq_x62` | **Severity:** `minor` | **Phase:** `emerging`
@@ -753,52 +801,4 @@ Generated: 2026-11-02T21:01:49.992048+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 20/10/2026, a forest fire started in Ethiopia, Sudan,  until 31/10/2026.
-
-### [EARTHQUAKE] M 4.8 - 33 km SE of Jiufen, Taiwan
-- **Cluster ID:** `cluster_eq_wsq` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 33 km SE of Jiufen, Taiwan (Taiwan) | Geohash: `wsqv9`
-- **Coordinates:** `[24.8805, 122.0621]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 118.799 km: 33 km SE of Jiufen, Taiwan.
-
-### [EARTHQUAKE] M 4.7 - 191 km NW of Port-Olry, Vanuatu
-- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 191 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rttb3`
-- **Coordinates:** `[-13.9872, 165.6642]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.7 earthquake occurred at a depth of 10 km: 191 km NW of Port-Olry, Vanuatu.
-
-### [EARTHQUAKE] M 5.1 - 201 km NW of Port-Olry, Vanuatu
-- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** 201 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rttc1`
-- **Coordinates:** `[-13.8611, 165.6455]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.1 earthquake occurred at a depth of 10 km: 201 km NW of Port-Olry, Vanuatu.
-
-### [EARTHQUAKE] M 5.4 - 203 km NW of Port-Olry, Vanuatu
-- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** 203 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rttc0`
-- **Coordinates:** `[-13.8672, 165.6167]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.4 earthquake occurred at a depth of 10 km: 203 km NW of Port-Olry, Vanuatu.
-
-### [EARTHQUAKE] M 4.8 - 71 km NNW of San Antonio de los Cobres, Argentina
-- **Cluster ID:** `cluster_eq_6eb` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 71 km NNW of San Antonio de los Cobres, Argentina (Argentina) | Geohash: `6eb9e`
-- **Coordinates:** `[-23.6386, -66.6315]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 202.07 km: 71 km NNW of San Antonio de los Cobres, Argentina.
-
-### [CYCLONE] Green notification for tropical cyclone FOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `stabilizing`
-- **Location:** Green notification for tropical cyclone FOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm). (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** From 01/11/2026 to 01/11/2026, a Tropical Storm (maximum wind speed of 93 km/h) FOUR-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).
 
