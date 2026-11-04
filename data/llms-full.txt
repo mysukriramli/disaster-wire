@@ -1,7 +1,39 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-11-03T21:21:33.037993+00:00
+Generated: 2026-11-04T03:50:50.540595+00:00
 
 ## Active Incident Telemetry
+### [SEVERE_WEATHER] Green forest fire notification in Australia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 31/10/2026, a forest fire started in Australia,  until 03/11/2026.
+
+### [EARTHQUAKE] M 4.6 - Fiji region
+- **Cluster ID:** `cluster_eq_2h9` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** Fiji region (Fiji region) | Geohash: `2h9f2`
+- **Coordinates:** `[-19.2691, -177.5052]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 556.459 km: Fiji region.
+
+### [EARTHQUAKE] M 4.5 - 99 km ESE of Kyzyl-Eshme, Kyrgyzstan
+- **Cluster ID:** `cluster_eq_twu` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 99 km ESE of Kyzyl-Eshme, Kyrgyzstan (Kyrgyzstan) | Geohash: `twupt`
+- **Coordinates:** `[39.294, 73.3725]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.5 earthquake occurred at a depth of 10 km: 99 km ESE of Kyzyl-Eshme, Kyrgyzstan.
+
+### [EARTHQUAKE] M 5.2 - 91 km ESE of Kyzyl-Eshme, Kyrgyzstan
+- **Cluster ID:** `cluster_eq_twu` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 91 km ESE of Kyzyl-Eshme, Kyrgyzstan (Kyrgyzstan) | Geohash: `twupu`
+- **Coordinates:** `[39.3619, 73.3023]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.2 earthquake occurred at a depth of 10 km: 91 km ESE of Kyzyl-Eshme, Kyrgyzstan.
+
 ### [SEVERE_WEATHER] Green forest fire notification in Botswana
 - **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
 - **Location:** Green forest fire notification in Botswana (Global) | Geohash: `00000`
@@ -769,36 +801,4 @@ Generated: 2026-11-03T21:21:33.037993+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** A magnitude 4.6 earthquake occurred at a depth of 10 km: 201 km NE of Kuril’sk, Russia.
-
-### [CYCLONE] Green notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `stabilizing`
-- **Location:** Green notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm). (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** From 01/11/2026 to 02/11/2026, a Tropical Storm (maximum wind speed of 111 km/h) MURASU-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 30/10/2026, a forest fire started in Australia,  until 01/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Brazil
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Brazil (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 23/10/2026, a forest fire started in Brazil,  until 01/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Brazil
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Brazil (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 22/10/2026, a forest fire started in Brazil,  until 01/11/2026.
 

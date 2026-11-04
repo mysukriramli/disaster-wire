@@ -1,10 +1,174 @@
 {
   "metadata": {
-    "generated_at": "2026-11-03T21:21:33.031943+00:00",
+    "generated_at": "2026-11-04T03:50:50.533744+00:00",
     "total_active_events": 100,
     "schema_version": "2.1.0"
   },
   "events": [
+    {
+      "event_id": "gdacs_3c1d53ba32a34ec8",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 31/10/2026, a forest fire started in Australia,  until 03/11/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-04T03:50:49.786622+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033478",
+          "retrieved_at": "2026-11-04T03:50:49.786622+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000tvuv",
+      "cluster_id": "cluster_eq_2h9",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.6 - Fiji region",
+      "summary": "A magnitude 4.6 earthquake occurred at a depth of 556.459 km: Fiji region.",
+      "metrics": {
+        "magnitude": 4.6,
+        "depth_km": 556.459,
+        "wind_speed_kmh": null,
+        "alert_score": 5.52
+      },
+      "location": {
+        "country": "Fiji region",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Fiji region",
+        "latitude": -19.2691,
+        "longitude": -177.5052,
+        "geohash": "2h9f2"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-04T00:32:59.774000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv",
+          "retrieved_at": "2026-11-04T03:50:47.104251+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000tvu9",
+      "cluster_id": "cluster_eq_twu",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.5 - 99 km ESE of Kyzyl-Eshme, Kyrgyzstan",
+      "summary": "A magnitude 4.5 earthquake occurred at a depth of 10 km: 99 km ESE of Kyzyl-Eshme, Kyrgyzstan.",
+      "metrics": {
+        "magnitude": 4.5,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.3999999999999995
+      },
+      "location": {
+        "country": "Kyrgyzstan",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "99 km ESE of Kyzyl-Eshme, Kyrgyzstan",
+        "latitude": 39.294,
+        "longitude": 73.3725,
+        "geohash": "twupt"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-03T22:50:33.435000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvu9",
+          "retrieved_at": "2026-11-04T03:50:47.104383+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000tvtj",
+      "cluster_id": "cluster_eq_twu",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.2 - 91 km ESE of Kyzyl-Eshme, Kyrgyzstan",
+      "summary": "A magnitude 5.2 earthquake occurred at a depth of 10 km: 91 km ESE of Kyzyl-Eshme, Kyrgyzstan.",
+      "metrics": {
+        "magnitude": 5.2,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.24
+      },
+      "location": {
+        "country": "Kyrgyzstan",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "91 km ESE of Kyzyl-Eshme, Kyrgyzstan",
+        "latitude": 39.3619,
+        "longitude": 73.3023,
+        "geohash": "twupu"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-03T21:34:08.654000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvtj",
+          "retrieved_at": "2026-11-04T03:50:47.104471+00:00"
+        }
+      ]
+    },
     {
       "event_id": "gdacs_b1b9dee556ac4423",
       "cluster_id": "cluster_severe_weather_000",
@@ -3963,170 +4127,6 @@
           "source_name": "USGS Earthquake Hazards Program",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tutv",
           "retrieved_at": "2026-11-02T11:49:17.778086+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_9b82e5d397fa1db8",
-      "cluster_id": "cluster_cyclone_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "cyclone",
-      "severity_level": "catastrophic",
-      "title": "Green notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-      "summary": "From 01/11/2026 to 02/11/2026, a Tropical Storm (maximum wind speed of 111 km/h) MURASU-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-02T03:18:22.386172+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001346",
-          "retrieved_at": "2026-11-02T03:18:22.386172+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_23fabac81066f6a1",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in Australia",
-      "summary": "On 30/10/2026, a forest fire started in Australia,  until 01/11/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in Australia",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-02T03:18:22.386172+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033410",
-          "retrieved_at": "2026-11-02T03:18:22.386172+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_aab0e19ff7c043e1",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in Brazil",
-      "summary": "On 23/10/2026, a forest fire started in Brazil,  until 01/11/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in Brazil",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-02T03:18:22.386172+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033411",
-          "retrieved_at": "2026-11-02T03:18:22.386172+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_d0cbbd77722d7ce1",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in Brazil",
-      "summary": "On 22/10/2026, a forest fire started in Brazil,  until 01/11/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in Brazil",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-02T03:18:22.386172+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033412",
-          "retrieved_at": "2026-11-02T03:18:22.386172+00:00"
         }
       ]
     }
