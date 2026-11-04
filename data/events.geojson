@@ -3,6 +3,50 @@
   "features": [
     {
       "type": "Feature",
+      "id": "gdacs_8505919d560eee0f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in South Sudan",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-04T11:43:35.442549+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000tvwj",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0325,
+          4.3895
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_wbf",
+        "geohash": "wbf2f",
+        "title": "M 5.0 - 207 km ESE of Sarangani, Philippines",
+        "country": "Philippines",
+        "magnitude": 5.0,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-04T07:40:12.288000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_3c1d53ba32a34ec8",
       "geometry": {
         "type": "Point",
@@ -2155,50 +2199,6 @@
         "magnitude": 5.1,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-11-02T08:13:14.014000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000tuu0",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          154.088,
-          -5.5626
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_rrj",
-        "geohash": "rrj86",
-        "title": "M 4.9 - 175 km WNW of Panguna, Papua New Guinea",
-        "country": "Papua New Guinea",
-        "magnitude": 4.9,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-02T05:19:50.104000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000tutv",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.5786,
-          46.6019
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_z26",
-        "geohash": "z2635",
-        "title": "M 4.6 - 201 km NE of Kuril\u2019sk, Russia",
-        "country": "Russia",
-        "magnitude": 4.6,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-02T04:45:48.110000+00:00"
       }
     }
   ]

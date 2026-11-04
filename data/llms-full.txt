@@ -1,7 +1,23 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-11-04T03:50:50.540595+00:00
+Generated: 2026-11-04T11:43:36.190484+00:00
 
 ## Active Incident Telemetry
+### [SEVERE_WEATHER] Green forest fire notification in South Sudan
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in South Sudan (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 03/11/2026, a forest fire started in South Sudan,  until 04/11/2026.
+
+### [EARTHQUAKE] M 5.0 - 207 km ESE of Sarangani, Philippines
+- **Cluster ID:** `cluster_eq_wbf` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 207 km ESE of Sarangani, Philippines (Philippines) | Geohash: `wbf2f`
+- **Coordinates:** `[4.3895, 127.0325]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.0 earthquake occurred at a depth of 49.074 km: 207 km ESE of Sarangani, Philippines.
+
 ### [SEVERE_WEATHER] Green forest fire notification in Australia
 - **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
 - **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
@@ -785,20 +801,4 @@ Generated: 2026-11-04T03:50:50.540595+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** A magnitude 5.1 earthquake occurred at a depth of 196.646 km: 19 km WNW of Tomohon, Indonesia.
-
-### [EARTHQUAKE] M 4.9 - 175 km WNW of Panguna, Papua New Guinea
-- **Cluster ID:** `cluster_eq_rrj` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 175 km WNW of Panguna, Papua New Guinea (Papua New Guinea) | Geohash: `rrj86`
-- **Coordinates:** `[-5.5626, 154.088]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 87.891 km: 175 km WNW of Panguna, Papua New Guinea.
-
-### [EARTHQUAKE] M 4.6 - 201 km NE of Kuril’sk, Russia
-- **Cluster ID:** `cluster_eq_z26` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 201 km NE of Kuril’sk, Russia (Russia) | Geohash: `z2635`
-- **Coordinates:** `[46.6019, 149.5786]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 10 km: 201 km NE of Kuril’sk, Russia.
 

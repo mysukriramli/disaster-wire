@@ -1,10 +1,92 @@
 {
   "metadata": {
-    "generated_at": "2026-11-04T03:50:50.533744+00:00",
+    "generated_at": "2026-11-04T11:43:36.186694+00:00",
     "total_active_events": 100,
     "schema_version": "2.1.0"
   },
   "events": [
+    {
+      "event_id": "gdacs_8505919d560eee0f",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in South Sudan",
+      "summary": "On 03/11/2026, a forest fire started in South Sudan,  until 04/11/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in South Sudan",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-04T11:43:35.442549+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033479",
+          "retrieved_at": "2026-11-04T11:43:35.442549+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000tvwj",
+      "cluster_id": "cluster_eq_wbf",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.0 - 207 km ESE of Sarangani, Philippines",
+      "summary": "A magnitude 5.0 earthquake occurred at a depth of 49.074 km: 207 km ESE of Sarangani, Philippines.",
+      "metrics": {
+        "magnitude": 5.0,
+        "depth_km": 49.074,
+        "wind_speed_kmh": null,
+        "alert_score": 6.0
+      },
+      "location": {
+        "country": "Philippines",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "207 km ESE of Sarangani, Philippines",
+        "latitude": 4.3895,
+        "longitude": 127.0325,
+        "geohash": "wbf2f"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-04T07:40:12.288000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvwj",
+          "retrieved_at": "2026-11-04T11:43:32.874293+00:00"
+        }
+      ]
+    },
     {
       "event_id": "gdacs_3c1d53ba32a34ec8",
       "cluster_id": "cluster_severe_weather_000",
@@ -4045,88 +4127,6 @@
           "source_name": "USGS Earthquake Hazards Program",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuuy",
           "retrieved_at": "2026-11-02T11:49:17.777972+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us7000tuu0",
-      "cluster_id": "cluster_eq_rrj",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "minor",
-      "title": "M 4.9 - 175 km WNW of Panguna, Papua New Guinea",
-      "summary": "A magnitude 4.9 earthquake occurred at a depth of 87.891 km: 175 km WNW of Panguna, Papua New Guinea.",
-      "metrics": {
-        "magnitude": 4.9,
-        "depth_km": 87.891,
-        "wind_speed_kmh": null,
-        "alert_score": 5.88
-      },
-      "location": {
-        "country": "Papua New Guinea",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "175 km WNW of Panguna, Papua New Guinea",
-        "latitude": -5.5626,
-        "longitude": 154.088,
-        "geohash": "rrj86"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-02T05:19:50.104000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuu0",
-          "retrieved_at": "2026-11-02T11:49:17.778029+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us7000tutv",
-      "cluster_id": "cluster_eq_z26",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "minor",
-      "title": "M 4.6 - 201 km NE of Kuril\u2019sk, Russia",
-      "summary": "A magnitude 4.6 earthquake occurred at a depth of 10 km: 201 km NE of Kuril\u2019sk, Russia.",
-      "metrics": {
-        "magnitude": 4.6,
-        "depth_km": 10.0,
-        "wind_speed_kmh": null,
-        "alert_score": 5.52
-      },
-      "location": {
-        "country": "Russia",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "201 km NE of Kuril\u2019sk, Russia",
-        "latitude": 46.6019,
-        "longitude": 149.5786,
-        "geohash": "z2635"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-02T04:45:48.110000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tutv",
-          "retrieved_at": "2026-11-02T11:49:17.778086+00:00"
         }
       ]
     }
