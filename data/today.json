@@ -1,10 +1,133 @@
 {
   "metadata": {
-    "generated_at": "2026-11-04T11:43:36.186694+00:00",
+    "generated_at": "2026-11-04T19:02:37.299199+00:00",
     "total_active_events": 100,
     "schema_version": "2.1.0"
   },
   "events": [
+    {
+      "event_id": "gdacs_d0acfa6917aacd38",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 03/11/2026, a forest fire started in Australia,  until 04/11/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-04T19:02:36.308404+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033480",
+          "retrieved_at": "2026-11-04T19:02:36.308404+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_880b4b3813dfac97",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 02/11/2026, a forest fire started in Australia,  until 04/11/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-04T19:02:36.308404+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033481",
+          "retrieved_at": "2026-11-04T19:02:36.308404+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_36136e032b4e70a8",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 01/11/2026, a forest fire started in Australia,  until 04/11/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-04T19:02:36.308404+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033482",
+          "retrieved_at": "2026-11-04T19:02:36.308404+00:00"
+        }
+      ]
+    },
     {
       "event_id": "gdacs_8505919d560eee0f",
       "cluster_id": "cluster_severe_weather_000",
@@ -4004,129 +4127,6 @@
           "source_name": "GDACS",
           "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033413",
           "retrieved_at": "2026-11-02T11:49:21.657715+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us7000tuv8",
-      "cluster_id": "cluster_eq_sw4",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "minor",
-      "title": "M 4.7 - 100 km SSE of Palekastro, Greece",
-      "summary": "A magnitude 4.7 earthquake occurred at a depth of 40.168 km: 100 km SSE of Palekastro, Greece.",
-      "metrics": {
-        "magnitude": 4.7,
-        "depth_km": 40.168,
-        "wind_speed_kmh": null,
-        "alert_score": 5.64
-      },
-      "location": {
-        "country": "Greece",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "100 km SSE of Palekastro, Greece",
-        "latitude": 34.3232,
-        "longitude": 26.528,
-        "geohash": "sw4g7"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-02T08:59:22.968000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuv8",
-          "retrieved_at": "2026-11-02T11:49:17.777755+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us7000tuv5",
-      "cluster_id": "cluster_eq_wew",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "minor",
-      "title": "M 4.7 - 113 km SW of Basco, Philippines",
-      "summary": "A magnitude 4.7 earthquake occurred at a depth of 35 km: 113 km SW of Basco, Philippines.",
-      "metrics": {
-        "magnitude": 4.7,
-        "depth_km": 35.0,
-        "wind_speed_kmh": null,
-        "alert_score": 5.64
-      },
-      "location": {
-        "country": "Philippines",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "113 km SW of Basco, Philippines",
-        "latitude": 19.8007,
-        "longitude": 121.1252,
-        "geohash": "wew0s"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-02T08:42:47.228000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuv5",
-          "retrieved_at": "2026-11-02T11:49:17.777910+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us7000tuuy",
-      "cluster_id": "cluster_eq_wb0",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "moderate",
-      "title": "M 5.1 - 19 km WNW of Tomohon, Indonesia",
-      "summary": "A magnitude 5.1 earthquake occurred at a depth of 196.646 km: 19 km WNW of Tomohon, Indonesia.",
-      "metrics": {
-        "magnitude": 5.1,
-        "depth_km": 196.646,
-        "wind_speed_kmh": null,
-        "alert_score": 6.119999999999999
-      },
-      "location": {
-        "country": "Indonesia",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "19 km WNW of Tomohon, Indonesia",
-        "latitude": 1.392,
-        "longitude": 124.6476,
-        "geohash": "wb0xu"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-02T08:13:14.014000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuuy",
-          "retrieved_at": "2026-11-02T11:49:17.777972+00:00"
         }
       ]
     }
