@@ -3,6 +3,160 @@
   "features": [
     {
       "type": "Feature",
+      "id": "gdacs_a038b4da5d52d675",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_earthquake_000",
+        "geohash": "00000",
+        "title": "Green earthquake (Magnitude 6.1M, Depth:10km) in Off East Coast Of Honshu, Japan 06/11/2026 10:39 UTC, [unknown].",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-06T11:41:05.751016+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_ae870b412f1d1d05",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "cyclone",
+        "severity_level": "catastrophic",
+        "cluster_id": "cluster_cyclone_000",
+        "geohash": "00000",
+        "title": "Green notification for tropical cyclone THIRTYONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-06T11:41:05.751016+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000twg9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.2425,
+          34.924
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "severe",
+        "cluster_id": "cluster_eq_xnj",
+        "geohash": "xnjns",
+        "title": "M 6.1 - 156 km SE of Hasaki, Japan",
+        "country": "Japan",
+        "magnitude": 6.1,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-06T10:39:24.800000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000twfu",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.2644,
+          -18.7543
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_ru8",
+        "geohash": "ru8m7",
+        "title": "M 4.5 - 87 km N of Isangel, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 4.5,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-06T08:14:08.319000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000twfk",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0977,
+          5.2999
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_wbb",
+        "geohash": "wbbyn",
+        "title": "M 4.9 - 41 km SW of Balangonan, Philippines",
+        "country": "Philippines",
+        "magnitude": 4.9,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-06T06:28:26.156000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000tweq",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.9502,
+          53.6347
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_b3s",
+        "geohash": "b3s15",
+        "title": "M 4.7 - 139 km SSE of False Pass, Alaska",
+        "country": "Alaska",
+        "magnitude": 4.7,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-06T02:35:25.631000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000tweb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.7529,
+          -19.3647
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_ru8",
+        "geohash": "ru81b",
+        "title": "M 4.6 - 58 km WNW of Isangel, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 4.6,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-06T01:37:39.847000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_bb9360b1207c819c",
       "geometry": {
         "type": "Point",
@@ -2041,160 +2195,6 @@
         "cluster_id": "cluster_severe_weather_000",
         "geohash": "00000",
         "title": "Green forest fire notification in South Sudan",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-03T21:21:32.050656+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_4058d62f953e01ee",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in South Sudan",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-03T21:21:32.050656+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_0863af95d4666716",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Ethiopia, Sudan",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-03T21:21:32.050656+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_5072ceafff70789d",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in South Sudan",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-03T21:21:32.050656+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_ab712d9c4ece9c9f",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Central African Republic, Chad",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-03T21:21:32.050656+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_d76466ba7a86595a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in South Sudan",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-03T21:21:32.050656+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_1aa65016e4c91a4a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Nigeria",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-03T21:21:32.050656+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_ed672db70102ed46",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Mali, Senegal",
         "country": "Global",
         "magnitude": null,
         "exposed_infrastructure_count": 0,

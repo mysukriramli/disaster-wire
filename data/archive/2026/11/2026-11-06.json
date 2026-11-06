@@ -1,8 +1,295 @@
 {
   "archive_date": "2026-11-06",
-  "total_incidents": 100,
-  "updated_at": "2026-11-06T00:37:33.048944+00:00",
+  "total_incidents": 107,
+  "updated_at": "2026-11-06T11:41:06.515176+00:00",
   "events": [
+    {
+      "event_id": "gdacs_a038b4da5d52d675",
+      "cluster_id": "cluster_earthquake_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "Green earthquake (Magnitude 6.1M, Depth:10km) in Off East Coast Of Honshu, Japan 06/11/2026 10:39 UTC, [unknown].",
+      "summary": "On 11/6/2026 10:39:24 AM, an earthquake occurred in Off East Coast Of Honshu, Japan potentially affecting [unknown]. The earthquake had Magnitude 6.1M, Depth:10km.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green earthquake (Magnitude 6.1M, Depth:10km) in Off East Coast Of Honshu, Japan 06/11/2026 10:39 UTC, [unknown].",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-06T11:41:05.751016+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1575911",
+          "retrieved_at": "2026-11-06T11:41:05.751016+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_ae870b412f1d1d05",
+      "cluster_id": "cluster_cyclone_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "cyclone",
+      "severity_level": "catastrophic",
+      "title": "Green notification for tropical cyclone THIRTYONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+      "summary": "From 06/11/2026 to 06/11/2026, a Tropical Depression (maximum wind speed of 185 km/h) THIRTYONE-26 was active in NWPacific. The cyclone affects these countries: Japan (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green notification for tropical cyclone THIRTYONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-06T11:41:05.751016+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001347",
+          "retrieved_at": "2026-11-06T11:41:05.751016+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000twg9",
+      "cluster_id": "cluster_eq_xnj",
+      "lifecycle_phase": "escalating",
+      "event_type": "earthquake",
+      "severity_level": "severe",
+      "title": "M 6.1 - 156 km SE of Hasaki, Japan",
+      "summary": "A magnitude 6.1 earthquake occurred at a depth of 10 km: 156 km SE of Hasaki, Japan.",
+      "metrics": {
+        "magnitude": 6.1,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 7.319999999999999
+      },
+      "location": {
+        "country": "Japan",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "156 km SE of Hasaki, Japan",
+        "latitude": 34.924,
+        "longitude": 142.2425,
+        "geohash": "xnjns"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-06T10:39:24.800000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twg9",
+          "retrieved_at": "2026-11-06T11:41:03.226679+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000twfu",
+      "cluster_id": "cluster_eq_ru8",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.5 - 87 km N of Isangel, Vanuatu",
+      "summary": "A magnitude 4.5 earthquake occurred at a depth of 246.521 km: 87 km N of Isangel, Vanuatu.",
+      "metrics": {
+        "magnitude": 4.5,
+        "depth_km": 246.521,
+        "wind_speed_kmh": null,
+        "alert_score": 5.3999999999999995
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "87 km N of Isangel, Vanuatu",
+        "latitude": -18.7543,
+        "longitude": 169.2644,
+        "geohash": "ru8m7"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-06T08:14:08.319000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twfu",
+          "retrieved_at": "2026-11-06T11:41:03.226835+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000twfk",
+      "cluster_id": "cluster_eq_wbb",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.9 - 41 km SW of Balangonan, Philippines",
+      "summary": "A magnitude 4.9 earthquake occurred at a depth of 35 km: 41 km SW of Balangonan, Philippines.",
+      "metrics": {
+        "magnitude": 4.9,
+        "depth_km": 35.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.88
+      },
+      "location": {
+        "country": "Philippines",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "41 km SW of Balangonan, Philippines",
+        "latitude": 5.2999,
+        "longitude": 125.0977,
+        "geohash": "wbbyn"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-06T06:28:26.156000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twfk",
+          "retrieved_at": "2026-11-06T11:41:03.226897+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000tweq",
+      "cluster_id": "cluster_eq_b3s",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.7 - 139 km SSE of False Pass, Alaska",
+      "summary": "A magnitude 4.7 earthquake occurred at a depth of 27.963 km: 139 km SSE of False Pass, Alaska.",
+      "metrics": {
+        "magnitude": 4.7,
+        "depth_km": 27.963,
+        "wind_speed_kmh": null,
+        "alert_score": 5.64
+      },
+      "location": {
+        "country": "Alaska",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "139 km SSE of False Pass, Alaska",
+        "latitude": 53.6347,
+        "longitude": -162.9502,
+        "geohash": "b3s15"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-06T02:35:25.631000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweq",
+          "retrieved_at": "2026-11-06T11:41:03.226952+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000tweb",
+      "cluster_id": "cluster_eq_ru8",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.6 - 58 km WNW of Isangel, Vanuatu",
+      "summary": "A magnitude 4.6 earthquake occurred at a depth of 83.271 km: 58 km WNW of Isangel, Vanuatu.",
+      "metrics": {
+        "magnitude": 4.6,
+        "depth_km": 83.271,
+        "wind_speed_kmh": null,
+        "alert_score": 5.52
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "58 km WNW of Isangel, Vanuatu",
+        "latitude": -19.3647,
+        "longitude": 168.7529,
+        "geohash": "ru81b"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-06T01:37:39.847000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweb",
+          "retrieved_at": "2026-11-06T11:41:03.227011+00:00"
+        }
+      ]
+    },
     {
       "event_id": "gdacs_bb9360b1207c819c",
       "cluster_id": "cluster_earthquake_000",
