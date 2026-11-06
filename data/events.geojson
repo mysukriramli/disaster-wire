@@ -3,6 +3,116 @@
   "features": [
     {
       "type": "Feature",
+      "id": "gdacs_20a2784ee897aadb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_earthquake_000",
+        "geohash": "00000",
+        "title": "Green earthquake (Magnitude 6.1M, Depth:29km) in Off East Coast Of Honshu, Japan 06/11/2026 10:39 UTC, [unknown].",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-06T18:39:52.020476+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_846cab876fe5fb81",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "cyclone",
+        "severity_level": "catastrophic",
+        "cluster_id": "cluster_cyclone_000",
+        "geohash": "00000",
+        "title": "Green notification for tropical cyclone THIRTYONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 2127 .",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-06T18:39:52.020476+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_626f6de6811ea279",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "flood",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_flood_000",
+        "geohash": "00000",
+        "title": "Green flood alert in France",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-06T18:39:52.020476+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_61a09b498e759acd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Australia",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-06T18:39:52.020476+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000twhq",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4987,
+          34.3043
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_sw4",
+        "geohash": "sw4g4",
+        "title": "M 4.5 - 101 km SSE of Palekastro, Greece",
+        "country": "Greece",
+        "magnitude": 4.5,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-06T15:26:58.080000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_a038b4da5d52d675",
       "geometry": {
         "type": "Point",
@@ -2085,116 +2195,6 @@
         "cluster_id": "cluster_severe_weather_000",
         "geohash": "00000",
         "title": "Green forest fire notification in Sudan",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-03T21:21:32.050656+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_dfde4c491224061e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in South Sudan, Sudan",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-03T21:21:32.050656+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_5586ebaff194d295",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Mozambique",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-03T21:21:32.050656+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_e4a223976f5700bd",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Zambia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-03T21:21:32.050656+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_0554cbfee4dc9589",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Central African Republic, Sudan",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-03T21:21:32.050656+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_35f22def3dd0220b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in South Sudan",
         "country": "Global",
         "magnitude": null,
         "exposed_infrastructure_count": 0,
