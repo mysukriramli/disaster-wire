@@ -1,7 +1,31 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-11-07T03:41:01.114008+00:00
+Generated: 2026-11-07T10:46:31.761196+00:00
 
 ## Active Incident Telemetry
+### [CYCLONE] Green notification for tropical cyclone 02-20262027-27. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `stabilizing`
+- **Location:** Green notification for tropical cyclone 02-20262027-27. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm). (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** From 07/11/2026 to 07/11/2026, a Tropical Depression (maximum wind speed of 74 km/h) 02-20262027-27 was active in SWIndian. The cyclone affects these countries: Madagascar (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).
+
+### [CYCLONE] Green notification for tropical cyclone CEMPAKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 172 .
+- **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `stabilizing`
+- **Location:** Green notification for tropical cyclone CEMPAKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 172 . (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** From 06/11/2026 to 07/11/2026, a Tropical Storm (maximum wind speed of 185 km/h) CEMPAKA-26 was active in NWPacific. The cyclone affects these countries: Japan (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 172 .
+
+### [EARTHQUAKE] M 4.6 - South Sandwich Islands region
+- **Cluster ID:** `cluster_eq_5mt` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** South Sandwich Islands region (South Sandwich Islands region) | Geohash: `5mtwk`
+- **Coordinates:** `[-57.9579, -25.8023]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 103.682 km: South Sandwich Islands region.
+
 ### [SEVERE_WEATHER] Green forest fire notification in Australia
 - **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
 - **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
@@ -193,6 +217,14 @@ Generated: 2026-11-07T03:41:01.114008+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 29/10/2026, a forest fire started in Nigeria,  until 06/11/2026.
+
+### [EARTHQUAKE] M 4.6 - 11 km ENE of Yigo Village, Guam
+- **Cluster ID:** `cluster_eq_x4r` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 11 km ENE of Yigo Village, Guam (Guam) | Geohash: `x4rj5`
+- **Coordinates:** `[13.5679, 144.9932]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 113.394 km: 11 km ENE of Yigo Village, Guam.
 
 ### [EARTHQUAKE] M 4.8 - 36 km WNW of Poso, Indonesia
 - **Cluster ID:** `cluster_eq_qxv` | **Severity:** `minor` | **Phase:** `emerging`
@@ -769,36 +801,4 @@ Generated: 2026-11-07T03:41:01.114008+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 02/11/2026, a forest fire started in Botswana,  until 04/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in South Sudan
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in South Sudan (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 01/11/2026, a forest fire started in South Sudan,  until 04/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 01/11/2026, a forest fire started in Australia,  until 04/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Mozambique
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Mozambique (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 01/11/2026, a forest fire started in Mozambique,  until 04/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in South Sudan
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in South Sudan (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 31/10/2026, a forest fire started in South Sudan,  until 04/11/2026.
 

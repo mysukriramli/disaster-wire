@@ -1,8 +1,131 @@
 {
   "archive_date": "2026-11-07",
-  "total_incidents": 100,
-  "updated_at": "2026-11-07T03:41:01.114347+00:00",
+  "total_incidents": 104,
+  "updated_at": "2026-11-07T10:46:31.761446+00:00",
   "events": [
+    {
+      "event_id": "gdacs_19856c5d6d3cceda",
+      "cluster_id": "cluster_cyclone_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "cyclone",
+      "severity_level": "catastrophic",
+      "title": "Green notification for tropical cyclone 02-20262027-27. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+      "summary": "From 07/11/2026 to 07/11/2026, a Tropical Depression (maximum wind speed of 74 km/h) 02-20262027-27 was active in SWIndian. The cyclone affects these countries: Madagascar (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green notification for tropical cyclone 02-20262027-27. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-07T10:46:31.026886+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001349",
+          "retrieved_at": "2026-11-07T10:46:31.026886+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_7036885e30f58c75",
+      "cluster_id": "cluster_cyclone_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "cyclone",
+      "severity_level": "catastrophic",
+      "title": "Green notification for tropical cyclone CEMPAKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 172 .",
+      "summary": "From 06/11/2026 to 07/11/2026, a Tropical Storm (maximum wind speed of 185 km/h) CEMPAKA-26 was active in NWPacific. The cyclone affects these countries: Japan (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 172 .",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green notification for tropical cyclone CEMPAKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 172 .",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-07T10:46:31.026886+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001347",
+          "retrieved_at": "2026-11-07T10:46:31.026886+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000twqw",
+      "cluster_id": "cluster_eq_5mt",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.6 - South Sandwich Islands region",
+      "summary": "A magnitude 4.6 earthquake occurred at a depth of 103.682 km: South Sandwich Islands region.",
+      "metrics": {
+        "magnitude": 4.6,
+        "depth_km": 103.682,
+        "wind_speed_kmh": null,
+        "alert_score": 5.52
+      },
+      "location": {
+        "country": "South Sandwich Islands region",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "South Sandwich Islands region",
+        "latitude": -57.9579,
+        "longitude": -25.8023,
+        "geohash": "5mtwk"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-07T07:14:10.868000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twqw",
+          "retrieved_at": "2026-11-07T10:46:28.120294+00:00"
+        }
+      ]
+    },
     {
       "event_id": "gdacs_c60a69754f52d41b",
       "cluster_id": "cluster_severe_weather_000",
@@ -984,6 +1107,47 @@
           "source_name": "GDACS",
           "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033557",
           "retrieved_at": "2026-11-06T23:52:09.284776+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000twqm",
+      "cluster_id": "cluster_eq_x4r",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.6 - 11 km ENE of Yigo Village, Guam",
+      "summary": "A magnitude 4.6 earthquake occurred at a depth of 113.394 km: 11 km ENE of Yigo Village, Guam.",
+      "metrics": {
+        "magnitude": 4.6,
+        "depth_km": 113.394,
+        "wind_speed_kmh": null,
+        "alert_score": 5.52
+      },
+      "location": {
+        "country": "Guam",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "11 km ENE of Yigo Village, Guam",
+        "latitude": 13.5679,
+        "longitude": 144.9932,
+        "geohash": "x4rj5"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-06T22:37:54.867000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twqm",
+          "retrieved_at": "2026-11-07T10:46:28.120422+00:00"
         }
       ]
     },
