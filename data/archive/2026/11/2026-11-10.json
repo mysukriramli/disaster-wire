@@ -1,8 +1,295 @@
 {
   "archive_date": "2026-11-10",
-  "total_incidents": 115,
-  "updated_at": "2026-11-10T15:56:06.237022+00:00",
+  "total_incidents": 126,
+  "updated_at": "2026-11-10T21:35:33.397925+00:00",
   "events": [
+    {
+      "event_id": "gdacs_c421b5db1ce91fae",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 09/11/2026, a forest fire started in Australia,  until 10/11/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-10T21:35:32.425105+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033691",
+          "retrieved_at": "2026-11-10T21:35:32.425105+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_297c7d99d9f36c94",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 07/11/2026, a forest fire started in Australia,  until 10/11/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-10T21:35:32.425105+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033692",
+          "retrieved_at": "2026-11-10T21:35:32.425105+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_7cf520df0aa8e878",
+      "cluster_id": "cluster_cyclone_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "cyclone",
+      "severity_level": "catastrophic",
+      "title": "Green notification for tropical cyclone CEMPAKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 953 .",
+      "summary": "From 06/11/2026 to 10/11/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 176 km/h) CEMPAKA-26 was active in NWPacific. The cyclone affects these countries: Japan (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 953 .",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green notification for tropical cyclone CEMPAKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 953 .",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-10T21:35:32.425105+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001347",
+          "retrieved_at": "2026-11-10T21:35:32.425105+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_5069a611b0e5bd5f",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 01/11/2026, a forest fire started in Australia,  until 10/11/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-10T21:35:32.425105+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033693",
+          "retrieved_at": "2026-11-10T21:35:32.425105+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000txea",
+      "cluster_id": "cluster_eq_rtt",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.9 - 207 km NW of Port-Olry, Vanuatu",
+      "summary": "A magnitude 4.9 earthquake occurred at a depth of 11.705 km: 207 km NW of Port-Olry, Vanuatu.",
+      "metrics": {
+        "magnitude": 4.9,
+        "depth_km": 11.705,
+        "wind_speed_kmh": null,
+        "alert_score": 5.88
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "207 km NW of Port-Olry, Vanuatu",
+        "latitude": -13.9345,
+        "longitude": 165.5166,
+        "geohash": "rtt8w"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-10T19:54:18.279000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txea",
+          "retrieved_at": "2026-11-10T21:35:29.207250+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000txc0",
+      "cluster_id": "cluster_eq_rq3",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.2 - 21 km WNW of Popondetta, Papua New Guinea",
+      "summary": "A magnitude 5.2 earthquake occurred at a depth of 124.245 km: 21 km WNW of Popondetta, Papua New Guinea.",
+      "metrics": {
+        "magnitude": 5.2,
+        "depth_km": 124.245,
+        "wind_speed_kmh": null,
+        "alert_score": 6.24
+      },
+      "location": {
+        "country": "Papua New Guinea",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "21 km WNW of Popondetta, Papua New Guinea",
+        "latitude": -8.7206,
+        "longitude": 148.0429,
+        "geohash": "rq3q2"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-10T17:36:49.391000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txc0",
+          "retrieved_at": "2026-11-10T21:35:29.207388+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000txc3",
+      "cluster_id": "cluster_eq_ms2",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.2 - Mid-Indian Ridge",
+      "summary": "A magnitude 5.2 earthquake occurred at a depth of 10 km: Mid-Indian Ridge.",
+      "metrics": {
+        "magnitude": 5.2,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.24
+      },
+      "location": {
+        "country": "Mid-Indian Ridge",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Mid-Indian Ridge",
+        "latitude": -20.7528,
+        "longitude": 68.4755,
+        "geohash": "ms29y"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-10T17:36:28.861000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txc3",
+          "retrieved_at": "2026-11-10T21:35:29.207424+00:00"
+        }
+      ]
+    },
     {
       "event_id": "gdacs_c3f346dcbcd3b795",
       "cluster_id": "cluster_earthquake_000",
@@ -332,6 +619,88 @@
       ]
     },
     {
+      "event_id": "usgs_us7000txbj",
+      "cluster_id": "cluster_eq_rwj",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.8 - 20 km SSW of Lata, Solomon Islands",
+      "summary": "A magnitude 4.8 earthquake occurred at a depth of 48.333 km: 20 km SSW of Lata, Solomon Islands.",
+      "metrics": {
+        "magnitude": 4.8,
+        "depth_km": 48.333,
+        "wind_speed_kmh": null,
+        "alert_score": 5.76
+      },
+      "location": {
+        "country": "Solomon Islands",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "20 km SSW of Lata, Solomon Islands",
+        "latitude": -10.8979,
+        "longitude": 165.7366,
+        "geohash": "rwjf5"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-10T15:52:55.256000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txbj",
+          "retrieved_at": "2026-11-10T21:35:29.207453+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000txbi",
+      "cluster_id": "cluster_eq_qzg",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.2 - 140 km ESE of Labuha, Indonesia",
+      "summary": "A magnitude 5.2 earthquake occurred at a depth of 10 km: 140 km ESE of Labuha, Indonesia.",
+      "metrics": {
+        "magnitude": 5.2,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.24
+      },
+      "location": {
+        "country": "Indonesia",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "140 km ESE of Labuha, Indonesia",
+        "latitude": -0.9226,
+        "longitude": 128.7092,
+        "geohash": "qzgdb"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-10T15:51:35.737000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txbi",
+          "retrieved_at": "2026-11-10T21:35:29.207479+00:00"
+        }
+      ]
+    },
+    {
       "event_id": "usgs_us7000txbc",
       "cluster_id": "cluster_eq_9fr",
       "lifecycle_phase": "emerging",
@@ -410,6 +779,88 @@
           "source_name": "USGS Earthquake Hazards Program",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txb8",
           "retrieved_at": "2026-11-10T15:56:02.753398+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000txb6",
+      "cluster_id": "cluster_eq_qqu",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.7 - Java, Indonesia",
+      "summary": "A magnitude 4.7 earthquake occurred at a depth of 101.214 km: Java, Indonesia.",
+      "metrics": {
+        "magnitude": 4.7,
+        "depth_km": 101.214,
+        "wind_speed_kmh": null,
+        "alert_score": 5.64
+      },
+      "location": {
+        "country": "Indonesia",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Java, Indonesia",
+        "latitude": -6.9525,
+        "longitude": 106.9355,
+        "geohash": "qqu03"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-10T14:31:36.388000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txb6",
+          "retrieved_at": "2026-11-10T21:35:29.207510+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000txay",
+      "cluster_id": "cluster_eq_gee",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.7 - 111 km WNW of H\u00f6fn, Iceland",
+      "summary": "A magnitude 4.7 earthquake occurred at a depth of 10 km: 111 km WNW of H\u00f6fn, Iceland.",
+      "metrics": {
+        "magnitude": 4.7,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.64
+      },
+      "location": {
+        "country": "Iceland",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "111 km WNW of H\u00f6fn, Iceland",
+        "latitude": 64.7124,
+        "longitude": -17.2814,
+        "geohash": "gee8n"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-10T13:37:53.102000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txay",
+          "retrieved_at": "2026-11-10T21:35:29.207540+00:00"
         }
       ]
     },
