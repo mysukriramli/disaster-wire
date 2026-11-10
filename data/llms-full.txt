@@ -1,7 +1,119 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-11-10T05:09:01.567059+00:00
+Generated: 2026-11-10T15:56:06.236604+00:00
 
 ## Active Incident Telemetry
+### [EARTHQUAKE] Green earthquake (Magnitude 5.6M, Depth:35km) in Guatemala 10/11/2026 14:54 UTC, 570 thousand in MMI IV.
+- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green earthquake (Magnitude 5.6M, Depth:35km) in Guatemala 10/11/2026 14:54 UTC, 570 thousand in MMI IV. (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 11/10/2026 2:54:17 PM, an earthquake occurred in Guatemala potentially affecting 570 thousand in MMI IV. The earthquake had Magnitude 5.6M, Depth:35km.
+
+### [SEVERE_WEATHER] Green forest fire notification in Australia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 10/11/2026, a forest fire started in Australia,  until 10/11/2026.
+
+### [FLOOD] Green flood alert in Argentina
+- **Cluster ID:** `cluster_flood_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green flood alert in Argentina (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 08/11/2026, a flood started in Argentina, lasting until 10/11/2026 (last update). The flood caused 0 deaths and 18 displaced .
+
+### [SEVERE_WEATHER] Green forest fire notification in Australia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 08/11/2026, a forest fire started in Australia,  until 10/11/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Australia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 08/11/2026, a forest fire started in Australia,  until 10/11/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Brazil, Guyana
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Brazil, Guyana (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 07/11/2026, a forest fire started in Brazil, Guyana,  until 10/11/2026.
+
+### [CYCLONE] Green notification for tropical cyclone CEMPAKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 613 .
+- **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `stabilizing`
+- **Location:** Green notification for tropical cyclone CEMPAKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 613 . (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** From 06/11/2026 to 10/11/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 176 km/h) CEMPAKA-26 was active in NWPacific. The cyclone affects these countries: Japan (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 613 .
+
+### [SEVERE_WEATHER] Green forest fire notification in Australia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 05/11/2026, a forest fire started in Australia,  until 10/11/2026.
+
+### [EARTHQUAKE] M 4.8 - 34 km S of Puerto San José, Guatemala
+- **Cluster ID:** `cluster_eq_9fr` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 34 km S of Puerto San José, Guatemala (Guatemala) | Geohash: `9frmm`
+- **Coordinates:** `[13.6155, -90.819]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 58.52 km: 34 km S of Puerto San José, Guatemala.
+
+### [EARTHQUAKE] M 5.6 - 43 km S of Puerto San José, Guatemala
+- **Cluster ID:** `cluster_eq_9fr` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 43 km S of Puerto San José, Guatemala (Guatemala) | Geohash: `9frm5`
+- **Coordinates:** `[13.5381, -90.8798]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.6 earthquake occurred at a depth of 35 km: 43 km S of Puerto San José, Guatemala.
+
+### [EARTHQUAKE] M 5.0 - 58 km NE of Fef, Indonesia
+- **Cluster ID:** `cluster_eq_qzy` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 58 km NE of Fef, Indonesia (Indonesia) | Geohash: `qzymp`
+- **Coordinates:** `[-0.4928, 132.859]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.0 earthquake occurred at a depth of 35 km: 58 km NE of Fef, Indonesia.
+
+### [EARTHQUAKE] M 4.8 - northern Mid-Atlantic Ridge
+- **Cluster ID:** `cluster_eq_enp` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** northern Mid-Atlantic Ridge (northern Mid-Atlantic Ridge) | Geohash: `enpn3`
+- **Coordinates:** `[34.8774, -35.075]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 10 km: northern Mid-Atlantic Ridge.
+
+### [EARTHQUAKE] M 4.7 - 90 km SSE of Tateyama, Japan
+- **Cluster ID:** `cluster_eq_xn5` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 90 km SSE of Tateyama, Japan (Japan) | Geohash: `xn5ds`
+- **Coordinates:** `[34.1962, 140.1377]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.7 earthquake occurred at a depth of 10 km: 90 km SSE of Tateyama, Japan.
+
+### [EARTHQUAKE] M 4.9 - 78 km ESE of Hitachi, Japan
+- **Cluster ID:** `cluster_eq_xnk` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 78 km ESE of Hitachi, Japan (Japan) | Geohash: `xnkwe`
+- **Coordinates:** `[36.3338, 141.4659]`
+- **Exposed Infrastructure:** Tokyo Narita Cargo Gateway (115.9km)
+- **Recommended Agent Actions:** check_air_cargo_delay_NRT
+- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 35 km: 78 km ESE of Hitachi, Japan.
+
 ### [SEVERE_WEATHER] Green forest fire notification in Australia
 - **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
 - **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
@@ -57,6 +169,14 @@ Generated: 2026-11-10T05:09:01.567059+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 06/11/2026, a forest fire started in Senegal,  until 09/11/2026.
+
+### [EARTHQUAKE] M 4.6 - 65 km SW of Lata, Solomon Islands
+- **Cluster ID:** `cluster_eq_rwj` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 65 km SW of Lata, Solomon Islands (Solomon Islands) | Geohash: `rwj8f`
+- **Coordinates:** `[-11.1105, 165.3377]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 10 km: 65 km SW of Lata, Solomon Islands.
 
 ### [EARTHQUAKE] M 5.2 - 19 km WSW of Lata, Solomon Islands
 - **Cluster ID:** `cluster_eq_rwj` | **Severity:** `moderate` | **Phase:** `emerging`
@@ -681,124 +801,4 @@ Generated: 2026-11-10T05:09:01.567059+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** A magnitude 4.7 earthquake occurred at a depth of 120.843 km: 119 km SW of Kokopo, Papua New Guinea.
-
-### [EARTHQUAKE] M 4.5 - 43 km E of Onagawa Chō, Japan
-- **Cluster ID:** `cluster_eq_xnu` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 43 km E of Onagawa Chō, Japan (Japan) | Geohash: `xnufm`
-- **Coordinates:** `[38.3782, 141.937]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.5 earthquake occurred at a depth of 55.699 km: 43 km E of Onagawa Chō, Japan.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 07/11/2026, a forest fire started in Australia,  until 08/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 07/11/2026, a forest fire started in Australia,  until 08/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 07/11/2026, a forest fire started in Australia,  until 08/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Mali
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Mali (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 06/11/2026, a forest fire started in Mali,  until 08/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Indonesia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Indonesia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 06/11/2026, a forest fire started in Indonesia,  until 08/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 06/11/2026, a forest fire started in Australia,  until 08/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 05/11/2026, a forest fire started in Australia,  until 08/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Brazil
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Brazil (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 02/11/2026, a forest fire started in Brazil,  until 08/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 02/11/2026, a forest fire started in Australia,  until 08/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 01/11/2026, a forest fire started in Australia,  until 08/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in India
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in India (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 31/10/2026, a forest fire started in India,  until 08/11/2026.
-
-### [EARTHQUAKE] M 4.6 - 117 km NE of Tobelo, Indonesia
-- **Cluster ID:** `cluster_eq_wb7` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 117 km NE of Tobelo, Indonesia (Indonesia) | Geohash: `wb7w8`
-- **Coordinates:** `[2.5497, 128.6755]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 224.59 km: 117 km NE of Tobelo, Indonesia.
-
-### [EARTHQUAKE] M 4.8 - central Mid-Atlantic Ridge
-- **Cluster ID:** `cluster_eq_e1m` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** central Mid-Atlantic Ridge (central Mid-Atlantic Ridge) | Geohash: `e1mez`
-- **Coordinates:** `[7.703, -36.9451]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 10 km: central Mid-Atlantic Ridge.
-
-### [EARTHQUAKE] M 4.7 - Southwest Indian Ridge
-- **Cluster ID:** `cluster_eq_m7j` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** Southwest Indian Ridge (Southwest Indian Ridge) | Geohash: `m7jf6`
-- **Coordinates:** `[-27.6901, 64.443]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.7 earthquake occurred at a depth of 10 km: Southwest Indian Ridge.
 

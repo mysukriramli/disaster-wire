@@ -1,8 +1,590 @@
 {
   "archive_date": "2026-11-10",
-  "total_incidents": 100,
-  "updated_at": "2026-11-10T05:09:01.567543+00:00",
+  "total_incidents": 115,
+  "updated_at": "2026-11-10T15:56:06.237022+00:00",
   "events": [
+    {
+      "event_id": "gdacs_c3f346dcbcd3b795",
+      "cluster_id": "cluster_earthquake_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "Green earthquake (Magnitude 5.6M, Depth:35km) in Guatemala 10/11/2026 14:54 UTC, 570 thousand in MMI IV.",
+      "summary": "On 11/10/2026 2:54:17 PM, an earthquake occurred in Guatemala potentially affecting 570 thousand in MMI IV. The earthquake had Magnitude 5.6M, Depth:35km.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green earthquake (Magnitude 5.6M, Depth:35km) in Guatemala 10/11/2026 14:54 UTC, 570 thousand in MMI IV.",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-10T15:56:05.430491+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1576618",
+          "retrieved_at": "2026-11-10T15:56:05.430491+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_66f9e4e05287ad3c",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 10/11/2026, a forest fire started in Australia,  until 10/11/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-10T15:56:05.430491+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033687",
+          "retrieved_at": "2026-11-10T15:56:05.430491+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_d7f84c9c6853403c",
+      "cluster_id": "cluster_flood_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "flood",
+      "severity_level": "moderate",
+      "title": "Green flood alert in Argentina",
+      "summary": "On 08/11/2026, a flood started in Argentina, lasting until 10/11/2026 (last update). The flood caused 0 deaths and 18 displaced .",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green flood alert in Argentina",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-10T15:56:05.430491+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104277",
+          "retrieved_at": "2026-11-10T15:56:05.430491+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_7c7c0310360104bf",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 08/11/2026, a forest fire started in Australia,  until 10/11/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-10T15:56:05.430491+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033688",
+          "retrieved_at": "2026-11-10T15:56:05.430491+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_b0e19c09b8e533e5",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 08/11/2026, a forest fire started in Australia,  until 10/11/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-10T15:56:05.430491+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033689",
+          "retrieved_at": "2026-11-10T15:56:05.430491+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_f60c589af46a75a3",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Brazil, Guyana",
+      "summary": "On 07/11/2026, a forest fire started in Brazil, Guyana,  until 10/11/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Brazil, Guyana",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-10T15:56:05.430491+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033686",
+          "retrieved_at": "2026-11-10T15:56:05.430491+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_bf9293df52002e2d",
+      "cluster_id": "cluster_cyclone_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "cyclone",
+      "severity_level": "catastrophic",
+      "title": "Green notification for tropical cyclone CEMPAKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 613 .",
+      "summary": "From 06/11/2026 to 10/11/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 176 km/h) CEMPAKA-26 was active in NWPacific. The cyclone affects these countries: Japan (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 613 .",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green notification for tropical cyclone CEMPAKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 613 .",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-10T15:56:05.430491+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001347",
+          "retrieved_at": "2026-11-10T15:56:05.430491+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_bc2636aa19336b92",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 05/11/2026, a forest fire started in Australia,  until 10/11/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-10T15:56:05.430491+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033690",
+          "retrieved_at": "2026-11-10T15:56:05.430491+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000txbc",
+      "cluster_id": "cluster_eq_9fr",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.8 - 34 km S of Puerto San Jos\u00e9, Guatemala",
+      "summary": "A magnitude 4.8 earthquake occurred at a depth of 58.52 km: 34 km S of Puerto San Jos\u00e9, Guatemala.",
+      "metrics": {
+        "magnitude": 4.8,
+        "depth_km": 58.52,
+        "wind_speed_kmh": null,
+        "alert_score": 5.76
+      },
+      "location": {
+        "country": "Guatemala",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "34 km S of Puerto San Jos\u00e9, Guatemala",
+        "latitude": 13.6155,
+        "longitude": -90.819,
+        "geohash": "9frmm"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-10T15:23:58.586000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txbc",
+          "retrieved_at": "2026-11-10T15:56:02.753232+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000txb8",
+      "cluster_id": "cluster_eq_9fr",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.6 - 43 km S of Puerto San Jos\u00e9, Guatemala",
+      "summary": "A magnitude 5.6 earthquake occurred at a depth of 35 km: 43 km S of Puerto San Jos\u00e9, Guatemala.",
+      "metrics": {
+        "magnitude": 5.6,
+        "depth_km": 35.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.72
+      },
+      "location": {
+        "country": "Guatemala",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "43 km S of Puerto San Jos\u00e9, Guatemala",
+        "latitude": 13.5381,
+        "longitude": -90.8798,
+        "geohash": "9frm5"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-10T14:54:17.647000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txb8",
+          "retrieved_at": "2026-11-10T15:56:02.753398+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000tx9z",
+      "cluster_id": "cluster_eq_qzy",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.0 - 58 km NE of Fef, Indonesia",
+      "summary": "A magnitude 5.0 earthquake occurred at a depth of 35 km: 58 km NE of Fef, Indonesia.",
+      "metrics": {
+        "magnitude": 5.0,
+        "depth_km": 35.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.0
+      },
+      "location": {
+        "country": "Indonesia",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "58 km NE of Fef, Indonesia",
+        "latitude": -0.4928,
+        "longitude": 132.859,
+        "geohash": "qzymp"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-10T08:34:07.131000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx9z",
+          "retrieved_at": "2026-11-10T15:56:02.753442+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000tx9n",
+      "cluster_id": "cluster_eq_enp",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.8 - northern Mid-Atlantic Ridge",
+      "summary": "A magnitude 4.8 earthquake occurred at a depth of 10 km: northern Mid-Atlantic Ridge.",
+      "metrics": {
+        "magnitude": 4.8,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.76
+      },
+      "location": {
+        "country": "northern Mid-Atlantic Ridge",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "northern Mid-Atlantic Ridge",
+        "latitude": 34.8774,
+        "longitude": -35.075,
+        "geohash": "enpn3"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-10T06:43:11.261000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx9n",
+          "retrieved_at": "2026-11-10T15:56:02.753481+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000tx9i",
+      "cluster_id": "cluster_eq_xn5",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.7 - 90 km SSE of Tateyama, Japan",
+      "summary": "A magnitude 4.7 earthquake occurred at a depth of 10 km: 90 km SSE of Tateyama, Japan.",
+      "metrics": {
+        "magnitude": 4.7,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.64
+      },
+      "location": {
+        "country": "Japan",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "90 km SSE of Tateyama, Japan",
+        "latitude": 34.1962,
+        "longitude": 140.1377,
+        "geohash": "xn5ds"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-10T06:36:48.749000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx9i",
+          "retrieved_at": "2026-11-10T15:56:02.753515+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000tx96",
+      "cluster_id": "cluster_eq_xnk",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.9 - 78 km ESE of Hitachi, Japan",
+      "summary": "A magnitude 4.9 earthquake occurred at a depth of 35 km: 78 km ESE of Hitachi, Japan.",
+      "metrics": {
+        "magnitude": 4.9,
+        "depth_km": 35.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.88
+      },
+      "location": {
+        "country": "Japan",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "78 km ESE of Hitachi, Japan",
+        "latitude": 36.3338,
+        "longitude": 141.4659,
+        "geohash": "xnkwe"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [
+        {
+          "name": "Tokyo Narita Cargo Gateway",
+          "type": "airport",
+          "code": "NRT",
+          "country": "Japan",
+          "distance_km": 115.9
+        }
+      ],
+      "recommended_agent_actions": [
+        "check_air_cargo_delay_NRT"
+      ],
+      "timestamp_utc": "2026-11-10T05:20:08.677000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx96",
+          "retrieved_at": "2026-11-10T15:56:02.753546+00:00"
+        }
+      ]
+    },
     {
       "event_id": "gdacs_004d201754c27348",
       "cluster_id": "cluster_severe_weather_000",
@@ -287,6 +869,47 @@
           "source_name": "GDACS",
           "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033685",
           "retrieved_at": "2026-11-10T05:09:00.723887+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000tx8z",
+      "cluster_id": "cluster_eq_rwj",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.6 - 65 km SW of Lata, Solomon Islands",
+      "summary": "A magnitude 4.6 earthquake occurred at a depth of 10 km: 65 km SW of Lata, Solomon Islands.",
+      "metrics": {
+        "magnitude": 4.6,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.52
+      },
+      "location": {
+        "country": "Solomon Islands",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "65 km SW of Lata, Solomon Islands",
+        "latitude": -11.1105,
+        "longitude": 165.3377,
+        "geohash": "rwj8f"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-10T04:30:17.109000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8z",
+          "retrieved_at": "2026-11-10T15:56:02.753586+00:00"
         }
       ]
     },
