@@ -1,8 +1,336 @@
 {
   "archive_date": "2026-11-11",
-  "total_incidents": 100,
-  "updated_at": "2026-11-11T03:41:47.119269+00:00",
+  "total_incidents": 108,
+  "updated_at": "2026-11-11T11:33:41.335571+00:00",
   "events": [
+    {
+      "event_id": "gdacs_db0e72d49832c63e",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Burkina Faso",
+      "summary": "On 09/11/2026, a forest fire started in Burkina Faso,  until 11/11/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Burkina Faso",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-11T11:33:40.574932+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033724",
+          "retrieved_at": "2026-11-11T11:33:40.574932+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_0287bc692c0c4f37",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 08/11/2026, a forest fire started in Australia,  until 11/11/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-11T11:33:40.574932+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033725",
+          "retrieved_at": "2026-11-11T11:33:40.574932+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_62481a495c9beed5",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in South Sudan",
+      "summary": "On 06/11/2026, a forest fire started in South Sudan,  until 11/11/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in South Sudan",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-11T11:33:40.574932+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033726",
+          "retrieved_at": "2026-11-11T11:33:40.574932+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000txi0",
+      "cluster_id": "cluster_eq_x4m",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.7 - 152 km WSW of Merizo Village, Guam",
+      "summary": "A magnitude 4.7 earthquake occurred at a depth of 137.374 km: 152 km WSW of Merizo Village, Guam.",
+      "metrics": {
+        "magnitude": 4.7,
+        "depth_km": 137.374,
+        "wind_speed_kmh": null,
+        "alert_score": 5.64
+      },
+      "location": {
+        "country": "Guam",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "152 km WSW of Merizo Village, Guam",
+        "latitude": 12.8418,
+        "longitude": 143.3322,
+        "geohash": "x4mcj"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-11T08:37:15.449000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txi0",
+          "retrieved_at": "2026-11-11T11:33:37.970331+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000txhi",
+      "cluster_id": "cluster_eq_pky",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.1 - Balleny Islands region",
+      "summary": "A magnitude 5.1 earthquake occurred at a depth of 10 km: Balleny Islands region.",
+      "metrics": {
+        "magnitude": 5.1,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.119999999999999
+      },
+      "location": {
+        "country": "Balleny Islands region",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Balleny Islands region",
+        "latitude": -62.4284,
+        "longitude": 155.0206,
+        "geohash": "pkyhz"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-11T06:21:45.383000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txhi",
+          "retrieved_at": "2026-11-11T11:33:37.970503+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000txgv",
+      "cluster_id": "cluster_eq_xrf",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.0 - 152 km SE of Kuril\u2019sk, Russia",
+      "summary": "A magnitude 5.0 earthquake occurred at a depth of 30.338 km: 152 km SE of Kuril\u2019sk, Russia.",
+      "metrics": {
+        "magnitude": 5.0,
+        "depth_km": 30.338,
+        "wind_speed_kmh": null,
+        "alert_score": 6.0
+      },
+      "location": {
+        "country": "Russia",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "152 km SE of Kuril\u2019sk, Russia",
+        "latitude": 44.3915,
+        "longitude": 149.4063,
+        "geohash": "xrfhx"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-11T05:26:28.222000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txgv",
+          "retrieved_at": "2026-11-11T11:33:37.970565+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000txgq",
+      "cluster_id": "cluster_eq_sqf",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.6 - 54 km WNW of Malfa, Italy",
+      "summary": "A magnitude 4.6 earthquake occurred at a depth of 10 km: 54 km WNW of Malfa, Italy.",
+      "metrics": {
+        "magnitude": 4.6,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.52
+      },
+      "location": {
+        "country": "Italy",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "54 km WNW of Malfa, Italy",
+        "latitude": 38.7563,
+        "longitude": 14.2589,
+        "geohash": "sqfhk"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-11T05:12:08.509000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txgq",
+          "retrieved_at": "2026-11-11T11:33:37.970625+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000txgg",
+      "cluster_id": "cluster_eq_xnm",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.6 - 130 km ENE of Hasaki, Japan",
+      "summary": "A magnitude 4.6 earthquake occurred at a depth of 10 km: 130 km ENE of Hasaki, Japan.",
+      "metrics": {
+        "magnitude": 4.6,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.52
+      },
+      "location": {
+        "country": "Japan",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "130 km ENE of Hasaki, Japan",
+        "latitude": 36.1492,
+        "longitude": 142.185,
+        "geohash": "xnmje"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-11T03:56:52.372000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txgg",
+          "retrieved_at": "2026-11-11T11:33:37.970687+00:00"
+        }
+      ]
+    },
     {
       "event_id": "gdacs_a9b0dc8c78424ef4",
       "cluster_id": "cluster_severe_weather_000",

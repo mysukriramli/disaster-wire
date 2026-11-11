@@ -1,7 +1,71 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-11-11T03:41:47.118749+00:00
+Generated: 2026-11-11T11:33:41.335057+00:00
 
 ## Active Incident Telemetry
+### [SEVERE_WEATHER] Green forest fire notification in Burkina Faso
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Burkina Faso (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 09/11/2026, a forest fire started in Burkina Faso,  until 11/11/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Australia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 08/11/2026, a forest fire started in Australia,  until 11/11/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in South Sudan
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in South Sudan (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 06/11/2026, a forest fire started in South Sudan,  until 11/11/2026.
+
+### [EARTHQUAKE] M 4.7 - 152 km WSW of Merizo Village, Guam
+- **Cluster ID:** `cluster_eq_x4m` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 152 km WSW of Merizo Village, Guam (Guam) | Geohash: `x4mcj`
+- **Coordinates:** `[12.8418, 143.3322]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.7 earthquake occurred at a depth of 137.374 km: 152 km WSW of Merizo Village, Guam.
+
+### [EARTHQUAKE] M 5.1 - Balleny Islands region
+- **Cluster ID:** `cluster_eq_pky` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** Balleny Islands region (Balleny Islands region) | Geohash: `pkyhz`
+- **Coordinates:** `[-62.4284, 155.0206]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.1 earthquake occurred at a depth of 10 km: Balleny Islands region.
+
+### [EARTHQUAKE] M 5.0 - 152 km SE of Kuril’sk, Russia
+- **Cluster ID:** `cluster_eq_xrf` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 152 km SE of Kuril’sk, Russia (Russia) | Geohash: `xrfhx`
+- **Coordinates:** `[44.3915, 149.4063]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.0 earthquake occurred at a depth of 30.338 km: 152 km SE of Kuril’sk, Russia.
+
+### [EARTHQUAKE] M 4.6 - 54 km WNW of Malfa, Italy
+- **Cluster ID:** `cluster_eq_sqf` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 54 km WNW of Malfa, Italy (Italy) | Geohash: `sqfhk`
+- **Coordinates:** `[38.7563, 14.2589]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 10 km: 54 km WNW of Malfa, Italy.
+
+### [EARTHQUAKE] M 4.6 - 130 km ENE of Hasaki, Japan
+- **Cluster ID:** `cluster_eq_xnm` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 130 km ENE of Hasaki, Japan (Japan) | Geohash: `xnmje`
+- **Coordinates:** `[36.1492, 142.185]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 10 km: 130 km ENE of Hasaki, Japan.
+
 ### [SEVERE_WEATHER] Green forest fire notification in Australia
 - **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
 - **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
@@ -737,68 +801,4 @@ Generated: 2026-11-11T03:41:47.118749+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 08/11/2026, a forest fire started in Australia,  until 09/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 08/11/2026, a forest fire started in Australia,  until 09/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 08/11/2026, a forest fire started in Australia,  until 09/11/2026.
-
-### [FLOOD] Green flood alert in Iraq
-- **Cluster ID:** `cluster_flood_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green flood alert in Iraq (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 07/11/2026, a flood started in Iraq, lasting until 09/11/2026 (last update). The flood caused 2 deaths and 0 displaced .
-
-### [FLOOD] Green flood alert in Israel
-- **Cluster ID:** `cluster_flood_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green flood alert in Israel (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 07/11/2026, a flood started in Israel, lasting until 09/11/2026 (last update). The flood caused 0 deaths and 0 displaced .
-
-### [FLOOD] Green flood alert in Syria
-- **Cluster ID:** `cluster_flood_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green flood alert in Syria (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 07/11/2026, a flood started in Syria, lasting until 09/11/2026 (last update). The flood caused 1 deaths and 0 displaced .
-
-### [FLOOD] Green flood alert in Venezuela
-- **Cluster ID:** `cluster_flood_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green flood alert in Venezuela (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 07/11/2026, a flood started in Venezuela, lasting until 09/11/2026 (last update). The flood caused 3 deaths and 0 displaced .
-
-### [FLOOD] Green flood alert in Portugal
-- **Cluster ID:** `cluster_flood_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green flood alert in Portugal (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 07/11/2026, a flood started in Portugal, lasting until 09/11/2026 (last update). The flood caused 0 deaths and 7 displaced .
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 07/11/2026, a forest fire started in Australia,  until 09/11/2026.
 

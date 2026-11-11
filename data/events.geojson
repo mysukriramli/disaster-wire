@@ -3,6 +3,182 @@
   "features": [
     {
       "type": "Feature",
+      "id": "gdacs_db0e72d49832c63e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Burkina Faso",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-11T11:33:40.574932+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_0287bc692c0c4f37",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Australia",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-11T11:33:40.574932+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_62481a495c9beed5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in South Sudan",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-11T11:33:40.574932+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000txi0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3322,
+          12.8418
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_x4m",
+        "geohash": "x4mcj",
+        "title": "M 4.7 - 152 km WSW of Merizo Village, Guam",
+        "country": "Guam",
+        "magnitude": 4.7,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-11T08:37:15.449000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000txhi",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.0206,
+          -62.4284
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_pky",
+        "geohash": "pkyhz",
+        "title": "M 5.1 - Balleny Islands region",
+        "country": "Balleny Islands region",
+        "magnitude": 5.1,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-11T06:21:45.383000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000txgv",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.4063,
+          44.3915
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_xrf",
+        "geohash": "xrfhx",
+        "title": "M 5.0 - 152 km SE of Kuril\u2019sk, Russia",
+        "country": "Russia",
+        "magnitude": 5.0,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-11T05:26:28.222000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000txgq",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2589,
+          38.7563
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_sqf",
+        "geohash": "sqfhk",
+        "title": "M 4.6 - 54 km WNW of Malfa, Italy",
+        "country": "Italy",
+        "magnitude": 4.6,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-11T05:12:08.509000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000txgg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.185,
+          36.1492
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_xnm",
+        "geohash": "xnmje",
+        "title": "M 4.6 - 130 km ENE of Hasaki, Japan",
+        "country": "Japan",
+        "magnitude": 4.6,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-11T03:56:52.372000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_a9b0dc8c78424ef4",
       "geometry": {
         "type": "Point",
@@ -2006,182 +2182,6 @@
     {
       "type": "Feature",
       "id": "gdacs_7a0046b59eff9170",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Australia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-09T12:19:23.395995+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_adea00c77694e96e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Australia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-09T12:19:23.395995+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_13302ad6c9fa6503",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Australia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-09T12:19:23.395995+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_cea6ad05866f6254",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "flood",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_flood_000",
-        "geohash": "00000",
-        "title": "Green flood alert in Iraq",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-09T12:19:23.395995+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_978504e0181c0ea4",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "flood",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_flood_000",
-        "geohash": "00000",
-        "title": "Green flood alert in Israel",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-09T12:19:23.395995+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_608d3e8d89eb553d",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "flood",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_flood_000",
-        "geohash": "00000",
-        "title": "Green flood alert in Syria",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-09T12:19:23.395995+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_4ea5ff5ec6b4917f",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "flood",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_flood_000",
-        "geohash": "00000",
-        "title": "Green flood alert in Venezuela",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-09T12:19:23.395995+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_b4c7e14f6d581bab",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "flood",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_flood_000",
-        "geohash": "00000",
-        "title": "Green flood alert in Portugal",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-09T12:19:23.395995+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_2ff4907fb8472144",
       "geometry": {
         "type": "Point",
         "coordinates": [
