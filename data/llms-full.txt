@@ -1,7 +1,15 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-11-12T11:58:35.335805+00:00
+Generated: 2026-11-12T19:33:42.070690+00:00
 
 ## Active Incident Telemetry
+### [EARTHQUAKE] M 4.5 - 3 km E of Tako, Japan
+- **Cluster ID:** `cluster_eq_xn7` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 3 km E of Tako, Japan (Japan) | Geohash: `xn7gm`
+- **Coordinates:** `[35.7319, 140.5102]`
+- **Exposed Infrastructure:** Port of Tokyo / Yokohama (61.2km), Tokyo Narita Cargo Gateway (11.8km), Tokyo Cloud Region (ap-northeast-1) (74.1km)
+- **Recommended Agent Actions:** audit_maritime_berth_JPTYO, check_air_cargo_delay_NRT, initiate_cloud_failover_AP-TYO, reroute_container_freight
+- **Summary:** A magnitude 4.5 earthquake occurred at a depth of 73.353 km: 3 km E of Tako, Japan.
+
 ### [EARTHQUAKE] Green earthquake (Magnitude 5.5M, Depth:59.652km) in Guatemala 10/11/2026 14:54 UTC, 1.2 million in MMI IV.
 - **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
 - **Location:** Green earthquake (Magnitude 5.5M, Depth:59.652km) in Guatemala 10/11/2026 14:54 UTC, 1.2 million in MMI IV. (Global) | Geohash: `00000`
@@ -793,12 +801,4 @@ Generated: 2026-11-12T11:58:35.335805+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 04/11/2026, a forest fire started in Sudan, South Sudan,  until 10/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Nigeria
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Nigeria (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 03/11/2026, a forest fire started in Nigeria,  until 10/11/2026.
 

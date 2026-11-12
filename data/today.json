@@ -1,10 +1,76 @@
 {
   "metadata": {
-    "generated_at": "2026-11-12T11:58:35.331626+00:00",
+    "generated_at": "2026-11-12T19:33:42.067083+00:00",
     "total_active_events": 100,
     "schema_version": "2.1.0"
   },
   "events": [
+    {
+      "event_id": "usgs_us7000txsr",
+      "cluster_id": "cluster_eq_xn7",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.5 - 3 km E of Tako, Japan",
+      "summary": "A magnitude 4.5 earthquake occurred at a depth of 73.353 km: 3 km E of Tako, Japan.",
+      "metrics": {
+        "magnitude": 4.5,
+        "depth_km": 73.353,
+        "wind_speed_kmh": null,
+        "alert_score": 5.3999999999999995
+      },
+      "location": {
+        "country": "Japan",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "3 km E of Tako, Japan",
+        "latitude": 35.7319,
+        "longitude": 140.5102,
+        "geohash": "xn7gm"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [
+        {
+          "name": "Port of Tokyo / Yokohama",
+          "type": "port",
+          "code": "JPTYO",
+          "country": "Japan",
+          "distance_km": 61.2
+        },
+        {
+          "name": "Tokyo Narita Cargo Gateway",
+          "type": "airport",
+          "code": "NRT",
+          "country": "Japan",
+          "distance_km": 11.8
+        },
+        {
+          "name": "Tokyo Cloud Region (ap-northeast-1)",
+          "type": "datacenter",
+          "code": "AP-TYO",
+          "country": "Japan",
+          "distance_km": 74.1
+        }
+      ],
+      "recommended_agent_actions": [
+        "audit_maritime_berth_JPTYO",
+        "check_air_cargo_delay_NRT",
+        "initiate_cloud_failover_AP-TYO",
+        "reroute_container_freight"
+      ],
+      "timestamp_utc": "2026-11-12T13:27:22.321000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txsr",
+          "retrieved_at": "2026-11-12T19:33:38.742344+00:00"
+        }
+      ]
+    },
     {
       "event_id": "gdacs_ed83abefaa855ef5",
       "cluster_id": "cluster_earthquake_000",
@@ -4060,47 +4126,6 @@
         {
           "source_name": "GDACS",
           "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033718",
-          "retrieved_at": "2026-11-11T03:41:46.415553+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_b779164d6520baa4",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in Nigeria",
-      "summary": "On 03/11/2026, a forest fire started in Nigeria,  until 10/11/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in Nigeria",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-11T03:41:46.415553+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033719",
           "retrieved_at": "2026-11-11T03:41:46.415553+00:00"
         }
       ]

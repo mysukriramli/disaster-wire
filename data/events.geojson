@@ -3,6 +3,28 @@
   "features": [
     {
       "type": "Feature",
+      "id": "usgs_us7000txsr",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.5102,
+          35.7319
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_xn7",
+        "geohash": "xn7gm",
+        "title": "M 4.5 - 3 km E of Tako, Japan",
+        "country": "Japan",
+        "magnitude": 4.5,
+        "exposed_infrastructure_count": 3,
+        "timestamp_utc": "2026-11-12T13:27:22.321000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_ed83abefaa855ef5",
       "geometry": {
         "type": "Point",
@@ -2173,28 +2195,6 @@
         "cluster_id": "cluster_severe_weather_000",
         "geohash": "00000",
         "title": "Green forest fire notification in Sudan, South Sudan",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-11T03:41:46.415553+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_b779164d6520baa4",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Nigeria",
         "country": "Global",
         "magnitude": null,
         "exposed_infrastructure_count": 0,
