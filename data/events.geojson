@@ -3,6 +3,204 @@
   "features": [
     {
       "type": "Feature",
+      "id": "gdacs_ed83abefaa855ef5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_earthquake_000",
+        "geohash": "00000",
+        "title": "Green earthquake (Magnitude 5.5M, Depth:59.652km) in Guatemala 10/11/2026 14:54 UTC, 1.2 million in MMI IV.",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-12T11:58:34.463842+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_6b5d871493316b22",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "flood",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_flood_000",
+        "geohash": "00000",
+        "title": "Green flood alert in Myanmar",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-12T11:58:34.463842+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_3aae89df6ff24d6a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Drought is on going in New Zealand",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-12T11:58:34.463842+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_043c059d01c356a6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Drought is on going in China, Kazakhstan, Mongolia, Russia",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-12T11:58:34.463842+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_eb80ec46ceaf3318",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Drought is on going in Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-12T11:58:34.463842+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_f6ee5ac0da2e403a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Drought is on going in Burundi, Democratic Republic of Congo, Central African Republic, Eritrea, Ethiopia, Kenya, Niger, Nigeria, Rwanda, Sudan, South Sudan, Chad, Tanzania, Uganda",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-12T11:58:34.463842+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000txrk",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -129.6205,
+          44.4539
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_9pg",
+        "geohash": "9pguf",
+        "title": "M 4.5 - off the coast of Oregon",
+        "country": "off the coast of Oregon",
+        "magnitude": 4.5,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-12T08:17:28.440000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000txqx",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6115,
+          40.3593
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_xpn",
+        "geohash": "xpnje",
+        "title": "M 4.8 - 155 km E of Noda, Japan",
+        "country": "Japan",
+        "magnitude": 4.8,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-12T04:07:32.379000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000txqr",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -26.0288,
+          -59.0326
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_5mt",
+        "geohash": "5mt2p",
+        "title": "M 5.4 - South Sandwich Islands region",
+        "country": "South Sandwich Islands region",
+        "magnitude": 5.4,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-12T03:45:56.644000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_bafedbc558b3dffe",
       "geometry": {
         "type": "Point",
@@ -1169,6 +1367,28 @@
     },
     {
       "type": "Feature",
+      "id": "usgs_us7000txiw",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.7831,
+          -3.0211
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_qzm",
+        "geohash": "qzmnb",
+        "title": "M 4.7 - 168 km W of Fakfak, Indonesia",
+        "country": "Indonesia",
+        "magnitude": 4.7,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-11T12:17:23.633000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "usgs_us7000txis",
       "geometry": {
         "type": "Point",
@@ -1979,226 +2199,6 @@
         "magnitude": null,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-11-11T03:41:46.415553+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_011749a68feb6085",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in South Sudan",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-11T03:41:46.415553+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_81a3cef9244de36b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in South Sudan",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-11T03:41:46.415553+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_3c350c70a85b2ae7",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Tanzania",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-11T03:41:46.415553+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_2fc7ac3cba1f15ad",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in South Sudan",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-11T03:41:46.415553+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000txfz",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -127.6912,
-          49.0876
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_c0t",
-        "geohash": "c0tpq",
-        "title": "M 4.7 - 130 km W of Tofino, Canada",
-        "country": "Canada",
-        "magnitude": 4.7,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-11T01:45:27.859000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_c421b5db1ce91fae",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Australia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-10T21:35:32.425105+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_297c7d99d9f36c94",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Australia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-10T21:35:32.425105+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_7cf520df0aa8e878",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "cyclone",
-        "severity_level": "catastrophic",
-        "cluster_id": "cluster_cyclone_000",
-        "geohash": "00000",
-        "title": "Green notification for tropical cyclone CEMPAKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 953 .",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-10T21:35:32.425105+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_5069a611b0e5bd5f",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Australia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-10T21:35:32.425105+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000txea",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          165.5166,
-          -13.9345
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_rtt",
-        "geohash": "rtt8w",
-        "title": "M 4.9 - 207 km NW of Port-Olry, Vanuatu",
-        "country": "Vanuatu",
-        "magnitude": 4.9,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-10T19:54:18.279000+00:00"
       }
     }
   ]

@@ -1,7 +1,79 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-11-12T01:44:09.058750+00:00
+Generated: 2026-11-12T11:58:35.335805+00:00
 
 ## Active Incident Telemetry
+### [EARTHQUAKE] Green earthquake (Magnitude 5.5M, Depth:59.652km) in Guatemala 10/11/2026 14:54 UTC, 1.2 million in MMI IV.
+- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green earthquake (Magnitude 5.5M, Depth:59.652km) in Guatemala 10/11/2026 14:54 UTC, 1.2 million in MMI IV. (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 11/10/2026 2:54:19 PM, an earthquake occurred in Guatemala potentially affecting 1.2 million in MMI IV. The earthquake had Magnitude 5.5M, Depth:59.652km.
+
+### [FLOOD] Green flood alert in Myanmar
+- **Cluster ID:** `cluster_flood_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green flood alert in Myanmar (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 10/11/2026, a flood started in Myanmar, lasting until 12/11/2026 (last update). The flood caused 0 deaths and 50 displaced .
+
+### [SEVERE_WEATHER] Drought is on going in New Zealand
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** Drought is on going in New Zealand (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** The  Drought notification level is Green.
+
+### [SEVERE_WEATHER] Drought is on going in China, Kazakhstan, Mongolia, Russia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** Drought is on going in China, Kazakhstan, Mongolia, Russia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** The  Drought notification level is Green.
+
+### [SEVERE_WEATHER] Drought is on going in Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** Drought is on going in Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** The  Drought notification level is Green.
+
+### [SEVERE_WEATHER] Drought is on going in Burundi, Democratic Republic of Congo, Central African Republic, Eritrea, Ethiopia, Kenya, Niger, Nigeria, Rwanda, Sudan, South Sudan, Chad, Tanzania, Uganda
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** Drought is on going in Burundi, Democratic Republic of Congo, Central African Republic, Eritrea, Ethiopia, Kenya, Niger, Nigeria, Rwanda, Sudan, South Sudan, Chad, Tanzania, Uganda (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** The  Drought notification level is Orange.
+
+### [EARTHQUAKE] M 4.5 - off the coast of Oregon
+- **Cluster ID:** `cluster_eq_9pg` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** off the coast of Oregon (off the coast of Oregon) | Geohash: `9pguf`
+- **Coordinates:** `[44.4539, -129.6205]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.5 earthquake occurred at a depth of 10 km: off the coast of Oregon.
+
+### [EARTHQUAKE] M 4.8 - 155 km E of Noda, Japan
+- **Cluster ID:** `cluster_eq_xpn` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 155 km E of Noda, Japan (Japan) | Geohash: `xpnje`
+- **Coordinates:** `[40.3593, 143.6115]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 33.039 km: 155 km E of Noda, Japan.
+
+### [EARTHQUAKE] M 5.4 - South Sandwich Islands region
+- **Cluster ID:** `cluster_eq_5mt` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** South Sandwich Islands region (South Sandwich Islands region) | Geohash: `5mt2p`
+- **Coordinates:** `[-59.0326, -26.0288]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.4 earthquake occurred at a depth of 121.557 km: South Sandwich Islands region.
+
 ### [EARTHQUAKE] Green earthquake (Magnitude 5.5M, Depth:59.652km) in Guatemala 10/11/2026 14:54 UTC, 1.2 million in 100km.
 - **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
 - **Location:** Green earthquake (Magnitude 5.5M, Depth:59.652km) in Guatemala 10/11/2026 14:54 UTC, 1.2 million in 100km. (Global) | Geohash: `00000`
@@ -426,6 +498,14 @@ Generated: 2026-11-12T01:44:09.058750+00:00
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** A magnitude 4.5 earthquake occurred at a depth of 149.444 km: 62 km NNE of Port-Olry, Vanuatu.
 
+### [EARTHQUAKE] M 4.7 - 168 km W of Fakfak, Indonesia
+- **Cluster ID:** `cluster_eq_qzm` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 168 km W of Fakfak, Indonesia (Indonesia) | Geohash: `qzmnb`
+- **Coordinates:** `[-3.0211, 130.7831]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.7 earthquake occurred at a depth of 10 km: 168 km W of Fakfak, Indonesia.
+
 ### [EARTHQUAKE] M 5.1 - 27 km WSW of Calama, Chile
 - **Cluster ID:** `cluster_eq_67y` | **Severity:** `moderate` | **Phase:** `emerging`
 - **Location:** 27 km WSW of Calama, Chile (Chile) | Geohash: `67yzf`
@@ -721,84 +801,4 @@ Generated: 2026-11-12T01:44:09.058750+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 03/11/2026, a forest fire started in Nigeria,  until 10/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in South Sudan
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in South Sudan (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 02/11/2026, a forest fire started in South Sudan,  until 10/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in South Sudan
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in South Sudan (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 02/11/2026, a forest fire started in South Sudan,  until 10/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Tanzania
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Tanzania (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 02/11/2026, a forest fire started in Tanzania,  until 10/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in South Sudan
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in South Sudan (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 30/10/2026, a forest fire started in South Sudan,  until 10/11/2026.
-
-### [EARTHQUAKE] M 4.7 - 130 km W of Tofino, Canada
-- **Cluster ID:** `cluster_eq_c0t` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 130 km W of Tofino, Canada (Canada) | Geohash: `c0tpq`
-- **Coordinates:** `[49.0876, -127.6912]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.7 earthquake occurred at a depth of 10 km: 130 km W of Tofino, Canada.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 09/11/2026, a forest fire started in Australia,  until 10/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 07/11/2026, a forest fire started in Australia,  until 10/11/2026.
-
-### [CYCLONE] Green notification for tropical cyclone CEMPAKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 953 .
-- **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `stabilizing`
-- **Location:** Green notification for tropical cyclone CEMPAKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 953 . (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** From 06/11/2026 to 10/11/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 176 km/h) CEMPAKA-26 was active in NWPacific. The cyclone affects these countries: Japan (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 953 .
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 01/11/2026, a forest fire started in Australia,  until 10/11/2026.
-
-### [EARTHQUAKE] M 4.9 - 207 km NW of Port-Olry, Vanuatu
-- **Cluster ID:** `cluster_eq_rtt` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 207 km NW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtt8w`
-- **Coordinates:** `[-13.9345, 165.5166]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 11.705 km: 207 km NW of Port-Olry, Vanuatu.
 
