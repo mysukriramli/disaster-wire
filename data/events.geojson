@@ -3,6 +3,182 @@
   "features": [
     {
       "type": "Feature",
+      "id": "gdacs_98aae966f52b79d0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_earthquake_000",
+        "geohash": "00000",
+        "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Papua New Guinea 12/11/2026 22:04 UTC, Few people affected (in MMI>=VII).",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-13T00:47:52.043810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_6b223cdc69d12465",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "flood",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_flood_000",
+        "geohash": "00000",
+        "title": "Green flood alert in Dominican Republic",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-13T00:47:52.043810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000txx9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8798,
+          34.6967
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_sw1",
+        "geohash": "sw1tq",
+        "title": "M 5.1 - 39 km S of Mo\u00edres, Greece",
+        "country": "Greece",
+        "magnitude": 5.1,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-13T00:05:04.104000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000txwp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.8877,
+          -1.5882
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_rrd",
+        "geohash": "rrdwf",
+        "title": "M 5.8 - 148 km NW of Kavieng, Papua New Guinea",
+        "country": "Papua New Guinea",
+        "magnitude": 5.8,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-12T22:04:06.729000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000txwi",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.6047,
+          64.6502
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_ge7",
+        "geohash": "ge7rz",
+        "title": "M 4.6 - 117 km S of Akureyri, Iceland",
+        "country": "Iceland",
+        "magnitude": 4.6,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-12T21:53:42.535000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000txw9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5909,
+          -51.4273
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_png",
+        "geohash": "png72",
+        "title": "M 5.1 - western Indian-Antarctic Ridge",
+        "country": "western Indian-Antarctic Ridge",
+        "magnitude": 5.1,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-12T21:09:14.685000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000txvw",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1911,
+          27.2239
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_wkf",
+        "geohash": "wkf4f",
+        "title": "M 4.9 - 41 km N of Weining, China",
+        "country": "China",
+        "magnitude": 4.9,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-12T20:03:14.062000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000txtd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.1127,
+          1.1216
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_wb1",
+        "geohash": "wb1wm",
+        "title": "M 4.5 - 115 km ESE of Bitung, Indonesia",
+        "country": "Indonesia",
+        "magnitude": 4.5,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-12T14:58:32.284000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "usgs_us7000txsr",
       "geometry": {
         "type": "Point",
@@ -2019,182 +2195,6 @@
         "cluster_id": "cluster_severe_weather_000",
         "geohash": "00000",
         "title": "Green forest fire notification in Burkina Faso",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-11T03:41:46.415553+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_3f36e690c18f75ae",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Central African Republic",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-11T03:41:46.415553+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_69b70bb0aaf3c100",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Burkina Faso, Mali",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-11T03:41:46.415553+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_67155c988c6e9d44",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Central African Republic",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-11T03:41:46.415553+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_495b20763a928e53",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Senegal",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-11T03:41:46.415553+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_0f021107bdaaaa86",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Benin, Burkina Faso",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-11T03:41:46.415553+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_9d3535e858c6ae8d",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Tanzania",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-11T03:41:46.415553+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_b5562fdd86951979",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Sudan",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-11T03:41:46.415553+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_bb9d3aad8cbf6225",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Sudan, South Sudan",
         "country": "Global",
         "magnitude": null,
         "exposed_infrastructure_count": 0,

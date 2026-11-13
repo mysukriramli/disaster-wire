@@ -1,7 +1,71 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-11-12T19:33:42.070690+00:00
+Generated: 2026-11-13T00:47:52.829985+00:00
 
 ## Active Incident Telemetry
+### [EARTHQUAKE] Green earthquake (Magnitude 5.8M, Depth:10km) in Papua New Guinea 12/11/2026 22:04 UTC, Few people affected (in MMI>=VII).
+- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green earthquake (Magnitude 5.8M, Depth:10km) in Papua New Guinea 12/11/2026 22:04 UTC, Few people affected (in MMI>=VII). (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 11/12/2026 10:04:06 PM, an earthquake occurred in Papua New Guinea potentially affecting Few people affected (in MMI>=VII). The earthquake had Magnitude 5.8M, Depth:10km.
+
+### [FLOOD] Green flood alert in Dominican Republic
+- **Cluster ID:** `cluster_flood_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green flood alert in Dominican Republic (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 06/11/2026, a flood started in Dominican Republic, lasting until 09/11/2026 (last update). The flood caused 0 deaths and 20 displaced .
+
+### [EARTHQUAKE] M 5.1 - 39 km S of Moíres, Greece
+- **Cluster ID:** `cluster_eq_sw1` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 39 km S of Moíres, Greece (Greece) | Geohash: `sw1tq`
+- **Coordinates:** `[34.6967, 24.8798]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.1 earthquake occurred at a depth of 43.358 km: 39 km S of Moíres, Greece.
+
+### [EARTHQUAKE] M 5.8 - 148 km NW of Kavieng, Papua New Guinea
+- **Cluster ID:** `cluster_eq_rrd` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 148 km NW of Kavieng, Papua New Guinea (Papua New Guinea) | Geohash: `rrdwf`
+- **Coordinates:** `[-1.5882, 149.8877]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.8 earthquake occurred at a depth of 10 km: 148 km NW of Kavieng, Papua New Guinea.
+
+### [EARTHQUAKE] M 4.6 - 117 km S of Akureyri, Iceland
+- **Cluster ID:** `cluster_eq_ge7` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 117 km S of Akureyri, Iceland (Iceland) | Geohash: `ge7rz`
+- **Coordinates:** `[64.6502, -17.6047]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 10 km: 117 km S of Akureyri, Iceland.
+
+### [EARTHQUAKE] M 5.1 - western Indian-Antarctic Ridge
+- **Cluster ID:** `cluster_eq_png` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** western Indian-Antarctic Ridge (western Indian-Antarctic Ridge) | Geohash: `png72`
+- **Coordinates:** `[-51.4273, 139.5909]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.1 earthquake occurred at a depth of 10 km: western Indian-Antarctic Ridge.
+
+### [EARTHQUAKE] M 4.9 - 41 km N of Weining, China
+- **Cluster ID:** `cluster_eq_wkf` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 41 km N of Weining, China (China) | Geohash: `wkf4f`
+- **Coordinates:** `[27.2239, 104.1911]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 10 km: 41 km N of Weining, China.
+
+### [EARTHQUAKE] M 4.5 - 115 km ESE of Bitung, Indonesia
+- **Cluster ID:** `cluster_eq_wb1` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 115 km ESE of Bitung, Indonesia (Indonesia) | Geohash: `wb1wm`
+- **Coordinates:** `[1.1216, 126.1127]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.5 earthquake occurred at a depth of 39.203 km: 115 km ESE of Bitung, Indonesia.
+
 ### [EARTHQUAKE] M 4.5 - 3 km E of Tako, Japan
 - **Cluster ID:** `cluster_eq_xn7` | **Severity:** `minor` | **Phase:** `emerging`
 - **Location:** 3 km E of Tako, Japan (Japan) | Geohash: `xn7gm`
@@ -737,68 +801,4 @@ Generated: 2026-11-12T19:33:42.070690+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 07/11/2026, a forest fire started in Burkina Faso,  until 10/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Central African Republic
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Central African Republic (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 06/11/2026, a forest fire started in Central African Republic,  until 10/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Burkina Faso, Mali
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Burkina Faso, Mali (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 06/11/2026, a forest fire started in Burkina Faso, Mali,  until 10/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Central African Republic
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Central African Republic (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 06/11/2026, a forest fire started in Central African Republic,  until 10/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Senegal
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Senegal (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 05/11/2026, a forest fire started in Senegal,  until 10/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Benin, Burkina Faso
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Benin, Burkina Faso (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 05/11/2026, a forest fire started in Benin, Burkina Faso,  until 10/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Tanzania
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Tanzania (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 05/11/2026, a forest fire started in Tanzania,  until 10/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Sudan
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Sudan (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 04/11/2026, a forest fire started in Sudan,  until 10/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Sudan, South Sudan
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Sudan, South Sudan (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 04/11/2026, a forest fire started in Sudan, South Sudan,  until 10/11/2026.
 
