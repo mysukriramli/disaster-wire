@@ -3,6 +3,270 @@
   "features": [
     {
       "type": "Feature",
+      "id": "gdacs_e63038a0baa67d2f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_earthquake_000",
+        "geohash": "00000",
+        "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Northern Mid-Atlantic Ridge 14/11/2026 09:26 UTC, [unknown].",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-14T11:04:16.672282+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_9f4d8ef3b383ade9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Australia",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-14T11:04:16.672282+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_9b2f09b8c0d9d474",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Australia",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-14T11:04:16.672282+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_8158cdc64c935e35",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Australia",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-14T11:04:16.672282+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000ty84",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.6346,
+          30.122
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_ej3",
+        "geohash": "ej3em",
+        "title": "M 5.5 - northern Mid-Atlantic Ridge",
+        "country": "northern Mid-Atlantic Ridge",
+        "magnitude": 5.5,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-14T09:26:13.073000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000ty7h",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -173.446,
+          -15.0887
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_2jk",
+        "geohash": "2jkdj",
+        "title": "M 4.6 - 102 km NNE of Hihifo, Tonga",
+        "country": "Tonga",
+        "magnitude": 4.6,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-14T07:02:22.573000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000ty7d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3631,
+          9.7032
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_x38",
+        "geohash": "x38z1",
+        "title": "M 5.2 - State of Yap, Federated States of Micronesia",
+        "country": "Federated States of Micronesia",
+        "magnitude": 5.2,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-14T06:52:26.706000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000ty7b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9575,
+          -36.4613
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_3cd",
+        "geohash": "3cd2d",
+        "title": "M 4.8 - West Chile Rise",
+        "country": "West Chile Rise",
+        "magnitude": 4.8,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-14T06:33:19.009000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000ty73",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6657,
+          -50.3735
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_pp5",
+        "geohash": "pp536",
+        "title": "M 4.5 - western Indian-Antarctic Ridge",
+        "country": "western Indian-Antarctic Ridge",
+        "magnitude": 4.5,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-14T04:59:00.633000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000ty6p",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.7642,
+          -23.9436
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_6e8",
+        "geohash": "6e8xb",
+        "title": "M 4.7 - 54 km NW of San Antonio de los Cobres, Argentina",
+        "country": "Argentina",
+        "magnitude": 4.7,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-14T03:18:26.652000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000ty6n",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8261,
+          3.304
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_w0d",
+        "geohash": "w0d4b",
+        "title": "M 5.2 - off the west coast of northern Sumatra",
+        "country": "off the west coast of northern Sumatra",
+        "magnitude": 5.2,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-14T02:59:29.180000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000ty6e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -177.739,
+          -19.5803
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_2h9",
+        "geohash": "2h98e",
+        "title": "M 4.5 - Fiji region",
+        "country": "Fiji region",
+        "magnitude": 4.5,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-14T02:21:07.393000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_02cd67f9c288f257",
       "geometry": {
         "type": "Point",
@@ -289,6 +553,28 @@
     },
     {
       "type": "Feature",
+      "id": "usgs_us7000ty59",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7229,
+          -37.922
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_636",
+        "geohash": "636b7",
+        "title": "M 4.6 - 100 km WSW of Lebu, Chile",
+        "country": "Chile",
+        "magnitude": 4.6,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-13T23:55:15.232000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "usgs_us7000ty56",
       "geometry": {
         "type": "Point",
@@ -307,6 +593,28 @@
         "magnitude": 5.1,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-11-13T23:30:38.320000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us7000ty53",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4805,
+          29.5604
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_wvk",
+        "geohash": "wvkb1",
+        "title": "M 4.6 - 74 km S of Yudomari, Japan",
+        "country": "Japan",
+        "magnitude": 4.6,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-13T23:22:54.402000+00:00"
       }
     },
     {
@@ -1891,314 +2199,6 @@
         "magnitude": 5.1,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-11-13T00:05:04.104000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000txwp",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.8877,
-          -1.5882
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_rrd",
-        "geohash": "rrdwf",
-        "title": "M 5.8 - 148 km NW of Kavieng, Papua New Guinea",
-        "country": "Papua New Guinea",
-        "magnitude": 5.8,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-12T22:04:06.729000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000txwi",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -17.6047,
-          64.6502
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_ge7",
-        "geohash": "ge7rz",
-        "title": "M 4.6 - 117 km S of Akureyri, Iceland",
-        "country": "Iceland",
-        "magnitude": 4.6,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-12T21:53:42.535000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000txw9",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.5909,
-          -51.4273
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_png",
-        "geohash": "png72",
-        "title": "M 5.1 - western Indian-Antarctic Ridge",
-        "country": "western Indian-Antarctic Ridge",
-        "magnitude": 5.1,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-12T21:09:14.685000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000txvw",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1911,
-          27.2239
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_wkf",
-        "geohash": "wkf4f",
-        "title": "M 4.9 - 41 km N of Weining, China",
-        "country": "China",
-        "magnitude": 4.9,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-12T20:03:14.062000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000txtd",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          126.1127,
-          1.1216
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_wb1",
-        "geohash": "wb1wm",
-        "title": "M 4.5 - 115 km ESE of Bitung, Indonesia",
-        "country": "Indonesia",
-        "magnitude": 4.5,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-12T14:58:32.284000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000txsr",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.5102,
-          35.7319
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_xn7",
-        "geohash": "xn7gm",
-        "title": "M 4.5 - 3 km E of Tako, Japan",
-        "country": "Japan",
-        "magnitude": 4.5,
-        "exposed_infrastructure_count": 3,
-        "timestamp_utc": "2026-11-12T13:27:22.321000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_ed83abefaa855ef5",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_earthquake_000",
-        "geohash": "00000",
-        "title": "Green earthquake (Magnitude 5.5M, Depth:59.652km) in Guatemala 10/11/2026 14:54 UTC, 1.2 million in MMI IV.",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-12T11:58:34.463842+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_6b5d871493316b22",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "flood",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_flood_000",
-        "geohash": "00000",
-        "title": "Green flood alert in Myanmar",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-12T11:58:34.463842+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_3aae89df6ff24d6a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Drought is on going in New Zealand",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-12T11:58:34.463842+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_043c059d01c356a6",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Drought is on going in China, Kazakhstan, Mongolia, Russia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-12T11:58:34.463842+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_eb80ec46ceaf3318",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Drought is on going in Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-12T11:58:34.463842+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_f6ee5ac0da2e403a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Drought is on going in Burundi, Democratic Republic of Congo, Central African Republic, Eritrea, Ethiopia, Kenya, Niger, Nigeria, Rwanda, Sudan, South Sudan, Chad, Tanzania, Uganda",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-12T11:58:34.463842+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000txrk",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -129.6205,
-          44.4539
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_9pg",
-        "geohash": "9pguf",
-        "title": "M 4.5 - off the coast of Oregon",
-        "country": "off the coast of Oregon",
-        "magnitude": 4.5,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-12T08:17:28.440000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000txqx",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          143.6115,
-          40.3593
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_xpn",
-        "geohash": "xpnje",
-        "title": "M 4.8 - 155 km E of Noda, Japan",
-        "country": "Japan",
-        "magnitude": 4.8,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-12T04:07:32.379000+00:00"
       }
     }
   ]

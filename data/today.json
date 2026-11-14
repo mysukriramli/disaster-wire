@@ -1,10 +1,502 @@
 {
   "metadata": {
-    "generated_at": "2026-11-14T00:32:55.484513+00:00",
+    "generated_at": "2026-11-14T11:04:17.486879+00:00",
     "total_active_events": 100,
     "schema_version": "2.1.0"
   },
   "events": [
+    {
+      "event_id": "gdacs_e63038a0baa67d2f",
+      "cluster_id": "cluster_earthquake_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Northern Mid-Atlantic Ridge 14/11/2026 09:26 UTC, [unknown].",
+      "summary": "On 11/14/2026 9:26:13 AM, an earthquake occurred in Northern Mid-Atlantic Ridge potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:10km.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green earthquake (Magnitude 5.5M, Depth:10km) in Northern Mid-Atlantic Ridge 14/11/2026 09:26 UTC, [unknown].",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-14T11:04:16.672282+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1577321",
+          "retrieved_at": "2026-11-14T11:04:16.672282+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_9f4d8ef3b383ade9",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 12/11/2026, a forest fire started in Australia,  until 14/11/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-14T11:04:16.672282+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033830",
+          "retrieved_at": "2026-11-14T11:04:16.672282+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_9b2f09b8c0d9d474",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 11/11/2026, a forest fire started in Australia,  until 14/11/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-14T11:04:16.672282+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033831",
+          "retrieved_at": "2026-11-14T11:04:16.672282+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_8158cdc64c935e35",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Australia",
+      "summary": "On 06/11/2026, a forest fire started in Australia,  until 14/11/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Australia",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-14T11:04:16.672282+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033832",
+          "retrieved_at": "2026-11-14T11:04:16.672282+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000ty84",
+      "cluster_id": "cluster_eq_ej3",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.5 - northern Mid-Atlantic Ridge",
+      "summary": "A magnitude 5.5 earthquake occurred at a depth of 10 km: northern Mid-Atlantic Ridge.",
+      "metrics": {
+        "magnitude": 5.5,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.6
+      },
+      "location": {
+        "country": "northern Mid-Atlantic Ridge",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "northern Mid-Atlantic Ridge",
+        "latitude": 30.122,
+        "longitude": -42.6346,
+        "geohash": "ej3em"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-14T09:26:13.073000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty84",
+          "retrieved_at": "2026-11-14T11:04:13.380956+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000ty7h",
+      "cluster_id": "cluster_eq_2jk",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.6 - 102 km NNE of Hihifo, Tonga",
+      "summary": "A magnitude 4.6 earthquake occurred at a depth of 10 km: 102 km NNE of Hihifo, Tonga.",
+      "metrics": {
+        "magnitude": 4.6,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.52
+      },
+      "location": {
+        "country": "Tonga",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "102 km NNE of Hihifo, Tonga",
+        "latitude": -15.0887,
+        "longitude": -173.446,
+        "geohash": "2jkdj"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-14T07:02:22.573000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7h",
+          "retrieved_at": "2026-11-14T11:04:13.381096+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000ty7d",
+      "cluster_id": "cluster_eq_x38",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.2 - State of Yap, Federated States of Micronesia",
+      "summary": "A magnitude 5.2 earthquake occurred at a depth of 10 km: State of Yap, Federated States of Micronesia.",
+      "metrics": {
+        "magnitude": 5.2,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.24
+      },
+      "location": {
+        "country": "Federated States of Micronesia",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "State of Yap, Federated States of Micronesia",
+        "latitude": 9.7032,
+        "longitude": 147.3631,
+        "geohash": "x38z1"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-14T06:52:26.706000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7d",
+          "retrieved_at": "2026-11-14T11:04:13.381162+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000ty7b",
+      "cluster_id": "cluster_eq_3cd",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.8 - West Chile Rise",
+      "summary": "A magnitude 4.8 earthquake occurred at a depth of 10 km: West Chile Rise.",
+      "metrics": {
+        "magnitude": 4.8,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.76
+      },
+      "location": {
+        "country": "West Chile Rise",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "West Chile Rise",
+        "latitude": -36.4613,
+        "longitude": -97.9575,
+        "geohash": "3cd2d"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-14T06:33:19.009000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7b",
+          "retrieved_at": "2026-11-14T11:04:13.381207+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000ty73",
+      "cluster_id": "cluster_eq_pp5",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.5 - western Indian-Antarctic Ridge",
+      "summary": "A magnitude 4.5 earthquake occurred at a depth of 10 km: western Indian-Antarctic Ridge.",
+      "metrics": {
+        "magnitude": 4.5,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.3999999999999995
+      },
+      "location": {
+        "country": "western Indian-Antarctic Ridge",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "western Indian-Antarctic Ridge",
+        "latitude": -50.3735,
+        "longitude": 139.6657,
+        "geohash": "pp536"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-14T04:59:00.633000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty73",
+          "retrieved_at": "2026-11-14T11:04:13.381247+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000ty6p",
+      "cluster_id": "cluster_eq_6e8",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.7 - 54 km NW of San Antonio de los Cobres, Argentina",
+      "summary": "A magnitude 4.7 earthquake occurred at a depth of 216.092 km: 54 km NW of San Antonio de los Cobres, Argentina.",
+      "metrics": {
+        "magnitude": 4.7,
+        "depth_km": 216.092,
+        "wind_speed_kmh": null,
+        "alert_score": 5.64
+      },
+      "location": {
+        "country": "Argentina",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "54 km NW of San Antonio de los Cobres, Argentina",
+        "latitude": -23.9436,
+        "longitude": -66.7642,
+        "geohash": "6e8xb"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-14T03:18:26.652000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6p",
+          "retrieved_at": "2026-11-14T11:04:13.381286+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000ty6n",
+      "cluster_id": "cluster_eq_w0d",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.2 - off the west coast of northern Sumatra",
+      "summary": "A magnitude 5.2 earthquake occurred at a depth of 10 km: off the west coast of northern Sumatra.",
+      "metrics": {
+        "magnitude": 5.2,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.24
+      },
+      "location": {
+        "country": "off the west coast of northern Sumatra",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "off the west coast of northern Sumatra",
+        "latitude": 3.304,
+        "longitude": 92.8261,
+        "geohash": "w0d4b"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-14T02:59:29.180000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6n",
+          "retrieved_at": "2026-11-14T11:04:13.381322+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000ty6e",
+      "cluster_id": "cluster_eq_2h9",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.5 - Fiji region",
+      "summary": "A magnitude 4.5 earthquake occurred at a depth of 587.447 km: Fiji region.",
+      "metrics": {
+        "magnitude": 4.5,
+        "depth_km": 587.447,
+        "wind_speed_kmh": null,
+        "alert_score": 5.3999999999999995
+      },
+      "location": {
+        "country": "Fiji region",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Fiji region",
+        "latitude": -19.5803,
+        "longitude": -177.739,
+        "geohash": "2h98e"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-14T02:21:07.393000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6e",
+          "retrieved_at": "2026-11-14T11:04:13.381367+00:00"
+        }
+      ]
+    },
     {
       "event_id": "gdacs_02cd67f9c288f257",
       "cluster_id": "cluster_severe_weather_000",
@@ -539,6 +1031,47 @@
       ]
     },
     {
+      "event_id": "usgs_us7000ty59",
+      "cluster_id": "cluster_eq_636",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.6 - 100 km WSW of Lebu, Chile",
+      "summary": "A magnitude 4.6 earthquake occurred at a depth of 10 km: 100 km WSW of Lebu, Chile.",
+      "metrics": {
+        "magnitude": 4.6,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.52
+      },
+      "location": {
+        "country": "Chile",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "100 km WSW of Lebu, Chile",
+        "latitude": -37.922,
+        "longitude": -74.7229,
+        "geohash": "636b7"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-13T23:55:15.232000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty59",
+          "retrieved_at": "2026-11-14T11:04:13.381410+00:00"
+        }
+      ]
+    },
+    {
       "event_id": "usgs_us7000ty56",
       "cluster_id": "cluster_eq_rrd",
       "lifecycle_phase": "emerging",
@@ -576,6 +1109,47 @@
           "source_name": "USGS Earthquake Hazards Program",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty56",
           "retrieved_at": "2026-11-14T00:32:52.425189+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000ty53",
+      "cluster_id": "cluster_eq_wvk",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.6 - 74 km S of Yudomari, Japan",
+      "summary": "A magnitude 4.6 earthquake occurred at a depth of 40.852 km: 74 km S of Yudomari, Japan.",
+      "metrics": {
+        "magnitude": 4.6,
+        "depth_km": 40.852,
+        "wind_speed_kmh": null,
+        "alert_score": 5.52
+      },
+      "location": {
+        "country": "Japan",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "74 km S of Yudomari, Japan",
+        "latitude": 29.5604,
+        "longitude": 130.4805,
+        "geohash": "wvkb1"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-13T23:22:54.402000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty53",
+          "retrieved_at": "2026-11-14T11:04:13.381445+00:00"
         }
       ]
     },
@@ -3528,605 +4102,6 @@
           "source_name": "USGS Earthquake Hazards Program",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txx9",
           "retrieved_at": "2026-11-13T00:47:49.022574+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us7000txwp",
-      "cluster_id": "cluster_eq_rrd",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "moderate",
-      "title": "M 5.8 - 148 km NW of Kavieng, Papua New Guinea",
-      "summary": "A magnitude 5.8 earthquake occurred at a depth of 10 km: 148 km NW of Kavieng, Papua New Guinea.",
-      "metrics": {
-        "magnitude": 5.8,
-        "depth_km": 10.0,
-        "wind_speed_kmh": null,
-        "alert_score": 6.96
-      },
-      "location": {
-        "country": "Papua New Guinea",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "148 km NW of Kavieng, Papua New Guinea",
-        "latitude": -1.5882,
-        "longitude": 149.8877,
-        "geohash": "rrdwf"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-12T22:04:06.729000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txwp",
-          "retrieved_at": "2026-11-13T00:47:49.022711+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us7000txwi",
-      "cluster_id": "cluster_eq_ge7",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "minor",
-      "title": "M 4.6 - 117 km S of Akureyri, Iceland",
-      "summary": "A magnitude 4.6 earthquake occurred at a depth of 10 km: 117 km S of Akureyri, Iceland.",
-      "metrics": {
-        "magnitude": 4.6,
-        "depth_km": 10.0,
-        "wind_speed_kmh": null,
-        "alert_score": 5.52
-      },
-      "location": {
-        "country": "Iceland",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "117 km S of Akureyri, Iceland",
-        "latitude": 64.6502,
-        "longitude": -17.6047,
-        "geohash": "ge7rz"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-12T21:53:42.535000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txwi",
-          "retrieved_at": "2026-11-13T00:47:49.022759+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us7000txw9",
-      "cluster_id": "cluster_eq_png",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "moderate",
-      "title": "M 5.1 - western Indian-Antarctic Ridge",
-      "summary": "A magnitude 5.1 earthquake occurred at a depth of 10 km: western Indian-Antarctic Ridge.",
-      "metrics": {
-        "magnitude": 5.1,
-        "depth_km": 10.0,
-        "wind_speed_kmh": null,
-        "alert_score": 6.119999999999999
-      },
-      "location": {
-        "country": "western Indian-Antarctic Ridge",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "western Indian-Antarctic Ridge",
-        "latitude": -51.4273,
-        "longitude": 139.5909,
-        "geohash": "png72"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-12T21:09:14.685000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txw9",
-          "retrieved_at": "2026-11-13T00:47:49.022797+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us7000txvw",
-      "cluster_id": "cluster_eq_wkf",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "minor",
-      "title": "M 4.9 - 41 km N of Weining, China",
-      "summary": "A magnitude 4.9 earthquake occurred at a depth of 10 km: 41 km N of Weining, China.",
-      "metrics": {
-        "magnitude": 4.9,
-        "depth_km": 10.0,
-        "wind_speed_kmh": null,
-        "alert_score": 5.88
-      },
-      "location": {
-        "country": "China",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "41 km N of Weining, China",
-        "latitude": 27.2239,
-        "longitude": 104.1911,
-        "geohash": "wkf4f"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-12T20:03:14.062000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txvw",
-          "retrieved_at": "2026-11-13T00:47:49.022833+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us7000txtd",
-      "cluster_id": "cluster_eq_wb1",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "minor",
-      "title": "M 4.5 - 115 km ESE of Bitung, Indonesia",
-      "summary": "A magnitude 4.5 earthquake occurred at a depth of 39.203 km: 115 km ESE of Bitung, Indonesia.",
-      "metrics": {
-        "magnitude": 4.5,
-        "depth_km": 39.203,
-        "wind_speed_kmh": null,
-        "alert_score": 5.3999999999999995
-      },
-      "location": {
-        "country": "Indonesia",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "115 km ESE of Bitung, Indonesia",
-        "latitude": 1.1216,
-        "longitude": 126.1127,
-        "geohash": "wb1wm"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-12T14:58:32.284000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txtd",
-          "retrieved_at": "2026-11-13T00:47:49.022866+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us7000txsr",
-      "cluster_id": "cluster_eq_xn7",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "minor",
-      "title": "M 4.5 - 3 km E of Tako, Japan",
-      "summary": "A magnitude 4.5 earthquake occurred at a depth of 73.353 km: 3 km E of Tako, Japan.",
-      "metrics": {
-        "magnitude": 4.5,
-        "depth_km": 73.353,
-        "wind_speed_kmh": null,
-        "alert_score": 5.3999999999999995
-      },
-      "location": {
-        "country": "Japan",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "3 km E of Tako, Japan",
-        "latitude": 35.7319,
-        "longitude": 140.5102,
-        "geohash": "xn7gm"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [
-        {
-          "name": "Port of Tokyo / Yokohama",
-          "type": "port",
-          "code": "JPTYO",
-          "country": "Japan",
-          "distance_km": 61.2
-        },
-        {
-          "name": "Tokyo Narita Cargo Gateway",
-          "type": "airport",
-          "code": "NRT",
-          "country": "Japan",
-          "distance_km": 11.8
-        },
-        {
-          "name": "Tokyo Cloud Region (ap-northeast-1)",
-          "type": "datacenter",
-          "code": "AP-TYO",
-          "country": "Japan",
-          "distance_km": 74.1
-        }
-      ],
-      "recommended_agent_actions": [
-        "audit_maritime_berth_JPTYO",
-        "check_air_cargo_delay_NRT",
-        "initiate_cloud_failover_AP-TYO",
-        "reroute_container_freight"
-      ],
-      "timestamp_utc": "2026-11-12T13:27:22.321000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txsr",
-          "retrieved_at": "2026-11-12T19:33:38.742344+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_ed83abefaa855ef5",
-      "cluster_id": "cluster_earthquake_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "earthquake",
-      "severity_level": "moderate",
-      "title": "Green earthquake (Magnitude 5.5M, Depth:59.652km) in Guatemala 10/11/2026 14:54 UTC, 1.2 million in MMI IV.",
-      "summary": "On 11/10/2026 2:54:19 PM, an earthquake occurred in Guatemala potentially affecting 1.2 million in MMI IV. The earthquake had Magnitude 5.5M, Depth:59.652km.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green earthquake (Magnitude 5.5M, Depth:59.652km) in Guatemala 10/11/2026 14:54 UTC, 1.2 million in MMI IV.",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-12T11:58:34.463842+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1576618",
-          "retrieved_at": "2026-11-12T11:58:34.463842+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_6b5d871493316b22",
-      "cluster_id": "cluster_flood_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "flood",
-      "severity_level": "moderate",
-      "title": "Green flood alert in Myanmar",
-      "summary": "On 10/11/2026, a flood started in Myanmar, lasting until 12/11/2026 (last update). The flood caused 0 deaths and 50 displaced .",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green flood alert in Myanmar",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-12T11:58:34.463842+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104280",
-          "retrieved_at": "2026-11-12T11:58:34.463842+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_3aae89df6ff24d6a",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "emerging",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Drought is on going in New Zealand",
-      "summary": "The  Drought notification level is Green.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Drought is on going in New Zealand",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-12T11:58:34.463842+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=DR&eventid=1027737",
-          "retrieved_at": "2026-11-12T11:58:34.463842+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_043c059d01c356a6",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "emerging",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Drought is on going in China, Kazakhstan, Mongolia, Russia",
-      "summary": "The  Drought notification level is Green.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Drought is on going in China, Kazakhstan, Mongolia, Russia",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-12T11:58:34.463842+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=DR&eventid=1027491",
-          "retrieved_at": "2026-11-12T11:58:34.463842+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_eb80ec46ceaf3318",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "emerging",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Drought is on going in Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam",
-      "summary": "The  Drought notification level is Green.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Drought is on going in Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-12T11:58:34.463842+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=DR&eventid=1027462",
-          "retrieved_at": "2026-11-12T11:58:34.463842+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_f6ee5ac0da2e403a",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "emerging",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Drought is on going in Burundi, Democratic Republic of Congo, Central African Republic, Eritrea, Ethiopia, Kenya, Niger, Nigeria, Rwanda, Sudan, South Sudan, Chad, Tanzania, Uganda",
-      "summary": "The  Drought notification level is Orange.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Drought is on going in Burundi, Democratic Republic of Congo, Central African Republic, Eritrea, Ethiopia, Kenya, Niger, Nigeria, Rwanda, Sudan, South Sudan, Chad, Tanzania, Uganda",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-12T11:58:34.463842+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=DR&eventid=1027450",
-          "retrieved_at": "2026-11-12T11:58:34.463842+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us7000txrk",
-      "cluster_id": "cluster_eq_9pg",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "minor",
-      "title": "M 4.5 - off the coast of Oregon",
-      "summary": "A magnitude 4.5 earthquake occurred at a depth of 10 km: off the coast of Oregon.",
-      "metrics": {
-        "magnitude": 4.5,
-        "depth_km": 10.0,
-        "wind_speed_kmh": null,
-        "alert_score": 5.3999999999999995
-      },
-      "location": {
-        "country": "off the coast of Oregon",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "off the coast of Oregon",
-        "latitude": 44.4539,
-        "longitude": -129.6205,
-        "geohash": "9pguf"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-12T08:17:28.440000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txrk",
-          "retrieved_at": "2026-11-12T11:58:31.477950+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us7000txqx",
-      "cluster_id": "cluster_eq_xpn",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "minor",
-      "title": "M 4.8 - 155 km E of Noda, Japan",
-      "summary": "A magnitude 4.8 earthquake occurred at a depth of 33.039 km: 155 km E of Noda, Japan.",
-      "metrics": {
-        "magnitude": 4.8,
-        "depth_km": 33.039,
-        "wind_speed_kmh": null,
-        "alert_score": 5.76
-      },
-      "location": {
-        "country": "Japan",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "155 km E of Noda, Japan",
-        "latitude": 40.3593,
-        "longitude": 143.6115,
-        "geohash": "xpnje"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-12T04:07:32.379000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqx",
-          "retrieved_at": "2026-11-12T11:58:31.478093+00:00"
         }
       ]
     }

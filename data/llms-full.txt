@@ -1,7 +1,103 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-11-14T00:32:55.489431+00:00
+Generated: 2026-11-14T11:04:17.493109+00:00
 
 ## Active Incident Telemetry
+### [EARTHQUAKE] Green earthquake (Magnitude 5.5M, Depth:10km) in Northern Mid-Atlantic Ridge 14/11/2026 09:26 UTC, [unknown].
+- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green earthquake (Magnitude 5.5M, Depth:10km) in Northern Mid-Atlantic Ridge 14/11/2026 09:26 UTC, [unknown]. (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 11/14/2026 9:26:13 AM, an earthquake occurred in Northern Mid-Atlantic Ridge potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:10km.
+
+### [SEVERE_WEATHER] Green forest fire notification in Australia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 12/11/2026, a forest fire started in Australia,  until 14/11/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Australia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 11/11/2026, a forest fire started in Australia,  until 14/11/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Australia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 06/11/2026, a forest fire started in Australia,  until 14/11/2026.
+
+### [EARTHQUAKE] M 5.5 - northern Mid-Atlantic Ridge
+- **Cluster ID:** `cluster_eq_ej3` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** northern Mid-Atlantic Ridge (northern Mid-Atlantic Ridge) | Geohash: `ej3em`
+- **Coordinates:** `[30.122, -42.6346]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.5 earthquake occurred at a depth of 10 km: northern Mid-Atlantic Ridge.
+
+### [EARTHQUAKE] M 4.6 - 102 km NNE of Hihifo, Tonga
+- **Cluster ID:** `cluster_eq_2jk` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 102 km NNE of Hihifo, Tonga (Tonga) | Geohash: `2jkdj`
+- **Coordinates:** `[-15.0887, -173.446]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 10 km: 102 km NNE of Hihifo, Tonga.
+
+### [EARTHQUAKE] M 5.2 - State of Yap, Federated States of Micronesia
+- **Cluster ID:** `cluster_eq_x38` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** State of Yap, Federated States of Micronesia (Federated States of Micronesia) | Geohash: `x38z1`
+- **Coordinates:** `[9.7032, 147.3631]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.2 earthquake occurred at a depth of 10 km: State of Yap, Federated States of Micronesia.
+
+### [EARTHQUAKE] M 4.8 - West Chile Rise
+- **Cluster ID:** `cluster_eq_3cd` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** West Chile Rise (West Chile Rise) | Geohash: `3cd2d`
+- **Coordinates:** `[-36.4613, -97.9575]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 10 km: West Chile Rise.
+
+### [EARTHQUAKE] M 4.5 - western Indian-Antarctic Ridge
+- **Cluster ID:** `cluster_eq_pp5` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** western Indian-Antarctic Ridge (western Indian-Antarctic Ridge) | Geohash: `pp536`
+- **Coordinates:** `[-50.3735, 139.6657]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.5 earthquake occurred at a depth of 10 km: western Indian-Antarctic Ridge.
+
+### [EARTHQUAKE] M 4.7 - 54 km NW of San Antonio de los Cobres, Argentina
+- **Cluster ID:** `cluster_eq_6e8` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 54 km NW of San Antonio de los Cobres, Argentina (Argentina) | Geohash: `6e8xb`
+- **Coordinates:** `[-23.9436, -66.7642]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.7 earthquake occurred at a depth of 216.092 km: 54 km NW of San Antonio de los Cobres, Argentina.
+
+### [EARTHQUAKE] M 5.2 - off the west coast of northern Sumatra
+- **Cluster ID:** `cluster_eq_w0d` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** off the west coast of northern Sumatra (off the west coast of northern Sumatra) | Geohash: `w0d4b`
+- **Coordinates:** `[3.304, 92.8261]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.2 earthquake occurred at a depth of 10 km: off the west coast of northern Sumatra.
+
+### [EARTHQUAKE] M 4.5 - Fiji region
+- **Cluster ID:** `cluster_eq_2h9` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** Fiji region (Fiji region) | Geohash: `2h98e`
+- **Coordinates:** `[-19.5803, -177.739]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.5 earthquake occurred at a depth of 587.447 km: Fiji region.
+
 ### [SEVERE_WEATHER] Green forest fire notification in Australia
 - **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
 - **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
@@ -106,6 +202,14 @@ Generated: 2026-11-14T00:32:55.489431+00:00
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 04/11/2026, a forest fire started in Australia,  until 13/11/2026.
 
+### [EARTHQUAKE] M 4.6 - 100 km WSW of Lebu, Chile
+- **Cluster ID:** `cluster_eq_636` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 100 km WSW of Lebu, Chile (Chile) | Geohash: `636b7`
+- **Coordinates:** `[-37.922, -74.7229]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 10 km: 100 km WSW of Lebu, Chile.
+
 ### [EARTHQUAKE] M 5.1 - 153 km NW of Kavieng, Papua New Guinea
 - **Cluster ID:** `cluster_eq_rrd` | **Severity:** `moderate` | **Phase:** `emerging`
 - **Location:** 153 km NW of Kavieng, Papua New Guinea (Papua New Guinea) | Geohash: `rrdx7`
@@ -113,6 +217,14 @@ Generated: 2026-11-14T00:32:55.489431+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** A magnitude 5.1 earthquake occurred at a depth of 10 km: 153 km NW of Kavieng, Papua New Guinea.
+
+### [EARTHQUAKE] M 4.6 - 74 km S of Yudomari, Japan
+- **Cluster ID:** `cluster_eq_wvk` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 74 km S of Yudomari, Japan (Japan) | Geohash: `wvkb1`
+- **Coordinates:** `[29.5604, 130.4805]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 40.852 km: 74 km S of Yudomari, Japan.
 
 ### [EARTHQUAKE] M 4.9 - south of the Kermadec Islands
 - **Cluster ID:** `cluster_eq_240` | **Severity:** `minor` | **Phase:** `emerging`
@@ -689,116 +801,4 @@ Generated: 2026-11-14T00:32:55.489431+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** A magnitude 5.1 earthquake occurred at a depth of 43.358 km: 39 km S of Moíres, Greece.
-
-### [EARTHQUAKE] M 5.8 - 148 km NW of Kavieng, Papua New Guinea
-- **Cluster ID:** `cluster_eq_rrd` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** 148 km NW of Kavieng, Papua New Guinea (Papua New Guinea) | Geohash: `rrdwf`
-- **Coordinates:** `[-1.5882, 149.8877]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.8 earthquake occurred at a depth of 10 km: 148 km NW of Kavieng, Papua New Guinea.
-
-### [EARTHQUAKE] M 4.6 - 117 km S of Akureyri, Iceland
-- **Cluster ID:** `cluster_eq_ge7` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 117 km S of Akureyri, Iceland (Iceland) | Geohash: `ge7rz`
-- **Coordinates:** `[64.6502, -17.6047]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 10 km: 117 km S of Akureyri, Iceland.
-
-### [EARTHQUAKE] M 5.1 - western Indian-Antarctic Ridge
-- **Cluster ID:** `cluster_eq_png` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** western Indian-Antarctic Ridge (western Indian-Antarctic Ridge) | Geohash: `png72`
-- **Coordinates:** `[-51.4273, 139.5909]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.1 earthquake occurred at a depth of 10 km: western Indian-Antarctic Ridge.
-
-### [EARTHQUAKE] M 4.9 - 41 km N of Weining, China
-- **Cluster ID:** `cluster_eq_wkf` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 41 km N of Weining, China (China) | Geohash: `wkf4f`
-- **Coordinates:** `[27.2239, 104.1911]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 10 km: 41 km N of Weining, China.
-
-### [EARTHQUAKE] M 4.5 - 115 km ESE of Bitung, Indonesia
-- **Cluster ID:** `cluster_eq_wb1` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 115 km ESE of Bitung, Indonesia (Indonesia) | Geohash: `wb1wm`
-- **Coordinates:** `[1.1216, 126.1127]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.5 earthquake occurred at a depth of 39.203 km: 115 km ESE of Bitung, Indonesia.
-
-### [EARTHQUAKE] M 4.5 - 3 km E of Tako, Japan
-- **Cluster ID:** `cluster_eq_xn7` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 3 km E of Tako, Japan (Japan) | Geohash: `xn7gm`
-- **Coordinates:** `[35.7319, 140.5102]`
-- **Exposed Infrastructure:** Port of Tokyo / Yokohama (61.2km), Tokyo Narita Cargo Gateway (11.8km), Tokyo Cloud Region (ap-northeast-1) (74.1km)
-- **Recommended Agent Actions:** audit_maritime_berth_JPTYO, check_air_cargo_delay_NRT, initiate_cloud_failover_AP-TYO, reroute_container_freight
-- **Summary:** A magnitude 4.5 earthquake occurred at a depth of 73.353 km: 3 km E of Tako, Japan.
-
-### [EARTHQUAKE] Green earthquake (Magnitude 5.5M, Depth:59.652km) in Guatemala 10/11/2026 14:54 UTC, 1.2 million in MMI IV.
-- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green earthquake (Magnitude 5.5M, Depth:59.652km) in Guatemala 10/11/2026 14:54 UTC, 1.2 million in MMI IV. (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 11/10/2026 2:54:19 PM, an earthquake occurred in Guatemala potentially affecting 1.2 million in MMI IV. The earthquake had Magnitude 5.5M, Depth:59.652km.
-
-### [FLOOD] Green flood alert in Myanmar
-- **Cluster ID:** `cluster_flood_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green flood alert in Myanmar (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 10/11/2026, a flood started in Myanmar, lasting until 12/11/2026 (last update). The flood caused 0 deaths and 50 displaced .
-
-### [SEVERE_WEATHER] Drought is on going in New Zealand
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** Drought is on going in New Zealand (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** The  Drought notification level is Green.
-
-### [SEVERE_WEATHER] Drought is on going in China, Kazakhstan, Mongolia, Russia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** Drought is on going in China, Kazakhstan, Mongolia, Russia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** The  Drought notification level is Green.
-
-### [SEVERE_WEATHER] Drought is on going in Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** Drought is on going in Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** The  Drought notification level is Green.
-
-### [SEVERE_WEATHER] Drought is on going in Burundi, Democratic Republic of Congo, Central African Republic, Eritrea, Ethiopia, Kenya, Niger, Nigeria, Rwanda, Sudan, South Sudan, Chad, Tanzania, Uganda
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** Drought is on going in Burundi, Democratic Republic of Congo, Central African Republic, Eritrea, Ethiopia, Kenya, Niger, Nigeria, Rwanda, Sudan, South Sudan, Chad, Tanzania, Uganda (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** The  Drought notification level is Orange.
-
-### [EARTHQUAKE] M 4.5 - off the coast of Oregon
-- **Cluster ID:** `cluster_eq_9pg` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** off the coast of Oregon (off the coast of Oregon) | Geohash: `9pguf`
-- **Coordinates:** `[44.4539, -129.6205]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.5 earthquake occurred at a depth of 10 km: off the coast of Oregon.
-
-### [EARTHQUAKE] M 4.8 - 155 km E of Noda, Japan
-- **Cluster ID:** `cluster_eq_xpn` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 155 km E of Noda, Japan (Japan) | Geohash: `xpnje`
-- **Coordinates:** `[40.3593, 143.6115]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 33.039 km: 155 km E of Noda, Japan.
 
