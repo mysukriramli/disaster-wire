@@ -1,7 +1,47 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-11-14T17:27:26.607333+00:00
+Generated: 2026-11-14T23:29:42.249853+00:00
 
 ## Active Incident Telemetry
+### [SEVERE_WEATHER] Green forest fire notification in Nigeria
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Nigeria (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 10/11/2026, a forest fire started in Nigeria,  until 14/11/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in South Sudan, Sudan
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in South Sudan, Sudan (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 06/11/2026, a forest fire started in South Sudan, Sudan,  until 14/11/2026.
+
+### [EARTHQUAKE] M 4.7 - east central Pacific Ocean
+- **Cluster ID:** `cluster_eq_9b9` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** east central Pacific Ocean (east central Pacific Ocean) | Geohash: `9b9t0`
+- **Coordinates:** `[3.7323, -99.113]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.7 earthquake occurred at a depth of 10 km: east central Pacific Ocean.
+
+### [EARTHQUAKE] M 4.5 - 25 km N of Ruteng, Indonesia
+- **Cluster ID:** `cluster_eq_qwt` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 25 km N of Ruteng, Indonesia (Indonesia) | Geohash: `qwt8k`
+- **Coordinates:** `[-8.3823, 120.443]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.5 earthquake occurred at a depth of 10 km: 25 km N of Ruteng, Indonesia.
+
+### [EARTHQUAKE] M 4.7 - 24 km S of Yacuiba, Bolivia
+- **Cluster ID:** `cluster_eq_6s4` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 24 km S of Yacuiba, Bolivia (Bolivia) | Geohash: `6s49r`
+- **Coordinates:** `[-22.2364, -63.653]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.7 earthquake occurred at a depth of 506.268 km: 24 km S of Yacuiba, Bolivia.
+
 ### [SEVERE_WEATHER] Green forest fire notification in Australia
 - **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
 - **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
@@ -145,6 +185,22 @@ Generated: 2026-11-14T17:27:26.607333+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 05/11/2026, a forest fire started in India,  until 14/11/2026.
+
+### [EARTHQUAKE] M 4.6 - 96 km SSE of Pondaguitan, Philippines
+- **Cluster ID:** `cluster_eq_wbf` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 96 km SSE of Pondaguitan, Philippines (Philippines) | Geohash: `wbfpc`
+- **Coordinates:** `[5.5982, 126.6097]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 65.399 km: 96 km SSE of Pondaguitan, Philippines.
+
+### [EARTHQUAKE] M 4.6 - 62 km WNW of San Antonio de los Cobres, Argentina
+- **Cluster ID:** `cluster_eq_6e8` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 62 km WNW of San Antonio de los Cobres, Argentina (Argentina) | Geohash: `6e8rj`
+- **Coordinates:** `[-24.049, -66.9029]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 197.571 km: 62 km WNW of San Antonio de los Cobres, Argentina.
 
 ### [EARTHQUAKE] M 4.9 - 7 km SE of Tagbina, Philippines
 - **Cluster ID:** `cluster_eq_wc3` | **Severity:** `minor` | **Phase:** `emerging`
@@ -369,6 +425,14 @@ Generated: 2026-11-14T17:27:26.607333+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 04/11/2026, a forest fire started in Australia,  until 13/11/2026.
+
+### [EARTHQUAKE] M 4.5 - 22 km NE of Kinablangan, Philippines
+- **Cluster ID:** `cluster_eq_wc6` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 22 km NE of Kinablangan, Philippines (Philippines) | Geohash: `wc6hd`
+- **Coordinates:** `[7.8529, 126.6692]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.5 earthquake occurred at a depth of 10 km: 22 km NE of Kinablangan, Philippines.
 
 ### [EARTHQUAKE] M 4.6 - 100 km WSW of Lebu, Chile
 - **Cluster ID:** `cluster_eq_636` | **Severity:** `minor` | **Phase:** `emerging`
@@ -737,68 +801,4 @@ Generated: 2026-11-14T17:27:26.607333+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 10/11/2026, a forest fire started in Botswana,  until 13/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in South Sudan
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in South Sudan (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 10/11/2026, a forest fire started in South Sudan,  until 13/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 10/11/2026, a forest fire started in Australia,  until 11/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Mali
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Mali (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 10/11/2026, a forest fire started in Mali,  until 12/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in South Sudan, Sudan
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in South Sudan, Sudan (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 10/11/2026, a forest fire started in South Sudan, Sudan,  until 12/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 10/11/2026, a forest fire started in Australia,  until 12/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Bolivia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Bolivia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 09/11/2026, a forest fire started in Bolivia,  until 12/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Chad
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Chad (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 09/11/2026, a forest fire started in Chad,  until 12/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 09/11/2026, a forest fire started in Australia,  until 12/11/2026.
 

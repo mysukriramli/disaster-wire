@@ -1,8 +1,213 @@
 {
   "archive_date": "2026-11-14",
-  "total_incidents": 135,
-  "updated_at": "2026-11-14T17:27:26.607707+00:00",
+  "total_incidents": 143,
+  "updated_at": "2026-11-14T23:29:42.250334+00:00",
   "events": [
+    {
+      "event_id": "gdacs_476114faea317ab5",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Nigeria",
+      "summary": "On 10/11/2026, a forest fire started in Nigeria,  until 14/11/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Nigeria",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-14T23:29:41.515463+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033851",
+          "retrieved_at": "2026-11-14T23:29:41.515463+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_d6b3e49c8d10e57d",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in South Sudan, Sudan",
+      "summary": "On 06/11/2026, a forest fire started in South Sudan, Sudan,  until 14/11/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in South Sudan, Sudan",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-14T23:29:41.515463+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033852",
+          "retrieved_at": "2026-11-14T23:29:41.515463+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000tyay",
+      "cluster_id": "cluster_eq_9b9",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.7 - east central Pacific Ocean",
+      "summary": "A magnitude 4.7 earthquake occurred at a depth of 10 km: east central Pacific Ocean.",
+      "metrics": {
+        "magnitude": 4.7,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.64
+      },
+      "location": {
+        "country": "east central Pacific Ocean",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "east central Pacific Ocean",
+        "latitude": 3.7323,
+        "longitude": -99.113,
+        "geohash": "9b9t0"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-14T22:23:46.411000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyay",
+          "retrieved_at": "2026-11-14T23:29:39.075330+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000tyan",
+      "cluster_id": "cluster_eq_qwt",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.5 - 25 km N of Ruteng, Indonesia",
+      "summary": "A magnitude 4.5 earthquake occurred at a depth of 10 km: 25 km N of Ruteng, Indonesia.",
+      "metrics": {
+        "magnitude": 4.5,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.3999999999999995
+      },
+      "location": {
+        "country": "Indonesia",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "25 km N of Ruteng, Indonesia",
+        "latitude": -8.3823,
+        "longitude": 120.443,
+        "geohash": "qwt8k"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-14T21:24:20.159000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyan",
+          "retrieved_at": "2026-11-14T23:29:39.075471+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000ty9z",
+      "cluster_id": "cluster_eq_6s4",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.7 - 24 km S of Yacuiba, Bolivia",
+      "summary": "A magnitude 4.7 earthquake occurred at a depth of 506.268 km: 24 km S of Yacuiba, Bolivia.",
+      "metrics": {
+        "magnitude": 4.7,
+        "depth_km": 506.268,
+        "wind_speed_kmh": null,
+        "alert_score": 5.64
+      },
+      "location": {
+        "country": "Bolivia",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "24 km S of Yacuiba, Bolivia",
+        "latitude": -22.2364,
+        "longitude": -63.653,
+        "geohash": "6s49r"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-14T18:04:01.078000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9z",
+          "retrieved_at": "2026-11-14T23:29:39.075530+00:00"
+        }
+      ]
+    },
     {
       "event_id": "gdacs_59e6bc5244e0d204",
       "cluster_id": "cluster_severe_weather_000",
@@ -738,6 +943,88 @@
           "source_name": "GDACS",
           "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033841",
           "retrieved_at": "2026-11-14T17:27:25.836482+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000ty9v",
+      "cluster_id": "cluster_eq_wbf",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.6 - 96 km SSE of Pondaguitan, Philippines",
+      "summary": "A magnitude 4.6 earthquake occurred at a depth of 65.399 km: 96 km SSE of Pondaguitan, Philippines.",
+      "metrics": {
+        "magnitude": 4.6,
+        "depth_km": 65.399,
+        "wind_speed_kmh": null,
+        "alert_score": 5.52
+      },
+      "location": {
+        "country": "Philippines",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "96 km SSE of Pondaguitan, Philippines",
+        "latitude": 5.5982,
+        "longitude": 126.6097,
+        "geohash": "wbfpc"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-14T16:56:39.533000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9v",
+          "retrieved_at": "2026-11-14T23:29:39.075586+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000ty9n",
+      "cluster_id": "cluster_eq_6e8",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.6 - 62 km WNW of San Antonio de los Cobres, Argentina",
+      "summary": "A magnitude 4.6 earthquake occurred at a depth of 197.571 km: 62 km WNW of San Antonio de los Cobres, Argentina.",
+      "metrics": {
+        "magnitude": 4.6,
+        "depth_km": 197.571,
+        "wind_speed_kmh": null,
+        "alert_score": 5.52
+      },
+      "location": {
+        "country": "Argentina",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "62 km WNW of San Antonio de los Cobres, Argentina",
+        "latitude": -24.049,
+        "longitude": -66.9029,
+        "geohash": "6e8rj"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-14T16:36:19.635000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9n",
+          "retrieved_at": "2026-11-14T23:29:39.075637+00:00"
         }
       ]
     },
@@ -1886,6 +2173,47 @@
           "source_name": "GDACS",
           "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033824",
           "retrieved_at": "2026-11-14T00:32:54.807000+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000ty5b",
+      "cluster_id": "cluster_eq_wc6",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.5 - 22 km NE of Kinablangan, Philippines",
+      "summary": "A magnitude 4.5 earthquake occurred at a depth of 10 km: 22 km NE of Kinablangan, Philippines.",
+      "metrics": {
+        "magnitude": 4.5,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.3999999999999995
+      },
+      "location": {
+        "country": "Philippines",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "22 km NE of Kinablangan, Philippines",
+        "latitude": 7.8529,
+        "longitude": 126.6692,
+        "geohash": "wc6hd"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-13T23:58:23.875000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty5b",
+          "retrieved_at": "2026-11-14T23:29:39.075696+00:00"
         }
       ]
     },
