@@ -1,10 +1,666 @@
 {
   "metadata": {
-    "generated_at": "2026-11-18T12:27:53.192555+00:00",
+    "generated_at": "2026-11-18T22:45:46.534338+00:00",
     "total_active_events": 100,
     "schema_version": "2.1.0"
   },
   "events": [
+    {
+      "event_id": "gdacs_3ee0d414bb23ab16",
+      "cluster_id": "cluster_earthquake_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "Green earthquake (Magnitude 6.1M, Depth:10km) in Pacific-Antarctic Ridge 18/11/2026 19:14 UTC, [unknown].",
+      "summary": "On 11/18/2026 7:14:23 PM, an earthquake occurred in Pacific-Antarctic Ridge potentially affecting [unknown]. The earthquake had Magnitude 6.1M, Depth:10km.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green earthquake (Magnitude 6.1M, Depth:10km) in Pacific-Antarctic Ridge 18/11/2026 19:14 UTC, [unknown].",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-18T22:45:45.782208+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1578046",
+          "retrieved_at": "2026-11-18T22:45:45.782208+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_4db6ef2debb48494",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Botswana",
+      "summary": "On 17/11/2026, a forest fire started in Botswana,  until 18/11/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Botswana",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-18T22:45:45.782208+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033946",
+          "retrieved_at": "2026-11-18T22:45:45.782208+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_0d369f258e9f4d26",
+      "cluster_id": "cluster_cyclone_000",
+      "lifecycle_phase": "emerging",
+      "event_type": "cyclone",
+      "severity_level": "catastrophic",
+      "title": "Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (23.165 million in Tropical Storm).",
+      "summary": "From 16/11/2026 to 18/11/2026, a Tropical Storm (maximum wind speed of 83 km/h) AKVAN-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (23.165 million in tropical storm).",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (23.165 million in Tropical Storm).",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-18T22:45:45.782208+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001351",
+          "retrieved_at": "2026-11-18T22:45:45.782208+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_479ff5876e463629",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Nigeria",
+      "summary": "On 15/11/2026, a forest fire started in Nigeria,  until 18/11/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Nigeria",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-18T22:45:45.782208+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033947",
+          "retrieved_at": "2026-11-18T22:45:45.782208+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_71784adebfcde135",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Sudan",
+      "summary": "On 15/11/2026, a forest fire started in Sudan,  until 18/11/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Sudan",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-18T22:45:45.782208+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033948",
+          "retrieved_at": "2026-11-18T22:45:45.782208+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_78b740e637a24271",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Botswana",
+      "summary": "On 14/11/2026, a forest fire started in Botswana,  until 18/11/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Botswana",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-18T22:45:45.782208+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033949",
+          "retrieved_at": "2026-11-18T22:45:45.782208+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_ca999dd08ff468de",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in India",
+      "summary": "On 13/11/2026, a forest fire started in India,  until 18/11/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in India",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-18T22:45:45.782208+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033944",
+          "retrieved_at": "2026-11-18T22:45:45.782208+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_f08bc9a4e88b977b",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Central African Republic",
+      "summary": "On 12/11/2026, a forest fire started in Central African Republic,  until 18/11/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Central African Republic",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-18T22:45:45.782208+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033945",
+          "retrieved_at": "2026-11-18T22:45:45.782208+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_31c09313bf11a1d5",
+      "cluster_id": "cluster_severe_weather_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "severe_weather",
+      "severity_level": "moderate",
+      "title": "Green forest fire notification in Sudan, South Sudan",
+      "summary": "On 12/11/2026, a forest fire started in Sudan, South Sudan,  until 18/11/2026.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green forest fire notification in Sudan, South Sudan",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-18T22:45:45.782208+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033950",
+          "retrieved_at": "2026-11-18T22:45:45.782208+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000ubw3",
+      "cluster_id": "cluster_eq_zc4",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.1 - 157 km S of Attu Station, Alaska",
+      "summary": "A magnitude 5.1 earthquake occurred at a depth of 10 km: 157 km S of Attu Station, Alaska.",
+      "metrics": {
+        "magnitude": 5.1,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.119999999999999
+      },
+      "location": {
+        "country": "Alaska",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "157 km S of Attu Station, Alaska",
+        "latitude": 51.445,
+        "longitude": 172.9,
+        "geohash": "zc4uw"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-18T21:28:47.873000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubw3",
+          "retrieved_at": "2026-11-18T22:45:43.588779+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000ubvu",
+      "cluster_id": "cluster_eq_rr2",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.7 - 134 km SW of Lorengau, Papua New Guinea",
+      "summary": "A magnitude 4.7 earthquake occurred at a depth of 16.856 km: 134 km SW of Lorengau, Papua New Guinea.",
+      "metrics": {
+        "magnitude": 4.7,
+        "depth_km": 16.856,
+        "wind_speed_kmh": null,
+        "alert_score": 5.64
+      },
+      "location": {
+        "country": "Papua New Guinea",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "134 km SW of Lorengau, Papua New Guinea",
+        "latitude": -2.9421,
+        "longitude": 146.4693,
+        "geohash": "rr2pk"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-18T20:38:39.129000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubvu",
+          "retrieved_at": "2026-11-18T22:45:43.588937+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000tz37",
+      "cluster_id": "cluster_eq_0tx",
+      "lifecycle_phase": "escalating",
+      "event_type": "earthquake",
+      "severity_level": "severe",
+      "title": "M 6.1 - Pacific-Antarctic Ridge",
+      "summary": "A magnitude 6.1 earthquake occurred at a depth of 10 km: Pacific-Antarctic Ridge.",
+      "metrics": {
+        "magnitude": 6.1,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 7.319999999999999
+      },
+      "location": {
+        "country": "Pacific-Antarctic Ridge",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Pacific-Antarctic Ridge",
+        "latitude": -57.7514,
+        "longitude": -146.746,
+        "geohash": "0txxk"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-18T19:14:23.713000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz37",
+          "retrieved_at": "2026-11-18T22:45:43.589007+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000tz33",
+      "cluster_id": "cluster_eq_6kp",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.5 - 23 km SSW of Ollag\u00fce, Chile",
+      "summary": "A magnitude 4.5 earthquake occurred at a depth of 133.871 km: 23 km SSW of Ollag\u00fce, Chile.",
+      "metrics": {
+        "magnitude": 4.5,
+        "depth_km": 133.871,
+        "wind_speed_kmh": null,
+        "alert_score": 5.3999999999999995
+      },
+      "location": {
+        "country": "Chile",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "23 km SSW of Ollag\u00fce, Chile",
+        "latitude": -21.411,
+        "longitude": -68.368,
+        "geohash": "6kpqh"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-18T18:46:53.317000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz33",
+          "retrieved_at": "2026-11-18T22:45:43.589066+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000tz2w",
+      "cluster_id": "cluster_eq_kz0",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.0 - 46 km NNE of Kilimatinde, Tanzania",
+      "summary": "A magnitude 5.0 earthquake occurred at a depth of 10 km: 46 km NNE of Kilimatinde, Tanzania.",
+      "metrics": {
+        "magnitude": 5.0,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.0
+      },
+      "location": {
+        "country": "Tanzania",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "46 km NNE of Kilimatinde, Tanzania",
+        "latitude": -5.4599,
+        "longitude": 35.1065,
+        "geohash": "kz0by"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-18T18:08:00.785000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz2w",
+          "retrieved_at": "2026-11-18T22:45:43.589126+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000tz1n",
+      "cluster_id": "cluster_eq_wvs",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.3 - 4 km NNW of Tsunagi, Japan",
+      "summary": "A magnitude 5.3 earthquake occurred at a depth of 10 km: 4 km NNW of Tsunagi, Japan.",
+      "metrics": {
+        "magnitude": 5.3,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.359999999999999
+      },
+      "location": {
+        "country": "Japan",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "4 km NNW of Tsunagi, Japan",
+        "latitude": 32.2779,
+        "longitude": 130.4609,
+        "geohash": "wvsz8"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-18T17:22:23.454000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz1n",
+          "retrieved_at": "2026-11-18T22:45:43.589212+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us7000tz1a",
+      "cluster_id": "cluster_eq_x4n",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.3 - 149 km SSW of Merizo Village, Guam",
+      "summary": "A magnitude 5.3 earthquake occurred at a depth of 10 km: 149 km SSW of Merizo Village, Guam.",
+      "metrics": {
+        "magnitude": 5.3,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.359999999999999
+      },
+      "location": {
+        "country": "Guam",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "149 km SSW of Merizo Village, Guam",
+        "latitude": 12.0918,
+        "longitude": 143.9927,
+        "geohash": "x4nku"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-18T16:06:51.220000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz1a",
+          "retrieved_at": "2026-11-18T22:45:43.589265+00:00"
+        }
+      ]
+    },
     {
       "event_id": "gdacs_c8b778641bb9ee80",
       "cluster_id": "cluster_earthquake_000",
@@ -1974,6 +2630,47 @@
       ]
     },
     {
+      "event_id": "usgs_us7000tyyp",
+      "cluster_id": "cluster_eq_scs",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.6 - 10 km ESE of Metah\u0101ra, Ethiopia",
+      "summary": "A magnitude 4.6 earthquake occurred at a depth of 10 km: 10 km ESE of Metah\u0101ra, Ethiopia.",
+      "metrics": {
+        "magnitude": 4.6,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.52
+      },
+      "location": {
+        "country": "Ethiopia",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "10 km ESE of Metah\u0101ra, Ethiopia",
+        "latitude": 8.868,
+        "longitude": 40.0032,
+        "geohash": "scs6q"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-17T22:52:05.954000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyyp",
+          "retrieved_at": "2026-11-18T22:45:43.589330+00:00"
+        }
+      ]
+    },
+    {
       "event_id": "usgs_us7000tytz",
       "cluster_id": "cluster_eq_rsz",
       "lifecycle_phase": "emerging",
@@ -3405,703 +4102,6 @@
           "source_name": "USGS Earthquake Hazards Program",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyqi",
           "retrieved_at": "2026-11-17T05:39:47.943669+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us7000tyq5",
-      "cluster_id": "cluster_eq_rtg",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "moderate",
-      "title": "M 5.0 - 137 km SSE of Kirakira, Solomon Islands",
-      "summary": "A magnitude 5.0 earthquake occurred at a depth of 10 km: 137 km SSE of Kirakira, Solomon Islands.",
-      "metrics": {
-        "magnitude": 5.0,
-        "depth_km": 10.0,
-        "wind_speed_kmh": null,
-        "alert_score": 6.0
-      },
-      "location": {
-        "country": "Solomon Islands",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "137 km SSE of Kirakira, Solomon Islands",
-        "latitude": -11.5293,
-        "longitude": 162.5497,
-        "geohash": "rtgw6"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-17T02:00:17.654000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyq5",
-          "retrieved_at": "2026-11-17T05:39:47.943811+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_8d1413596753d967",
-      "cluster_id": "cluster_earthquake_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "earthquake",
-      "severity_level": "moderate",
-      "title": "Green earthquake (Magnitude 6.6M, Depth:68km) in Indonesia 16/11/2026 21:11 UTC, 6 thousand in MMI V.",
-      "summary": "On 11/16/2026 9:11:17 PM, an earthquake occurred in Indonesia potentially affecting 6 thousand in MMI V. The earthquake had Magnitude 6.6M, Depth:68km.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green earthquake (Magnitude 6.6M, Depth:68km) in Indonesia 16/11/2026 21:11 UTC, 6 thousand in MMI V.",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-16T23:54:24.602195+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1577696",
-          "retrieved_at": "2026-11-16T23:54:24.602195+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_66763a1e571383b1",
-      "cluster_id": "cluster_cyclone_000",
-      "lifecycle_phase": "emerging",
-      "event_type": "cyclone",
-      "severity_level": "catastrophic",
-      "title": "Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (20.826 million in Tropical Storm).",
-      "summary": "From 16/11/2026 to 16/11/2026, a Tropical Storm (maximum wind speed of 93 km/h) AKVAN-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (20.826 million in tropical storm).",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (20.826 million in Tropical Storm).",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-16T23:54:24.602195+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001351",
-          "retrieved_at": "2026-11-16T23:54:24.602195+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_1e06ed241e3435f5",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in Burkina Faso",
-      "summary": "On 13/11/2026, a forest fire started in Burkina Faso,  until 16/11/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in Burkina Faso",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-16T23:54:24.602195+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033894",
-          "retrieved_at": "2026-11-16T23:54:24.602195+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_932ec0d8d01b05fb",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in Benin, Niger, Burkina Faso",
-      "summary": "On 12/11/2026, a forest fire started in Benin, Niger, Burkina Faso,  until 16/11/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in Benin, Niger, Burkina Faso",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-16T23:54:24.602195+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033895",
-          "retrieved_at": "2026-11-16T23:54:24.602195+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_448d7edc9811a575",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in Benin, Burkina Faso",
-      "summary": "On 12/11/2026, a forest fire started in Benin, Burkina Faso,  until 16/11/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in Benin, Burkina Faso",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-16T23:54:24.602195+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033896",
-          "retrieved_at": "2026-11-16T23:54:24.602195+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_ad0d37f9e5991bcb",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in Nigeria",
-      "summary": "On 12/11/2026, a forest fire started in Nigeria,  until 16/11/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in Nigeria",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-16T23:54:24.602195+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033886",
-          "retrieved_at": "2026-11-16T23:54:24.602195+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_5f91c720ef9e76d8",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in Botswana",
-      "summary": "On 11/11/2026, a forest fire started in Botswana,  until 16/11/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in Botswana",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-16T23:54:24.602195+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033897",
-          "retrieved_at": "2026-11-16T23:54:24.602195+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_1aa5d36d52855cce",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in Ethiopia, Sudan",
-      "summary": "On 10/11/2026, a forest fire started in Ethiopia, Sudan,  until 16/11/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in Ethiopia, Sudan",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-16T23:54:24.602195+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033887",
-          "retrieved_at": "2026-11-16T23:54:24.602195+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_28a5e4b1349fffae",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in South Sudan",
-      "summary": "On 09/11/2026, a forest fire started in South Sudan,  until 16/11/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in South Sudan",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-16T23:54:24.602195+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033888",
-          "retrieved_at": "2026-11-16T23:54:24.602195+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_df37c9ab77aebe33",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in South Sudan",
-      "summary": "On 09/11/2026, a forest fire started in South Sudan,  until 16/11/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in South Sudan",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-16T23:54:24.602195+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033889",
-          "retrieved_at": "2026-11-16T23:54:24.602195+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_89d0a79375ec325f",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in South Sudan",
-      "summary": "On 09/11/2026, a forest fire started in South Sudan,  until 16/11/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in South Sudan",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-16T23:54:24.602195+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033898",
-          "retrieved_at": "2026-11-16T23:54:24.602195+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_8ac9450c94b32b74",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in Sudan",
-      "summary": "On 08/11/2026, a forest fire started in Sudan,  until 16/11/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in Sudan",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-16T23:54:24.602195+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033890",
-          "retrieved_at": "2026-11-16T23:54:24.602195+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_752f41c3d02a7965",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in South Sudan",
-      "summary": "On 08/11/2026, a forest fire started in South Sudan,  until 16/11/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in South Sudan",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-16T23:54:24.602195+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033891",
-          "retrieved_at": "2026-11-16T23:54:24.602195+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_00c496f2d5e37e50",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in Central African Republic, Chad",
-      "summary": "On 06/11/2026, a forest fire started in Central African Republic, Chad,  until 16/11/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in Central African Republic, Chad",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-16T23:54:24.602195+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033892",
-          "retrieved_at": "2026-11-16T23:54:24.602195+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_561615a9db6601fe",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in South Sudan",
-      "summary": "On 06/11/2026, a forest fire started in South Sudan,  until 16/11/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in South Sudan",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-16T23:54:24.602195+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033893",
-          "retrieved_at": "2026-11-16T23:54:24.602195+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us7000tyns",
-      "cluster_id": "cluster_eq_ru2",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "minor",
-      "title": "M 4.6 - 146 km SSE of Isangel, Vanuatu",
-      "summary": "A magnitude 4.6 earthquake occurred at a depth of 119.853 km: 146 km SSE of Isangel, Vanuatu.",
-      "metrics": {
-        "magnitude": 4.6,
-        "depth_km": 119.853,
-        "wind_speed_kmh": null,
-        "alert_score": 5.52
-      },
-      "location": {
-        "country": "Vanuatu",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "146 km SSE of Isangel, Vanuatu",
-        "latitude": -20.7669,
-        "longitude": 169.818,
-        "geohash": "ru2cb"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-16T21:55:58.945000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyns",
-          "retrieved_at": "2026-11-16T23:54:21.076564+00:00"
         }
       ]
     }
