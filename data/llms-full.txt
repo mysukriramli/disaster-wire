@@ -1,7 +1,55 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-11-18T22:45:46.541334+00:00
+Generated: 2026-11-19T04:58:03.003972+00:00
 
 ## Active Incident Telemetry
+### [CYCLONE] Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (39.362 million in Tropical Storm).
+- **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `emerging`
+- **Location:** Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (39.362 million in Tropical Storm). (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** From 16/11/2026 to 19/11/2026, a Tropical Storm (maximum wind speed of 83 km/h) AKVAN-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (39.362 million in tropical storm).
+
+### [SEVERE_WEATHER] Green forest fire notification in Australia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 15/11/2026, a forest fire started in Australia,  until 18/11/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Australia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 12/11/2026, a forest fire started in Australia,  until 18/11/2026.
+
+### [EARTHQUAKE] M 4.9 - 36 km NNE of Kilimatinde, Tanzania
+- **Cluster ID:** `cluster_eq_kz0` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 36 km NNE of Kilimatinde, Tanzania (Tanzania) | Geohash: `kz0bq`
+- **Coordinates:** `[-5.5431, 35.0812]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 10 km: 36 km NNE of Kilimatinde, Tanzania.
+
+### [EARTHQUAKE] M 5.2 - 130 km W of Teluk Dalam, Indonesia
+- **Cluster ID:** `cluster_eq_w0h` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 130 km W of Teluk Dalam, Indonesia (Indonesia) | Geohash: `w0hdy`
+- **Coordinates:** `[0.5027, 96.6318]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.2 earthquake occurred at a depth of 10 km: 130 km W of Teluk Dalam, Indonesia.
+
+### [EARTHQUAKE] M 4.8 - 40 km NNE of Kilimatinde, Tanzania
+- **Cluster ID:** `cluster_eq_kz0` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 40 km NNE of Kilimatinde, Tanzania (Tanzania) | Geohash: `kz0bw`
+- **Coordinates:** `[-5.5109, 35.0903]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 10 km: 40 km NNE of Kilimatinde, Tanzania.
+
 ### [EARTHQUAKE] Green earthquake (Magnitude 6.1M, Depth:10km) in Pacific-Antarctic Ridge 18/11/2026 19:14 UTC, [unknown].
 - **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
 - **Location:** Green earthquake (Magnitude 6.1M, Depth:10km) in Pacific-Antarctic Ridge 18/11/2026 19:14 UTC, [unknown]. (Global) | Geohash: `00000`
@@ -73,6 +121,14 @@ Generated: 2026-11-18T22:45:46.541334+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 12/11/2026, a forest fire started in Sudan, South Sudan,  until 18/11/2026.
+
+### [EARTHQUAKE] M 4.8 - 11 km SSW of Santa Gertrudis Miramar, Mexico
+- **Cluster ID:** `cluster_eq_9fu` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 11 km SSW of Santa Gertrudis Miramar, Mexico (Mexico) | Geohash: `9fu4u`
+- **Coordinates:** `[15.9616, -95.4267]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 35 km: 11 km SSW of Santa Gertrudis Miramar, Mexico.
 
 ### [EARTHQUAKE] M 5.1 - 157 km S of Attu Station, Alaska
 - **Cluster ID:** `cluster_eq_zc4` | **Severity:** `moderate` | **Phase:** `emerging`
@@ -745,60 +801,4 @@ Generated: 2026-11-18T22:45:46.541334+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** A magnitude 4.9 earthquake occurred at a depth of 14.237 km: 43 km NW of Oxford, New Zealand.
-
-### [CYCLONE] Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (16.134 million in Tropical Storm).
-- **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `emerging`
-- **Location:** Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (16.134 million in Tropical Storm). (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** From 16/11/2026 to 17/11/2026, a Tropical Storm (maximum wind speed of 102 km/h) AKVAN-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (16.134 million in tropical storm).
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 15/11/2026, a forest fire started in Australia,  until 17/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 15/11/2026, a forest fire started in Australia,  until 16/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 14/11/2026, a forest fire started in Australia,  until 16/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 13/11/2026, a forest fire started in Australia,  until 16/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 08/11/2026, a forest fire started in Australia,  until 16/11/2026.
-
-### [EARTHQUAKE] M 4.9 - 26 km E of Port-Olry, Vanuatu
-- **Cluster ID:** `cluster_eq_rtq` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 26 km E of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtqfx`
-- **Coordinates:** `[-15.005, 167.3139]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 126.959 km: 26 km E of Port-Olry, Vanuatu.
 

@@ -3,6 +3,138 @@
   "features": [
     {
       "type": "Feature",
+      "id": "gdacs_3700420f30400b41",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "cyclone",
+        "severity_level": "catastrophic",
+        "cluster_id": "cluster_cyclone_000",
+        "geohash": "00000",
+        "title": "Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (39.362 million in Tropical Storm).",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-19T04:58:02.376927+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_65a916d3899d884d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Australia",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-19T04:58:02.376927+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_3f810b1c4c971dea",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Australia",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-19T04:58:02.376927+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000ubxg",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0812,
+          -5.5431
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_kz0",
+        "geohash": "kz0bq",
+        "title": "M 4.9 - 36 km NNE of Kilimatinde, Tanzania",
+        "country": "Tanzania",
+        "magnitude": 4.9,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-19T02:11:23.115000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000ubxb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.6318,
+          0.5027
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_w0h",
+        "geohash": "w0hdy",
+        "title": "M 5.2 - 130 km W of Teluk Dalam, Indonesia",
+        "country": "Indonesia",
+        "magnitude": 5.2,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-19T01:34:48.394000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000ubxa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0903,
+          -5.5109
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_kz0",
+        "geohash": "kz0bw",
+        "title": "M 4.8 - 40 km NNE of Kilimatinde, Tanzania",
+        "country": "Tanzania",
+        "magnitude": 4.8,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-19T01:29:33.145000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_3ee0d414bb23ab16",
       "geometry": {
         "type": "Point",
@@ -197,6 +329,28 @@
         "magnitude": null,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-11-18T22:45:45.782208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000ubwa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4267,
+          15.9616
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_9fu",
+        "geohash": "9fu4u",
+        "title": "M 4.8 - 11 km SSW of Santa Gertrudis Miramar, Mexico",
+        "country": "Mexico",
+        "magnitude": 4.8,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-18T22:06:52.958000+00:00"
       }
     },
     {
@@ -2045,160 +2199,6 @@
         "magnitude": 4.9,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-11-17T10:30:48.773000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_05d221535ee4b25c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "cyclone",
-        "severity_level": "catastrophic",
-        "cluster_id": "cluster_cyclone_000",
-        "geohash": "00000",
-        "title": "Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (16.134 million in Tropical Storm).",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-17T05:39:50.353200+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_5a3075c9b7e358af",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Australia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-17T05:39:50.353200+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_ad822a5702974cd5",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Australia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-17T05:39:50.353200+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_5e00e6f4c9ce3417",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Australia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-17T05:39:50.353200+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_ab15fb1c86e403b5",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Australia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-17T05:39:50.353200+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_ff1aa4a25c7e6bed",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Australia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-17T05:39:50.353200+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000tyqi",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          167.3139,
-          -15.005
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_rtq",
-        "geohash": "rtqfx",
-        "title": "M 4.9 - 26 km E of Port-Olry, Vanuatu",
-        "country": "Vanuatu",
-        "magnitude": 4.9,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-17T03:52:32.360000+00:00"
       }
     }
   ]
