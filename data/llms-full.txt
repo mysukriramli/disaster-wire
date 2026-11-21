@@ -1,7 +1,95 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-11-21T15:45:30.346265+00:00
+Generated: 2026-11-21T21:18:31.465592+00:00
 
 ## Active Incident Telemetry
+### [SEVERE_WEATHER] Green forest fire notification in South Sudan
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in South Sudan (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 19/11/2026, a forest fire started in South Sudan,  until 21/11/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Chad
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Chad (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 19/11/2026, a forest fire started in Chad,  until 21/11/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in South Sudan
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in South Sudan (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 19/11/2026, a forest fire started in South Sudan,  until 21/11/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in South Sudan, Sudan
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in South Sudan, Sudan (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 17/11/2026, a forest fire started in South Sudan, Sudan,  until 21/11/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in South Sudan, Central African Republic
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in South Sudan, Central African Republic (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 16/11/2026, a forest fire started in South Sudan, Central African Republic,  until 21/11/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Chad
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Chad (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 16/11/2026, a forest fire started in Chad,  until 21/11/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Australia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 15/11/2026, a forest fire started in Australia,  until 21/11/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in South Sudan
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in South Sudan (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 13/11/2026, a forest fire started in South Sudan,  until 21/11/2026.
+
+### [EARTHQUAKE] M 4.9 - 88 km WNW of El Aguilar, Argentina
+- **Cluster ID:** `cluster_eq_6eb` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 88 km WNW of El Aguilar, Argentina (Argentina) | Geohash: `6ebsy`
+- **Coordinates:** `[-23.0294, -66.519]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 209.784 km: 88 km WNW of El Aguilar, Argentina.
+
+### [EARTHQUAKE] M 4.6 - 68 km SSE of Tateyama, Japan
+- **Cluster ID:** `cluster_eq_xn5` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 68 km SSE of Tateyama, Japan (Japan) | Geohash: `xn5es`
+- **Coordinates:** `[34.4089, 140.131]`
+- **Exposed Infrastructure:** Port of Tokyo / Yokohama (140.8km), Tokyo Cloud Region (ap-northeast-1) (147.9km)
+- **Recommended Agent Actions:** audit_maritime_berth_JPTYO, initiate_cloud_failover_AP-TYO, reroute_container_freight
+- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 65.465 km: 68 km SSE of Tateyama, Japan.
+
+### [EARTHQUAKE] M 4.5 - 0 km SSW of La Colorada, Panama
+- **Cluster ID:** `cluster_eq_d1q` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 0 km SSW of La Colorada, Panama (Panama) | Geohash: `d1qmt`
+- **Coordinates:** `[8.0091, -80.988]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.5 earthquake occurred at a depth of 10 km: 0 km SSW of La Colorada, Panama.
+
 ### [EARTHQUAKE] Green earthquake (Magnitude 5.9M, Depth:10km) in China 21/11/2026 10:45 UTC, Few people affected (in MMI>=VII).
 - **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
 - **Location:** Green earthquake (Magnitude 5.9M, Depth:10km) in China 21/11/2026 10:45 UTC, Few people affected (in MMI>=VII). (Global) | Geohash: `00000`
@@ -713,92 +801,4 @@ Generated: 2026-11-21T15:45:30.346265+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 15/11/2026, a forest fire started in Australia,  until 18/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 12/11/2026, a forest fire started in Australia,  until 18/11/2026.
-
-### [EARTHQUAKE] M 4.9 - 36 km NNE of Kilimatinde, Tanzania
-- **Cluster ID:** `cluster_eq_kz0` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 36 km NNE of Kilimatinde, Tanzania (Tanzania) | Geohash: `kz0bq`
-- **Coordinates:** `[-5.5431, 35.0812]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 10 km: 36 km NNE of Kilimatinde, Tanzania.
-
-### [EARTHQUAKE] M 5.2 - 130 km W of Teluk Dalam, Indonesia
-- **Cluster ID:** `cluster_eq_w0h` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** 130 km W of Teluk Dalam, Indonesia (Indonesia) | Geohash: `w0hdy`
-- **Coordinates:** `[0.5027, 96.6318]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.2 earthquake occurred at a depth of 10 km: 130 km W of Teluk Dalam, Indonesia.
-
-### [EARTHQUAKE] M 4.8 - 40 km NNE of Kilimatinde, Tanzania
-- **Cluster ID:** `cluster_eq_kz0` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 40 km NNE of Kilimatinde, Tanzania (Tanzania) | Geohash: `kz0bw`
-- **Coordinates:** `[-5.5109, 35.0903]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 10 km: 40 km NNE of Kilimatinde, Tanzania.
-
-### [EARTHQUAKE] Green earthquake (Magnitude 6.1M, Depth:10km) in Pacific-Antarctic Ridge 18/11/2026 19:14 UTC, [unknown].
-- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green earthquake (Magnitude 6.1M, Depth:10km) in Pacific-Antarctic Ridge 18/11/2026 19:14 UTC, [unknown]. (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 11/18/2026 7:14:23 PM, an earthquake occurred in Pacific-Antarctic Ridge potentially affecting [unknown]. The earthquake had Magnitude 6.1M, Depth:10km.
-
-### [SEVERE_WEATHER] Green forest fire notification in Botswana
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Botswana (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 17/11/2026, a forest fire started in Botswana,  until 18/11/2026.
-
-### [CYCLONE] Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (23.165 million in Tropical Storm).
-- **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `emerging`
-- **Location:** Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (23.165 million in Tropical Storm). (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** From 16/11/2026 to 18/11/2026, a Tropical Storm (maximum wind speed of 83 km/h) AKVAN-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (23.165 million in tropical storm).
-
-### [SEVERE_WEATHER] Green forest fire notification in Nigeria
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Nigeria (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 15/11/2026, a forest fire started in Nigeria,  until 18/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Sudan
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Sudan (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 15/11/2026, a forest fire started in Sudan,  until 18/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Botswana
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Botswana (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 14/11/2026, a forest fire started in Botswana,  until 18/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in India
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in India (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 13/11/2026, a forest fire started in India,  until 18/11/2026.
 
