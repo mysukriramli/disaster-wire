@@ -3,6 +3,226 @@
   "features": [
     {
       "type": "Feature",
+      "id": "gdacs_b4e851fc2d0ca2cc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_earthquake_000",
+        "geohash": "00000",
+        "title": "Green earthquake (Magnitude 5.9M, Depth:10km) in China 21/11/2026 10:45 UTC, Few people affected (in MMI>=VII).",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-21T15:45:29.493315+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_145d3f7c92dc8705",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_earthquake_000",
+        "geohash": "00000",
+        "title": "Green earthquake (Magnitude 6.8M, Depth:143.423km) in Indonesia 21/11/2026 09:42 UTC, 70 thousand in MMI V.",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-21T15:45:29.493315+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_5a12db69a6735a98",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "flood",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_flood_000",
+        "geohash": "00000",
+        "title": "Green flood alert in Islamic Republic of Iran",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-21T15:45:29.493315+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_36c1a616c3ca3176",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "flood",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_flood_000",
+        "geohash": "00000",
+        "title": "Green flood alert in T\u00fcrkiye",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-21T15:45:29.493315+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_pr2026325000",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8265,
+          18.3416
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_d7r",
+        "geohash": "d7r03",
+        "title": "M 4.6 - 18 km ESE of La Romana, Dominican Republic",
+        "country": "Dominican Republic",
+        "magnitude": 4.6,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-21T15:00:13.140000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000ucly",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.6398,
+          37.1958
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_wns",
+        "geohash": "wnsex",
+        "title": "M 5.9 - 238 km SW of Yanglong, China",
+        "country": "China",
+        "magnitude": 5.9,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-21T10:45:33.230000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000ucky",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2109,
+          34.0109
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_xn5",
+        "geohash": "xn59q",
+        "title": "M 5.2 - 112 km SSE of Tateyama, Japan",
+        "country": "Japan",
+        "magnitude": 5.2,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-21T10:09:05.474000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000ucij",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.5407,
+          -7.7324
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "severe",
+        "cluster_id": "cluster_eq_qyd",
+        "geohash": "qydsn",
+        "title": "M 6.8 - 105 km NE of Lospalos, Timor Leste",
+        "country": "Timor Leste",
+        "magnitude": 6.8,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-21T09:42:09.120000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000uci2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.0998,
+          -17.1789
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_rsz",
+        "geohash": "rszw3",
+        "title": "M 4.9 - 65 km NNW of Port-Vila, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 4.9,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-21T07:20:44.218000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000uchd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0308,
+          -10.913
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_6q1",
+        "geohash": "6q1cv",
+        "title": "M 5.0 - 0 km NE of Carhuamayo, Peru",
+        "country": "Peru",
+        "magnitude": 5.0,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-21T05:12:04.898000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_e47ad35774c44d69",
       "geometry": {
         "type": "Point",
@@ -1979,226 +2199,6 @@
         "magnitude": null,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-11-18T22:45:45.782208+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_f08bc9a4e88b977b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Central African Republic",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-18T22:45:45.782208+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_31c09313bf11a1d5",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Sudan, South Sudan",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-18T22:45:45.782208+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000ubwa",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.4267,
-          15.9616
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_9fu",
-        "geohash": "9fu4u",
-        "title": "M 4.8 - 11 km SSW of Santa Gertrudis Miramar, Mexico",
-        "country": "Mexico",
-        "magnitude": 4.8,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-18T22:06:52.958000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000ubw3",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.9,
-          51.445
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_zc4",
-        "geohash": "zc4uw",
-        "title": "M 5.1 - 157 km S of Attu Station, Alaska",
-        "country": "Alaska",
-        "magnitude": 5.1,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-18T21:28:47.873000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000ubvu",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.4693,
-          -2.9421
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_rr2",
-        "geohash": "rr2pk",
-        "title": "M 4.7 - 134 km SW of Lorengau, Papua New Guinea",
-        "country": "Papua New Guinea",
-        "magnitude": 4.7,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-18T20:38:39.129000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000tz37",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -146.746,
-          -57.7514
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "severe",
-        "cluster_id": "cluster_eq_0tx",
-        "geohash": "0txxk",
-        "title": "M 6.1 - Pacific-Antarctic Ridge",
-        "country": "Pacific-Antarctic Ridge",
-        "magnitude": 6.1,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-18T19:14:23.713000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000tz33",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -68.368,
-          -21.411
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_6kp",
-        "geohash": "6kpqh",
-        "title": "M 4.5 - 23 km SSW of Ollag\u00fce, Chile",
-        "country": "Chile",
-        "magnitude": 4.5,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-18T18:46:53.317000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000tz2w",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.1065,
-          -5.4599
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_kz0",
-        "geohash": "kz0by",
-        "title": "M 5.0 - 46 km NNE of Kilimatinde, Tanzania",
-        "country": "Tanzania",
-        "magnitude": 5.0,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-18T18:08:00.785000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000tz1n",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          130.4609,
-          32.2779
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_wvs",
-        "geohash": "wvsz8",
-        "title": "M 5.3 - 4 km NNW of Tsunagi, Japan",
-        "country": "Japan",
-        "magnitude": 5.3,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-18T17:22:23.454000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us7000tz1a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          143.9927,
-          12.0918
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_x4n",
-        "geohash": "x4nku",
-        "title": "M 5.3 - 149 km SSW of Merizo Village, Guam",
-        "country": "Guam",
-        "magnitude": 5.3,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-18T16:06:51.220000+00:00"
       }
     }
   ]

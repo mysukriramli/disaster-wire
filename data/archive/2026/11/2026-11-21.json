@@ -1,8 +1,419 @@
 {
   "archive_date": "2026-11-21",
-  "total_incidents": 100,
-  "updated_at": "2026-11-21T04:44:11.709563+00:00",
+  "total_incidents": 110,
+  "updated_at": "2026-11-21T15:45:30.346562+00:00",
   "events": [
+    {
+      "event_id": "gdacs_b4e851fc2d0ca2cc",
+      "cluster_id": "cluster_earthquake_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "Green earthquake (Magnitude 5.9M, Depth:10km) in China 21/11/2026 10:45 UTC, Few people affected (in MMI>=VII).",
+      "summary": "On 11/21/2026 10:45:33 AM, an earthquake occurred in China potentially affecting Few people affected (in MMI>=VII). The earthquake had Magnitude 5.9M, Depth:10km.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green earthquake (Magnitude 5.9M, Depth:10km) in China 21/11/2026 10:45 UTC, Few people affected (in MMI>=VII).",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-21T15:45:29.493315+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1578540",
+          "retrieved_at": "2026-11-21T15:45:29.493315+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_145d3f7c92dc8705",
+      "cluster_id": "cluster_earthquake_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "Green earthquake (Magnitude 6.8M, Depth:143.423km) in Indonesia 21/11/2026 09:42 UTC, 70 thousand in MMI V.",
+      "summary": "On 11/21/2026 9:42:10 AM, an earthquake occurred in Indonesia potentially affecting 70 thousand in MMI V. The earthquake had Magnitude 6.8M, Depth:143.423km.",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green earthquake (Magnitude 6.8M, Depth:143.423km) in Indonesia 21/11/2026 09:42 UTC, 70 thousand in MMI V.",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-21T15:45:29.493315+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1578530",
+          "retrieved_at": "2026-11-21T15:45:29.493315+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_5a12db69a6735a98",
+      "cluster_id": "cluster_flood_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "flood",
+      "severity_level": "moderate",
+      "title": "Green flood alert in Islamic Republic of Iran",
+      "summary": "On 16/11/2026, a flood started in Islamic Republic of Iran, lasting until 18/11/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green flood alert in Islamic Republic of Iran",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-21T15:45:29.493315+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104291",
+          "retrieved_at": "2026-11-21T15:45:29.493315+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "gdacs_36c1a616c3ca3176",
+      "cluster_id": "cluster_flood_000",
+      "lifecycle_phase": "stabilizing",
+      "event_type": "flood",
+      "severity_level": "moderate",
+      "title": "Green flood alert in T\u00fcrkiye",
+      "summary": "On 16/11/2026, a flood started in T\u00fcrkiye, lasting until 18/11/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "metrics": {
+        "magnitude": null,
+        "depth_km": null,
+        "wind_speed_kmh": null,
+        "alert_score": null
+      },
+      "location": {
+        "country": "Global",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "Green flood alert in T\u00fcrkiye",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "geohash": "00000"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-21T15:45:29.493315+00:00",
+      "sources": [
+        {
+          "source_name": "GDACS",
+          "url": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104292",
+          "retrieved_at": "2026-11-21T15:45:29.493315+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_pr2026325000",
+      "cluster_id": "cluster_eq_d7r",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.6 - 18 km ESE of La Romana, Dominican Republic",
+      "summary": "A magnitude 4.6 earthquake occurred at a depth of 104 km: 18 km ESE of La Romana, Dominican Republic.",
+      "metrics": {
+        "magnitude": 4.6,
+        "depth_km": 104.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.52
+      },
+      "location": {
+        "country": "Dominican Republic",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "18 km ESE of La Romana, Dominican Republic",
+        "latitude": 18.3416,
+        "longitude": -68.8265,
+        "geohash": "d7r03"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-21T15:00:13.140000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026325000",
+          "retrieved_at": "2026-11-21T15:45:26.370747+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000ucly",
+      "cluster_id": "cluster_eq_wns",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.9 - 238 km SW of Yanglong, China",
+      "summary": "A magnitude 5.9 earthquake occurred at a depth of 10 km: 238 km SW of Yanglong, China.",
+      "metrics": {
+        "magnitude": 5.9,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 7.08
+      },
+      "location": {
+        "country": "China",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "238 km SW of Yanglong, China",
+        "latitude": 37.1958,
+        "longitude": 96.6398,
+        "geohash": "wnsex"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-21T10:45:33.230000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucly",
+          "retrieved_at": "2026-11-21T15:45:26.370894+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000ucky",
+      "cluster_id": "cluster_eq_xn5",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.2 - 112 km SSE of Tateyama, Japan",
+      "summary": "A magnitude 5.2 earthquake occurred at a depth of 10 km: 112 km SSE of Tateyama, Japan.",
+      "metrics": {
+        "magnitude": 5.2,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.24
+      },
+      "location": {
+        "country": "Japan",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "112 km SSE of Tateyama, Japan",
+        "latitude": 34.0109,
+        "longitude": 140.2109,
+        "geohash": "xn59q"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-21T10:09:05.474000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucky",
+          "retrieved_at": "2026-11-21T15:45:26.370934+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000ucij",
+      "cluster_id": "cluster_eq_qyd",
+      "lifecycle_phase": "escalating",
+      "event_type": "earthquake",
+      "severity_level": "severe",
+      "title": "M 6.8 - 105 km NE of Lospalos, Timor Leste",
+      "summary": "A magnitude 6.8 earthquake occurred at a depth of 132.055 km: 105 km NE of Lospalos, Timor Leste.",
+      "metrics": {
+        "magnitude": 6.8,
+        "depth_km": 132.055,
+        "wind_speed_kmh": null,
+        "alert_score": 8.16
+      },
+      "location": {
+        "country": "Timor Leste",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "105 km NE of Lospalos, Timor Leste",
+        "latitude": -7.7324,
+        "longitude": 127.5407,
+        "geohash": "qydsn"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "inspect_maritime_tsunami_bulletins",
+        "monitor_aftershocks"
+      ],
+      "timestamp_utc": "2026-11-21T09:42:09.120000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucij",
+          "retrieved_at": "2026-11-21T15:45:26.370965+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000uci2",
+      "cluster_id": "cluster_eq_rsz",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.9 - 65 km NNW of Port-Vila, Vanuatu",
+      "summary": "A magnitude 4.9 earthquake occurred at a depth of 43.228 km: 65 km NNW of Port-Vila, Vanuatu.",
+      "metrics": {
+        "magnitude": 4.9,
+        "depth_km": 43.228,
+        "wind_speed_kmh": null,
+        "alert_score": 5.88
+      },
+      "location": {
+        "country": "Vanuatu",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "65 km NNW of Port-Vila, Vanuatu",
+        "latitude": -17.1789,
+        "longitude": 168.0998,
+        "geohash": "rszw3"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-21T07:20:44.218000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uci2",
+          "retrieved_at": "2026-11-21T15:45:26.370998+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000uchd",
+      "cluster_id": "cluster_eq_6q1",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.0 - 0 km NE of Carhuamayo, Peru",
+      "summary": "A magnitude 5.0 earthquake occurred at a depth of 110.928 km: 0 km NE of Carhuamayo, Peru.",
+      "metrics": {
+        "magnitude": 5.0,
+        "depth_km": 110.928,
+        "wind_speed_kmh": null,
+        "alert_score": 6.0
+      },
+      "location": {
+        "country": "Peru",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "0 km NE of Carhuamayo, Peru",
+        "latitude": -10.913,
+        "longitude": -76.0308,
+        "geohash": "6q1cv"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-21T05:12:04.898000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uchd",
+          "retrieved_at": "2026-11-21T15:45:26.371024+00:00"
+        }
+      ]
+    },
     {
       "event_id": "gdacs_e47ad35774c44d69",
       "cluster_id": "cluster_earthquake_000",

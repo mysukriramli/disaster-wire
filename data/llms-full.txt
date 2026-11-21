@@ -1,7 +1,87 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-11-21T04:44:11.709199+00:00
+Generated: 2026-11-21T15:45:30.346265+00:00
 
 ## Active Incident Telemetry
+### [EARTHQUAKE] Green earthquake (Magnitude 5.9M, Depth:10km) in China 21/11/2026 10:45 UTC, Few people affected (in MMI>=VII).
+- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green earthquake (Magnitude 5.9M, Depth:10km) in China 21/11/2026 10:45 UTC, Few people affected (in MMI>=VII). (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 11/21/2026 10:45:33 AM, an earthquake occurred in China potentially affecting Few people affected (in MMI>=VII). The earthquake had Magnitude 5.9M, Depth:10km.
+
+### [EARTHQUAKE] Green earthquake (Magnitude 6.8M, Depth:143.423km) in Indonesia 21/11/2026 09:42 UTC, 70 thousand in MMI V.
+- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green earthquake (Magnitude 6.8M, Depth:143.423km) in Indonesia 21/11/2026 09:42 UTC, 70 thousand in MMI V. (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 11/21/2026 9:42:10 AM, an earthquake occurred in Indonesia potentially affecting 70 thousand in MMI V. The earthquake had Magnitude 6.8M, Depth:143.423km.
+
+### [FLOOD] Green flood alert in Islamic Republic of Iran
+- **Cluster ID:** `cluster_flood_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green flood alert in Islamic Republic of Iran (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 16/11/2026, a flood started in Islamic Republic of Iran, lasting until 18/11/2026 (last update). The flood caused 0 deaths and 0 displaced .
+
+### [FLOOD] Green flood alert in Türkiye
+- **Cluster ID:** `cluster_flood_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green flood alert in Türkiye (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 16/11/2026, a flood started in Türkiye, lasting until 18/11/2026 (last update). The flood caused 0 deaths and 0 displaced .
+
+### [EARTHQUAKE] M 4.6 - 18 km ESE of La Romana, Dominican Republic
+- **Cluster ID:** `cluster_eq_d7r` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 18 km ESE of La Romana, Dominican Republic (Dominican Republic) | Geohash: `d7r03`
+- **Coordinates:** `[18.3416, -68.8265]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 104 km: 18 km ESE of La Romana, Dominican Republic.
+
+### [EARTHQUAKE] M 5.9 - 238 km SW of Yanglong, China
+- **Cluster ID:** `cluster_eq_wns` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 238 km SW of Yanglong, China (China) | Geohash: `wnsex`
+- **Coordinates:** `[37.1958, 96.6398]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.9 earthquake occurred at a depth of 10 km: 238 km SW of Yanglong, China.
+
+### [EARTHQUAKE] M 5.2 - 112 km SSE of Tateyama, Japan
+- **Cluster ID:** `cluster_eq_xn5` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 112 km SSE of Tateyama, Japan (Japan) | Geohash: `xn59q`
+- **Coordinates:** `[34.0109, 140.2109]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.2 earthquake occurred at a depth of 10 km: 112 km SSE of Tateyama, Japan.
+
+### [EARTHQUAKE] M 6.8 - 105 km NE of Lospalos, Timor Leste
+- **Cluster ID:** `cluster_eq_qyd` | **Severity:** `severe` | **Phase:** `escalating`
+- **Location:** 105 km NE of Lospalos, Timor Leste (Timor Leste) | Geohash: `qydsn`
+- **Coordinates:** `[-7.7324, 127.5407]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** inspect_maritime_tsunami_bulletins, monitor_aftershocks
+- **Summary:** A magnitude 6.8 earthquake occurred at a depth of 132.055 km: 105 km NE of Lospalos, Timor Leste.
+
+### [EARTHQUAKE] M 4.9 - 65 km NNW of Port-Vila, Vanuatu
+- **Cluster ID:** `cluster_eq_rsz` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 65 km NNW of Port-Vila, Vanuatu (Vanuatu) | Geohash: `rszw3`
+- **Coordinates:** `[-17.1789, 168.0998]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 43.228 km: 65 km NNW of Port-Vila, Vanuatu.
+
+### [EARTHQUAKE] M 5.0 - 0 km NE of Carhuamayo, Peru
+- **Cluster ID:** `cluster_eq_6q1` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 0 km NE of Carhuamayo, Peru (Peru) | Geohash: `6q1cv`
+- **Coordinates:** `[-10.913, -76.0308]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.0 earthquake occurred at a depth of 110.928 km: 0 km NE of Carhuamayo, Peru.
+
 ### [EARTHQUAKE] Green earthquake (Magnitude 6.7M, Depth:107.991km) in Peru 21/11/2026 00:09 UTC, 2 thousand in MMI VI.
 - **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
 - **Location:** Green earthquake (Magnitude 6.7M, Depth:107.991km) in Peru 21/11/2026 00:09 UTC, 2 thousand in MMI VI. (Global) | Geohash: `00000`
@@ -721,84 +801,4 @@ Generated: 2026-11-21T04:44:11.709199+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 13/11/2026, a forest fire started in India,  until 18/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Central African Republic
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Central African Republic (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 12/11/2026, a forest fire started in Central African Republic,  until 18/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Sudan, South Sudan
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Sudan, South Sudan (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 12/11/2026, a forest fire started in Sudan, South Sudan,  until 18/11/2026.
-
-### [EARTHQUAKE] M 4.8 - 11 km SSW of Santa Gertrudis Miramar, Mexico
-- **Cluster ID:** `cluster_eq_9fu` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 11 km SSW of Santa Gertrudis Miramar, Mexico (Mexico) | Geohash: `9fu4u`
-- **Coordinates:** `[15.9616, -95.4267]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 35 km: 11 km SSW of Santa Gertrudis Miramar, Mexico.
-
-### [EARTHQUAKE] M 5.1 - 157 km S of Attu Station, Alaska
-- **Cluster ID:** `cluster_eq_zc4` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** 157 km S of Attu Station, Alaska (Alaska) | Geohash: `zc4uw`
-- **Coordinates:** `[51.445, 172.9]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.1 earthquake occurred at a depth of 10 km: 157 km S of Attu Station, Alaska.
-
-### [EARTHQUAKE] M 4.7 - 134 km SW of Lorengau, Papua New Guinea
-- **Cluster ID:** `cluster_eq_rr2` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 134 km SW of Lorengau, Papua New Guinea (Papua New Guinea) | Geohash: `rr2pk`
-- **Coordinates:** `[-2.9421, 146.4693]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.7 earthquake occurred at a depth of 16.856 km: 134 km SW of Lorengau, Papua New Guinea.
-
-### [EARTHQUAKE] M 6.1 - Pacific-Antarctic Ridge
-- **Cluster ID:** `cluster_eq_0tx` | **Severity:** `severe` | **Phase:** `escalating`
-- **Location:** Pacific-Antarctic Ridge (Pacific-Antarctic Ridge) | Geohash: `0txxk`
-- **Coordinates:** `[-57.7514, -146.746]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 6.1 earthquake occurred at a depth of 10 km: Pacific-Antarctic Ridge.
-
-### [EARTHQUAKE] M 4.5 - 23 km SSW of Ollagüe, Chile
-- **Cluster ID:** `cluster_eq_6kp` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 23 km SSW of Ollagüe, Chile (Chile) | Geohash: `6kpqh`
-- **Coordinates:** `[-21.411, -68.368]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.5 earthquake occurred at a depth of 133.871 km: 23 km SSW of Ollagüe, Chile.
-
-### [EARTHQUAKE] M 5.0 - 46 km NNE of Kilimatinde, Tanzania
-- **Cluster ID:** `cluster_eq_kz0` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** 46 km NNE of Kilimatinde, Tanzania (Tanzania) | Geohash: `kz0by`
-- **Coordinates:** `[-5.4599, 35.1065]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.0 earthquake occurred at a depth of 10 km: 46 km NNE of Kilimatinde, Tanzania.
-
-### [EARTHQUAKE] M 5.3 - 4 km NNW of Tsunagi, Japan
-- **Cluster ID:** `cluster_eq_wvs` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** 4 km NNW of Tsunagi, Japan (Japan) | Geohash: `wvsz8`
-- **Coordinates:** `[32.2779, 130.4609]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.3 earthquake occurred at a depth of 10 km: 4 km NNW of Tsunagi, Japan.
-
-### [EARTHQUAKE] M 5.3 - 149 km SSW of Merizo Village, Guam
-- **Cluster ID:** `cluster_eq_x4n` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** 149 km SSW of Merizo Village, Guam (Guam) | Geohash: `x4nku`
-- **Coordinates:** `[12.0918, 143.9927]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.3 earthquake occurred at a depth of 10 km: 149 km SSW of Merizo Village, Guam.
 
