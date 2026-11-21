@@ -3,6 +3,182 @@
   "features": [
     {
       "type": "Feature",
+      "id": "gdacs_e47ad35774c44d69",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_earthquake_000",
+        "geohash": "00000",
+        "title": "Green earthquake (Magnitude 6.7M, Depth:107.991km) in Peru 21/11/2026 00:09 UTC, 2 thousand in MMI VI.",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-21T04:44:10.974943+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_36af2f906e38ad05",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Australia",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-21T04:44:10.974943+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_265339c07d632d11",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Australia",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-21T04:44:10.974943+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000ucgj",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.857,
+          58.5457
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_g63",
+        "geohash": "g63m5",
+        "title": "M 4.9 - Reykjanes Ridge",
+        "country": "Reykjanes Ridge",
+        "magnitude": 4.9,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-21T02:24:37.289000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000ucga",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.7606,
+          58.3017
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_g63",
+        "geohash": "g637t",
+        "title": "M 4.9 - Reykjanes Ridge",
+        "country": "Reykjanes Ridge",
+        "magnitude": 4.9,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-21T01:26:19.109000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000ucg8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.6409,
+          -22.2307
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_6kp",
+        "geohash": "6kp1w",
+        "title": "M 4.7 - 38 km NE of Calama, Chile",
+        "country": "Chile",
+        "magnitude": 4.7,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-21T01:24:09.274000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000ucfm",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9779,
+          -10.8548
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "severe",
+        "cluster_id": "cluster_eq_6q1",
+        "geohash": "6q1fp",
+        "title": "M 6.7 - 9 km NE of Carhuamayo, Peru",
+        "country": "Peru",
+        "magnitude": 6.7,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-21T00:09:19.667000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000ucf0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -173.4099,
+          -20.3204
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_2hk",
+        "geohash": "2hksm",
+        "title": "M 4.9 - 113 km ESE of Pangai, Tonga",
+        "country": "Tonga",
+        "magnitude": 4.9,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-20T22:34:39.096000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_cf918999cea4e014",
       "geometry": {
         "type": "Point",
@@ -2023,182 +2199,6 @@
         "magnitude": 5.3,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-11-18T16:06:51.220000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_c8b778641bb9ee80",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_earthquake_000",
-        "geohash": "00000",
-        "title": "Green earthquake (Magnitude 5.9M, Depth:21.895km) in Peru 18/11/2026 06:07 UTC, 40 thousand in MMI IV.",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-18T12:27:52.519254+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_5c96b85c43a9d5f8",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_earthquake_000",
-        "geohash": "00000",
-        "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Indonesia 18/11/2026 04:41 UTC, 6 thousand (in MMI>=VII).",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-18T12:27:52.519254+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_896e6606b468d4e7",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_earthquake_000",
-        "geohash": "00000",
-        "title": "Green earthquake (Magnitude 5.8M, Depth:52.291km) in Papua New Guinea 18/11/2026 03:42 UTC, 120 thousand in MMI IV.",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-18T12:27:52.519254+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_9a6cf90614d611b4",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_earthquake_000",
-        "geohash": "00000",
-        "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in South Of Mariana Islands 18/11/2026 02:22 UTC, [unknown].",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-18T12:27:52.519254+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_13751caa00bc8684",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in South Africa",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-18T12:27:52.519254+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_b70cbac0f158fd5f",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Australia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-18T12:27:52.519254+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_60e699c1738da3f0",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "cyclone",
-        "severity_level": "catastrophic",
-        "cluster_id": "cluster_cyclone_000",
-        "geohash": "00000",
-        "title": "Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (14.328 million in Tropical Storm).",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-18T12:27:52.519254+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_67deb5316585ccb4",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Australia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-18T12:27:52.519254+00:00"
       }
     }
   ]

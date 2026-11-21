@@ -1,7 +1,71 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-11-20T22:26:20.534918+00:00
+Generated: 2026-11-21T04:44:11.709199+00:00
 
 ## Active Incident Telemetry
+### [EARTHQUAKE] Green earthquake (Magnitude 6.7M, Depth:107.991km) in Peru 21/11/2026 00:09 UTC, 2 thousand in MMI VI.
+- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green earthquake (Magnitude 6.7M, Depth:107.991km) in Peru 21/11/2026 00:09 UTC, 2 thousand in MMI VI. (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 11/21/2026 12:09:19 AM, an earthquake occurred in Peru potentially affecting 2 thousand in MMI VI. The earthquake had Magnitude 6.7M, Depth:107.991km.
+
+### [SEVERE_WEATHER] Green forest fire notification in Australia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 17/11/2026, a forest fire started in Australia,  until 20/11/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Australia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 16/11/2026, a forest fire started in Australia,  until 20/11/2026.
+
+### [EARTHQUAKE] M 4.9 - Reykjanes Ridge
+- **Cluster ID:** `cluster_eq_g63` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** Reykjanes Ridge (Reykjanes Ridge) | Geohash: `g63m5`
+- **Coordinates:** `[58.5457, -31.857]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 10 km: Reykjanes Ridge.
+
+### [EARTHQUAKE] M 4.9 - Reykjanes Ridge
+- **Cluster ID:** `cluster_eq_g63` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** Reykjanes Ridge (Reykjanes Ridge) | Geohash: `g637t`
+- **Coordinates:** `[58.3017, -31.7606]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 10 km: Reykjanes Ridge.
+
+### [EARTHQUAKE] M 4.7 - 38 km NE of Calama, Chile
+- **Cluster ID:** `cluster_eq_6kp` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 38 km NE of Calama, Chile (Chile) | Geohash: `6kp1w`
+- **Coordinates:** `[-22.2307, -68.6409]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.7 earthquake occurred at a depth of 120.01 km: 38 km NE of Calama, Chile.
+
+### [EARTHQUAKE] M 6.7 - 9 km NE of Carhuamayo, Peru
+- **Cluster ID:** `cluster_eq_6q1` | **Severity:** `severe` | **Phase:** `escalating`
+- **Location:** 9 km NE of Carhuamayo, Peru (Peru) | Geohash: `6q1fp`
+- **Coordinates:** `[-10.8548, -75.9779]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** inspect_maritime_tsunami_bulletins, monitor_aftershocks
+- **Summary:** A magnitude 6.7 earthquake occurred at a depth of 107.991 km: 9 km NE of Carhuamayo, Peru.
+
+### [EARTHQUAKE] M 4.9 - 113 km ESE of Pangai, Tonga
+- **Cluster ID:** `cluster_eq_2hk` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 113 km ESE of Pangai, Tonga (Tonga) | Geohash: `2hksm`
+- **Coordinates:** `[-20.3204, -173.4099]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 10 km: 113 km ESE of Pangai, Tonga.
+
 ### [SEVERE_WEATHER] Green forest fire notification in South Sudan, Central African Republic
 - **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
 - **Location:** Green forest fire notification in South Sudan, Central African Republic (Global) | Geohash: `00000`
@@ -737,68 +801,4 @@ Generated: 2026-11-20T22:26:20.534918+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** A magnitude 5.3 earthquake occurred at a depth of 10 km: 149 km SSW of Merizo Village, Guam.
-
-### [EARTHQUAKE] Green earthquake (Magnitude 5.9M, Depth:21.895km) in Peru 18/11/2026 06:07 UTC, 40 thousand in MMI IV.
-- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green earthquake (Magnitude 5.9M, Depth:21.895km) in Peru 18/11/2026 06:07 UTC, 40 thousand in MMI IV. (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 11/18/2026 6:07:42 AM, an earthquake occurred in Peru potentially affecting 40 thousand in MMI IV. The earthquake had Magnitude 5.9M, Depth:21.895km.
-
-### [EARTHQUAKE] Green earthquake (Magnitude 5.8M, Depth:10km) in Indonesia 18/11/2026 04:41 UTC, 6 thousand (in MMI>=VII).
-- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green earthquake (Magnitude 5.8M, Depth:10km) in Indonesia 18/11/2026 04:41 UTC, 6 thousand (in MMI>=VII). (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 11/18/2026 4:41:32 AM, an earthquake occurred in Indonesia potentially affecting 6 thousand (in MMI>=VII). The earthquake had Magnitude 5.8M, Depth:10km.
-
-### [EARTHQUAKE] Green earthquake (Magnitude 5.8M, Depth:52.291km) in Papua New Guinea 18/11/2026 03:42 UTC, 120 thousand in MMI IV.
-- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green earthquake (Magnitude 5.8M, Depth:52.291km) in Papua New Guinea 18/11/2026 03:42 UTC, 120 thousand in MMI IV. (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 11/18/2026 3:42:34 AM, an earthquake occurred in Papua New Guinea potentially affecting 120 thousand in MMI IV. The earthquake had Magnitude 5.8M, Depth:52.291km.
-
-### [EARTHQUAKE] Green earthquake (Magnitude 5.8M, Depth:10km) in South Of Mariana Islands 18/11/2026 02:22 UTC, [unknown].
-- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green earthquake (Magnitude 5.8M, Depth:10km) in South Of Mariana Islands 18/11/2026 02:22 UTC, [unknown]. (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 11/18/2026 2:22:56 AM, an earthquake occurred in South Of Mariana Islands potentially affecting [unknown]. The earthquake had Magnitude 5.8M, Depth:10km.
-
-### [SEVERE_WEATHER] Green forest fire notification in South Africa
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in South Africa (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 17/11/2026, a forest fire started in South Africa,  until 18/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 17/11/2026, a forest fire started in Australia,  until 18/11/2026.
-
-### [CYCLONE] Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (14.328 million in Tropical Storm).
-- **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `emerging`
-- **Location:** Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (14.328 million in Tropical Storm). (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** From 16/11/2026 to 18/11/2026, a Tropical Storm (maximum wind speed of 83 km/h) AKVAN-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (14.328 million in tropical storm).
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 16/11/2026, a forest fire started in Australia,  until 18/11/2026.
 
