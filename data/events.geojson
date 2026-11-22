@@ -3,6 +3,248 @@
   "features": [
     {
       "type": "Feature",
+      "id": "gdacs_e8d7e036ba1b300f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "flood",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_flood_000",
+        "geohash": "00000",
+        "title": "Green flood alert in Chile",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-22T12:16:30.486816+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_0a93f6bb6a2051ac",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Australia",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-22T12:16:30.486816+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_686c8bbe923284fc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Australia",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-22T12:16:30.486816+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_c6ddbd11f8e69ebc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Australia",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-22T12:16:30.486816+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_a65504c1f96907c5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Australia",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-22T12:16:30.486816+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_57bbdaa65e64dcdb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Australia",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-22T12:16:30.486816+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000ucs1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -176.3814,
+          -24.3316
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_25d",
+        "geohash": "25dtd",
+        "title": "M 4.9 - south of the Fiji Islands",
+        "country": "south of the Fiji Islands",
+        "magnitude": 4.9,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-22T10:46:07.004000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000ucrp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.9381,
+          43.4743
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_tzw",
+        "geohash": "tzwx3",
+        "title": "M 5.1 - 45 km SE of \u00dcr\u00fcmqi, China",
+        "country": "China",
+        "magnitude": 5.1,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-22T09:08:28.009000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000ucrb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3861,
+          3.0314
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_wb9",
+        "geohash": "wb9c5",
+        "title": "M 5.4 - 224 km NE of Bitung, Indonesia",
+        "country": "Indonesia",
+        "magnitude": 5.4,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-22T07:54:40.056000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000ucr3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.5165,
+          4.56
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_wbf",
+        "geohash": "wbf9v",
+        "title": "M 4.9 - 246 km ESE of Sarangani, Philippines",
+        "country": "Philippines",
+        "magnitude": 4.9,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-22T07:06:58.521000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000ucqu",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9635,
+          -10.7957
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_6q1",
+        "geohash": "6q1fx",
+        "title": "M 5.0 - 15 km NNE of Carhuamayo, Peru",
+        "country": "Peru",
+        "magnitude": 5.0,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-22T05:51:58.624000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_f2a13a697afcdbd9",
       "geometry": {
         "type": "Point",
@@ -1957,248 +2199,6 @@
         "magnitude": null,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-11-19T16:55:32.149314+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_925a1c35174cf620",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in South Sudan",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-19T16:55:32.149314+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_8b5ba579a63d6f4c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "flood",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_flood_000",
-        "geohash": "00000",
-        "title": "Green flood alert in Kenya",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-19T16:55:32.149314+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_6235c53be6b7ff20",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in India",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-19T16:55:32.149314+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_edf9a77f7d18b6aa",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in South Sudan",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-19T16:55:32.149314+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_1312fb40519e022f",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in India",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-19T16:55:32.149314+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_f7f3cbdc3c2a0e8f",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Ethiopia, Sudan",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-19T16:55:32.149314+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_77e7b6adf07b2ec2",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in India",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-19T16:55:32.149314+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000ubzm",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -174.66,
-          51.6797
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_b15",
-        "geohash": "b15y1",
-        "title": "M 4.9 - 65 km SSW of Atka, Alaska",
-        "country": "Alaska",
-        "magnitude": 4.9,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-19T13:05:22.466000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000ubz1",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.8945,
-          -4.2965
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_rrh",
-        "geohash": "rrhp8",
-        "title": "M 5.0 - 31 km WSW of Rabaul, Papua New Guinea",
-        "country": "Papua New Guinea",
-        "magnitude": 5.0,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-19T10:53:07.767000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000ubyt",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.0248,
-          -15.3841
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_6m3",
-        "geohash": "6m3bq",
-        "title": "M 4.7 - 92 km W of San Juan, Peru",
-        "country": "Peru",
-        "magnitude": 4.7,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-19T09:08:13.359000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000uby4",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.8204,
-          -2.4019
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_6px",
-        "geohash": "6px4r",
-        "title": "M 4.8 - 23 km SSE of Guayaquil, Ecuador",
-        "country": "Ecuador",
-        "magnitude": 4.8,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-19T05:49:26.623000+00:00"
       }
     }
   ]
