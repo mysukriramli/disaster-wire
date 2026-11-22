@@ -1,7 +1,23 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-11-21T21:18:31.465592+00:00
+Generated: 2026-11-22T03:58:29.492170+00:00
 
 ## Active Incident Telemetry
+### [SEVERE_WEATHER] Green forest fire notification in Australia
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 18/11/2026, a forest fire started in Australia,  until 21/11/2026.
+
+### [EARTHQUAKE] M 4.6 - 60 km WNW of Abepura, Indonesia
+- **Cluster ID:** `cluster_eq_rpe` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 60 km WNW of Abepura, Indonesia (Indonesia) | Geohash: `rpedh`
+- **Coordinates:** `[-2.442, 140.1129]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 31.078 km: 60 km WNW of Abepura, Indonesia.
+
 ### [SEVERE_WEATHER] Green forest fire notification in South Sudan
 - **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
 - **Location:** Green forest fire notification in South Sudan (Global) | Geohash: `00000`
@@ -785,20 +801,4 @@ Generated: 2026-11-21T21:18:31.465592+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** A magnitude 4.8 earthquake occurred at a depth of 69.493 km: 23 km SSE of Guayaquil, Ecuador.
-
-### [CYCLONE] Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (39.362 million in Tropical Storm).
-- **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `emerging`
-- **Location:** Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (39.362 million in Tropical Storm). (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** From 16/11/2026 to 19/11/2026, a Tropical Storm (maximum wind speed of 83 km/h) AKVAN-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (39.362 million in tropical storm).
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 15/11/2026, a forest fire started in Australia,  until 18/11/2026.
 
