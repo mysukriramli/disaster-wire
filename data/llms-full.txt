@@ -1,7 +1,103 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-11-22T21:24:05.739259+00:00
+Generated: 2026-11-23T04:40:30.699969+00:00
 
 ## Active Incident Telemetry
+### [EARTHQUAKE] Green earthquake (Magnitude 6.5M, Depth:598km) in Vanuatu Islands Region 23/11/2026 02:40 UTC, No people affected in 100km.
+- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green earthquake (Magnitude 6.5M, Depth:598km) in Vanuatu Islands Region 23/11/2026 02:40 UTC, No people affected in 100km. (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 11/23/2026 2:40:57 AM, an earthquake occurred in Vanuatu Islands Region potentially affecting No people affected in 100km. The earthquake had Magnitude 6.5M, Depth:598km.
+
+### [SEVERE_WEATHER] Green forest fire notification in Brazil
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Brazil (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 17/11/2026, a forest fire started in Brazil,  until 22/11/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Brazil
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Brazil (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 11/11/2026, a forest fire started in Brazil,  until 22/11/2026.
+
+### [SEVERE_WEATHER] Green forest fire notification in Brazil
+- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
+- **Location:** Green forest fire notification in Brazil (Global) | Geohash: `00000`
+- **Coordinates:** `[0.0, 0.0]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** On 09/11/2026, a forest fire started in Brazil,  until 22/11/2026.
+
+### [EARTHQUAKE] M 4.9 - Vanuatu region
+- **Cluster ID:** `cluster_eq_rvd` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** Vanuatu region (Vanuatu region) | Geohash: `rvd6z`
+- **Coordinates:** `[-13.5634, 172.2236]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 595.973 km: Vanuatu region.
+
+### [EARTHQUAKE] M 6.5 - Vanuatu region
+- **Cluster ID:** `cluster_eq_rvd` | **Severity:** `severe` | **Phase:** `escalating`
+- **Location:** Vanuatu region (Vanuatu region) | Geohash: `rvdd8`
+- **Coordinates:** `[-13.5846, 172.2672]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** inspect_maritime_tsunami_bulletins, monitor_aftershocks
+- **Summary:** A magnitude 6.5 earthquake occurred at a depth of 598 km: Vanuatu region.
+
+### [EARTHQUAKE] M 4.9 - 39 km NW of Kuqa, China
+- **Cluster ID:** `cluster_eq_tz6` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 39 km NW of Kuqa, China (China) | Geohash: `tz6ww`
+- **Coordinates:** `[41.9264, 82.544]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 10 km: 39 km NW of Kuqa, China.
+
+### [EARTHQUAKE] M 4.7 - 221 km NE of Bitung, Indonesia
+- **Cluster ID:** `cluster_eq_wb9` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 221 km NE of Bitung, Indonesia (Indonesia) | Geohash: `wb9bu`
+- **Coordinates:** `[2.9773, 126.4079]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.7 earthquake occurred at a depth of 50.25 km: 221 km NE of Bitung, Indonesia.
+
+### [EARTHQUAKE] M 4.7 - 226 km NW of Tobelo, Indonesia
+- **Cluster ID:** `cluster_eq_wb9` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 226 km NW of Tobelo, Indonesia (Indonesia) | Geohash: `wb9cm`
+- **Coordinates:** `[3.0639, 126.468]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.7 earthquake occurred at a depth of 40.004 km: 226 km NW of Tobelo, Indonesia.
+
+### [EARTHQUAKE] M 4.9 - 170 km WNW of Port-Olry, Vanuatu
+- **Cluster ID:** `cluster_eq_rtm` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 170 km WNW of Port-Olry, Vanuatu (Vanuatu) | Geohash: `rtmz5`
+- **Coordinates:** `[-14.1955, 165.7555]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 10 km: 170 km WNW of Port-Olry, Vanuatu.
+
+### [EARTHQUAKE] M 4.5 - 54 km NNE of Calama, Chile
+- **Cluster ID:** `cluster_eq_6kp` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 54 km NNE of Calama, Chile (Chile) | Geohash: `6kp4g`
+- **Coordinates:** `[-21.9972, -68.7311]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.5 earthquake occurred at a depth of 123.268 km: 54 km NNE of Calama, Chile.
+
+### [EARTHQUAKE] M 5.4 - 9 km N of Carhuamayo, Peru
+- **Cluster ID:** `cluster_eq_6q1` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 9 km N of Carhuamayo, Peru (Peru) | Geohash: `6q1fq`
+- **Coordinates:** `[-10.8345, -76.0169]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.4 earthquake occurred at a depth of 117.396 km: 9 km N of Carhuamayo, Peru.
+
 ### [SEVERE_WEATHER] Green forest fire notification in Central African Republic
 - **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
 - **Location:** Green forest fire notification in Central African Republic (Global) | Geohash: `00000`
@@ -113,6 +209,14 @@ Generated: 2026-11-22T21:24:05.739259+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 10/11/2026, a forest fire started in Central African Republic, Chad,  until 22/11/2026.
+
+### [EARTHQUAKE] M 4.5 - south of the Fiji Islands
+- **Cluster ID:** `cluster_eq_2h1` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** south of the Fiji Islands (south of the Fiji Islands) | Geohash: `2h163`
+- **Coordinates:** `[-22.0776, -178.1773]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.5 earthquake occurred at a depth of 381.828 km: south of the Fiji Islands.
 
 ### [EARTHQUAKE] M 4.7 - 25 km WSW of Isangel, Vanuatu
 - **Cluster ID:** `cluster_eq_ru8` | **Severity:** `minor` | **Phase:** `emerging`
@@ -697,108 +801,4 @@ Generated: 2026-11-22T21:24:05.739259+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** A magnitude 4.6 earthquake occurred at a depth of 41.976 km: 40 km SSE of Koróni, Greece.
-
-### [EARTHQUAKE] M 5.4 - Carlsberg Ridge
-- **Cluster ID:** `cluster_eq_t39` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** Carlsberg Ridge (Carlsberg Ridge) | Geohash: `t39pd`
-- **Coordinates:** `[9.7949, 57.7485]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.4 earthquake occurred at a depth of 10 km: Carlsberg Ridge.
-
-### [EARTHQUAKE] M 4.7 - Carlsberg Ridge
-- **Cluster ID:** `cluster_eq_t39` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** Carlsberg Ridge (Carlsberg Ridge) | Geohash: `t39pk`
-- **Coordinates:** `[9.7529, 57.8408]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.7 earthquake occurred at a depth of 10 km: Carlsberg Ridge.
-
-### [EARTHQUAKE] M 5.0 - 10 km NW of Pinnacles, CA
-- **Cluster ID:** `cluster_eq_9q9` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 10 km NW of Pinnacles, CA (CA) | Geohash: `9q9b1`
-- **Coordinates:** `[36.5934982299805, -121.220664978027]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.98 earthquake occurred at a depth of 6.69999980926514 km: 10 km NW of Pinnacles, CA.
-
-### [EARTHQUAKE] M 4.9 - 54 km W of Madang, Papua New Guinea
-- **Cluster ID:** `cluster_eq_rpp` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 54 km W of Madang, Papua New Guinea (Papua New Guinea) | Geohash: `rpp66`
-- **Coordinates:** `[-5.219, 145.2974]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.9 earthquake occurred at a depth of 97.583 km: 54 km W of Madang, Papua New Guinea.
-
-### [EARTHQUAKE] M 4.8 - 24 km ESE of Calingasta, Argentina
-- **Cluster ID:** `cluster_eq_66q` | **Severity:** `minor` | **Phase:** `emerging`
-- **Location:** 24 km ESE of Calingasta, Argentina (Argentina) | Geohash: `66qv1`
-- **Coordinates:** `[-31.4302, -69.1883]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 113.86 km: 24 km ESE of Calingasta, Argentina.
-
-### [EARTHQUAKE] Green earthquake (Magnitude 5.6M, Depth:10km) in Southeast Of Loyalty Islands 20/11/2026 00:49 UTC, [unknown].
-- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green earthquake (Magnitude 5.6M, Depth:10km) in Southeast Of Loyalty Islands 20/11/2026 00:49 UTC, [unknown]. (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 11/20/2026 12:49:13 AM, an earthquake occurred in Southeast Of Loyalty Islands potentially affecting [unknown]. The earthquake had Magnitude 5.6M, Depth:10km.
-
-### [EARTHQUAKE] Green earthquake (Magnitude 6M, Depth:10km) in Pacific-Antarctic Ridge 18/11/2026 19:14 UTC, No people affected in 100km.
-- **Cluster ID:** `cluster_earthquake_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green earthquake (Magnitude 6M, Depth:10km) in Pacific-Antarctic Ridge 18/11/2026 19:14 UTC, No people affected in 100km. (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 11/18/2026 7:14:23 PM, an earthquake occurred in Pacific-Antarctic Ridge potentially affecting No people affected in 100km. The earthquake had Magnitude 6M, Depth:10km.
-
-### [SEVERE_WEATHER] Green forest fire notification in Burkina Faso
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Burkina Faso (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 18/11/2026, a forest fire started in Burkina Faso,  until 19/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in South Sudan
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in South Sudan (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 18/11/2026, a forest fire started in South Sudan,  until 19/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Chad
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Chad (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 17/11/2026, a forest fire started in Chad,  until 19/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Benin, Burkina Faso
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Benin, Burkina Faso (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 17/11/2026, a forest fire started in Benin, Burkina Faso,  until 19/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Botswana
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Botswana (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 17/11/2026, a forest fire started in Botswana,  until 19/11/2026.
-
-### [CYCLONE] Green notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **Cluster ID:** `cluster_cyclone_000` | **Severity:** `catastrophic` | **Phase:** `stabilizing`
-- **Location:** Green notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm). (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** From 16/11/2026 to 19/11/2026, a Tropical Depression (maximum wind speed of 83 km/h) AKVAN-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).
 
