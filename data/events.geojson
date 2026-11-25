@@ -3,6 +3,182 @@
   "features": [
     {
       "type": "Feature",
+      "id": "gdacs_a3fa977d750c29aa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Benin, Burkina Faso",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-25T23:53:12.441979+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_ded3edb9e710a9d9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Mozambique",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-25T23:53:12.441979+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_fa1300a8f7b86182",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Madagascar",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-25T23:53:12.441979+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_fd8cd57cb8e1ff96",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in Madagascar",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-25T23:53:12.441979+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_16486b98e701c682",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in South Sudan",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-25T23:53:12.441979+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gdacs_497cd2e0a10f05fe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "event_type": "severe_weather",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_severe_weather_000",
+        "geohash": "00000",
+        "title": "Green forest fire notification in India",
+        "country": "Global",
+        "magnitude": null,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-25T23:53:12.441979+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000udib",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.5511,
+          -35.8989
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_rcw",
+        "geohash": "rcwgz",
+        "title": "M 4.8 - 190 km N of Hicks Bay, New Zealand",
+        "country": "New Zealand",
+        "magnitude": 4.8,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-25T21:32:33.545000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000udht",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.224,
+          -17.6508
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_rsz",
+        "geohash": "rszes",
+        "title": "M 4.7 - 13 km NW of Port-Vila, Vanuatu",
+        "country": "Vanuatu",
+        "magnitude": 4.7,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-25T18:59:29.141000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_b4b5109fd94fb502",
       "geometry": {
         "type": "Point",
@@ -2023,182 +2199,6 @@
         "magnitude": 5.0,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-11-23T04:18:19.641000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000ucw1",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.2236,
-          -13.5634
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_rvd",
-        "geohash": "rvd6z",
-        "title": "M 4.9 - Vanuatu region",
-        "country": "Vanuatu region",
-        "magnitude": 4.9,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-23T03:07:52.031000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000ucvm",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.2672,
-          -13.5846
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "severe",
-        "cluster_id": "cluster_eq_rvd",
-        "geohash": "rvdd8",
-        "title": "M 6.5 - Vanuatu region",
-        "country": "Vanuatu region",
-        "magnitude": 6.5,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-23T02:40:58.052000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000ucvh",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          82.544,
-          41.9264
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_tz6",
-        "geohash": "tz6ww",
-        "title": "M 4.9 - 39 km NW of Kuqa, China",
-        "country": "China",
-        "magnitude": 4.9,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-23T02:14:59.561000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000ucv4",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          126.4079,
-          2.9773
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_wb9",
-        "geohash": "wb9bu",
-        "title": "M 4.7 - 221 km NE of Bitung, Indonesia",
-        "country": "Indonesia",
-        "magnitude": 4.7,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-23T00:08:00.906000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000ucv2",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          126.468,
-          3.0639
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_wb9",
-        "geohash": "wb9cm",
-        "title": "M 4.7 - 226 km NW of Tobelo, Indonesia",
-        "country": "Indonesia",
-        "magnitude": 4.7,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-22T23:50:44.048000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000ucuk",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          165.7555,
-          -14.1955
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_rtm",
-        "geohash": "rtmz5",
-        "title": "M 4.9 - 170 km WNW of Port-Olry, Vanuatu",
-        "country": "Vanuatu",
-        "magnitude": 4.9,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-22T21:58:15.571000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000ucuj",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -68.7311,
-          -21.9972
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "minor",
-        "cluster_id": "cluster_eq_6kp",
-        "geohash": "6kp4g",
-        "title": "M 4.5 - 54 km NNE of Calama, Chile",
-        "country": "Chile",
-        "magnitude": 4.5,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-22T21:47:32.112000+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000ucuf",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.0169,
-          -10.8345
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_6q1",
-        "geohash": "6q1fq",
-        "title": "M 5.4 - 9 km N of Carhuamayo, Peru",
-        "country": "Peru",
-        "magnitude": 5.4,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-22T21:35:31.763000+00:00"
       }
     }
   ]
