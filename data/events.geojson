@@ -3,6 +3,116 @@
   "features": [
     {
       "type": "Feature",
+      "id": "usgs_us6000ue1k",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2869,
+          -18.945
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_6kw",
+        "geohash": "6kwh0",
+        "title": "M 4.6 - 26 km NNW of Cuya, Chile",
+        "country": "Chile",
+        "magnitude": 4.6,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-28T02:55:35.595000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000ue1h",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.2363,
+          -24.299
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_6e8",
+        "geohash": "6e8jy",
+        "title": "M 5.2 - 93 km W of San Antonio de los Cobres, Argentina",
+        "country": "Argentina",
+        "magnitude": 5.2,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-28T02:25:05.520000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000ue1d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9667,
+          2.2665
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_wb3",
+        "geohash": "wb3sf",
+        "title": "M 4.7 - 130 km NE of Bitung, Indonesia",
+        "country": "Indonesia",
+        "magnitude": 4.7,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-28T01:36:46.461000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000ue1b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7463,
+          22.2546
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "moderate",
+        "cluster_id": "cluster_eq_w7b",
+        "geohash": "w7bqe",
+        "title": "M 5.1 - 73 km NNW of Ph\u00f4ngsali, Laos",
+        "country": "Laos",
+        "magnitude": 5.1,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-28T01:17:42.722000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "usgs_us6000ue1a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.3785,
+          -36.0927
+        ]
+      },
+      "properties": {
+        "event_type": "earthquake",
+        "severity_level": "minor",
+        "cluster_id": "cluster_eq_rcw",
+        "geohash": "rcwfe",
+        "title": "M 4.8 - 167 km N of Hicks Bay, New Zealand",
+        "country": "New Zealand",
+        "magnitude": 4.8,
+        "exposed_infrastructure_count": 0,
+        "timestamp_utc": "2026-11-28T01:08:45.950000+00:00"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "gdacs_c7c93cde30a5a683",
       "geometry": {
         "type": "Point",
@@ -2089,116 +2199,6 @@
         "magnitude": null,
         "exposed_infrastructure_count": 0,
         "timestamp_utc": "2026-11-25T03:14:37.800647+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_729dee948872b787",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Australia",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-25T03:14:37.800647+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_870e524e68761bd2",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Mozambique",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-25T03:14:37.800647+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_cb22889ac214e23f",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Nigeria",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-25T03:14:37.800647+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "gdacs_5ce46f3b157d0d40",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "event_type": "severe_weather",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_severe_weather_000",
-        "geohash": "00000",
-        "title": "Green forest fire notification in Brazil",
-        "country": "Global",
-        "magnitude": null,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-25T03:14:37.800647+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "usgs_us6000udd1",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          170.9371,
-          -63.0918
-        ]
-      },
-      "properties": {
-        "event_type": "earthquake",
-        "severity_level": "moderate",
-        "cluster_id": "cluster_eq_puc",
-        "geohash": "puc91",
-        "title": "M 5.9 - Balleny Islands region",
-        "country": "Balleny Islands region",
-        "magnitude": 5.9,
-        "exposed_infrastructure_count": 0,
-        "timestamp_utc": "2026-11-25T01:38:45.672000+00:00"
       }
     }
   ]

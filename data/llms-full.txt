@@ -1,7 +1,47 @@
 # Disaster Intelligence Wire - Operational Context Briefing
-Generated: 2026-11-27T23:49:39.019858+00:00
+Generated: 2026-11-28T05:27:45.739092+00:00
 
 ## Active Incident Telemetry
+### [EARTHQUAKE] M 4.6 - 26 km NNW of Cuya, Chile
+- **Cluster ID:** `cluster_eq_6kw` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 26 km NNW of Cuya, Chile (Chile) | Geohash: `6kwh0`
+- **Coordinates:** `[-18.945, -70.2869]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.6 earthquake occurred at a depth of 78.805 km: 26 km NNW of Cuya, Chile.
+
+### [EARTHQUAKE] M 5.2 - 93 km W of San Antonio de los Cobres, Argentina
+- **Cluster ID:** `cluster_eq_6e8` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 93 km W of San Antonio de los Cobres, Argentina (Argentina) | Geohash: `6e8jy`
+- **Coordinates:** `[-24.299, -67.2363]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.2 earthquake occurred at a depth of 174.617 km: 93 km W of San Antonio de los Cobres, Argentina.
+
+### [EARTHQUAKE] M 4.7 - 130 km NE of Bitung, Indonesia
+- **Cluster ID:** `cluster_eq_wb3` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 130 km NE of Bitung, Indonesia (Indonesia) | Geohash: `wb3sf`
+- **Coordinates:** `[2.2665, 125.9667]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.7 earthquake occurred at a depth of 55.237 km: 130 km NE of Bitung, Indonesia.
+
+### [EARTHQUAKE] M 5.1 - 73 km NNW of Phôngsali, Laos
+- **Cluster ID:** `cluster_eq_w7b` | **Severity:** `moderate` | **Phase:** `emerging`
+- **Location:** 73 km NNW of Phôngsali, Laos (Laos) | Geohash: `w7bqe`
+- **Coordinates:** `[22.2546, 101.7463]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 5.1 earthquake occurred at a depth of 10 km: 73 km NNW of Phôngsali, Laos.
+
+### [EARTHQUAKE] M 4.8 - 167 km N of Hicks Bay, New Zealand
+- **Cluster ID:** `cluster_eq_rcw` | **Severity:** `minor` | **Phase:** `emerging`
+- **Location:** 167 km N of Hicks Bay, New Zealand (New Zealand) | Geohash: `rcwfe`
+- **Coordinates:** `[-36.0927, 178.3785]`
+- **Exposed Infrastructure:** No critical hubs within 150km
+- **Recommended Agent Actions:** monitor_telemetry
+- **Summary:** A magnitude 4.8 earthquake occurred at a depth of 10 km: 167 km N of Hicks Bay, New Zealand.
+
 ### [SEVERE_WEATHER] Green forest fire notification in South Sudan
 - **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
 - **Location:** Green forest fire notification in South Sudan (Global) | Geohash: `00000`
@@ -761,44 +801,4 @@ Generated: 2026-11-27T23:49:39.019858+00:00
 - **Exposed Infrastructure:** No critical hubs within 150km
 - **Recommended Agent Actions:** monitor_telemetry
 - **Summary:** On 24/11/2026, a forest fire started in Australia,  until 24/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Australia
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Australia (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 23/11/2026, a forest fire started in Australia,  until 24/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Mozambique
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Mozambique (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 20/11/2026, a forest fire started in Mozambique,  until 24/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Nigeria
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Nigeria (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 19/11/2026, a forest fire started in Nigeria,  until 24/11/2026.
-
-### [SEVERE_WEATHER] Green forest fire notification in Brazil
-- **Cluster ID:** `cluster_severe_weather_000` | **Severity:** `moderate` | **Phase:** `stabilizing`
-- **Location:** Green forest fire notification in Brazil (Global) | Geohash: `00000`
-- **Coordinates:** `[0.0, 0.0]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** On 13/11/2026, a forest fire started in Brazil,  until 24/11/2026.
-
-### [EARTHQUAKE] M 5.9 - Balleny Islands region
-- **Cluster ID:** `cluster_eq_puc` | **Severity:** `moderate` | **Phase:** `emerging`
-- **Location:** Balleny Islands region (Balleny Islands region) | Geohash: `puc91`
-- **Coordinates:** `[-63.0918, 170.9371]`
-- **Exposed Infrastructure:** No critical hubs within 150km
-- **Recommended Agent Actions:** monitor_telemetry
-- **Summary:** A magnitude 5.9 earthquake occurred at a depth of 10 km: Balleny Islands region.
 

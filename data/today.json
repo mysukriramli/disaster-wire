@@ -1,10 +1,215 @@
 {
   "metadata": {
-    "generated_at": "2026-11-27T23:49:39.013552+00:00",
+    "generated_at": "2026-11-28T05:27:45.734043+00:00",
     "total_active_events": 100,
     "schema_version": "2.1.0"
   },
   "events": [
+    {
+      "event_id": "usgs_us6000ue1k",
+      "cluster_id": "cluster_eq_6kw",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.6 - 26 km NNW of Cuya, Chile",
+      "summary": "A magnitude 4.6 earthquake occurred at a depth of 78.805 km: 26 km NNW of Cuya, Chile.",
+      "metrics": {
+        "magnitude": 4.6,
+        "depth_km": 78.805,
+        "wind_speed_kmh": null,
+        "alert_score": 5.52
+      },
+      "location": {
+        "country": "Chile",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "26 km NNW of Cuya, Chile",
+        "latitude": -18.945,
+        "longitude": -70.2869,
+        "geohash": "6kwh0"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-28T02:55:35.595000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1k",
+          "retrieved_at": "2026-11-28T05:27:41.327081+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000ue1h",
+      "cluster_id": "cluster_eq_6e8",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.2 - 93 km W of San Antonio de los Cobres, Argentina",
+      "summary": "A magnitude 5.2 earthquake occurred at a depth of 174.617 km: 93 km W of San Antonio de los Cobres, Argentina.",
+      "metrics": {
+        "magnitude": 5.2,
+        "depth_km": 174.617,
+        "wind_speed_kmh": null,
+        "alert_score": 6.24
+      },
+      "location": {
+        "country": "Argentina",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "93 km W of San Antonio de los Cobres, Argentina",
+        "latitude": -24.299,
+        "longitude": -67.2363,
+        "geohash": "6e8jy"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-28T02:25:05.520000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1h",
+          "retrieved_at": "2026-11-28T05:27:41.327206+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000ue1d",
+      "cluster_id": "cluster_eq_wb3",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.7 - 130 km NE of Bitung, Indonesia",
+      "summary": "A magnitude 4.7 earthquake occurred at a depth of 55.237 km: 130 km NE of Bitung, Indonesia.",
+      "metrics": {
+        "magnitude": 4.7,
+        "depth_km": 55.237,
+        "wind_speed_kmh": null,
+        "alert_score": 5.64
+      },
+      "location": {
+        "country": "Indonesia",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "130 km NE of Bitung, Indonesia",
+        "latitude": 2.2665,
+        "longitude": 125.9667,
+        "geohash": "wb3sf"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-28T01:36:46.461000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1d",
+          "retrieved_at": "2026-11-28T05:27:41.327242+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000ue1b",
+      "cluster_id": "cluster_eq_w7b",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "moderate",
+      "title": "M 5.1 - 73 km NNW of Ph\u00f4ngsali, Laos",
+      "summary": "A magnitude 5.1 earthquake occurred at a depth of 10 km: 73 km NNW of Ph\u00f4ngsali, Laos.",
+      "metrics": {
+        "magnitude": 5.1,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 6.119999999999999
+      },
+      "location": {
+        "country": "Laos",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "73 km NNW of Ph\u00f4ngsali, Laos",
+        "latitude": 22.2546,
+        "longitude": 101.7463,
+        "geohash": "w7bqe"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-28T01:17:42.722000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1b",
+          "retrieved_at": "2026-11-28T05:27:41.327278+00:00"
+        }
+      ]
+    },
+    {
+      "event_id": "usgs_us6000ue1a",
+      "cluster_id": "cluster_eq_rcw",
+      "lifecycle_phase": "emerging",
+      "event_type": "earthquake",
+      "severity_level": "minor",
+      "title": "M 4.8 - 167 km N of Hicks Bay, New Zealand",
+      "summary": "A magnitude 4.8 earthquake occurred at a depth of 10 km: 167 km N of Hicks Bay, New Zealand.",
+      "metrics": {
+        "magnitude": 4.8,
+        "depth_km": 10.0,
+        "wind_speed_kmh": null,
+        "alert_score": 5.76
+      },
+      "location": {
+        "country": "New Zealand",
+        "iso_country_code": "GLB",
+        "region_admin1": null,
+        "place_name": "167 km N of Hicks Bay, New Zealand",
+        "latitude": -36.0927,
+        "longitude": 178.3785,
+        "geohash": "rcwfe"
+      },
+      "impact": {
+        "reported_fatalities": null,
+        "reported_displaced": null,
+        "infrastructure_damage": null
+      },
+      "exposed_infrastructure": [],
+      "recommended_agent_actions": [
+        "monitor_telemetry"
+      ],
+      "timestamp_utc": "2026-11-28T01:08:45.950000+00:00",
+      "sources": [
+        {
+          "source_name": "USGS Earthquake Hazards Program",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1a",
+          "retrieved_at": "2026-11-28T05:27:41.327308+00:00"
+        }
+      ]
+    },
     {
       "event_id": "gdacs_c7c93cde30a5a683",
       "cluster_id": "cluster_severe_weather_000",
@@ -3897,211 +4102,6 @@
           "source_name": "GDACS",
           "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034058",
           "retrieved_at": "2026-11-25T03:14:37.800647+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_729dee948872b787",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in Australia",
-      "summary": "On 23/11/2026, a forest fire started in Australia,  until 24/11/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in Australia",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-25T03:14:37.800647+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034059",
-          "retrieved_at": "2026-11-25T03:14:37.800647+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_870e524e68761bd2",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in Mozambique",
-      "summary": "On 20/11/2026, a forest fire started in Mozambique,  until 24/11/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in Mozambique",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-25T03:14:37.800647+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034056",
-          "retrieved_at": "2026-11-25T03:14:37.800647+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_cb22889ac214e23f",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in Nigeria",
-      "summary": "On 19/11/2026, a forest fire started in Nigeria,  until 24/11/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in Nigeria",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-25T03:14:37.800647+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034057",
-          "retrieved_at": "2026-11-25T03:14:37.800647+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "gdacs_5ce46f3b157d0d40",
-      "cluster_id": "cluster_severe_weather_000",
-      "lifecycle_phase": "stabilizing",
-      "event_type": "severe_weather",
-      "severity_level": "moderate",
-      "title": "Green forest fire notification in Brazil",
-      "summary": "On 13/11/2026, a forest fire started in Brazil,  until 24/11/2026.",
-      "metrics": {
-        "magnitude": null,
-        "depth_km": null,
-        "wind_speed_kmh": null,
-        "alert_score": null
-      },
-      "location": {
-        "country": "Global",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Green forest fire notification in Brazil",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "geohash": "00000"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-25T03:14:37.800647+00:00",
-      "sources": [
-        {
-          "source_name": "GDACS",
-          "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034060",
-          "retrieved_at": "2026-11-25T03:14:37.800647+00:00"
-        }
-      ]
-    },
-    {
-      "event_id": "usgs_us6000udd1",
-      "cluster_id": "cluster_eq_puc",
-      "lifecycle_phase": "emerging",
-      "event_type": "earthquake",
-      "severity_level": "moderate",
-      "title": "M 5.9 - Balleny Islands region",
-      "summary": "A magnitude 5.9 earthquake occurred at a depth of 10 km: Balleny Islands region.",
-      "metrics": {
-        "magnitude": 5.9,
-        "depth_km": 10.0,
-        "wind_speed_kmh": null,
-        "alert_score": 7.08
-      },
-      "location": {
-        "country": "Balleny Islands region",
-        "iso_country_code": "GLB",
-        "region_admin1": null,
-        "place_name": "Balleny Islands region",
-        "latitude": -63.0918,
-        "longitude": 170.9371,
-        "geohash": "puc91"
-      },
-      "impact": {
-        "reported_fatalities": null,
-        "reported_displaced": null,
-        "infrastructure_damage": null
-      },
-      "exposed_infrastructure": [],
-      "recommended_agent_actions": [
-        "monitor_telemetry"
-      ],
-      "timestamp_utc": "2026-11-25T01:38:45.672000+00:00",
-      "sources": [
-        {
-          "source_name": "USGS Earthquake Hazards Program",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udd1",
-          "retrieved_at": "2026-11-25T03:14:35.488625+00:00"
         }
       ]
     }
